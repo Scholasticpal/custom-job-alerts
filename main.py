@@ -235,7 +235,7 @@ def main():
             if job["id"] not in state[company_name]:
                 if is_relevant(job["title"], target.get("keywords", [])):
                     
-                    time_posted, day_posted = format_time_ist(job["raw_time"], ats_type)
+                    time_posted, day_posted = format_time_ist(job["raw_time"])
                     yoe = estimate_yoe(job["title"])
                     
                     send_telegram_alert(
