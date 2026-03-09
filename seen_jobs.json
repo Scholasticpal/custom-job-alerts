@@ -2634,7 +2634,8 @@
         "8453071002",
         "8437018002",
         "8421605002",
-        "8453652002"
+        "8453652002",
+        "8455054002"
     ],
     "Rubrik": [
         "7310036",
@@ -4176,7 +4177,8 @@
         "Site-Reliability-Engineer-II_R-272581?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Lead-Software-Engineer--Combination-of-strong-Java---strong-Python-Developer-_R-256847?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Manager--Finance-Business-Partner---Commercial-and-New-Payment-Flows_R-272732?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
-        "Manager--HR-Services_R-271767?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
+        "Manager--HR-Services_R-271767?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
+        "Lead-Software-Engineer_R-271787?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -4198,6 +4200,7 @@
         "Senior--Software-Engineer--iOS_R-2425430",
         "Senior--Software-Engineer_R-2425554",
         "Senior--Software-Engineer----React-GraphQL-development_R-2425720",
-        "Staff--Software-Engineer_R-2433263"
+        "Staff--Software-Engineer_R-2433263",
+        "XMLNAME--CAN--Associ-saisonnier_R-2434241"
     ]
 }
