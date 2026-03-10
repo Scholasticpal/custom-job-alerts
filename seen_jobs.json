@@ -783,7 +783,8 @@
         "3200410",
         "3200441",
         "3200564",
-        "3200566"
+        "3200566",
+        "3200743"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -2677,7 +2678,13 @@
         "8389712002",
         "8453069002",
         "8456277002",
-        "8439180002"
+        "8439180002",
+        "8456948002",
+        "8456966002",
+        "8456965002",
+        "8456969002",
+        "8456975002",
+        "8456973002"
     ],
     "Rubrik": [
         "7310036",
@@ -3971,7 +3978,8 @@
         "7662058",
         "7661922",
         "7639506",
-        "7472456"
+        "7472456",
+        "7697439"
     ],
     "Dropbox": [
         "7646405",
@@ -4271,7 +4279,8 @@
         "Senior-Data-Scientist-1_R-272041?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Senior-Data-Scientist-2_R-272042?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Consultant--Advisors---Consulting-Services--Performance-Analytics_R-272172?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
-        "Manager--Program-Management_R-268083?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
+        "Manager--Program-Management_R-268083?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
+        "Director---Employee-Relations_R-266802?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -4296,6 +4305,7 @@
         "Staff--Software-Engineer_R-2433263",
         "XMLNAME--CAN--Associ-saisonnier_R-2434241",
         "IND-SENIOR--SOFTWARE-ENGINEER_R-2411399",
-        "XMLNAME--IND--SENIOR--SOFTWARE-ENGINEER_R-2427363"
+        "XMLNAME--IND--SENIOR--SOFTWARE-ENGINEER_R-2427363",
+        "Director--Business-Strategy--Earnings-Governance--Independent-Contractors-_R-2440603"
     ]
 }
