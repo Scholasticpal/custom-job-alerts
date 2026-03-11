@@ -915,7 +915,8 @@
         "4671419005",
         "4670960005",
         "4670307005",
-        "4670305005"
+        "4670305005",
+        "4671921005"
     ],
     "Rippling": [],
     "Slice": [
@@ -4270,7 +4271,9 @@
         "b25aa423-7440-4d7c-b753-007bb3ba8004",
         "c6060e2d-509f-4c61-8ae2-d3c455076a23",
         "ad888dae-6f5c-4b2f-819c-3d04d7f1f6ee",
-        "07ab34f0-e8c7-4b7c-85bc-0059fa475e61"
+        "07ab34f0-e8c7-4b7c-85bc-0059fa475e61",
+        "71b51b7f-b40c-4ea9-a995-937ff97f1776",
+        "003a951d-17c3-42b1-a19c-93879faf8903"
     ],
     "Lenskart": [],
     "Delhivery": [],
@@ -4361,6 +4364,10 @@
         "XMLNAME--CAN--Seasonal-Associate_R-2441367",
         "XMLNAME--CAN--Stock-Unloader-Associate_R-2441366",
         "Software-Engineer-III_R-2435899",
-        "IND-SENIOR--SOFTWARE-ENGINEER_R-2411441-1"
+        "IND-SENIOR--SOFTWARE-ENGINEER_R-2411441-1",
+        "SENIOR--SOFTWARE-ENGINEER_R-2413616",
+        "SENIOR--SOFTWARE-ENGINEER_R-2414016",
+        "SENIOR--SOFTWARE-ENGINEER_R-2413625",
+        "SENIOR--SOFTWARE-ENGINEER_R-2414014"
     ]
 }
