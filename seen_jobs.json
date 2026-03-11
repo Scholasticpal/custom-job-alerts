@@ -870,7 +870,10 @@
         "7609630003",
         "7601775003",
         "7653436003",
-        "7596578003"
+        "7596578003",
+        "7659486003",
+        "7659792003",
+        "7659530003"
     ],
     "Razorpay": [
         "4665089005",
@@ -4319,7 +4322,8 @@
         "Manager--Program-Management_R-268083?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Director---Employee-Relations_R-266802?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Accountant-HRB-Accounting_R-272885?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
-        "Specialist---Campus-Recruitment_R-272503-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
+        "Specialist---Campus-Recruitment_R-272503-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
+        "Senior-BizOps-Engineer_R-256942?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -4350,6 +4354,7 @@
         "XMLNAME--CAN--General-Merchandise-Associate_R-2441370",
         "XMLNAME--CAN--Seasonal-Associate_R-2441367",
         "XMLNAME--CAN--Stock-Unloader-Associate_R-2441366",
-        "Software-Engineer-III_R-2435899"
+        "Software-Engineer-III_R-2435899",
+        "IND-SENIOR--SOFTWARE-ENGINEER_R-2411441-1"
     ]
 }
