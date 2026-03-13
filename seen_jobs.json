@@ -2840,7 +2840,8 @@
         "8461321002",
         "8434245002",
         "8455862002",
-        "8459039002"
+        "8459039002",
+        "8459037002"
     ],
     "Rubrik": [
         "7310036",
@@ -3076,7 +3077,8 @@
         "7071674",
         "7559576",
         "6988304",
-        "7708427"
+        "7708427",
+        "7607238"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -4535,7 +4537,8 @@
         "Lead-Software-Engineer_R-268272?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Senior-Information-Security-Engineer_R-272642-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Director--Area-Marketing_R-273072?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
-        "Lead-Technology-Risk-Management-Analyst---RBI--Internal-and-External-Audits-_R-271769?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
+        "Lead-Technology-Risk-Management-Analyst---RBI--Internal-and-External-Audits-_R-271769?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
+        "Senior-Vice-President--Data-Engineering_R-251227-2?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -4584,6 +4587,7 @@
         "Cashier_R-2444923",
         "Staff--Technical-Program-Manager_R-2411025",
         "XMLNAME--CAN--Grocery-Associate_R-2445090",
-        "XMLNAME--USA--Overnight-Stocking-Coach--Non-Complex_R-2437420-1"
+        "XMLNAME--USA--Overnight-Stocking-Coach--Non-Complex_R-2437420-1",
+        "XMLNAME--CAN--Consumables-Associate-Part-Time_R-2445491"
     ]
 }
