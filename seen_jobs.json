@@ -615,7 +615,8 @@
         "7684280",
         "7693271",
         "7708538",
-        "7717412"
+        "7717412",
+        "7714564"
     ],
     "Figma": [
         "5426468004",
@@ -4524,7 +4525,8 @@
         "003a951d-17c3-42b1-a19c-93879faf8903",
         "7d38d1e3-3c49-41ea-85fd-e4d5fb8e4513",
         "57a3a094-a596-4ae2-9cd0-ae4b872558db",
-        "02a39f2d-fd4d-4488-b48f-cf64a02cd50d"
+        "02a39f2d-fd4d-4488-b48f-cf64a02cd50d",
+        "838928ff-87d2-496b-a45d-154abc058b57"
     ],
     "Lenskart": [],
     "Delhivery": [],
@@ -4640,7 +4642,9 @@
         "Lead-Systems-Platform-Architect_R-270021?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Senior-Analyst--Communication-and-Engagement_R-272422?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Director--BizOps_R-268050?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
-        "SVP--Advisors---Consulting-Services-South-Asia_R-271434-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
+        "SVP--Advisors---Consulting-Services-South-Asia_R-271434-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
+        "Senior-Technical-Program-Manager_R-271958-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
+        "Lead-Technical-Program-Manager_R-271957?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -4701,6 +4705,7 @@
         "XMLNAME--USA--Optician-Sam-s_R-2446902",
         "XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2442556",
         "XMLNAME--CAN--Overnight-Associate_R-2447337",
-        "Cashier_R-2447704"
+        "Cashier_R-2447704",
+        "XMLNAME--USA--GM-Coach_R-2447919-1"
     ]
 }
