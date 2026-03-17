@@ -850,7 +850,9 @@
         "3205536",
         "3206182",
         "3205177",
-        "3206310"
+        "3206310",
+        "3206484",
+        "3206477"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -3804,7 +3806,8 @@
         "7721149",
         "7698880",
         "7486826",
-        "7719060"
+        "7719060",
+        "7667832"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -4784,6 +4787,9 @@
         "XMLNAME--USA--GM-Coach_R-2447919-1",
         "XMLNAME--USA--Technician--Refrigeration-HVAC_R-2441327-1",
         "XMLNAME--USA--Freight-Flow-Associate_R-2448769",
-        "XMLNAME--USA--Freight-Flow-Associate_R-2447180"
+        "XMLNAME--USA--Freight-Flow-Associate_R-2447180",
+        "XMLNAME--CAN--Customer-Service-Manager_R-2449156",
+        "XMLNAME--CAN--Self-Checkout-Attendant_R-2449154",
+        "XMLNAME--USA--GM-Coach--Non-Complex----WM--Management_R-2449147"
     ]
 }
