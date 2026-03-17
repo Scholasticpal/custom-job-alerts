@@ -2938,7 +2938,10 @@
         "8397493002",
         "8461584002",
         "8465439002",
-        "8462697002"
+        "8462697002",
+        "8460871002",
+        "8457320002",
+        "8453654002"
     ],
     "Rubrik": [
         "7310036",
@@ -4726,7 +4729,9 @@
         "Analyst--Financial-Planning---Analysis_R-272288?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Senior-BizOps-Engineer_R-272243-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Lead-Software-Engineer_R-270011?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
-        "Specialist--Content-Designer--Multimedia--Experience-Design---Communications-_R-272846-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
+        "Specialist--Content-Designer--Multimedia--Experience-Design---Communications-_R-272846-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
+        "Specialist--HR-Services_R-270964?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
+        "Senior-Product-Manager---Technical--Payments-Domain-_R-270138?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -4795,6 +4800,7 @@
         "XMLNAME--CAN--Customer-Service-Manager_R-2449156",
         "XMLNAME--CAN--Self-Checkout-Attendant_R-2449154",
         "XMLNAME--USA--GM-Coach--Non-Complex----WM--Management_R-2449147",
-        "Staff-Pharmacist_R-2378147"
+        "Staff-Pharmacist_R-2378147",
+        "XMLNAME--USA--Cake-Decorator_R-2449260"
     ]
 }
