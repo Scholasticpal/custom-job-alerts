@@ -2934,7 +2934,8 @@
         "8457249002",
         "8397493002",
         "8461584002",
-        "8465439002"
+        "8465439002",
+        "8462697002"
     ],
     "Rubrik": [
         "7310036",
@@ -3181,7 +3182,10 @@
         "7716095",
         "7642850",
         "7702611",
-        "7720569"
+        "7720569",
+        "7672749",
+        "7704236",
+        "7712043"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -4714,7 +4718,8 @@
         "Lead-Technical-Program-Manager_R-271957?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Software-Engineer-I_R-269252?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Analyst--Financial-Planning---Analysis_R-272288?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
-        "Senior-BizOps-Engineer_R-272243-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
+        "Senior-BizOps-Engineer_R-272243-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
+        "Lead-Software-Engineer_R-270011?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
