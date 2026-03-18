@@ -4938,6 +4938,10 @@
         "XMLNAME--CAN--Associ-saisonnier_R-2449846",
         "XMLNAME--USA--Freight-Flow-Associate_R-2450349",
         "Overnight-Associate_R-2450699",
-        "OMNI-Customer-Fulfillment-Associate--Start-at-3-00-AM--Available-weekend-and-weekdays_R-2451036"
+        "OMNI-Customer-Fulfillment-Associate--Start-at-3-00-AM--Available-weekend-and-weekdays_R-2451036",
+        "XMLNAME--CAN--Stockperson-Cartpusher_R-2451455",
+        "XMLNAME--CAN--People-Greeter_R-2451452",
+        "XMLNAME--CAN--Customer-Service-Manager_R-2451447",
+        "XMLNAME--CAN--Customer-Service-Desk-Associate_R-2451445"
     ]
 }
