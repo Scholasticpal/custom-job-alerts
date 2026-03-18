@@ -629,7 +629,9 @@
         "7584018",
         "7258983",
         "7572741",
-        "7657999"
+        "7657999",
+        "7382687",
+        "7706818"
     ],
     "Figma": [
         "5426468004",
@@ -2983,7 +2985,8 @@
         "8466639002",
         "8466637002",
         "6328388002",
-        "8467083002"
+        "8467083002",
+        "8449848002"
     ],
     "Rubrik": [
         "7310036",
@@ -4225,7 +4228,8 @@
         "7698486",
         "6618559",
         "7721224",
-        "7698911"
+        "7698911",
+        "7726073"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -4784,7 +4788,8 @@
         "Specialist--Content-Designer--Multimedia--Experience-Design---Communications-_R-272846-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Specialist--HR-Services_R-270964?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
         "Senior-Product-Manager---Technical--Payments-Domain-_R-270138?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
-        "Senior-Software-Engineer---Java-Full-Stack-Kafka-AWS_R-270181-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
+        "Senior-Software-Engineer---Java-Full-Stack-Kafka-AWS_R-270181-1?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000",
+        "Specialist--Implementation_R-273240?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -4858,6 +4863,7 @@
         "XMLNAME--CAN--Dairy-Frozen-Associate_R-2449654",
         "XMLNAME--CAN---Produce-Stocker_R-2449717",
         "XMLNAME--CAN--Associ--marchandise-gnrale_R-2449944",
-        "XMLNAME--CAN--Associ-saisonnier_R-2449846"
+        "XMLNAME--CAN--Associ-saisonnier_R-2449846",
+        "XMLNAME--USA--Freight-Flow-Associate_R-2450349"
     ]
 }
