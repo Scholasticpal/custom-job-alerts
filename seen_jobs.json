@@ -644,7 +644,8 @@
         "7703909",
         "7733395",
         "7697973",
-        "7589897"
+        "7589897",
+        "7736274"
     ],
     "Figma": [
         "5426468004",
@@ -2070,7 +2071,9 @@
         "7724793",
         "7731737",
         "7732722",
-        "7627054"
+        "7627054",
+        "7612790",
+        "7712102"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -3057,7 +3060,8 @@
         "8470125002",
         "8451296002",
         "8466042002",
-        "8438797002"
+        "8438797002",
+        "8466413002"
     ],
     "Rubrik": [
         "7310036",
@@ -4645,7 +4649,9 @@
         "7673904",
         "7687651",
         "7687652",
-        "7731743"
+        "7731743",
+        "7729764",
+        "7729761"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -4996,6 +5002,7 @@
         "XMLNAME--CAN--Stockperson-Cartpusher_R-2451455",
         "XMLNAME--CAN--People-Greeter_R-2451452",
         "XMLNAME--CAN--Customer-Service-Manager_R-2451447",
-        "XMLNAME--CAN--Customer-Service-Desk-Associate_R-2451445"
+        "XMLNAME--CAN--Customer-Service-Desk-Associate_R-2451445",
+        "XMLNAME--USA--Member-Team-Lead_R-2449732"
     ]
 }
