@@ -13,14 +13,37 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 STATE_FILE = "seen_jobs.json"
 
 SWE_KEYWORDS = [
-    "software engineer", "sde", "developer", "programmer", 
-    "backend", "frontend", "fullstack", "full stack", 
-    "member of technical staff", "mts", "technology analyst", 
-    "tech analyst", "technical associate", "associate", 
-    "sde 2", "sde2", "software engineer ii", "software engineer 2", "sde ii", "mid",
-    "c++", "node", "react", "javascript", "typescript", "python", 
-    "software", "software developer", "swe", "software development engineer",
-    "technical"
+    "software engineer",
+    "sde",
+    "developer",
+    "programmer",
+    "backend",
+    "frontend",
+    "fullstack",
+    "full stack",
+    "member of technical staff",
+    "mts",
+    "technology analyst",
+    "tech analyst",
+    "technical associate",
+    "associate",
+    "sde 2",
+    "sde2",
+    "software engineer ii",
+    "software engineer 2",
+    "sde ii",
+    "mid",
+    "c++",
+    "node",
+    "react",
+    "javascript",
+    "typescript",
+    "python",
+    "software",
+    "software developer",
+    "swe",
+    "software development engineer",
+    "technical",
 ]
 
 
@@ -30,67 +53,193 @@ def is_india(location_str):
         return False
     loc = location_str.lower()
     indian_hubs = [
-        "india", "ind", "blr", "bengaluru", "bangalore", 
-        "delhi", "ncr", "new delhi", "gurgaon", "gurugram", "noida", 
-        "mumbai", "bombay", "hyderabad", "pune", "chennai", "madras", 
-        "kolkata", "ahmedabad", "remote - in", "remote-in", "del", "blr",
-        "mum", "hyd", "pune", "chen", "kolk", "ahmd", 
-        "remote (india)", "remote (in)", "remote india", "remote"
+        "india",
+        "ind",
+        "blr",
+        "bengaluru",
+        "bangalore",
+        "delhi",
+        "ncr",
+        "new delhi",
+        "gurgaon",
+        "gurugram",
+        "noida",
+        "mumbai",
+        "bombay",
+        "hyderabad",
+        "pune",
+        "chennai",
+        "madras",
+        "kolkata",
+        "ahmedabad",
+        "remote - in",
+        "remote-in",
+        "del",
+        "blr",
+        "mum",
+        "hyd",
+        "pune",
+        "chen",
+        "kolk",
+        "ahmd",
+        "remote (india)",
+        "remote (in)",
+        "remote india",
+        "remote",
     ]
     return any(hub in loc for hub in indian_hubs)
+
 
 TARGETS = [
     # Custom API
     {"name": "Amazon", "ats": "amazon", "country": "IND", "keywords": SWE_KEYWORDS},
-    
     # Greenhouse Configurations
     {"name": "Stripe", "ats": "greenhouse", "id": "stripe", "keywords": SWE_KEYWORDS},
-    {"name": "Checkout.com", "ats": "greenhouse", "id": "checkoutcom", "keywords": SWE_KEYWORDS},
+    {
+        "name": "Checkout.com",
+        "ats": "greenhouse",
+        "id": "checkoutcom",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "CRED", "ats": "greenhouse", "id": "cred", "keywords": SWE_KEYWORDS},
     {"name": "Groww", "ats": "greenhouse", "id": "groww", "keywords": SWE_KEYWORDS},
     {"name": "PhonePe", "ats": "greenhouse", "id": "phonepe", "keywords": SWE_KEYWORDS},
-    {"name": "Razorpay", "ats": "greenhouse", "id": "razorpaysoftwareprivatelimited", "keywords": SWE_KEYWORDS},
-    {"name": "Rippling", "ats": "greenhouse", "id": "rippling", "keywords": SWE_KEYWORDS},
+    {
+        "name": "Razorpay",
+        "ats": "greenhouse",
+        "id": "razorpaysoftwareprivatelimited",
+        "keywords": SWE_KEYWORDS,
+    },
+    {
+        "name": "Rippling",
+        "ats": "greenhouse",
+        "id": "rippling",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "Slice", "ats": "greenhouse", "id": "slice", "keywords": SWE_KEYWORDS},
     {"name": "Upstox", "ats": "greenhouse", "id": "upstox", "keywords": SWE_KEYWORDS},
     {"name": "Brex", "ats": "greenhouse", "id": "brex", "keywords": SWE_KEYWORDS},
     {"name": "Grab", "ats": "greenhouse", "id": "grab", "keywords": SWE_KEYWORDS},
     {"name": "GoTo", "ats": "greenhouse", "id": "gojek", "keywords": SWE_KEYWORDS},
-    {"name": "MobiKwik", "ats": "greenhouse", "id": "mobikwik", "keywords": SWE_KEYWORDS},
-    {"name": "Pine Labs", "ats": "greenhouse", "id": "pinelabs", "keywords": SWE_KEYWORDS},
+    {
+        "name": "MobiKwik",
+        "ats": "greenhouse",
+        "id": "mobikwik",
+        "keywords": SWE_KEYWORDS,
+    },
+    {
+        "name": "Pine Labs",
+        "ats": "greenhouse",
+        "id": "pinelabs",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "Wise", "ats": "greenhouse", "id": "wise", "keywords": SWE_KEYWORDS},
-    {"name": "Chargebee", "ats": "greenhouse", "id": "chargebee", "keywords": SWE_KEYWORDS},
+    {
+        "name": "Chargebee",
+        "ats": "greenhouse",
+        "id": "chargebee",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "Yubi", "ats": "greenhouse", "id": "credavenue", "keywords": SWE_KEYWORDS},
-    {"name": "LendingKart", "ats": "greenhouse", "id": "lendingkart", "keywords": SWE_KEYWORDS},
+    {
+        "name": "LendingKart",
+        "ats": "greenhouse",
+        "id": "lendingkart",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "Airbnb", "ats": "greenhouse", "id": "airbnb", "keywords": SWE_KEYWORDS},
-    {"name": "Tower Research Capital", "ats": "greenhouse", "id": "towerresearchcapital", "keywords": SWE_KEYWORDS},
+    {
+        "name": "Tower Research Capital",
+        "ats": "greenhouse",
+        "id": "towerresearchcapital",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "Quadeye", "ats": "greenhouse", "id": "quadeye", "keywords": SWE_KEYWORDS},
-    {"name": "AlphaGrep", "ats": "greenhouse", "id": "alphagrepsecurities", "keywords": SWE_KEYWORDS},
-    {"name": "Databricks", "ats": "greenhouse", "id": "databricks", "keywords": SWE_KEYWORDS},
+    {
+        "name": "AlphaGrep",
+        "ats": "greenhouse",
+        "id": "alphagrepsecurities",
+        "keywords": SWE_KEYWORDS,
+    },
+    {
+        "name": "Databricks",
+        "ats": "greenhouse",
+        "id": "databricks",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "Rubrik", "ats": "greenhouse", "id": "rubrik", "keywords": SWE_KEYWORDS},
-    {"name": "Cohesity", "ats": "greenhouse", "id": "cohesity", "keywords": SWE_KEYWORDS},
-    {"name": "Confluent", "ats": "greenhouse", "id": "confluent", "keywords": SWE_KEYWORDS},
+    {
+        "name": "Cohesity",
+        "ats": "greenhouse",
+        "id": "cohesity",
+        "keywords": SWE_KEYWORDS,
+    },
+    {
+        "name": "Confluent",
+        "ats": "greenhouse",
+        "id": "confluent",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "Glean", "ats": "greenhouse", "id": "glean", "keywords": SWE_KEYWORDS},
-    {"name": "BrowserStack", "ats": "greenhouse", "id": "browserstack", "keywords": SWE_KEYWORDS},
-    {"name": "Freshworks", "ats": "greenhouse", "id": "freshworks", "keywords": SWE_KEYWORDS},
-    {"name": "Cloudflare", "ats": "greenhouse", "id": "cloudflare", "keywords": SWE_KEYWORDS},
-    {"name": "MindTickle", "ats": "greenhouse", "id": "mindtickle", "keywords": SWE_KEYWORDS},
-    {"name": "Cleartax", "ats": "greenhouse", "id": "cleartax", "keywords": SWE_KEYWORDS},
+    {
+        "name": "BrowserStack",
+        "ats": "greenhouse",
+        "id": "browserstack",
+        "keywords": SWE_KEYWORDS,
+    },
+    {
+        "name": "Freshworks",
+        "ats": "greenhouse",
+        "id": "freshworks",
+        "keywords": SWE_KEYWORDS,
+    },
+    {
+        "name": "Cloudflare",
+        "ats": "greenhouse",
+        "id": "cloudflare",
+        "keywords": SWE_KEYWORDS,
+    },
+    {
+        "name": "MindTickle",
+        "ats": "greenhouse",
+        "id": "mindtickle",
+        "keywords": SWE_KEYWORDS,
+    },
+    {
+        "name": "Cleartax",
+        "ats": "greenhouse",
+        "id": "cleartax",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "Agoda", "ats": "greenhouse", "id": "agoda", "keywords": SWE_KEYWORDS},
-    {"name": "DoorDash", "ats": "greenhouse", "id": "doordash", "keywords": SWE_KEYWORDS},
+    {
+        "name": "DoorDash",
+        "ats": "greenhouse",
+        "id": "doordash",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "GitHub", "ats": "greenhouse", "id": "github", "keywords": SWE_KEYWORDS},
     {"name": "Twilio", "ats": "greenhouse", "id": "twilio", "keywords": SWE_KEYWORDS},
     {"name": "Dropbox", "ats": "greenhouse", "id": "dropbox", "keywords": SWE_KEYWORDS},
-    
     # Lever Configurations
     {"name": "Revolut", "ats": "lever", "id": "revolut", "keywords": SWE_KEYWORDS},
-    {"name": "Paytm", "ats": "lever", "id": "paytm", "keywords": SWE_KEYWORDS}, 
+    {"name": "Paytm", "ats": "lever", "id": "paytm", "keywords": SWE_KEYWORDS},
     {"name": "Perfios", "ats": "lever", "id": "perfios", "keywords": SWE_KEYWORDS},
-    {"name": "PolicyBazaar", "ats": "lever", "id": "policybazaar", "keywords": SWE_KEYWORDS},
+    {
+        "name": "PolicyBazaar",
+        "ats": "lever",
+        "id": "policybazaar",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "BizNext", "ats": "lever", "id": "biznext", "keywords": SWE_KEYWORDS},
     {"name": "Jumbotail", "ats": "lever", "id": "jumbotail", "keywords": SWE_KEYWORDS},
     {"name": "Atlassian", "ats": "lever", "id": "atlassian", "keywords": SWE_KEYWORDS},
-    {"name": "Graviton Research Capital", "ats": "lever", "id": "gravitonresearchcapital", "keywords": SWE_KEYWORDS},
+    {
+        "name": "Graviton Research Capital",
+        "ats": "lever",
+        "id": "gravitonresearchcapital",
+        "keywords": SWE_KEYWORDS,
+    },
     {"name": "Postman", "ats": "lever", "id": "postman", "keywords": SWE_KEYWORDS},
     {"name": "Swiggy", "ats": "lever", "id": "swiggy", "keywords": SWE_KEYWORDS},
     {"name": "Zomato", "ats": "lever", "id": "zomato", "keywords": SWE_KEYWORDS},
@@ -101,40 +250,45 @@ TARGETS = [
     {"name": "Lenskart", "ats": "lever", "id": "lenskart", "keywords": SWE_KEYWORDS},
     {"name": "Delhivery", "ats": "lever", "id": "delhivery", "keywords": SWE_KEYWORDS},
     {"name": "Tekion", "ats": "lever", "id": "tekion", "keywords": SWE_KEYWORDS},
-    
     # Workday Configurations (Requires Headless Browser)
     {
-        "name": "Mastercard", 
-        "ats": "workday", 
+        "name": "Mastercard",
+        "ats": "workday",
         # Note: We append query parameters to auto-filter for India if the URL supports it
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers?locations=85a5bdf4e1831035984400a2fb698c94&locations=8eab563831bf10acbc722e4859721571&locations=8eab563831bf10acb97b7fba5feff76e&locations=28905a74db1b10019f5bb16c36030000", 
-        "keywords": SWE_KEYWORDS
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+        "keywords": SWE_KEYWORDS,
     },
     {
-        "name": "Walmart Global Tech", 
-        "ats": "workday", 
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal", 
-        "keywords": SWE_KEYWORDS
+        "name": "Walmart Global Tech",
+        "ats": "workday",
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal",
+        "keywords": SWE_KEYWORDS,
     },
 ]
+
 
 # --- HELPER FUNCTIONS ---
 def estimate_yoe(title):
     """Attempts to guess seniority based on standard job titles to avoid heavy description parsing."""
     t = title.lower()
-    if any(x in t for x in ["iii", "lead", "staff", "principal", "manager", "architect"]):
+    if any(
+        x in t for x in ["iii", "lead", "staff", "principal", "manager", "architect"]
+    ):
         return "Senior/5+"
     elif any(x in t for x in ["ii", "mid", "senior", "sr"]):
         return "Mid/2-5"
-    elif any(x in t for x in ["i", "junior", "jr", "entry", "intern", "new grad", "fresher"]):
+    elif any(
+        x in t for x in ["i", "junior", "jr", "entry", "intern", "new grad", "fresher"]
+    ):
         return "Entry/0-2"
     return "NA"
+
 
 def format_time_ist(raw_time):
     """Universal, ATS-agnostic time parser that cascades through precision levels."""
     dt = datetime.now(timezone.utc)
     precision = "current"
-    
+
     if raw_time:
         if isinstance(raw_time, (int, float)):
             # Epoch timestamps inherently have second/millisecond precision
@@ -143,7 +297,10 @@ def format_time_ist(raw_time):
             precision = "seconds"
         elif isinstance(raw_time, str):
             raw_str = raw_time.strip()
-            
+
+            if raw_str.lower().startswith("posted"):
+                return raw_str, "N/A"
+
             # 1. Try full ISO format (Seconds precision)
             try:
                 dt = datetime.fromisoformat(raw_str.replace("Z", "+00:00"))
@@ -209,7 +366,7 @@ def send_telegram_alert(
         return
 
     # The Notification Header
-    header = f"🚨 **New Job : {company} | {time_posted} | {yoe} | {title}**"
+    header = f"🚨 **New Job : {company} | {yoe} | {title}**"
 
     # The Notification Body
     body = (
@@ -321,78 +478,63 @@ def scrape_amazon(target):
 
 
 def scrape_workday(target):
-    """Uses Playwright to render Workday JS and surgically extract rich job data."""
+    """Hits the hidden Workday JSON API directly, bypassing Playwright entirely."""
     jobs = []
-    
-    # FIX 1: Safely extract just the domain (e.g., https://walmart.wd5.myworkdayjobs.com)
+
+    # Dynamically build the hidden API URL from the plain career page URL
     parsed_uri = urlparse(target["url"])
     domain = f"{parsed_uri.scheme}://{parsed_uri.netloc}"
-    
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
-        
-        try:
-            page.goto(target["url"], wait_until="networkidle", timeout=30000)
-            
-            # Wait for Workday's job list container to actually load into the DOM
-            page.wait_for_selector('a[data-automation-id="jobTitle"]', timeout=15000)
-            
-            # FIX 2: Target the specific job "cards" (list items containing a job title)
-            cards = page.locator('li').filter(has=page.locator('a[data-automation-id="jobTitle"]')).all()
-            
-            for card in cards:
-                # 1. Title & URL
-                title_elem = card.locator('a[data-automation-id="jobTitle"]')
-                title = title_elem.inner_text().strip()
-                href = title_elem.get_attribute("href")
-                
-                if href and "/job/" in href:
-                    # Safely construct the final URL without duplicating paths
-                    full_url = domain + href if href.startswith("/") else href
-                    
-                    # 2. Job ID (Grabbing the clean ID from the URL path)
-                    job_id = href.split("/")[-1]
-                    
-                    # 3. Location (Using Workday's hidden automation tags)
-                    loc_elem = card.locator('[data-automation-id="locations"]')
-                    location = loc_elem.inner_text().strip() if loc_elem.count() > 0 else "Remote/Unspecified"
-                    
-                    # 4. Date Posted Parsing ("Posted 5 Days Ago" -> Actual Date)
-                    time_elem = card.locator('[data-automation-id="postedOn"]')
-                    raw_posted_text = time_elem.inner_text().strip() if time_elem.count() > 0 else ""
-                    
-                    calculated_date = ""
-                    if raw_posted_text:
-                        raw_posted_text = raw_posted_text.lower()
-                        days_to_subtract = 0
-                        if "today" in raw_posted_text:
-                            days_to_subtract = 0
-                        elif "yesterday" in raw_posted_text:
-                            days_to_subtract = 1
-                        else:
-                            # Extract the number from "Posted 5 Days Ago"
-                            match = re.search(r'(\d+)', raw_posted_text)
-                            if match:
-                                days_to_subtract = int(match.group(1))
-                        
-                        # Calculate the actual UTC date to pass to our IST formatter
-                        dt_posted = datetime.now(timezone.utc) - timedelta(days=days_to_subtract)
-                        calculated_date = dt_posted.strftime("%Y-%m-%d")
+    tenant = parsed_uri.netloc.split(".")[0]
+    portal = parsed_uri.path.strip("/").split("/")[0]
 
-                    jobs.append({
-                        "id": job_id,
-                        "title": title,
-                        "url": full_url,
-                        "location": location,
-                        "raw_time": calculated_date 
-                    })
-        except Exception as e:
-            print(f"Error scraping Workday for {target['name']}: {e}")
-        finally:
-            browser.close()
-            
+    api_url = f"{domain}/wday/cxs/{tenant}/{portal}/jobs"
+
+    headers = {
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    }
+
+    # The JSON payload Workday expects
+    payload = {
+        "appliedFacets": {},
+        "limit": 20,  # Fetch the 20 most recent drops
+        "offset": 0,
+        "searchText": "",
+    }
+
+    try:
+        response = requests.post(api_url, json=payload, headers=headers, timeout=10)
+        if response.status_code == 200:
+            data = response.json()
+
+            for job in data.get("jobPostings", []):
+                href = job.get("externalPath", "")
+                if href:
+                    # Construct the perfect, unbroken URL
+                    full_url = f"{domain}/{portal}{href}"
+                    job_id = href.split("/")[-1]
+
+                    # Workday API returns clean location strings
+                    location = job.get("locationsText", "Remote/Unspecified")
+
+                    # Workday API returns the exact string: e.g., "Posted 5 Days Ago"
+                    raw_time = job.get("postedOn", "")
+
+                    jobs.append(
+                        {
+                            "id": job_id,
+                            "title": job.get("title", "Unknown"),
+                            "url": full_url,
+                            "location": location,
+                            "raw_time": raw_time,
+                        }
+                    )
+    except Exception as e:
+        print(f"Error scraping Workday API for {target['name']}: {e}")
+
     return jobs
+
 
 # --- CORE LOGIC ---
 def is_relevant(title, keywords):
