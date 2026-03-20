@@ -3088,7 +3088,8 @@
         "8438952002",
         "8349751002",
         "8438930002",
-        "8346307002"
+        "8346307002",
+        "8455750002"
     ],
     "Rubrik": [
         "7310036",
@@ -4986,7 +4987,10 @@
         "Associate-Managing-Consultant--Specialized-Product-Delivery_R-272516-1",
         "Partner-Management---Global-SME-Partnerships_R-258493",
         "Principal-AI-Engineer_R-273141",
-        "Analyst--Finance-Business-Partner-Core-Payments_R-272109-1"
+        "Analyst--Finance-Business-Partner-Core-Payments_R-272109-1",
+        "Software-Engineer-II_R-267305",
+        "Senior-Project-Manager--German-speaker---Advisors-Creative-Desk_R-272030",
+        "Associate-Managing-Consultant--Advisors---Consulting-Services--Strategy---Transformation_R-267091-3"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -5070,6 +5074,7 @@
         "XMLNAME--CAN--Customer-Service-Desk-Associate_R-2451445",
         "XMLNAME--USA--Member-Team-Lead_R-2449732",
         "XMLNAME--CAN--OMNI-Customer-Fulfillment-Associate_R-2452796",
-        "XMLNAME--USA--Freight-Flow-Associate_R-2452908"
+        "XMLNAME--USA--Freight-Flow-Associate_R-2452908",
+        "XMLNAME--IND--Software-Engineer-III_R-2435849"
     ]
 }
