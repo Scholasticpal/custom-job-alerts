@@ -1078,7 +1078,8 @@
         "5837760004",
         "5971708004",
         "5971689004",
-        "5839202004"
+        "5839202004",
+        "5973463004"
     ],
     "Amazon": [
         "3198115",
@@ -1607,7 +1608,8 @@
         "7820834",
         "7820809",
         "7820785",
-        "7833247"
+        "7833247",
+        "7194566"
     ],
     "Upstox": [],
     "Brex": [
@@ -5285,7 +5287,9 @@
         "7830335",
         "7821913",
         "7831414",
-        "7778796"
+        "7778796",
+        "7839183",
+        "7735836"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -8008,7 +8012,8 @@
         "R-273505-1",
         "R-276077",
         "R-274978",
-        "R-276162"
+        "R-276162",
+        "R-275823"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -8362,7 +8367,8 @@
         "R-2469827",
         "R-2486739",
         "R-2486743",
-        "R-2486865"
+        "R-2486865",
+        "R-2487192"
     ],
     "Salesforce": [
         "R333354",
@@ -9756,7 +9762,9 @@
         "R321583",
         "R339532",
         "R339538",
-        "R329551"
+        "R329551",
+        "R338554",
+        "R339561"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -9899,7 +9907,12 @@
         "R263735",
         "R262214",
         "R263732",
-        "R260684"
+        "R260684",
+        "R260558",
+        "R260410",
+        "R260931",
+        "R257505",
+        "R263728-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -9945,7 +9958,8 @@
         "R6509-1",
         "R6105",
         "R6399-1",
-        "R6398-1"
+        "R6398-1",
+        "R6535"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -10024,7 +10038,19 @@
         "R-10366564",
         "R-10379661",
         "R-10388760",
-        "R-10389580"
+        "R-10389580",
+        "R-10391924",
+        "R-10371511",
+        "R-10391016-1",
+        "R-10392690",
+        "R-10380166",
+        "R-10390643",
+        "R-10392213",
+        "R-10391554",
+        "R-10379997",
+        "R-10392673",
+        "R-10387072",
+        "R-10393248"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10047,7 +10073,8 @@
         "GSS-Client-Representative--Putnam-Investments-_867294",
         "Operations-Senior-Manager--Manager_860218",
         "HR-Administration-Specialist_866679",
-        "Sustainability-Data-Analyst_867044"
+        "Sustainability-Data-Analyst_867044",
+        "Undergrad-Intern---Client-Representative--Global-Shareholder-Services_866843-1"
     ],
     "Invesco": [
         "R-13647",
@@ -10069,7 +10096,9 @@
         "R-13567",
         "R-9590",
         "R-13523",
-        "R-10118"
+        "R-10118",
+        "R-11199",
+        "R-12747"
     ],
     "PayPal": [
         "R0135744-1",
@@ -10092,7 +10121,10 @@
         "R0135853",
         "R0128938-1",
         "R0136095-1",
-        "R0136232-1"
+        "R0136232-1",
+        "R0136323-1",
+        "R0136401",
+        "R0136418-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -10132,7 +10164,14 @@
         "Manager-IA_708095WD",
         "IN-Manager-Salesforce-Vlocity-GCC-Advisory-Bangalore_723532WD-1",
         "SATIC---CLM-Business-Analyst---Configuration-Analyst_721635WD",
-        "IN-Senior-Associate-Unsecured-Risk-FST---Captives-Advisory-Gurgaon_721391WD"
+        "IN-Senior-Associate-Unsecured-Risk-FST---Captives-Advisory-Gurgaon_721391WD",
+        "Auxiliar-de-Transformation_723896WD",
+        "Technology-Transformation-Senior-Manager---Insurance-Sector_722796WD-1",
+        "IN-Senior-Associate-Corporate-secretarial-Regulatory---Business-Solutions-TRS-Gurgaon_722989WD-1",
+        "Ingnieur-Intgrateur-Packageur_723897WD",
+        "ETIC--AI-Architect---Director-level_723753WD",
+        "Strategy----Insurance-Strategy-Manager---Milano_721758WD",
+        "Business-Process-Specialist-with-French_723869WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -10582,7 +10621,9 @@
         "5026097008",
         "5156596008",
         "5114845008",
-        "5194810008"
+        "5194810008",
+        "5182887008",
+        "5196100008"
     ],
     "Coinbase": [
         "7559052",
@@ -12390,7 +12431,9 @@
         "7546232",
         "7789289",
         "7603577",
-        "7461913"
+        "7461913",
+        "7729082",
+        "7729081"
     ],
     "Asana": [
         "7120496",
@@ -12615,7 +12658,13 @@
         "R-0106680",
         "R-0105791",
         "R-0105556",
-        "R-0106322"
+        "R-0106322",
+        "R-0105484",
+        "R-0105546",
+        "R-0103725-1",
+        "R-0104155",
+        "R-0105463",
+        "R-0105462"
     ],
     "CrowdStrike": [
         "R26911",
@@ -12637,7 +12686,8 @@
         "R28475",
         "R28472",
         "R28540",
-        "R27893"
+        "R27893",
+        "R28432-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -12659,7 +12709,14 @@
         "R2015578",
         "R2016786",
         "R2015659",
-        "R2014103"
+        "R2014103",
+        "R2014749",
+        "R2016478",
+        "R2016829",
+        "R2015960",
+        "R2014102",
+        "R2005386",
+        "R2015448"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -12681,7 +12738,8 @@
         "Cloud-Engineer---Infrastructure-Operations_2007522",
         "Senior-Cloud-Engineer---SysAdmin_2010990",
         "Software-Engineering-Technical-Leader---Observability-Platforms--Remote-Hybrid-_2012199",
-        "ASIC-Engineering-Technical-Leader_2011257-1"
+        "ASIC-Engineering-Technical-Leader_2011257-1",
+        "Hardware--Power--Engineering-Technical-Leader_2003546-1"
     ],
     "Intel": [
         "R0283052",
@@ -12725,7 +12783,13 @@
         "R0000435463",
         "R0000434741",
         "R0000436189",
-        "R0000436168"
+        "R0000436168",
+        "R0000434607",
+        "R0000436192",
+        "R0000436296",
+        "R0000436295",
+        "R0000433646-1",
+        "R0000436245-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -12747,7 +12811,11 @@
         "R19041",
         "R17319-1",
         "R18923-1",
-        "R18956"
+        "R18956",
+        "R18737-1",
+        "R18910-1",
+        "R19059",
+        "R19061-1"
     ],
     "Expedia": [
         "R-2_R-105040",
