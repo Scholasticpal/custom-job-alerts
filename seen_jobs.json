@@ -850,7 +850,8 @@
         "7807286",
         "7812856",
         "7768979",
-        "7825561"
+        "7825561",
+        "7833796"
     ],
     "Figma": [
         "5426468004",
@@ -2990,7 +2991,8 @@
         "7793015",
         "7793157",
         "7816571",
-        "7839735"
+        "7839735",
+        "7839649"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -6024,7 +6026,8 @@
         "7814928",
         "7834116",
         "7837170",
-        "7833997"
+        "7833997",
+        "7818804"
     ],
     "Dropbox": [
         "7646405",
@@ -8034,7 +8037,11 @@
         "R-274658",
         "R-275303",
         "R-275109-1",
-        "R-275505"
+        "R-275505",
+        "R-275769",
+        "R-275781-1",
+        "R-275866",
+        "R-275640"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9792,7 +9799,8 @@
         "R338749",
         "R339194-1",
         "R339259",
-        "R333751-1"
+        "R333751-1",
+        "R-2026-INTERN---ES-PRODUCT-MANAGEMENT--DIGITAL-EXPERIENCE-AND-RESEARCH_JR339395-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -9886,7 +9894,8 @@
         "Senior-Travel-Consultant_J-81859",
         "Travel-Consultant-II---Virtual-ESC-24-7_J-80289",
         "Assistant-Manager---Centralized-Accounting_J-80093",
-        "Guest-Tavel---Expense-Operations-Analyst_J-81870"
+        "Guest-Tavel---Expense-Operations-Analyst_J-81870",
+        "Intern---SkillBridge-Program---Department-of-Defense_J-80339"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -9969,7 +9978,8 @@
         "Blackstone-Executive-Offices---Chief-Investment-Office--Associate_42131",
         "Company-Secretarial--Assistant-Vice-President_41925",
         "Expense-and-Treasury-Finance--Vice-President_42813",
-        "Private-Equity-Secondaries-Analyst---Strategic-Partners_42796-1"
+        "Private-Equity-Secondaries-Analyst---Strategic-Partners_42796-1",
+        "Cloud-Platforms-Engineer--VP---Data--Cloud---Developer-Experience_41514-1"
     ],
     "Capital Group": [
         "R6549",
@@ -10095,7 +10105,14 @@
         "R-10381175",
         "R-10379675",
         "R-10382605-1",
-        "R-10387983"
+        "R-10387983",
+        "R-10391580",
+        "R-10392783",
+        "R-10392218",
+        "R-10393338",
+        "R-10392796",
+        "R-10379906",
+        "R-10393332"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10171,7 +10188,10 @@
         "R0136401",
         "R0136418-1",
         "R0135844",
-        "R0136521"
+        "R0136521",
+        "R0136020-1",
+        "R0135993-1",
+        "R0136042-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -10246,7 +10266,10 @@
         "IN-Senior-Associate--BA-payments--Advisory--FS-Tech-Mumbai_721670WD-1",
         "IN-Senior-Associate--Oracle-EPM-EPM-Advisory-PAN-India_695164WD-1",
         "Manager--Workforce-Transformation_721987WD",
-        "Senior-Associate--HR-Workforce-Transformation-and-Technology--Bilingual-EN-FR-_722409WD-1"
+        "Senior-Associate--HR-Workforce-Transformation-and-Technology--Bilingual-EN-FR-_722409WD-1",
+        "Manager---System-Architect_723570WD",
+        "Workforce-Transformation-Manager_722419WD-1",
+        "Workforce-Transformation-Senior-Associate_722401WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -11364,7 +11387,8 @@
         "7485770",
         "7543003",
         "7815625",
-        "7815583"
+        "7815583",
+        "7768865"
     ],
     "Vercel": [
         "5624231004",
@@ -11886,7 +11910,8 @@
         "7775125",
         "7782814",
         "7833628",
-        "7833626"
+        "7833626",
+        "7835609"
     ],
     "Datadog": [
         "7194969",
@@ -12754,7 +12779,10 @@
         "R-0105463",
         "R-0105462",
         "R-0105648",
-        "R-0105033"
+        "R-0105033",
+        "R-0105416",
+        "R-0104464",
+        "R-0106394"
     ],
     "CrowdStrike": [
         "R26911",
@@ -12820,7 +12848,13 @@
         "R2016768",
         "R2016804-1",
         "R2015111",
-        "R2016861"
+        "R2016861",
+        "R1996987",
+        "R2007409",
+        "R2005384",
+        "R2016647",
+        "R2015424",
+        "R2016844"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -12849,7 +12883,8 @@
         "Software-Engineer_2012978",
         "Software-Engineer_2012977",
         "Software-Engineer_2012976",
-        "Software-Engineer_2012975"
+        "Software-Engineer_2012975",
+        "Software-Engineer_2012998"
     ],
     "Intel": [
         "R0283052",
@@ -12905,7 +12940,10 @@
         "R0000402313",
         "R0000436297",
         "R0000436209",
-        "R0000429433"
+        "R0000429433",
+        "R0000434601",
+        "R0000436341-1",
+        "R0000436336"
     ],
     "Zoom": [
         "R18188-1",
@@ -12959,7 +12997,9 @@
         "R-105364",
         "R-105309",
         "R-104954-1",
-        "R-104667"
+        "R-104667",
+        "R-103389-2",
+        "R-103094-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
