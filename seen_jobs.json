@@ -1270,7 +1270,8 @@
         "10396707",
         "10396872",
         "10397518",
-        "10398081"
+        "10398081",
+        "10399786"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -4517,7 +4518,9 @@
         "7508965",
         "7823214",
         "7746491",
-        "7767113"
+        "7767113",
+        "7843288",
+        "7826139"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -8029,7 +8032,9 @@
         "R-275461-1",
         "R-275173",
         "R-274658",
-        "R-275303"
+        "R-275303",
+        "R-275109-1",
+        "R-275505"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9786,7 +9791,8 @@
         "R292908-1",
         "R338749",
         "R339194-1",
-        "R339259"
+        "R339259",
+        "R333751-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -9879,7 +9885,8 @@
         "Sr-Travel-Lead-Travel-Consultant_J-81836",
         "Senior-Travel-Consultant_J-81859",
         "Travel-Consultant-II---Virtual-ESC-24-7_J-80289",
-        "Assistant-Manager---Centralized-Accounting_J-80093"
+        "Assistant-Manager---Centralized-Accounting_J-80093",
+        "Guest-Tavel---Expense-Operations-Analyst_J-81870"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -9936,7 +9943,9 @@
         "R260410",
         "R260931",
         "R257505",
-        "R263728-1"
+        "R263728-1",
+        "R260617",
+        "R263268"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10079,7 +10088,14 @@
         "R-10387553",
         "R-10388409",
         "R-10381107",
-        "R-10391249-1"
+        "R-10391249-1",
+        "R-10393330-1",
+        "R-10389658",
+        "R-10373903-1",
+        "R-10381175",
+        "R-10379675",
+        "R-10382605-1",
+        "R-10387983"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10154,7 +10170,8 @@
         "R0136323-1",
         "R0136401",
         "R0136418-1",
-        "R0135844"
+        "R0135844",
+        "R0136521"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -10220,7 +10237,16 @@
         "IN-Senior-Associate-Adobe-Workfront-Fusion-GCC-Advisory-PAN-India_723227WD-1",
         "IN-Senior-Associate-Adobe-Workfront-Fusion-GCC-Advisory-PAN-India_723069WD",
         "IN-Senior-Associate-Adobe-Workfront-Fusion-GCC-Advisory-PAN-India_723226WD-1",
-        "Workday-Integration-Senior-Associate---ROMA--ADV-_691678WD"
+        "Workday-Integration-Senior-Associate---ROMA--ADV-_691678WD",
+        "Senior-Associate--Workforce-Transformation_723497WD",
+        "Data-Risk-Management--Senior-Associate_721999WD",
+        "Semi-Senior---Derecho-Tributario_723562WD",
+        "IN-Associate---Internal-Audit-Services-Internal-Audit-Advisory-PAN-India_708959WD-1",
+        "IN-Associate-SOC-Managed-Services--Advisory--Mumbai_718219WD-1",
+        "IN-Senior-Associate--BA-payments--Advisory--FS-Tech-Mumbai_721670WD-1",
+        "IN-Senior-Associate--Oracle-EPM-EPM-Advisory-PAN-India_695164WD-1",
+        "Manager--Workforce-Transformation_721987WD",
+        "Senior-Associate--HR-Workforce-Transformation-and-Technology--Bilingual-EN-FR-_722409WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -11023,7 +11049,8 @@
         "7590460",
         "6666410",
         "7336592",
-        "7572902"
+        "7572902",
+        "7834671"
     ],
     "Notion": [],
     "Plaid": [],
@@ -11418,7 +11445,9 @@
         "5971203004",
         "5800328004",
         "5850263004",
-        "5815357004"
+        "5815357004",
+        "5972804004",
+        "5972861004"
     ],
     "MongoDB": [
         "7574659",
@@ -12288,7 +12317,9 @@
         "7496253",
         "7449072",
         "7758574",
-        "7659660"
+        "7659660",
+        "7837084",
+        "7842665"
     ],
     "Elastic": [
         "7505982",
@@ -12626,7 +12657,8 @@
         "5741113004",
         "5777103004",
         "5777101004",
-        "5742043004"
+        "5742043004",
+        "5893693004"
     ],
     "Udemy": [
         "5424719004",
@@ -12691,7 +12723,8 @@
         "R166303",
         "R165213",
         "R-4_R167527-1",
-        "R166334"
+        "R166334",
+        "R167232"
     ],
     "Workday": [
         "R-0106509-1",
@@ -12745,7 +12778,8 @@
         "R28540",
         "R27893",
         "R28432-1",
-        "R24684-1"
+        "R24684-1",
+        "R27682"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -12776,7 +12810,17 @@
         "R2005386",
         "R2015448",
         "R2011698",
-        "R2012554"
+        "R2012554",
+        "R2016858",
+        "R2013506",
+        "R2008948",
+        "R2015085",
+        "R2013495-1",
+        "R2015089",
+        "R2016768",
+        "R2016804-1",
+        "R2015111",
+        "R2016861"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -12799,7 +12843,13 @@
         "Senior-Cloud-Engineer---SysAdmin_2010990",
         "Software-Engineering-Technical-Leader---Observability-Platforms--Remote-Hybrid-_2012199",
         "ASIC-Engineering-Technical-Leader_2011257-1",
-        "Hardware--Power--Engineering-Technical-Leader_2003546-1"
+        "Hardware--Power--Engineering-Technical-Leader_2003546-1",
+        "Software-Engineer_2013007",
+        "Software-Engineer_2013006",
+        "Software-Engineer_2012978",
+        "Software-Engineer_2012977",
+        "Software-Engineer_2012976",
+        "Software-Engineer_2012975"
     ],
     "Intel": [
         "R0283052",
@@ -12851,7 +12901,11 @@
         "R0000433646-1",
         "R0000436245-1",
         "R0000436308",
-        "R0000436305"
+        "R0000436305",
+        "R0000402313",
+        "R0000436297",
+        "R0000436209",
+        "R0000429433"
     ],
     "Zoom": [
         "R18188-1",
@@ -12902,7 +12956,10 @@
         "R-103195-1",
         "R-104825",
         "R-104940",
-        "R-105364"
+        "R-105364",
+        "R-105309",
+        "R-104954-1",
+        "R-104667"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -12924,7 +12981,8 @@
         "Director--Managed-Services_112850-JOB",
         "Services-Partner-Manager_112291-JOB",
         "Legal-Counsel---Commercial_112858-JOB",
-        "Senior-Data-Scientist_112866-JOB"
+        "Senior-Data-Scientist_112866-JOB",
+        "Lead-Customer-Success-Manager_112988-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
