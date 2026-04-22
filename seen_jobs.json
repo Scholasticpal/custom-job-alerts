@@ -4190,7 +4190,8 @@
         "6679259002",
         "6679262002",
         "8519396002",
-        "8519350002"
+        "8519350002",
+        "8519576002"
     ],
     "Rubrik": [
         "7310036",
@@ -8041,7 +8042,10 @@
         "R-275769",
         "R-275781-1",
         "R-275866",
-        "R-275640"
+        "R-275640",
+        "R-271108",
+        "R-269797",
+        "R-274127"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9800,7 +9804,8 @@
         "R339194-1",
         "R339259",
         "R333751-1",
-        "R-2026-INTERN---ES-PRODUCT-MANAGEMENT--DIGITAL-EXPERIENCE-AND-RESEARCH_JR339395-1"
+        "R-2026-INTERN---ES-PRODUCT-MANAGEMENT--DIGITAL-EXPERIENCE-AND-RESEARCH_JR339395-1",
+        "R336903"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -9954,7 +9959,8 @@
         "R257505",
         "R263728-1",
         "R260617",
-        "R263268"
+        "R263268",
+        "R263737"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10002,7 +10008,8 @@
         "R6105",
         "R6399-1",
         "R6398-1",
-        "R6535"
+        "R6535",
+        "R6388"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -10024,7 +10031,8 @@
         "Exec-Dir-Corp-Comm_34249-1",
         "Sr-Software-Engineer_33429-1",
         "Quant-Risk-Management-Intern---Year-Round_34278",
-        "Software-Engineer-III---India_34223-1"
+        "Software-Engineer-III---India_34223-1",
+        "R-2026_34051-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -10112,7 +10120,13 @@
         "R-10393338",
         "R-10392796",
         "R-10379906",
-        "R-10393332"
+        "R-10393332",
+        "R-10388400",
+        "R-10379680",
+        "R-10388402",
+        "R-10393341",
+        "R-10393165",
+        "R-10391576"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10191,7 +10205,8 @@
         "R0136521",
         "R0136020-1",
         "R0135993-1",
-        "R0136042-1"
+        "R0136042-1",
+        "R0136330"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -10269,7 +10284,11 @@
         "Senior-Associate--HR-Workforce-Transformation-and-Technology--Bilingual-EN-FR-_722409WD-1",
         "Manager---System-Architect_723570WD",
         "Workforce-Transformation-Manager_722419WD-1",
-        "Workforce-Transformation-Senior-Associate_722401WD"
+        "Workforce-Transformation-Senior-Associate_722401WD",
+        "Consultor_720428WD-2",
+        "Service-Manager---Manager--tag01-_702340WD",
+        "Payroll-Associate--Contract-_720679WD",
+        "Dayforce-Senior-Associate_722388WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -10924,7 +10943,8 @@
         "8214127002",
         "8450205002",
         "8462980002",
-        "8428843002"
+        "8428843002",
+        "8517644002"
     ],
     "Reddit": [
         "7011741",
@@ -12344,7 +12364,8 @@
         "7758574",
         "7659660",
         "7837084",
-        "7842665"
+        "7842665",
+        "7843744"
     ],
     "Elastic": [
         "7505982",
@@ -12674,7 +12695,8 @@
         "7557481",
         "7775803",
         "7714359",
-        "7773813"
+        "7773813",
+        "7492723"
     ],
     "Coursera": [
         "5839408004",
@@ -12782,7 +12804,12 @@
         "R-0105033",
         "R-0105416",
         "R-0104464",
-        "R-0106394"
+        "R-0106394",
+        "R-0106504",
+        "R-0106153",
+        "R-0105136",
+        "R-0103897",
+        "R-0105667"
     ],
     "CrowdStrike": [
         "R26911",
@@ -12854,7 +12881,25 @@
         "R2005384",
         "R2016647",
         "R2015424",
-        "R2016844"
+        "R2016844",
+        "R2016407",
+        "R1984420",
+        "R2016581",
+        "R2016375",
+        "R2016583-1",
+        "R2012593",
+        "R2015115",
+        "R2016629",
+        "R2016871",
+        "R2016869",
+        "R2016696",
+        "R2007081",
+        "R2008653",
+        "R2007175",
+        "R2015421",
+        "R2015801",
+        "R2013413",
+        "R2016808"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -12943,7 +12988,11 @@
         "R0000429433",
         "R0000434601",
         "R0000436341-1",
-        "R0000436336"
+        "R0000436336",
+        "R0000436293",
+        "R0000436342",
+        "R0000435776",
+        "R0000436351"
     ],
     "Zoom": [
         "R18188-1",
@@ -12999,7 +13048,9 @@
         "R-104954-1",
         "R-104667",
         "R-103389-2",
-        "R-103094-1"
+        "R-103094-1",
+        "R-101305",
+        "R-103555-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
