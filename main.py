@@ -53,6 +53,7 @@ EXCLUDED_KEYWORDS = [
     "vp", 
     "head", 
     "president",
+    "lead"
 ]
 
 def is_india(location_str):
@@ -99,7 +100,7 @@ TARGETS = [
     # Custom API
     {"name": "Amazon", "ats": "amazon", "country": "IND", "keywords": SWE_KEYWORDS},
     
-    # Greenhouse Configurations
+    # Existing Greenhouse Configurations
     {"name": "Stripe", "ats": "greenhouse", "id": "stripe", "keywords": SWE_KEYWORDS},
     {"name": "Checkout.com", "ats": "greenhouse", "id": "checkoutcom", "keywords": SWE_KEYWORDS},
     {"name": "CRED", "ats": "greenhouse", "id": "cred", "keywords": SWE_KEYWORDS},
@@ -137,8 +138,15 @@ TARGETS = [
     {"name": "GitHub", "ats": "greenhouse", "id": "github", "keywords": SWE_KEYWORDS},
     {"name": "Twilio", "ats": "greenhouse", "id": "twilio", "keywords": SWE_KEYWORDS},
     {"name": "Dropbox", "ats": "greenhouse", "id": "dropbox", "keywords": SWE_KEYWORDS},
-    
-    # Lever Configurations
+
+    # NEW: HFT & Finance on Greenhouse
+    {"name": "Optiver", "ats": "greenhouse", "id": "optiver", "keywords": SWE_KEYWORDS},
+    {"name": "Two Sigma", "ats": "greenhouse", "id": "twosigma", "keywords": SWE_KEYWORDS},
+    {"name": "Hudson River Trading", "ats": "greenhouse", "id": "hudsonrivertrading", "keywords": SWE_KEYWORDS},
+    {"name": "Jump Trading", "ats": "greenhouse", "id": "jumptrading", "keywords": SWE_KEYWORDS},
+    {"name": "PayU", "ats": "greenhouse", "id": "payu", "keywords": SWE_KEYWORDS},
+
+    # Existing Lever Configurations
     {"name": "Revolut", "ats": "lever", "id": "revolut", "keywords": SWE_KEYWORDS},
     {"name": "Paytm", "ats": "lever", "id": "paytm", "keywords": SWE_KEYWORDS},
     {"name": "Perfios", "ats": "lever", "id": "perfios", "keywords": SWE_KEYWORDS},
@@ -157,11 +165,39 @@ TARGETS = [
     {"name": "Lenskart", "ats": "lever", "id": "lenskart", "keywords": SWE_KEYWORDS},
     {"name": "Delhivery", "ats": "lever", "id": "delhivery", "keywords": SWE_KEYWORDS},
     {"name": "Tekion", "ats": "lever", "id": "tekion", "keywords": SWE_KEYWORDS},
-    
-    # Workday Configurations
+
+    # Existing Workday Configurations
     {"name": "Mastercard", "ats": "workday", "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers", "keywords": SWE_KEYWORDS},
     {"name": "Walmart Global Tech", "ats": "workday", "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal", "keywords": SWE_KEYWORDS},
     {"name": "Salesforce", "ats": "workday", "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site", "keywords": SWE_KEYWORDS},
+    {"name": "American Express", "ats": "workday", "url": "https://travelhrportal.wd1.myworkdayjobs.com/Jobs", "keywords": SWE_KEYWORDS},
+    {"name": "Bank of America", "ats": "workday", "url": "https://ghr.wd1.myworkdayjobs.com/lateral-apac", "keywords": SWE_KEYWORDS},
+    {"name": "BlackRock", "ats": "workday", "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional", "keywords": SWE_KEYWORDS},
+    {"name": "Blackstone", "ats": "workday", "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers", "keywords": SWE_KEYWORDS},
+    {"name": "Capital Group", "ats": "workday", "url": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers", "keywords": SWE_KEYWORDS},
+    {"name": "CME Group", "ats": "workday", "url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers", "keywords": SWE_KEYWORDS},
+    {"name": "FactSet", "ats": "workday", "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers", "keywords": SWE_KEYWORDS},
+    {"name": "Fiserv", "ats": "workday", "url": "https://fiserv.wd5.myworkdayjobs.com/EXT", "keywords": SWE_KEYWORDS},
+    {"name": "Franklin Templeton", "ats": "workday", "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1", "keywords": SWE_KEYWORDS},
+    {"name": "Invesco", "ats": "workday", "url": "https://invesco.wd1.myworkdayjobs.com/IVZ", "keywords": SWE_KEYWORDS},
+    {"name": "PayPal", "ats": "workday", "url": "https://paypal.wd1.myworkdayjobs.com/jobs", "keywords": SWE_KEYWORDS},
+    {"name": "PwC", "ats": "workday", "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers", "keywords": SWE_KEYWORDS},
+
+    # NEW: Enterprise Finance & Tech on Workday
+    {"name": "BNY Mellon", "ats": "workday", "url": "https://bnymellon.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    # Eightfold Configurations
+    {"name": "BNY Mellon", "ats": "eightfold", "url": "https://bnymellon.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+
+    # PHASE 3: Unsupported Platforms (Script will safely ignore these for now)
+    {"name": "Citi Group", "ats": "phenom", "url": "https://jobs.citi.com/search-jobs", "keywords": SWE_KEYWORDS},
+    {"name": "Fidelity Investments", "ats": "phenom", "url": "https://jobs.fidelity.com/in/jobs/", "keywords": SWE_KEYWORDS},
+    {"name": "FIS", "ats": "phenom", "url": "https://careers.fisglobal.com/us/en", "keywords": SWE_KEYWORDS},
+    {"name": "Intuit", "ats": "phenom", "url": "https://jobs.intuit.com/search-jobs", "keywords": SWE_KEYWORDS},
+    {"name": "Macquarie Group", "ats": "taleo", "url": "https://www.macquarie.com/in/en/careers.html", "keywords": SWE_KEYWORDS},
+    {"name": "Moody Analytics", "ats": "phenom", "url": "https://careers.moodys.com/jobs", "keywords": SWE_KEYWORDS},
+    {"name": "S&P Global", "ats": "phenom", "url": "https://careers.spglobal.com/jobs", "keywords": SWE_KEYWORDS},
+    {"name": "State Street", "ats": "custom", "url": "https://careers.statestreet.com/global/en", "keywords": SWE_KEYWORDS},
+    {"name": "Wells Fargo", "ats": "phenom", "url": "https://www.wellsfargojobs.com/en/jobs/", "keywords": SWE_KEYWORDS},
 ]
 
 # --- HELPER FUNCTIONS ---
@@ -375,6 +411,34 @@ def scrape_workday(target):
 
     return jobs
 
+def scrape_eightfold(target):
+    """Hits the standard Eightfold.ai JSON API."""
+    jobs = []
+    parsed_uri = urlparse(target["url"])
+    domain = parsed_uri.netloc
+    
+    # Eightfold's standard public API endpoint
+    api_url = f"https://{domain}/api/apply/v2/jobs"
+    
+    # Fetch the 20 most recent jobs
+    params = {"domain": domain, "start": 0, "num": 20}
+    
+    try:
+        response = requests.get(api_url, params=params, timeout=10)
+        if response.status_code == 200:
+            for job in response.json().get("positions", []):
+                jobs.append({
+                    "id": str(job.get("id", "")),
+                    "title": job.get("name", "Unknown"),
+                    "url": job.get("url", target["url"]),
+                    "location": job.get("location", "Remote/Unspecified"),
+                    "raw_time": job.get("t_update", "") # Eightfold uses epoch timestamps
+                })
+    except Exception as e:
+        print(f"Error scraping Eightfold API for {target['name']}: {e}")
+        
+    return jobs
+
 # --- CORE LOGIC ---
 def is_relevant(title, keywords, excluded_keywords):
     title_lower = title.lower()
@@ -402,6 +466,7 @@ def main():
         "lever": scrape_lever,
         "amazon": scrape_amazon,
         "workday": scrape_workday,
+        "eightfold": scrape_eightfold,
     }
 
     for target in TARGETS:
