@@ -138,6 +138,24 @@ TARGETS = [
     {"name": "GitHub", "ats": "greenhouse", "id": "github", "keywords": SWE_KEYWORDS},
     {"name": "Twilio", "ats": "greenhouse", "id": "twilio", "keywords": SWE_KEYWORDS},
     {"name": "Dropbox", "ats": "greenhouse", "id": "dropbox", "keywords": SWE_KEYWORDS},
+    {"name": "OpenAI", "ats": "greenhouse", "id": "openai", "keywords": SWE_KEYWORDS},
+    {"name": "Anthropic", "ats": "greenhouse", "id": "anthropic", "keywords": SWE_KEYWORDS},
+    {"name": "Figma", "ats": "greenhouse", "id": "figma", "keywords": SWE_KEYWORDS},
+    {"name": "Coinbase", "ats": "greenhouse", "id": "coinbase", "keywords": SWE_KEYWORDS},
+    {"name": "Discord", "ats": "greenhouse", "id": "discord", "keywords": SWE_KEYWORDS},
+    {"name": "Reddit", "ats": "greenhouse", "id": "reddit", "keywords": SWE_KEYWORDS},
+    {"name": "Notion", "ats": "greenhouse", "id": "notion", "keywords": SWE_KEYWORDS},
+    {"name": "Plaid", "ats": "greenhouse", "id": "plaid", "keywords": SWE_KEYWORDS},
+    {"name": "Affirm", "ats": "greenhouse", "id": "affirm", "keywords": SWE_KEYWORDS},
+    {"name": "Robinhood", "ats": "greenhouse", "id": "robinhood", "keywords": SWE_KEYWORDS},
+    {"name": "Vercel", "ats": "greenhouse", "id": "vercel", "keywords": SWE_KEYWORDS},
+    {"name": "MongoDB", "ats": "greenhouse", "id": "mongodb", "keywords": SWE_KEYWORDS},
+    {"name": "Datadog", "ats": "greenhouse", "id": "datadog", "keywords": SWE_KEYWORDS},
+    {"name": "Elastic", "ats": "greenhouse", "id": "elastic", "keywords": SWE_KEYWORDS},
+    {"name": "Asana", "ats": "greenhouse", "id": "asana", "keywords": SWE_KEYWORDS},
+    {"name": "Coursera", "ats": "greenhouse", "id": "coursera", "keywords": SWE_KEYWORDS},
+    {"name": "Udemy", "ats": "greenhouse", "id": "udemy", "keywords": SWE_KEYWORDS},
+    {"name": "Grammarly", "ats": "greenhouse", "id": "grammarly", "keywords": SWE_KEYWORDS},
 
     # NEW: HFT & Finance on Greenhouse
     {"name": "Optiver", "ats": "greenhouse", "id": "optiver", "keywords": SWE_KEYWORDS},
@@ -165,6 +183,15 @@ TARGETS = [
     {"name": "Lenskart", "ats": "lever", "id": "lenskart", "keywords": SWE_KEYWORDS},
     {"name": "Delhivery", "ats": "lever", "id": "delhivery", "keywords": SWE_KEYWORDS},
     {"name": "Tekion", "ats": "lever", "id": "tekion", "keywords": SWE_KEYWORDS},
+    {"name": "Unacademy", "ats": "lever", "id": "unacademy", "keywords": SWE_KEYWORDS},
+    {"name": "BharatPe", "ats": "lever", "id": "bharatpe", "keywords": SWE_KEYWORDS},
+    {"name": "Spinny", "ats": "lever", "id": "spinny", "keywords": SWE_KEYWORDS},
+    {"name": "Acko", "ats": "lever", "id": "acko", "keywords": SWE_KEYWORDS},
+    {"name": "Navi", "ats": "lever", "id": "navi", "keywords": SWE_KEYWORDS},
+    {"name": "Udaan", "ats": "lever", "id": "udaan", "keywords": SWE_KEYWORDS},
+    {"name": "Khatabook", "ats": "lever", "id": "khatabook", "keywords": SWE_KEYWORDS},
+    {"name": "UpGrad", "ats": "lever", "id": "upgrad", "keywords": SWE_KEYWORDS},
+    {"name": "Whatfix", "ats": "lever", "id": "whatfix", "keywords": SWE_KEYWORDS},
 
     # Existing Workday Configurations
     {"name": "Mastercard", "ats": "workday", "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers", "keywords": SWE_KEYWORDS},
@@ -182,12 +209,37 @@ TARGETS = [
     {"name": "Invesco", "ats": "workday", "url": "https://invesco.wd1.myworkdayjobs.com/IVZ", "keywords": SWE_KEYWORDS},
     {"name": "PayPal", "ats": "workday", "url": "https://paypal.wd1.myworkdayjobs.com/jobs", "keywords": SWE_KEYWORDS},
     {"name": "PwC", "ats": "workday", "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers", "keywords": SWE_KEYWORDS},
+    {"name": "Adobe", "ats": "workday", "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced", "keywords": SWE_KEYWORDS},
+    {"name": "Workday", "ats": "workday", "url": "https://workday.wd5.myworkdayjobs.com/Workday", "keywords": SWE_KEYWORDS},
+    {"name": "CrowdStrike", "ats": "workday", "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers", "keywords": SWE_KEYWORDS},
+    {"name": "NVIDIA", "ats": "workday", "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite", "keywords": SWE_KEYWORDS},
+    {"name": "Cisco", "ats": "workday", "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers", "keywords": SWE_KEYWORDS},
+    {"name": "Intel", "ats": "workday", "url": "https://intel.wd1.myworkdayjobs.com/External", "keywords": SWE_KEYWORDS},
+    {"name": "Target", "ats": "workday", "url": "https://target.wd5.myworkdayjobs.com/targetcareers", "keywords": SWE_KEYWORDS},
+    {"name": "Zoom", "ats": "workday", "url": "https://zoom.wd5.myworkdayjobs.com/Zoom", "keywords": SWE_KEYWORDS},
+    {"name": "Expedia", "ats": "workday", "url": "https://expedia.wd108.myworkdayjobs.com/search", "keywords": SWE_KEYWORDS},
+    {"name": "Sprinklr", "ats": "workday", "url": "https://sprinklr.wd1.myworkdayjobs.com/careers", "keywords": SWE_KEYWORDS},
 
-    # NEW: Enterprise Finance & Tech on Workday
-    {"name": "BNY Mellon", "ats": "workday", "url": "https://bnymellon.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
-    # Eightfold Configurations
+   # Eightfold Configurations
     {"name": "BNY Mellon", "ats": "eightfold", "url": "https://bnymellon.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
-
+    {"name": "Morgan Stanley", "ats": "eightfold", "url": "https://morganstanley.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "American Express", "ats": "eightfold", "url": "https://aexp.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "HSBC", "ats": "eightfold", "url": "https://hsbc.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "NTT DATA", "ats": "eightfold", "url": "https://nttdata.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "NVIDIA", "ats": "eightfold", "url": "https://nvidia.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "Nutanix", "ats": "eightfold", "url": "https://nutanix.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "UiPath", "ats": "eightfold", "url": "https://uipath.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "Micron Technology", "ats": "eightfold", "url": "https://micron.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "Western Digital", "ats": "eightfold", "url": "https://westerndigital.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "Ericsson", "ats": "eightfold", "url": "https://ericsson.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "STMicroelectronics", "ats": "eightfold", "url": "https://stmicroelectronics.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "Lam Research", "ats": "eightfold", "url": "https://lamresearch.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "Fortive", "ats": "eightfold", "url": "https://fortive.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "Dexcom", "ats": "eightfold", "url": "https://dexcom.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "Northrop Grumman", "ats": "eightfold", "url": "https://ngc.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    {"name": "Eightfold AI (Themselves)", "ats": "eightfold", "url": "https://app.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
+    
+    
     # PHASE 3: Unsupported Platforms (Script will safely ignore these for now)
     {"name": "Citi Group", "ats": "phenom", "url": "https://jobs.citi.com/search-jobs", "keywords": SWE_KEYWORDS},
     {"name": "Fidelity Investments", "ats": "phenom", "url": "https://jobs.fidelity.com/in/jobs/", "keywords": SWE_KEYWORDS},
@@ -198,6 +250,13 @@ TARGETS = [
     {"name": "S&P Global", "ats": "phenom", "url": "https://careers.spglobal.com/jobs", "keywords": SWE_KEYWORDS},
     {"name": "State Street", "ats": "custom", "url": "https://careers.statestreet.com/global/en", "keywords": SWE_KEYWORDS},
     {"name": "Wells Fargo", "ats": "phenom", "url": "https://www.wellsfargojobs.com/en/jobs/", "keywords": SWE_KEYWORDS},
+    {"name": "Snowflake", "ats": "phenom", "url": "https://careers.snowflake.com/us/en/search-results", "keywords": SWE_KEYWORDS},
+    {"name": "ServiceNow", "ats": "smartrecruiters", "url": "https://careers.servicenow.com/careers", "keywords": SWE_KEYWORDS},
+    {"name": "Palo Alto Networks", "ats": "phenom", "url": "https://jobs.paloaltonetworks.com/en/", "keywords": SWE_KEYWORDS},
+    {"name": "Zscaler", "ats": "phenom", "url": "https://careers.zscaler.com/careers", "keywords": SWE_KEYWORDS},
+    {"name": "AMD", "ats": "phenom", "url": "https://careers.amd.com/careers-home", "keywords": SWE_KEYWORDS},
+    {"name": "Akamai", "ats": "phenom", "url": "https://careers.akamai.com/jobs", "keywords": SWE_KEYWORDS},
+    {"name": "Splunk", "ats": "deprecated", "url": "Acquired by Cisco", "keywords": SWE_KEYWORDS},
 ]
 
 # --- HELPER FUNCTIONS ---
