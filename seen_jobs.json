@@ -4547,7 +4547,8 @@
         "7843288",
         "7826139",
         "7657039",
-        "7844920"
+        "7844920",
+        "7385802"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -5792,7 +5793,8 @@
         "7839804",
         "7841308",
         "7841218",
-        "7844475"
+        "7844475",
+        "7844932"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -6064,7 +6066,8 @@
         "7833997",
         "7818804",
         "7839711",
-        "7843483"
+        "7843483",
+        "7807419"
     ],
     "Dropbox": [
         "7646405",
@@ -8100,7 +8103,10 @@
         "R-266952",
         "R-274359",
         "R-274014",
-        "R-275759"
+        "R-275759",
+        "R-275693",
+        "R-275320-1",
+        "R-275856"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -8456,7 +8462,9 @@
         "R-2486743",
         "R-2486865",
         "R-2487192",
-        "R-2487982"
+        "R-2487982",
+        "R-2463427",
+        "R-2455584"
     ],
     "Salesforce": [
         "R333354",
@@ -9886,7 +9894,11 @@
         "R338948",
         "R328732",
         "R339062",
-        "R326986"
+        "R326986",
+        "R339289",
+        "R334606-1",
+        "R339480",
+        "R339668"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -9989,7 +10001,11 @@
         "Team-Coach_J-81582",
         "Forecasting-and-Planning-Analyst_J-81302",
         "Event-Coordinator-with-Swedish-or-Norwegian_J-79859",
-        "Recruiter-II_J-79689"
+        "Recruiter-II_J-79689",
+        "EUC-Engineer_J-78318",
+        "Red-Team-Analyst_J-78875",
+        "QA-Automation-Engineer_J-80689",
+        "Software-Development-Engineer_J-76333"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10065,7 +10081,13 @@
         "R262372",
         "R263217",
         "R260306-1",
-        "R255445"
+        "R255445",
+        "R263242-1",
+        "R263743",
+        "R260598",
+        "R263713",
+        "R263764",
+        "R261137-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10264,7 +10286,9 @@
         "R-10391973",
         "R-10390167",
         "R-10391988",
-        "R-10391982"
+        "R-10391982",
+        "R-10388610-1",
+        "R-10377905"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10315,7 +10339,9 @@
         "R-11199",
         "R-12747",
         "R-13858",
-        "R-2-RECON-GRS_R-13166"
+        "R-2-RECON-GRS_R-13166",
+        "R-13656-1",
+        "R-12377"
     ],
     "PayPal": [
         "R0135744-1",
@@ -10357,7 +10383,10 @@
         "R0134898-1",
         "R0136309-1",
         "R0129211-1",
-        "R0134337-1"
+        "R0134337-1",
+        "R0136182-1",
+        "R0136101-1",
+        "R0136051-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -10505,7 +10534,13 @@
         "SAIPA-Trainee_714773WD",
         "IN-Senior-Associate--SAP-IBP-Enterprise-APP-SAP-Advisory-Bangalore_722003WD-1",
         "IN-Manager-SAP-IBP--Enterprise-APP-SAP---Advisory-Bangalore_722085WD-2",
-        "IN-Senior-Manager-Cybersecurity--Cyber-as-a-Service-Advisory-Mumbai-NXS_723191WD-1"
+        "IN-Senior-Manager-Cybersecurity--Cyber-as-a-Service-Advisory-Mumbai-NXS_723191WD-1",
+        "IN-Senior-Associate-Oracle-Fusion-SCM-Oracle-Advisory-Mumbai_708822WD",
+        "XMLNAME--Senior--Manager-International-Tax-Services--Amsterdam--Rotterdam-_681062WD",
+        "IN-Senior-Associate--SAP-IBP-Enterprise-APP-SAP-Advisory-Bangalore_722444WD-1",
+        "SATIC---Workday-Integration-Consultant_684797WD",
+        "IN-Senior-Manager-Cybersecurity--Cyber-as-a-Service-Advisory-Mumbai-NXS_723029WD-1",
+        "IN-Senior-Manager-Cybersecurity--Cyber-as-a-Service-Advisory-Mumbai-NXS_723034WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -13007,7 +13042,8 @@
         "R-4_R167527-1",
         "R166334",
         "R167232",
-        "R167288"
+        "R167288",
+        "R-4_R167169-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -13053,7 +13089,8 @@
         "R-0104775",
         "R-0106350",
         "R-0106376",
-        "R-0105929"
+        "R-0105929",
+        "R-0105585-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -13086,7 +13123,10 @@
         "R23811",
         "R28584",
         "R28402",
-        "R27214"
+        "R27214",
+        "R27281-1",
+        "R27282",
+        "R27280"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -13230,7 +13270,10 @@
         "Software-Engineer_2012977",
         "Software-Engineer_2012976",
         "Software-Engineer_2012975",
-        "Software-Engineer_2012998"
+        "Software-Engineer_2012998",
+        "Software-Engineer_2013018",
+        "Senior-Software-Engineer_2013019",
+        "Software-Engineer_2007041"
     ],
     "Intel": [
         "R0283052",
@@ -13339,7 +13382,12 @@
         "R0000435873",
         "R0000436353",
         "R0000436373",
-        "R0000435753"
+        "R0000435753",
+        "R0000436455",
+        "R0000436454",
+        "R0000436453",
+        "R0000436451",
+        "R0000435107"
     ],
     "Zoom": [
         "R18188-1",
@@ -13369,7 +13417,9 @@
         "R18904-2",
         "R17692-1",
         "R18533-1",
-        "R19067-1"
+        "R19067-1",
+        "R19071-1",
+        "R19070-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -13417,7 +13467,9 @@
         "R-104976",
         "R-102334-2",
         "R-102336-2",
-        "R-105396"
+        "R-105396",
+        "R-102416-1",
+        "R-101747"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
