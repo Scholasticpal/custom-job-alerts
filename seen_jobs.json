@@ -8150,7 +8150,8 @@
         "R-275737",
         "R-276206",
         "R-274732",
-        "R-268733-1"
+        "R-268733-1",
+        "R-275955"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9975,7 +9976,9 @@
         "R334199",
         "R339024",
         "R328544",
-        "R338515"
+        "R338515",
+        "R321883",
+        "R339646"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10095,7 +10098,8 @@
         "Business-System-Analyst--GDS-_J-80780",
         "Business-Systems-Analyst_J-80534",
         "Business-Systems-Analyst_J-80535-1",
-        "Event-Content-Lead_J-81448"
+        "Event-Content-Lead_J-81448",
+        "Business-Systems-Analyst_J-80533"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10412,7 +10416,14 @@
         "R-10393389",
         "R-10379991",
         "R-10382688-1",
-        "R-10387255"
+        "R-10387255",
+        "R-10390311",
+        "R-10391476",
+        "R-10390816",
+        "R-10391583",
+        "R-10384681",
+        "R-10391582",
+        "R-10391474-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10443,7 +10454,11 @@
         "Relationship-Manager_867214-1",
         "Relationship-Manager_867213-2",
         "Relationship-Manager_867210-1",
-        "Branch-Manager_867209-1"
+        "Branch-Manager_867209-1",
+        "Branch-Manager_867242",
+        "Branch-Manager_867239-1",
+        "Branch-Manager_867236-2",
+        "Branch-Manager_867232-1"
     ],
     "Invesco": [
         "R-13647",
@@ -10476,7 +10491,8 @@
         "R-13657",
         "R-13780",
         "R-13778",
-        "R-13815"
+        "R-13815",
+        "R-13049"
     ],
     "PayPal": [
         "R0135744-1",
@@ -10538,7 +10554,8 @@
         "R0135439",
         "R0135234-1",
         "R0136110-1",
-        "R0136259"
+        "R0136259",
+        "R0135825-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -10729,7 +10746,10 @@
         "IN-Senior-Associate---SAP-CPI--Enterprise-APP-SAP--Advisory-Kolkata_724182WD-1",
         "IN-Manager-Manufacturing-Cloud-Specialist-Enterprise-Apps-Oracle-Advisory-Bangalore_724150WD-1",
         "IN-Manager-Salesforce-Technical-Lead-Enterprise-Apps-SFDC-Advisory-Bangalore_724057WD-2",
-        "Analista-Snior-de-Segurana-da-Informao---Senior-Associate--tag01-_711987WD"
+        "Analista-Snior-de-Segurana-da-Informao---Senior-Associate--tag01-_711987WD",
+        "Especialista-em-Tributos---Manager_712992WD-1",
+        "Capital-Markets--Prospectus-Center-of-Excellence-Manager_711949WD",
+        "Capital-Markets--Prospectus-Center-of-Excellence-Manager_711953WD-3"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -11311,7 +11331,9 @@
         "7013044",
         "7516383",
         "7847428",
-        "7847435"
+        "7847435",
+        "7843707",
+        "7843710"
     ],
     "Discord": [
         "8289766002",
@@ -13330,7 +13352,9 @@
         "R-0105380",
         "R-0105707",
         "R-0103683",
-        "R-0106373"
+        "R-0106373",
+        "R-0105034",
+        "R-0106656"
     ],
     "CrowdStrike": [
         "R26911",
@@ -13375,7 +13399,9 @@
         "R28378",
         "R28538",
         "R28537",
-        "R22720"
+        "R22720",
+        "R27159",
+        "R28136"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -13509,7 +13535,10 @@
         "R2015814",
         "R2016824",
         "R2016941-1",
-        "R2016322"
+        "R2016322",
+        "R2014517",
+        "R2014108",
+        "R2016634"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -13543,7 +13572,8 @@
         "Software-Engineer_2013018",
         "Senior-Software-Engineer_2013019",
         "Software-Engineer_2007041",
-        "Senior-Software-Engineer--Hybrid---SDWAN_2012175"
+        "Senior-Software-Engineer--Hybrid---SDWAN_2012175",
+        "ASIC-Engineering-Technical-Leader---DFT_2011562"
     ],
     "Intel": [
         "R0283052",
@@ -13696,7 +13726,11 @@
         "R0000436469",
         "R0000428801",
         "R0000436066",
-        "R0000436521"
+        "R0000436521",
+        "R0000433998-1",
+        "R0000436302",
+        "R0000436217",
+        "R0000436512"
     ],
     "Zoom": [
         "R18188-1",
@@ -13732,7 +13766,8 @@
         "R18914-1",
         "R18758-1",
         "R18815",
-        "R18990-2"
+        "R18990-2",
+        "R19074"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -13790,7 +13825,8 @@
         "R-104191-1",
         "R-102522-1",
         "R-102676",
-        "R-101168"
+        "R-101168",
+        "R-105347-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
