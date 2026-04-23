@@ -4210,7 +4210,9 @@
         "6679262002",
         "8519396002",
         "8519350002",
-        "8519576002"
+        "8519576002",
+        "8509691002",
+        "8509687002"
     ],
     "Rubrik": [
         "7310036",
@@ -5326,7 +5328,9 @@
         "7735836",
         "7243935",
         "7835693",
-        "7831810"
+        "7831810",
+        "7845802",
+        "7841019"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -8086,7 +8090,12 @@
         "R-269629",
         "R-274395",
         "R-272324",
-        "R-270495"
+        "R-270495",
+        "R-272716-1",
+        "R-275599",
+        "R-274945",
+        "R-263483",
+        "R-266952"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9863,7 +9872,12 @@
         "R339664",
         "R-2027-INTERN---SOFTWARE-ENGINEER_JR337715",
         "R339107",
-        "R325990"
+        "R325990",
+        "R339661",
+        "R339592",
+        "R339659",
+        "R337219",
+        "R339335-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -9963,7 +9977,9 @@
         "Program-Optimization-Consultant---BI-Analyst_J-78900",
         "Event-Manager_J-81876",
         "Business-Partnership-Analyst_J-81286",
-        "Team-Coach_J-81582"
+        "Team-Coach_J-81582",
+        "Forecasting-and-Planning-Analyst_J-81302",
+        "Event-Coordinator-with-Swedish-or-Norwegian_J-79859"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -9988,7 +10004,9 @@
         "Director--Financial-Institutions-Sales-Global-Payments-Solutions--FI-GPS----Singapore_26012246",
         "Vice-President--Senior-Application-Manager---AppRiskGovernance-Lead--ITGPST_26014469",
         "Officer--Assistant-Vice-President--Info-Security-Incident-Mgmt-Analyst--Global-Information-Security_26014604",
-        "Officer--Assistant-Vice-President--Info-Security-Incident-Mgmt-Analyst--Global-Information-Security_26014601"
+        "Officer--Assistant-Vice-President--Info-Security-Incident-Mgmt-Analyst--Global-Information-Security_26014601",
+        "Vice-President--Corporate-Audit--Malaysia_26003867",
+        "Assistant-Vice-President--Global-Financial-Crimes-Investigator_26008854-1"
     ],
     "BlackRock": [
         "R263666",
@@ -10030,7 +10048,11 @@
         "R258000",
         "R262257",
         "R261828-1",
-        "R255726"
+        "R255726",
+        "R258348",
+        "R263746",
+        "R263684",
+        "R262372"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10105,7 +10127,9 @@
         "Quant-Risk-Management-Intern---Year-Round_34278",
         "Software-Engineer-III---India_34223-1",
         "R-2026_34051-1",
-        "Site-Reliability-Engineer-III_34311-1"
+        "Site-Reliability-Engineer-III_34311-1",
+        "Data-Licensing-Intern_34318",
+        "Corporate-Strategy---Business-Development--Summer-Intern-2026--APAC-_34011"
     ],
     "FactSet": [
         "R32107-1",
@@ -10303,7 +10327,9 @@
         "R0136308",
         "R0135515-1",
         "R0136209",
-        "R0136371-1"
+        "R0136371-1",
+        "R0134898-1",
+        "R0136309-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -10421,7 +10447,27 @@
         "Sales---Operations-Support-Senior-Analyst---Global-Client_715083WD-1",
         "Sales-Strategy-Senior-Analyst---Global-client_715082WD-1",
         "Senior-Scrum-Master--US-Client-_716283WD-1",
-        "Sr-Cloud-Compliance--US-client----Olivos-or-Barracas_715455WD-2"
+        "Sr-Cloud-Compliance--US-client----Olivos-or-Barracas_715455WD-2",
+        "Starszy-Konsultant---Starsza-Konsultantka---Transaction-Services--Financial-Due-Diligence-_684789WD",
+        "Meneder-Menederka---Transaction-Services--Financial-Due-Diligence-_579199WD",
+        "IN-Senior-Associate-Azure-Net-MS-Dynamics-Advisory-Bangalore_721810WD-1",
+        "Juriste-Contract-Management-F-H_706462WD",
+        "Associate---Legal-Corporate-M-A-Roma--LEG-_724069WD",
+        "IN-Senior-Associate-Magento-Back-end-Developer-Application-Technology-Advisory-Pan-India_706783WD-1",
+        "IN-Associate--Valuations-Valuations--Advisory--Gurgaon_719698WD-1",
+        "IN-Associate-2-Generative-AI-Engineer-OC---D-A-Advisory-Bhubaneswar_719135WD-1",
+        "---7-1-7-31_724065WD",
+        "IN-Senior-Associate-Oracle-APEX-Developer-OC-Oracle-Apps-Advisory-Kolkata_719001WD-1",
+        "Analityk-Analityczka---Mergers-Acquisitions_516314WD-3",
+        "IN-Senior-Associate-MERN-Stack-Digital-Integration-Advisory-Gurgaon_723704WD",
+        "IN-Associate-Azure-DevOps-Digital-Integration-Advisory-Gurugram_709225WD-1",
+        "Business-Support-Specialist---Tax--Risk-Management---Contracting-_723894WD-3",
+        "Asset---Wealth-Managed-Services--AWMS----Risk---Compliance-Solutions--Internal-Audit---Risk----Senior-Manager_724094WD",
+        "IN-Associate-Azure-DevOps-Digital-Integration-Advisory-Gurugram_709262WD-1",
+        "IN-Sr-Associate-Azure-DE--D-A--Advisory--Gurgaon_712030WD-1",
+        "IN--Senior-Associate--JAVA-DEVELOPER-AppTech-Advisory-Mumbai--immediate-to-45-days-NP-_717842WD-1",
+        "Asset---Wealth-Managed-Services--AWMS----Risk---Compliance-Solutions---Senior-Associate_681957WD",
+        "AML-Senior-Analyst-with-Brazilian-Portuguese--pt-BR----Financial-Crime-Unit_718871WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -12511,7 +12557,8 @@
         "7659660",
         "7837084",
         "7842665",
-        "7843744"
+        "7843744",
+        "7821345"
     ],
     "Elastic": [
         "7505982",
@@ -12712,7 +12759,8 @@
         "7461913",
         "7729082",
         "7729081",
-        "7687038"
+        "7687038",
+        "7757624"
     ],
     "Asana": [
         "7120496",
@@ -12963,7 +13011,8 @@
         "R-0104752",
         "R-0106033",
         "R-0105539",
-        "R-0104775"
+        "R-0104775",
+        "R-0106350"
     ],
     "CrowdStrike": [
         "R26911",
@@ -12993,7 +13042,8 @@
         "R27605",
         "R27788",
         "R27183",
-        "R23811"
+        "R23811",
+        "R28584"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -13102,7 +13152,9 @@
         "R2013961",
         "R2011411",
         "R2003699-1",
-        "R2015035"
+        "R2015035",
+        "R2015624",
+        "R2014083"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -13227,7 +13279,15 @@
         "R0000435761",
         "R0000436371",
         "R0000436386-1",
-        "R0000436387-1"
+        "R0000436387-1",
+        "R0000435842",
+        "R0000435827",
+        "R0000370649",
+        "R0000436356",
+        "R0000436216",
+        "R0000436316",
+        "R0000433519",
+        "R0000436092"
     ],
     "Zoom": [
         "R18188-1",
@@ -13256,7 +13316,8 @@
         "R19061-1",
         "R18904-2",
         "R17692-1",
-        "R18533-1"
+        "R18533-1",
+        "R19067-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -13299,7 +13360,9 @@
         "R-105090",
         "R-101483-1",
         "R-101482-1",
-        "R-105324"
+        "R-105324",
+        "R-103040",
+        "R-104976"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -13322,7 +13385,8 @@
         "Services-Partner-Manager_112291-JOB",
         "Legal-Counsel---Commercial_112858-JOB",
         "Senior-Data-Scientist_112866-JOB",
-        "Lead-Customer-Success-Manager_112988-JOB"
+        "Lead-Customer-Success-Manager_112988-JOB",
+        "Lead-Software-Engineer_112965-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
