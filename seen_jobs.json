@@ -853,7 +853,8 @@
         "7825561",
         "7833796",
         "7440963",
-        "7841757"
+        "7841757",
+        "7835108"
     ],
     "Figma": [
         "5426468004",
@@ -1084,7 +1085,8 @@
         "5839202004",
         "5973463004",
         "5978411004",
-        "5976930004"
+        "5976930004",
+        "5977327004"
     ],
     "Amazon": [
         "3198115",
@@ -1278,7 +1280,8 @@
         "10398081",
         "10399786",
         "10400074",
-        "10400620"
+        "10400620",
+        "10400886"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -1544,7 +1547,8 @@
         "4686425005",
         "4637521005",
         "4655320005",
-        "4681615005"
+        "4681615005",
+        "4681260005"
     ],
     "Rippling": [],
     "Slice": [
@@ -2394,7 +2398,9 @@
         "337c2d32-ccc7-4ec7-b8ae-36b547842631",
         "a6b6eb53-b823-4e7e-9974-4f93b9228e9c",
         "6f3c9ff6-e615-4556-b750-c4268cc1ea95",
-        "8a3dc81c-b5fe-40bc-874d-89db26e320b9"
+        "8a3dc81c-b5fe-40bc-874d-89db26e320b9",
+        "e750ada6-436f-45c6-98fd-b2c0bfaba902",
+        "f3af0e48-ad1e-4bee-bd06-b84fbf45b116"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4532,7 +4538,8 @@
         "7767113",
         "7843288",
         "7826139",
-        "7657039"
+        "7657039",
+        "7844920"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -5770,7 +5777,9 @@
         "7366585",
         "7840626",
         "7841202",
-        "7839804"
+        "7839804",
+        "7841308",
+        "7841218"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -8064,7 +8073,9 @@
         "R-269298",
         "R-275195",
         "R-273234",
-        "R-246970"
+        "R-246970",
+        "R-269629",
+        "R-274395"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9831,7 +9842,12 @@
         "R338529",
         "R338530",
         "R339318",
-        "R331252"
+        "R331252",
+        "R338610",
+        "R339090",
+        "R338612",
+        "R338360",
+        "R338214"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -9929,7 +9945,8 @@
         "Intern---SkillBridge-Program---Department-of-Defense_J-80339",
         "Event-Manager_J-81520",
         "Program-Optimization-Consultant---BI-Analyst_J-78900",
-        "Event-Manager_J-81876"
+        "Event-Manager_J-81876",
+        "Business-Partnership-Analyst_J-81286"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -9952,7 +9969,9 @@
         "Vice-President--Information-Security-Threat---Insider-Risk-Management-Specialist-Sydney--Australia_26012505",
         "Azure-Cloud-Security-Operations-Sr-Analyst--Global-Information-Security_25038118",
         "Director--Financial-Institutions-Sales-Global-Payments-Solutions--FI-GPS----Singapore_26012246",
-        "Vice-President--Senior-Application-Manager---AppRiskGovernance-Lead--ITGPST_26014469"
+        "Vice-President--Senior-Application-Manager---AppRiskGovernance-Lead--ITGPST_26014469",
+        "Officer--Assistant-Vice-President--Info-Security-Incident-Mgmt-Analyst--Global-Information-Security_26014604",
+        "Officer--Assistant-Vice-President--Info-Security-Incident-Mgmt-Analyst--Global-Information-Security_26014601"
     ],
     "BlackRock": [
         "R263666",
@@ -9989,7 +10008,9 @@
         "R263728-1",
         "R260617",
         "R263268",
-        "R263737"
+        "R263737",
+        "R257220",
+        "R258000"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10086,7 +10107,8 @@
         "R29402",
         "R-2026-_R30674",
         "R32035",
-        "R31099"
+        "R31099",
+        "R31948"
     ],
     "Fiserv": [
         "R-10392824",
@@ -10344,7 +10366,17 @@
         "Government-and-Public-Sector--Digital-Operations--Associate_722071WD-3",
         "Government-and-Public-Sector--Digital-Operations--Manager_722081WD-4",
         "Government-and-Public-Sector--Digital-Operations--Senior-Associate_722080WD-3",
-        "A--_605775WD"
+        "A--_605775WD",
+        "AI-Specialist-for-LLM-and-GenAI_698783WD",
+        "AI-Developer_700936WD",
+        "IN-Senior-Associate-Gen-AI-Developer-Digital-Integration-Advisory-Kolkata_708888WD-1",
+        "IN-Associate-2-Generative-AI-Engineer-OC---D-A-Advisory-Bhubaneswar_718872WD-1",
+        "IN--Senior-Associate--MERN-Developer---React-Node---GCC-Advisory--Bangalore_723829WD",
+        "IN--Senior-Associate--MERN-Developer---React-Node---GCC-Advisory--Bangalore_723837WD-1",
+        "N--Senior-Associate--MERN-Developer---React-Node---GCC-Advisory--Bangalore_723832WD-1",
+        "IN-Manager---SAP-EAM---SAP--Advisory----Gurgaon_723808WD",
+        "IN-Manager-Workday-Data--Enterprise-Apps-Workday-Advisory-Bangalore_723935WD-1",
+        "Associate---IFS---Human-Capital-Transformation_724032WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -12882,7 +12914,9 @@
         "R-0105667",
         "R-0106538",
         "R-0104752",
-        "R-0106033"
+        "R-0106033",
+        "R-0105539",
+        "R-0104775"
     ],
     "CrowdStrike": [
         "R26911",
@@ -12995,7 +13029,27 @@
         "R2007807",
         "R2016783",
         "R2014873-1",
-        "R2014562"
+        "R2014562",
+        "R2016293",
+        "R2015313",
+        "R2016586",
+        "R2014219",
+        "R2015764",
+        "R2015770",
+        "R2016877",
+        "R2016072",
+        "R2016618",
+        "R2016306",
+        "R2016504-1",
+        "R2016416",
+        "R2016729",
+        "R2015806",
+        "R2016305",
+        "R2016842",
+        "R2016736-1",
+        "R2012293",
+        "R2016616-1",
+        "R2015868"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -13096,7 +13150,16 @@
         "R0000436381",
         "R0000436379",
         "R0000434993-1",
-        "R0000436121"
+        "R0000436121",
+        "R0000435132",
+        "R0000436332-1",
+        "R0000436382",
+        "R0000436388",
+        "R0000436374",
+        "R0000436214",
+        "R0000436019",
+        "R0000435999",
+        "R0000435613"
     ],
     "Zoom": [
         "R18188-1",
@@ -13162,7 +13225,8 @@
         "R-101285-1",
         "R-105192",
         "R-103955-1",
-        "R-104356"
+        "R-104356",
+        "R-104670"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
