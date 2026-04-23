@@ -9819,7 +9819,9 @@
         "R336903",
         "R334803",
         "R338973",
-        "R338453"
+        "R338453",
+        "R338529",
+        "R338530"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -9915,7 +9917,8 @@
         "Assistant-Manager---Centralized-Accounting_J-80093",
         "Guest-Tavel---Expense-Operations-Analyst_J-81870",
         "Intern---SkillBridge-Program---Department-of-Defense_J-80339",
-        "Event-Manager_J-81520"
+        "Event-Manager_J-81520",
+        "Program-Optimization-Consultant---BI-Analyst_J-78900"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10235,7 +10238,12 @@
         "R0136020-1",
         "R0135993-1",
         "R0136042-1",
-        "R0136330"
+        "R0136330",
+        "R0136057-1",
+        "R0135935-1",
+        "R0136308",
+        "R0135515-1",
+        "R0136209"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -11136,7 +11144,8 @@
         "7844016",
         "7843951",
         "7341457",
-        "7767702"
+        "7767702",
+        "7844238"
     ],
     "Notion": [],
     "Plaid": [],
@@ -12882,7 +12891,8 @@
         "R27893",
         "R28432-1",
         "R24684-1",
-        "R27682"
+        "R27682",
+        "R27410"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -12956,7 +12966,12 @@
         "R2014705",
         "R2014704",
         "R2011478",
-        "R2015096"
+        "R2015096",
+        "R2010421",
+        "R2009335-1",
+        "R2015938-1",
+        "R2016950",
+        "R2005274"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -13082,7 +13097,8 @@
         "R18910-1",
         "R19059",
         "R19061-1",
-        "R18904-2"
+        "R18904-2",
+        "R17692-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -13118,7 +13134,8 @@
         "R-101685-1",
         "R-104680-1",
         "R-101285-1",
-        "R-105192"
+        "R-105192",
+        "R-103955-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
