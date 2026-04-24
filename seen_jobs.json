@@ -2006,7 +2006,15 @@
         "8516002002",
         "8516003002",
         "8519265002",
-        "8519256002"
+        "8519256002",
+        "8522919002",
+        "8522876002",
+        "8522918002",
+        "8522858002",
+        "8522794002",
+        "8522865002",
+        "8522860002",
+        "8522011002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -8225,7 +8233,11 @@
         "R-275316",
         "R-275692",
         "R-275819",
-        "R-271550"
+        "R-271550",
+        "R-276349",
+        "R-276019",
+        "R-275500",
+        "R-275359"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -8589,7 +8601,8 @@
         "R-2489093",
         "R-2470637",
         "R-2402397-2",
-        "R-2489309"
+        "R-2489309",
+        "R-2489505"
     ],
     "Salesforce": [
         "R333354",
@@ -10079,7 +10092,9 @@
         "R339528",
         "R327683",
         "R339465",
-        "R339836"
+        "R339836",
+        "R339225",
+        "R339214"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10334,7 +10349,9 @@
         "R263646",
         "R262408",
         "R263683-1",
-        "R263649-1"
+        "R263649-1",
+        "R263634",
+        "R260518"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10360,7 +10377,8 @@
         "Expense-and-Treasury-Finance--Vice-President_42813",
         "Private-Equity-Secondaries-Analyst---Strategic-Partners_42796-1",
         "Cloud-Platforms-Engineer--VP---Data--Cloud---Developer-Experience_41514-1",
-        "Platform-Engineer--Associate---Physical-Security_41692-1"
+        "Platform-Engineer--Associate---Physical-Security_41692-1",
+        "BXCI-Compliance--Assistant-Vice-President_42843"
     ],
     "Capital Group": [
         "R6549",
@@ -10421,7 +10439,8 @@
         "Data-Licensing-Intern_34318",
         "Corporate-Strategy---Business-Development--Summer-Intern-2026--APAC-_34011",
         "Experienced-Auditor----Global-Assurance_33688",
-        "Ld-HR-Specialist_34312-1"
+        "Ld-HR-Specialist_34312-1",
+        "R-2026_34302"
     ],
     "FactSet": [
         "R32107-1",
@@ -10597,7 +10616,9 @@
         "R-10386724",
         "R-10386723",
         "R-10386861",
-        "R-10391708"
+        "R-10391708",
+        "R-10391719",
+        "R-10393456"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10682,7 +10703,8 @@
         "R-13815",
         "R-13049",
         "R-13006",
-        "R-13007"
+        "R-13007",
+        "R-13603-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -10759,7 +10781,8 @@
         "R0136212-1",
         "R0136310-1",
         "R0136221-1",
-        "R0136187-1"
+        "R0136187-1",
+        "R0136169-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -11048,7 +11071,12 @@
         "Transfer-Pricing-Manager--Tax-Advisory--Nicosia--Ref---612966WD-_612966WD",
         "Tax-Advisory-Consultant--up-to-Senior-Associate-level---Nicosia-or-Limassol--Ref--630764WD-_630764WD",
         "Tax-Reporting---Strategy-Consultants--Associate-Senior-Associate-level---Nicosia-or-Limassol-Office--Ref-603630WD-_603625WD",
-        "Tax-Advisory-Consultant--Assistant-Manager-Manager-level---Nicosia-Office---Ref-556837WD-_556837WD-1"
+        "Tax-Advisory-Consultant--Assistant-Manager-Manager-level---Nicosia-Office---Ref-556837WD-_556837WD-1",
+        "Cyber-Posture-Management-Senior-Associate_661524WD-1",
+        "SATIC---Capability---development-Consultant_712277WD",
+        "Tax-Credits-and-Incentives---Manager_721445WD",
+        "Tender-and-Proposal-Coordinator_700228WD",
+        "Senior-Associate_724496WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -11523,7 +11551,8 @@
         "5199633008",
         "5199629008",
         "5198639008",
-        "5184077008"
+        "5184077008",
+        "5198262008"
     ],
     "Coinbase": [
         "7559052",
@@ -13413,7 +13442,8 @@
         "7850987",
         "7850986",
         "7851240",
-        "7830298"
+        "7830298",
+        "7851469"
     ],
     "Asana": [
         "7120496",
@@ -13547,7 +13577,8 @@
         "7492723",
         "7802212",
         "7386483",
-        "7818647"
+        "7818647",
+        "6806660"
     ],
     "Coursera": [
         "5839408004",
@@ -13629,7 +13660,8 @@
         "R-4_R167169-1",
         "R167512-1",
         "R167839-1",
-        "R166864"
+        "R166864",
+        "R168112"
     ],
     "Workday": [
         "R-0106509-1",
@@ -13700,7 +13732,13 @@
         "R-0104084",
         "R-0106641",
         "R-0106508",
-        "R-0105543"
+        "R-0105543",
+        "R-0104997",
+        "R-0104996-1",
+        "R-0105298",
+        "R-0106491",
+        "R-0104081",
+        "R-0104190"
     ],
     "CrowdStrike": [
         "R26911",
@@ -13754,7 +13792,8 @@
         "R28441",
         "R27106",
         "R28513",
-        "R28271"
+        "R28271",
+        "R27844"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -13925,7 +13964,18 @@
         "R2016717-1",
         "R2007944",
         "R1998409",
-        "R2012550-1"
+        "R2012550-1",
+        "R2016621",
+        "R2016942",
+        "R2016851",
+        "R2017017",
+        "R2012307",
+        "R2016593",
+        "R2016366",
+        "R1998928",
+        "R2016715",
+        "R2016502",
+        "R2012573"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -13964,7 +14014,8 @@
         "Full-Stack-Software-Engineer_2012981",
         "Customer-Delivery-Consulting-Engineer---Security_1444179",
         "Customer-Delivery-Consulting-Engineer_1441217",
-        "XMLNAME-2006195-Customer-Delivery-Technical-Leader--Collaboration_2006195"
+        "XMLNAME-2006195-Customer-Delivery-Technical-Leader--Collaboration_2006195",
+        "RF-Engineering-Technical-Leader_2011534"
     ],
     "Intel": [
         "R0283052",
@@ -14185,7 +14236,11 @@
         "R0000435941",
         "R0000436472",
         "R0000430285",
-        "R0000430221"
+        "R0000430221",
+        "R0000436299",
+        "R0000436524",
+        "R0000432059",
+        "R0000406488"
     ],
     "Zoom": [
         "R18188-1",
@@ -14294,7 +14349,9 @@
         "R-101427",
         "R-101428",
         "R-104843",
-        "R-105433"
+        "R-105433",
+        "R-99605-1",
+        "R-105467-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
