@@ -1564,7 +1564,8 @@
         "4637521005",
         "4655320005",
         "4681615005",
-        "4681260005"
+        "4681260005",
+        "4688612005"
     ],
     "Rippling": [],
     "Slice": [
@@ -2421,7 +2422,11 @@
         "caedd4ed-a76b-4d84-9b88-a25bbebf6e80",
         "0975fba0-52fe-4f2c-9956-55afeb2640c4",
         "9a38217d-8f19-45c4-99e0-7bf18a7277db",
-        "fe48b849-aa8d-4156-ac3c-0554c8b0f795"
+        "fe48b849-aa8d-4156-ac3c-0554c8b0f795",
+        "0a6c05f8-35af-43f1-8007-70b51b877880",
+        "12cf8127-158a-4259-bfae-3d57ba07a556",
+        "096d36b6-2d5d-4a15-b9a6-72aa7b948f6f",
+        "dcd2f8b4-e6f2-436f-9796-1d3515e65afe"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -5363,7 +5368,8 @@
         "7841019",
         "7774559",
         "7842776",
-        "7836736"
+        "7836736",
+        "7838607"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -10197,7 +10203,8 @@
         "Consulting-Manager_J-81343",
         "Sr-Travel-Counsellor_J-81430-1",
         "Travel-Counselor-II_J-81008",
-        "Intern---Strategic-Sourcing_J-80736"
+        "Intern---Strategic-Sourcing_J-80736",
+        "Manger-I-Traveler-Experience-D-G_J-79596"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10560,7 +10567,8 @@
         "R-10392194",
         "R-10392197-1",
         "R-10385862",
-        "R-10386692"
+        "R-10386692",
+        "R-10392716"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10976,7 +10984,15 @@
         "IN-Senior-Associate-Oracle-fusion-SCM-Oracle-Advisory-Kolkata_724060WD-1",
         "IN-Senior-Associate-Oracle-fusion-SCM-Oracle-Advisory-Kolkata_724059WD",
         "IN-Associate-Sharepoint-Admin---Developer--Digital-Integration-Advisory-Kolkata_709203WD-1",
-        "IN-Associate-Resource-management-OC-RMG-Advisory-Guragon_720848WD-1"
+        "IN-Associate-Resource-management-OC-RMG-Advisory-Guragon_720848WD-1",
+        "IN-Senior-Associate-SAP-SD-Enterprise-Apps-SAP-Advisory-Mumbai_708379WD",
+        "Product-Manager_718428WD",
+        "IN-Senior-Associate-Renewable-energy--IGT---EU-R--Advisory-Bhubaneswar_718834WD-1",
+        "Senior-Test-Lead_718413WD",
+        "IN-Senior-Associate---IRDA-Infra---Advisory--Gurgaon_718584WD-1",
+        "Tax-Corporate-Manager---Milano--TAX-_723505WD",
+        "IN-Senior-Associate-Databricks-Data---Analytics-Advisory-Kolkata_716938WD-1",
+        "IN-Senior-Associate-Oracle-APEX-Developer-OC-Oracle-Apps-Advisory-Noida_719002WD-2"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -11447,7 +11463,9 @@
         "5183053008",
         "5041174008",
         "5197714008",
-        "4978280008"
+        "4978280008",
+        "5199633008",
+        "5199629008"
     ],
     "Coinbase": [
         "7559052",
@@ -12682,7 +12700,8 @@
         "7816572",
         "7311234",
         "7825494",
-        "7844159"
+        "7844159",
+        "7840210"
     ],
     "Datadog": [
         "7194969",
@@ -13329,7 +13348,9 @@
         "7796664",
         "7031770",
         "7798051",
-        "7847138"
+        "7847138",
+        "7850987",
+        "7850986"
     ],
     "Asana": [
         "7120496",
@@ -13870,7 +13891,10 @@
         "Software-Engineer_2007041",
         "Senior-Software-Engineer--Hybrid---SDWAN_2012175",
         "ASIC-Engineering-Technical-Leader---DFT_2011562",
-        "Full-Stack-Software-Engineer_2012981"
+        "Full-Stack-Software-Engineer_2012981",
+        "Customer-Delivery-Consulting-Engineer---Security_1444179",
+        "Customer-Delivery-Consulting-Engineer_1441217",
+        "XMLNAME-2006195-Customer-Delivery-Technical-Leader--Collaboration_2006195"
     ],
     "Intel": [
         "R0283052",
@@ -14072,7 +14096,11 @@
         "R0000436597",
         "R0000436596-1",
         "R0000436595",
-        "R0000400290"
+        "R0000400290",
+        "R0000400249",
+        "R0000436360",
+        "R0000400310",
+        "R0000436082"
     ],
     "Zoom": [
         "R18188-1",
@@ -14176,7 +14204,9 @@
         "R-105296-1",
         "R-104578",
         "R-104742",
-        "R-101355"
+        "R-101355",
+        "R-101427",
+        "R-101428"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
