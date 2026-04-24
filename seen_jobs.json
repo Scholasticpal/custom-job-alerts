@@ -4250,7 +4250,8 @@
         "8230883002",
         "8521198002",
         "8517065002",
-        "8506127002"
+        "8506127002",
+        "8458028002"
     ],
     "Rubrik": [
         "7310036",
@@ -4589,7 +4590,8 @@
         "7773842",
         "7834200",
         "7799183",
-        "7826110"
+        "7826110",
+        "7729758"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -5377,7 +5379,8 @@
         "7774559",
         "7842776",
         "7836736",
-        "7838607"
+        "7838607",
+        "7799134"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -6125,7 +6128,8 @@
         "7424250",
         "7746362",
         "7846935",
-        "7819466"
+        "7819466",
+        "7850821"
     ],
     "Dropbox": [
         "7646405",
@@ -6341,7 +6345,8 @@
         "7752097",
         "6330333",
         "7848539",
-        "7848536"
+        "7848536",
+        "7848545"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -8602,7 +8607,8 @@
         "R-2470637",
         "R-2402397-2",
         "R-2489309",
-        "R-2489505"
+        "R-2489505",
+        "R-2489413"
     ],
     "Salesforce": [
         "R333354",
@@ -10094,7 +10100,12 @@
         "R339465",
         "R339836",
         "R339225",
-        "R339214"
+        "R339214",
+        "R339611",
+        "R339393",
+        "R338461",
+        "R338454",
+        "R316560"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10351,7 +10362,8 @@
         "R263683-1",
         "R263649-1",
         "R263634",
-        "R260518"
+        "R260518",
+        "R261801-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10411,7 +10423,9 @@
         "R6563",
         "R5938",
         "R6369",
-        "R6564"
+        "R6564",
+        "R6426",
+        "R6439"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -10618,7 +10632,9 @@
         "R-10386861",
         "R-10391708",
         "R-10391719",
-        "R-10393456"
+        "R-10393456",
+        "R-10393387",
+        "R-10393388"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10667,7 +10683,8 @@
         "Sales-Manager_867245-1",
         "Branch-Manager_867238-1",
         "Branch-Manager_867233-1",
-        "Branch-Manager_867228-1"
+        "Branch-Manager_867228-1",
+        "Branch-Manager_867231-2"
     ],
     "Invesco": [
         "R-13647",
@@ -10782,7 +10799,8 @@
         "R0136310-1",
         "R0136221-1",
         "R0136187-1",
-        "R0136169-1"
+        "R0136169-1",
+        "R0134675-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -11076,7 +11094,16 @@
         "SATIC---Capability---development-Consultant_712277WD",
         "Tax-Credits-and-Incentives---Manager_721445WD",
         "Tender-and-Proposal-Coordinator_700228WD",
-        "Senior-Associate_724496WD"
+        "Senior-Associate_724496WD",
+        "XMLNAME---Senior-Associate_715053WD",
+        "Workforce-Transformation-Change-Management--Senior-Manager--Bilingual-FR-ANG-_716288WD-3",
+        "Senior-Data-Analyst_722725WD",
+        "IN-Director-Growth-and-Customer-Transformation-Customer-Consulting-Advisory-Mumbai_724103WD",
+        "IN-Senior-Associate-Agentic-contact-center----Chatbots---Voicebots---CoreAi---GCC-Advisory-Bangalore_724420WD-1",
+        "IN-Senior-Associate-Agentic-contact-center----Chatbots---Voicebots---CoreAi---GCC-Advisory-Bangalore_724408WD-1",
+        "IN-Senior-Associate-Agentic-contact-center----Chatbots---Voicebots---CoreAi---GCC-Advisory-Bangalore_724409WD-1",
+        "IN-Senior-Associate-Agentic-contact-center----Chatbots---Voicebots---CoreAi---GCC-Advisory-Bangalore_724419WD-1",
+        "IN-Senior-Associate-Agentic-contact-center----Chatbots---Voicebots---CoreAi---GCC-Advisory-Bangalore_724421WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -11552,7 +11579,8 @@
         "5199629008",
         "5198639008",
         "5184077008",
-        "5198262008"
+        "5198262008",
+        "5197538008"
     ],
     "Coinbase": [
         "7559052",
@@ -11674,7 +11702,8 @@
         "7847428",
         "7847435",
         "7843707",
-        "7843710"
+        "7843710",
+        "7676111"
     ],
     "Discord": [
         "8289766002",
@@ -12098,7 +12127,8 @@
         "7710180003",
         "7710178003",
         "7678887003",
-        "7702473003"
+        "7702473003",
+        "7685428003"
     ],
     "Robinhood": [
         "7799902",
@@ -12789,7 +12819,9 @@
         "7825494",
         "7844159",
         "7840210",
-        "7484821"
+        "7484821",
+        "7846877",
+        "7816135"
     ],
     "Datadog": [
         "7194969",
@@ -13231,7 +13263,10 @@
         "7843333",
         "7839435",
         "7848310",
-        "7834559"
+        "7834559",
+        "7816557",
+        "7831520",
+        "7834547"
     ],
     "Elastic": [
         "7505982",
@@ -13738,7 +13773,16 @@
         "R-0105298",
         "R-0106491",
         "R-0104081",
-        "R-0104190"
+        "R-0104190",
+        "R-0106798-1",
+        "R-0102019",
+        "R-0106672",
+        "R-0106797",
+        "R-0105535",
+        "R-0106029",
+        "R-0106468",
+        "R-0103568",
+        "R-0106750"
     ],
     "CrowdStrike": [
         "R26911",
@@ -13793,7 +13837,9 @@
         "R27106",
         "R28513",
         "R28271",
-        "R27844"
+        "R27844",
+        "R28386",
+        "R26482"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -13975,7 +14021,12 @@
         "R1998928",
         "R2016715",
         "R2016502",
-        "R2012573"
+        "R2012573",
+        "R2012538",
+        "R2015002",
+        "R1989004",
+        "R2014497-1",
+        "R2016784"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -14015,7 +14066,9 @@
         "Customer-Delivery-Consulting-Engineer---Security_1444179",
         "Customer-Delivery-Consulting-Engineer_1441217",
         "XMLNAME-2006195-Customer-Delivery-Technical-Leader--Collaboration_2006195",
-        "RF-Engineering-Technical-Leader_2011534"
+        "RF-Engineering-Technical-Leader_2011534",
+        "Hardware-Compliance-Regulatory-Engineer_2011539",
+        "Hardware-Engineering--Electrical--Technical-Lead_2011767"
     ],
     "Intel": [
         "R0283052",
@@ -14240,7 +14293,11 @@
         "R0000436299",
         "R0000436524",
         "R0000432059",
-        "R0000406488"
+        "R0000406488",
+        "R0000436554-1",
+        "R0000436626",
+        "R0000436517",
+        "R0000430683"
     ],
     "Zoom": [
         "R18188-1",
@@ -14280,7 +14337,8 @@
         "R19074",
         "R18944-1",
         "R18631",
-        "R19057-1"
+        "R19057-1",
+        "R18952-2"
     ],
     "Expedia": [
         "R-2_R-105040",
