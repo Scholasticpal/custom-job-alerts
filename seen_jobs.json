@@ -10122,7 +10122,11 @@
         "R338690",
         "R339912",
         "R339942",
-        "R282975"
+        "R282975",
+        "R338000",
+        "R339947",
+        "R339402",
+        "R336904"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10380,7 +10384,8 @@
         "R263649-1",
         "R263634",
         "R260518",
-        "R261801-1"
+        "R261801-1",
+        "R263776"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10502,7 +10507,8 @@
         "R31948",
         "R31018",
         "R32138",
-        "R29547"
+        "R29547",
+        "R32050"
     ],
     "Fiserv": [
         "R-10392824",
@@ -10660,7 +10666,12 @@
         "R-10385638",
         "R-10392231",
         "R-10393460",
-        "R-10393465-1"
+        "R-10393465-1",
+        "R-10393466",
+        "R-10393145",
+        "R-10393375",
+        "R-10385836",
+        "R-10381943"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10827,7 +10838,9 @@
         "R0136187-1",
         "R0136169-1",
         "R0134675-1",
-        "R0135830-1"
+        "R0135830-1",
+        "R0136090",
+        "R0136100"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -11139,7 +11152,11 @@
         "IN-Senior-Manager-Payment-Program-OC-App-Tech-Advisory-Pune_724430WD-1",
         "Financial-Transformation--Government-and-Public-Sector--Senior-Associate_722066WD-2",
         "Finance-Transformation--Financial-Services---Senior-Manager_723581WD-1",
-        "Enterprise-Performance-Management--EPM---Senior-Manager_723583WD-3"
+        "Enterprise-Performance-Management--EPM---Senior-Manager_723583WD-3",
+        "Valuations-Senior-Associate_716275WD",
+        "IN-Senior-Associate-SAP-ABAP-MDG-SAP-Advisory-Bangalore_718859WD-1",
+        "Accounting-and-Transaction-Advisory-Senior-Associate--Bilingual-FR-EN-_707132WD-1",
+        "Capital-Markets--Prospectus-Center-of-Excellence-Senior-Associate--Bilingual-FR-EN--_711955WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -11740,7 +11757,8 @@
         "7847435",
         "7843707",
         "7843710",
-        "7676111"
+        "7676111",
+        "7746572"
     ],
     "Discord": [
         "8289766002",
@@ -12409,7 +12427,8 @@
         "5972804004",
         "5972861004",
         "5980496004",
-        "5980197004"
+        "5980197004",
+        "5979660004"
     ],
     "MongoDB": [
         "7574659",
@@ -12862,7 +12881,8 @@
         "7484821",
         "7846877",
         "7816135",
-        "7523911"
+        "7523911",
+        "7707200"
     ],
     "Datadog": [
         "7194969",
@@ -13307,7 +13327,8 @@
         "7834559",
         "7816557",
         "7831520",
-        "7834547"
+        "7834547",
+        "7851446"
     ],
     "Elastic": [
         "7505982",
@@ -13829,7 +13850,9 @@
         "R-0105187",
         "R-0103681",
         "R-0106013",
-        "R-0106254"
+        "R-0106254",
+        "R-0106802",
+        "R-0106803"
     ],
     "CrowdStrike": [
         "R26911",
@@ -14081,7 +14104,11 @@
         "R2012411",
         "R2017001",
         "R2016921",
-        "R2004666"
+        "R2004666",
+        "R2005482",
+        "R1999623-1",
+        "R2016090",
+        "R2011653"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -14123,7 +14150,8 @@
         "XMLNAME-2006195-Customer-Delivery-Technical-Leader--Collaboration_2006195",
         "RF-Engineering-Technical-Leader_2011534",
         "Hardware-Compliance-Regulatory-Engineer_2011539",
-        "Hardware-Engineering--Electrical--Technical-Lead_2011767"
+        "Hardware-Engineering--Electrical--Technical-Lead_2011767",
+        "Embedded-Software-Engineer_2007397"
     ],
     "Intel": [
         "R0283052",
@@ -14362,7 +14390,10 @@
         "R0000436114",
         "R0000436523",
         "R0000436566",
-        "R0000436611"
+        "R0000436611",
+        "R0000436562",
+        "R0000436530",
+        "R0000436383"
     ],
     "Zoom": [
         "R18188-1",
@@ -14403,7 +14434,8 @@
         "R18944-1",
         "R18631",
         "R19057-1",
-        "R18952-2"
+        "R18952-2",
+        "R18321-1"
     ],
     "Expedia": [
         "R-2_R-105040",
