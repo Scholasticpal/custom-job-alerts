@@ -1090,7 +1090,8 @@
         "5976930004",
         "5977327004",
         "5978282004",
-        "5978327004"
+        "5978327004",
+        "5856821004"
     ],
     "Amazon": [
         "3198115",
@@ -4592,7 +4593,8 @@
         "7834200",
         "7799183",
         "7826110",
-        "7729758"
+        "7729758",
+        "7844075"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -8246,7 +8248,11 @@
         "R-275500",
         "R-275359",
         "R-272919",
-        "R-275557"
+        "R-275557",
+        "R-275968",
+        "R-275632",
+        "R-275633",
+        "R-276446"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10114,7 +10120,9 @@
         "R323328",
         "R333434",
         "R338690",
-        "R339912"
+        "R339912",
+        "R339942",
+        "R282975"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10400,7 +10408,8 @@
         "Cloud-Platforms-Engineer--VP---Data--Cloud---Developer-Experience_41514-1",
         "Platform-Engineer--Associate---Physical-Security_41692-1",
         "BXCI-Compliance--Assistant-Vice-President_42843",
-        "Finance---Corporate-FP-A--Associate_41678-1"
+        "Finance---Corporate-FP-A--Associate_41678-1",
+        "Private-Wealth-Solutions---Client-Services--Associate_36943"
     ],
     "Capital Group": [
         "R6549",
@@ -10436,7 +10445,8 @@
         "R6564",
         "R6426",
         "R6439",
-        "R6263"
+        "R6263",
+        "R6447"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -10647,7 +10657,10 @@
         "R-10393387",
         "R-10393388",
         "R-10392514",
-        "R-10385638"
+        "R-10385638",
+        "R-10392231",
+        "R-10393460",
+        "R-10393465-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11123,7 +11136,10 @@
         "IN-Senior-Associate-GIS-RDS---Citizen-Services--Advisory-Gurgaon_724471WD-1",
         "IN-Senior-Associate-GIS-RDS---Citizen-Services--Advisory-Gurgaon_724089WD-1",
         "IN--Senior-Manager--Data-Governance--Data-Analytics--Advisory-Bangalore_724477WD",
-        "IN-Senior-Manager-Payment-Program-OC-App-Tech-Advisory-Pune_724430WD-1"
+        "IN-Senior-Manager-Payment-Program-OC-App-Tech-Advisory-Pune_724430WD-1",
+        "Financial-Transformation--Government-and-Public-Sector--Senior-Associate_722066WD-2",
+        "Finance-Transformation--Financial-Services---Senior-Manager_723581WD-1",
+        "Enterprise-Performance-Management--EPM---Senior-Manager_723583WD-3"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -11600,7 +11616,8 @@
         "5198639008",
         "5184077008",
         "5198262008",
-        "5197538008"
+        "5197538008",
+        "5197432008"
     ],
     "Coinbase": [
         "7559052",
@@ -11972,7 +11989,8 @@
         "7843754",
         "7847148",
         "7821738",
-        "7848689"
+        "7848689",
+        "7851761"
     ],
     "Notion": [],
     "Plaid": [],
@@ -13809,7 +13827,9 @@
         "R-0106750",
         "R-0106654",
         "R-0105187",
-        "R-0103681"
+        "R-0103681",
+        "R-0106013",
+        "R-0106254"
     ],
     "CrowdStrike": [
         "R26911",
@@ -14056,7 +14076,12 @@
         "R2016784",
         "R2017076",
         "R2011969",
-        "R2016887-1"
+        "R2016887-1",
+        "R2011168",
+        "R2012411",
+        "R2017001",
+        "R2016921",
+        "R2004666"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -14330,7 +14355,14 @@
         "R0000430683",
         "R0000435566",
         "R0000432172",
-        "R0000436624"
+        "R0000436624",
+        "R0000436107",
+        "R0000436622",
+        "R0000436546",
+        "R0000436114",
+        "R0000436523",
+        "R0000436566",
+        "R0000436611"
     ],
     "Zoom": [
         "R18188-1",
@@ -14442,7 +14474,8 @@
         "R-104843",
         "R-105433",
         "R-99605-1",
-        "R-105467-1"
+        "R-105467-1",
+        "R-101184"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
