@@ -1288,7 +1288,12 @@
         "10400886",
         "10400953",
         "10401539",
-        "10402035"
+        "10402035",
+        "10402222",
+        "10402221",
+        "10402220",
+        "10402219",
+        "10402218"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -5813,7 +5818,8 @@
         "7844475",
         "7844932",
         "7817064",
-        "7844980"
+        "7844980",
+        "7840607"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -6412,7 +6418,8 @@
         "934b72cc-685c-4947-bcf8-d19aab019fee",
         "690e4c95-d0a0-4e76-85d7-51e2c4649e26",
         "212f7dcb-07b9-43b5-9c7c-f1ff681dd700",
-        "1f2462b8-3548-466e-908f-dcae91cfaee1"
+        "1f2462b8-3548-466e-908f-dcae91cfaee1",
+        "e85fdfd8-2855-4960-870a-00a60d0ce495"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -8175,7 +8182,11 @@
         "R-276169",
         "R-276174",
         "R-275403",
-        "R-275420"
+        "R-275420",
+        "R-275470",
+        "R-275016",
+        "R-276141",
+        "R-275315-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10010,7 +10021,11 @@
         "R339803",
         "R339197",
         "R331663",
-        "R337226"
+        "R337226",
+        "R339748",
+        "R335047",
+        "R273691",
+        "R329863"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10230,7 +10245,9 @@
         "R263635",
         "R256018",
         "R263772",
-        "R263720"
+        "R263720",
+        "R262347",
+        "R260705"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10288,7 +10305,8 @@
         "R6518-1",
         "R6563",
         "R5938",
-        "R6369"
+        "R6369",
+        "R6564"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -10474,7 +10492,9 @@
         "R-10389264",
         "R-10393399",
         "R-10387568",
-        "R-10385372"
+        "R-10385372",
+        "R-10392194",
+        "R-10392197-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10514,7 +10534,10 @@
         "Branch-Manager---Jabalpur_867261-1",
         "Branch-Manager---Bhopal_867259-1",
         "Branch-Manager_867258-1",
-        "AVP---Direct-Channel_867256-2"
+        "AVP---Direct-Channel_867256-2",
+        "Sales-Manager_867268-2",
+        "Manager---Direct-Channel_867266-1",
+        "Manager---Direct-Channel_867265-1"
     ],
     "Invesco": [
         "R-13647",
@@ -10615,7 +10638,8 @@
         "R0136259",
         "R0135825-1",
         "R0136462-1",
-        "R0135081-1"
+        "R0135081-1",
+        "R0135542"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -10814,7 +10838,19 @@
         "Risk-Services---Regulatory--Risk-and-Compliance---Financial-Services-Digital-Business-Analyst_615069WD",
         "Capital-Markets-and-Accounting-Advisory-Services---Manager-Senior-Manager_637036WD",
         "Technical-Integration-Architect---Senior-Manager_724020WD",
-        "Digital-Payments-Consulting--Director_707141WD"
+        "Digital-Payments-Consulting--Director_707141WD",
+        "IN-Senior-Associate-SAP-FICO-AI-Advisory-Bangalore_703342WD-1",
+        "IN-Senior-Associate-AWS-Data-and-Analytics-Advisory-Gurgaon_658112WD-1",
+        "DevOps-Engineer_723682WD",
+        "IN-Senior-Associate-Automation-QA--Playwright---Robot---Emerging-Technologies-Advisory-Hyderabad_700420WD-1",
+        "IN-Senior-Associate-SAP-MM-Enterprise-Apps-SAP-Advisory-Mumbai_710057WD-1",
+        "---_723629WD",
+        "IN-Senior-Associate-SAP-SD-OC-SAP-Advisory-Bhubaneswar_705262WD-1",
+        "IN-Associate---Forensics-Investigation--Investigations---Disputes--Advisory---Bangalore_716652WD-1",
+        "IN-Associate--Financial-Due-Diligence-Transaction-Services-Advisory--Bangalore_701932WD-1",
+        "IN-Senior-Associate-Generative-AI-Engineer-Emerging-Business-Advisory-Bangalore_707303WD-1",
+        "Medior-AI-Application-Manager_724284WD",
+        "Medior-IT-Projectmanager_723866WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -11282,7 +11318,8 @@
         "5197597008",
         "5113785008",
         "5106199008",
-        "5183053008"
+        "5183053008",
+        "5041174008"
     ],
     "Coinbase": [
         "7559052",
@@ -13436,7 +13473,9 @@
         "R-0106373",
         "R-0105034",
         "R-0106656",
-        "R-0106761-1"
+        "R-0106761-1",
+        "R-0106361",
+        "R-0106770"
     ],
     "CrowdStrike": [
         "R26911",
@@ -13487,7 +13526,8 @@
         "R28377",
         "R28413-1",
         "R28523",
-        "R28441"
+        "R28441",
+        "R27106"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -13863,7 +13903,11 @@
         "R0000436556",
         "R0000436564",
         "R0000436514",
-        "R0000436487"
+        "R0000436487",
+        "R0000436370",
+        "R0000436490",
+        "R0000436515",
+        "R0000436568"
     ],
     "Zoom": [
         "R18188-1",
@@ -13986,7 +14030,9 @@
         "Legal-Counsel---Commercial_112858-JOB",
         "Senior-Data-Scientist_112866-JOB",
         "Lead-Customer-Success-Manager_112988-JOB",
-        "Lead-Software-Engineer_112965-JOB"
+        "Lead-Software-Engineer_112965-JOB",
+        "Senior-Product-Manager_112683-JOB",
+        "Senior-Product-Manager_112911-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
