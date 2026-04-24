@@ -1088,7 +1088,9 @@
         "5973463004",
         "5978411004",
         "5976930004",
-        "5977327004"
+        "5977327004",
+        "5978282004",
+        "5978327004"
     ],
     "Amazon": [
         "3198115",
@@ -5810,7 +5812,8 @@
         "7841218",
         "7844475",
         "7844932",
-        "7817064"
+        "7817064",
+        "7844980"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -6086,7 +6089,10 @@
         "7807419",
         "7845785",
         "7846633",
-        "7837829"
+        "7837829",
+        "7059734",
+        "7424471",
+        "7424250"
     ],
     "Dropbox": [
         "7646405",
@@ -8157,7 +8163,19 @@
         "R-268733-1",
         "R-275955",
         "R-271923",
-        "R-276447"
+        "R-276447",
+        "R-276175",
+        "R-275966",
+        "R-276177",
+        "R-276171",
+        "R-276176",
+        "R-276178",
+        "R-276170-1",
+        "R-276167",
+        "R-276169",
+        "R-276174",
+        "R-275403",
+        "R-275420"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9990,7 +10008,9 @@
         "R338822-1",
         "R339038",
         "R339803",
-        "R339197"
+        "R339197",
+        "R331663",
+        "R337226"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10113,7 +10133,11 @@
         "Event-Content-Lead_J-81448",
         "Business-Systems-Analyst_J-80533",
         "Travel-Consultant---Remote-VIP_J-81906",
-        "Travel-Consultant-II---US-Virtual_J-80360-1"
+        "Travel-Consultant-II---US-Virtual_J-80360-1",
+        "Travel-Consultant_J-80077",
+        "Travel-Experience-Counselor-I_J-81057",
+        "Travel-Counselor_J-81026",
+        "Travel-Consultant-II_J-80564-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10140,7 +10164,8 @@
         "Officer--Assistant-Vice-President--Info-Security-Incident-Mgmt-Analyst--Global-Information-Security_26014604",
         "Officer--Assistant-Vice-President--Info-Security-Incident-Mgmt-Analyst--Global-Information-Security_26014601",
         "Vice-President--Corporate-Audit--Malaysia_26003867",
-        "Assistant-Vice-President--Global-Financial-Crimes-Investigator_26008854-1"
+        "Assistant-Vice-President--Global-Financial-Crimes-Investigator_26008854-1",
+        "Cloud-Security-Operations-Senior-Analyst--Global-Information-Security_26014759-1"
     ],
     "BlackRock": [
         "R263666",
@@ -10447,7 +10472,9 @@
         "R-10364631",
         "R-10391920-1",
         "R-10389264",
-        "R-10393399"
+        "R-10393399",
+        "R-10387568",
+        "R-10385372"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10482,7 +10509,12 @@
         "Branch-Manager_867242",
         "Branch-Manager_867239-1",
         "Branch-Manager_867236-2",
-        "Branch-Manager_867232-1"
+        "Branch-Manager_867232-1",
+        "AVP---Passive-Sales_867264-1",
+        "Branch-Manager---Jabalpur_867261-1",
+        "Branch-Manager---Bhopal_867259-1",
+        "Branch-Manager_867258-1",
+        "AVP---Direct-Channel_867256-2"
     ],
     "Invesco": [
         "R-13647",
@@ -10777,7 +10809,12 @@
         "Analista-Snior-de-Segurana-da-Informao---Senior-Associate--tag01-_711987WD",
         "Especialista-em-Tributos---Manager_712992WD-1",
         "Capital-Markets--Prospectus-Center-of-Excellence-Manager_711949WD",
-        "Capital-Markets--Prospectus-Center-of-Excellence-Manager_711953WD-3"
+        "Capital-Markets--Prospectus-Center-of-Excellence-Manager_711953WD-3",
+        "Risk-Services---Digital-Transformation-Senior-Associate--1-year-contract-_666448WD",
+        "Risk-Services---Regulatory--Risk-and-Compliance---Financial-Services-Digital-Business-Analyst_615069WD",
+        "Capital-Markets-and-Accounting-Advisory-Services---Manager-Senior-Manager_637036WD",
+        "Technical-Integration-Architect---Senior-Manager_724020WD",
+        "Digital-Payments-Consulting--Director_707141WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -11244,7 +11281,8 @@
         "5197337008",
         "5197597008",
         "5113785008",
-        "5106199008"
+        "5106199008",
+        "5183053008"
     ],
     "Coinbase": [
         "7559052",
@@ -11788,7 +11826,8 @@
         "7710970003",
         "7711527003",
         "7710180003",
-        "7710178003"
+        "7710178003",
+        "7678887003"
     ],
     "Robinhood": [
         "7799902",
@@ -12913,7 +12952,9 @@
         "7842665",
         "7843744",
         "7821345",
-        "7843358"
+        "7843358",
+        "6759702",
+        "6761448"
     ],
     "Elastic": [
         "7505982",
@@ -13253,7 +13294,8 @@
         "7773813",
         "7492723",
         "7802212",
-        "7386483"
+        "7386483",
+        "7818647"
     ],
     "Coursera": [
         "5839408004",
@@ -13444,7 +13486,8 @@
         "R28136",
         "R28377",
         "R28413-1",
-        "R28523"
+        "R28523",
+        "R28441"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -13608,7 +13651,12 @@
         "R2014131",
         "R2016533",
         "R2016359",
-        "R2016448"
+        "R2016448",
+        "R2016885",
+        "R2016000",
+        "R2016631",
+        "R2016717-1",
+        "R2007944"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -13814,7 +13862,8 @@
         "R0000436555",
         "R0000436556",
         "R0000436564",
-        "R0000436514"
+        "R0000436514",
+        "R0000436487"
     ],
     "Zoom": [
         "R18188-1",
@@ -13912,7 +13961,8 @@
         "R-102676",
         "R-101168",
         "R-105347-1",
-        "R-104625"
+        "R-104625",
+        "R-99465"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
