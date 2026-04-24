@@ -4251,7 +4251,8 @@
         "8521198002",
         "8517065002",
         "8506127002",
-        "8458028002"
+        "8458028002",
+        "8469076002"
     ],
     "Rubrik": [
         "7310036",
@@ -5380,7 +5381,8 @@
         "7842776",
         "7836736",
         "7838607",
-        "7799134"
+        "7799134",
+        "7848143"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -8242,7 +8244,9 @@
         "R-276349",
         "R-276019",
         "R-275500",
-        "R-275359"
+        "R-275359",
+        "R-272919",
+        "R-275557"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10105,7 +10109,12 @@
         "R339393",
         "R338461",
         "R338454",
-        "R316560"
+        "R316560",
+        "R322181",
+        "R323328",
+        "R333434",
+        "R338690",
+        "R339912"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10390,7 +10399,8 @@
         "Private-Equity-Secondaries-Analyst---Strategic-Partners_42796-1",
         "Cloud-Platforms-Engineer--VP---Data--Cloud---Developer-Experience_41514-1",
         "Platform-Engineer--Associate---Physical-Security_41692-1",
-        "BXCI-Compliance--Assistant-Vice-President_42843"
+        "BXCI-Compliance--Assistant-Vice-President_42843",
+        "Finance---Corporate-FP-A--Associate_41678-1"
     ],
     "Capital Group": [
         "R6549",
@@ -10425,7 +10435,8 @@
         "R6369",
         "R6564",
         "R6426",
-        "R6439"
+        "R6439",
+        "R6263"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -10634,7 +10645,9 @@
         "R-10391719",
         "R-10393456",
         "R-10393387",
-        "R-10393388"
+        "R-10393388",
+        "R-10392514",
+        "R-10385638"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10800,7 +10813,8 @@
         "R0136221-1",
         "R0136187-1",
         "R0136169-1",
-        "R0134675-1"
+        "R0134675-1",
+        "R0135830-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -11103,7 +11117,13 @@
         "IN-Senior-Associate-Agentic-contact-center----Chatbots---Voicebots---CoreAi---GCC-Advisory-Bangalore_724408WD-1",
         "IN-Senior-Associate-Agentic-contact-center----Chatbots---Voicebots---CoreAi---GCC-Advisory-Bangalore_724409WD-1",
         "IN-Senior-Associate-Agentic-contact-center----Chatbots---Voicebots---CoreAi---GCC-Advisory-Bangalore_724419WD-1",
-        "IN-Senior-Associate-Agentic-contact-center----Chatbots---Voicebots---CoreAi---GCC-Advisory-Bangalore_724421WD-1"
+        "IN-Senior-Associate-Agentic-contact-center----Chatbots---Voicebots---CoreAi---GCC-Advisory-Bangalore_724421WD-1",
+        "IN-Senior-Associate-GIS-RDS---Citizen-Services--Advisory-Gurgaon_724469WD-1",
+        "IN-Senior-Associate-GIS-RDS---Citizen-Services--Advisory-Gurgaon_724470WD-1",
+        "IN-Senior-Associate-GIS-RDS---Citizen-Services--Advisory-Gurgaon_724471WD-1",
+        "IN-Senior-Associate-GIS-RDS---Citizen-Services--Advisory-Gurgaon_724089WD-1",
+        "IN--Senior-Manager--Data-Governance--Data-Analytics--Advisory-Bangalore_724477WD",
+        "IN-Senior-Manager-Payment-Program-OC-App-Tech-Advisory-Pune_724430WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -12128,7 +12148,8 @@
         "7710178003",
         "7678887003",
         "7702473003",
-        "7685428003"
+        "7685428003",
+        "7709896003"
     ],
     "Robinhood": [
         "7799902",
@@ -12284,7 +12305,8 @@
         "7766573",
         "7844218",
         "7838644",
-        "7848821"
+        "7848821",
+        "7819113"
     ],
     "Vercel": [
         "5624231004",
@@ -12821,7 +12843,8 @@
         "7840210",
         "7484821",
         "7846877",
-        "7816135"
+        "7816135",
+        "7523911"
     ],
     "Datadog": [
         "7194969",
@@ -13613,7 +13636,8 @@
         "7802212",
         "7386483",
         "7818647",
-        "6806660"
+        "6806660",
+        "7565953"
     ],
     "Coursera": [
         "5839408004",
@@ -13782,7 +13806,10 @@
         "R-0106029",
         "R-0106468",
         "R-0103568",
-        "R-0106750"
+        "R-0106750",
+        "R-0106654",
+        "R-0105187",
+        "R-0103681"
     ],
     "CrowdStrike": [
         "R26911",
@@ -14026,7 +14053,10 @@
         "R2015002",
         "R1989004",
         "R2014497-1",
-        "R2016784"
+        "R2016784",
+        "R2017076",
+        "R2011969",
+        "R2016887-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -14297,7 +14327,10 @@
         "R0000436554-1",
         "R0000436626",
         "R0000436517",
-        "R0000430683"
+        "R0000430683",
+        "R0000435566",
+        "R0000432172",
+        "R0000436624"
     ],
     "Zoom": [
         "R18188-1",
@@ -14436,7 +14469,8 @@
         "Lead-Software-Engineer_112965-JOB",
         "Senior-Product-Manager_112683-JOB",
         "Senior-Product-Manager_112911-JOB",
-        "Senior-Lead-Software-Engineer_113010-JOB-2"
+        "Senior-Lead-Software-Engineer_113010-JOB-2",
+        "Senior-Solutions-Consultant_113015-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
