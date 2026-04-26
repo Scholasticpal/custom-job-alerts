@@ -10161,7 +10161,8 @@
         "R339867",
         "R339706",
         "R339975",
-        "R338624-1"
+        "R338624-1",
+        "R339914"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11227,7 +11228,21 @@
         "IN-Senior-Associate-IT-Program-Management-IGT---EU-R-Advisory-Mumbai_718596WD-1",
         "IN-Associate-Research-iGT---Social-Advisory-Bhubaneswar_724506WD-1",
         "IN-Associate-Digital-led-Transformation---Capital-Project-Management--Capital-Projects---Infrastructure-Advisory-Gurgaon_724495WD-1",
-        "IN-Associate-Strategic-PMO-and-Project-Controls-Capital-Projects---Infrastructure-Advisory-Mumbai_724349WD"
+        "IN-Associate-Strategic-PMO-and-Project-Controls-Capital-Projects---Infrastructure-Advisory-Mumbai_724349WD",
+        "IN-Senior-Associate-Oracle-fusion-finance--Enterprise-Apps-Oracle-Advisory-Kolkata_724034WD-1",
+        "IN-Associate---OFSAA-OBIEE--ITRA--Advisory--Chennai--Pune_723883WD-1",
+        "IN-Senior-Associate---OFSAA-OBIEE--ITRA--Advisory--Mumbai--Bangalore_723848WD-2",
+        "IN-Senior-Associate---OFSAA-OBIEE--ITRA--Advisory--Mumbai--Bangalore_723852WD-2",
+        "IN--Senior-Associate--MERN-Developer---React-Node---GCC-Advisory--Bangalore_724041WD-1",
+        "IN--Senior-Associate--MERN-Developer---React-Node---GCC-Advisory--Bangalore_724040WD-1",
+        "IN--Senior-Associate--MERN-Developer---React-Node---GCC-Advisory--Bangalore_724039WD-1",
+        "IN-Manager-Data-Privacy-ITRA-Advisory-Gurgaon_723870WD-1",
+        "IN-Manager-Data-Privacy-ITRA-Advisory-Gurgaon_723871WD-1",
+        "IN-Manager-Cybersecurity-Emerging-Tech--Advisory--Chennai_723157WD-1",
+        "IN-Manager-Cybersecurity-Emerging-Tech--Advisory--Chennai_723156WD-1",
+        "IN-Manager-Cybersecurity-Emerging-Tech--Advisory--Chennai_723154WD-1",
+        "IN-Manager-Cybersecurity-Emerging-Tech--Advisory--Chennai_723155WD-1",
+        "IN-Manager-Cybersecurity-Emerging-Tech--Advisory--Chennai_723144WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14244,7 +14259,9 @@
         "R2016510",
         "R1987671",
         "R2016320",
-        "R1988648"
+        "R1988648",
+        "R2011909",
+        "R2013580"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
