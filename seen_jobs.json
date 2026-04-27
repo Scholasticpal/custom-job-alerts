@@ -1571,7 +1571,8 @@
         "4655320005",
         "4681615005",
         "4681260005",
-        "4688612005"
+        "4688612005",
+        "4686382005"
     ],
     "Rippling": [],
     "Slice": [
@@ -4269,7 +4270,8 @@
         "8458028002",
         "8469076002",
         "8463173002",
-        "8493857002"
+        "8493857002",
+        "8440922002"
     ],
     "Rubrik": [
         "7310036",
@@ -5867,7 +5869,8 @@
         "7840607",
         "7794381",
         "7850907",
-        "7854363"
+        "7854363",
+        "7253460"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -8275,7 +8278,8 @@
         "R-276638",
         "R-272556",
         "R-275956",
-        "R-276334"
+        "R-276334",
+        "R-276172"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10339,7 +10343,9 @@
         "Assistant-Vice-President--Global-Financial-Crimes-Investigator_26008854-1",
         "Cloud-Security-Operations-Senior-Analyst--Global-Information-Security_26014759-1",
         "Officer--Compliance-and-Operational-Risk-Analyst_26014798-1",
-        "Officer--Markets-Support-Analyst--Equities-Trade-Control---Global-Markets-Operations_26007398-1"
+        "Officer--Markets-Support-Analyst--Equities-Trade-Control---Global-Markets-Operations_26007398-1",
+        "Project-Manager---Regulatory-Reporting-Change---Transformation--APAC-_26014950-1",
+        "Assistant-Vice-President--Data-Centre-Operations-Specialist--Chief-Technology-Infrastructure_26014951"
     ],
     "BlackRock": [
         "R263666",
@@ -10819,7 +10825,8 @@
         "R-13007",
         "R-13603-1",
         "R-13598-2",
-        "R-13093"
+        "R-13093",
+        "R-13691"
     ],
     "PayPal": [
         "R0135744-1",
@@ -10907,7 +10914,8 @@
         "R0136089-1",
         "R0135645-1",
         "R0136087-1",
-        "R0136180-1"
+        "R0136180-1",
+        "R0135493-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -11735,7 +11743,8 @@
         "5198262008",
         "5197538008",
         "5197432008",
-        "5200670008"
+        "5200670008",
+        "5198991008"
     ],
     "Coinbase": [
         "7559052",
@@ -12990,7 +12999,8 @@
         "7816135",
         "7523911",
         "7707200",
-        "7850243"
+        "7850243",
+        "7839844"
     ],
     "Datadog": [
         "7194969",
@@ -13436,7 +13446,9 @@
         "7816557",
         "7831520",
         "7834547",
-        "7851446"
+        "7851446",
+        "7848869",
+        "7798106"
     ],
     "Elastic": [
         "7505982",
@@ -13870,7 +13882,8 @@
         "R167512-1",
         "R167839-1",
         "R166864",
-        "R168112"
+        "R168112",
+        "R167609"
     ],
     "Workday": [
         "R-0106509-1",
@@ -13975,7 +13988,9 @@
         "R-0106273",
         "R-0093733",
         "R-0106270",
-        "R-0106274"
+        "R-0106274",
+        "R-0103873",
+        "R-0105492"
     ],
     "CrowdStrike": [
         "R26911",
@@ -14037,7 +14052,11 @@
         "R27378-1",
         "R27177",
         "R27230-1",
-        "R27228"
+        "R27228",
+        "R28594",
+        "R28633",
+        "R28634-1",
+        "R28635"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -14295,7 +14314,8 @@
         "R2014282",
         "R2008574",
         "R1997726",
-        "R2014710"
+        "R2014710",
+        "R2014043"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -14718,7 +14738,8 @@
         "R-105201-1",
         "R-100850-1",
         "R-99329",
-        "R-103542-2"
+        "R-103542-2",
+        "R-105265-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
