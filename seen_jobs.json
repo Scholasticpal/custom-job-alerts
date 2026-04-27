@@ -1580,7 +1580,9 @@
         "4688612005",
         "4686382005",
         "4688962005",
-        "4686380005"
+        "4686380005",
+        "4676696005",
+        "4689132005"
     ],
     "Rippling": [],
     "Slice": [
@@ -2975,7 +2977,8 @@
         "6298781",
         "7579462",
         "7839229",
-        "7840101"
+        "7840101",
+        "7857385"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4287,7 +4290,8 @@
         "8440922002",
         "8524420002",
         "8524422002",
-        "8521090002"
+        "8521090002",
+        "8512037002"
     ],
     "Rubrik": [
         "7310036",
@@ -8326,7 +8330,9 @@
         "R-275944",
         "R-275580",
         "R-276050-1",
-        "R-276513-1"
+        "R-276513-1",
+        "R-276485",
+        "R-268649"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10228,7 +10234,12 @@
         "R338663",
         "R339998",
         "R338172-1",
-        "R316760"
+        "R316760",
+        "R339686",
+        "R340042",
+        "R340047",
+        "R313327",
+        "R329765"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10373,7 +10384,10 @@
         "CoE-Project-and-Implementation-Manager_J-81543",
         "CoE-Business-Excellence-and-Special-Projects-Manager_J-81539",
         "Travel-Counselor-I_J-81965",
-        "Assistant-Manager--Lease-Accounting_J-78410"
+        "Assistant-Manager--Lease-Accounting_J-78410",
+        "Product-Support-Analyst_J-80382",
+        "Product-Support-Analyst_J-80383",
+        "Commercial-Director--Global-Travel-for-Meetings_J-81733"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10510,7 +10524,11 @@
         "R263694",
         "R261178",
         "R260559",
-        "R258343"
+        "R258343",
+        "R257689",
+        "R263827-1",
+        "R260812",
+        "R260815"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10578,7 +10596,8 @@
         "R6439",
         "R6263",
         "R6447",
-        "R6139"
+        "R6139",
+        "R6566"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -10813,7 +10832,9 @@
         "R-10391033",
         "R-10391034",
         "R-10386733",
-        "R-10384003"
+        "R-10384003",
+        "R-10382189",
+        "R-10386577"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10911,7 +10932,9 @@
         "R-11787-1",
         "R-12408",
         "R-13607",
-        "R-13754"
+        "R-13754",
+        "R-11335",
+        "R-12605"
     ],
     "PayPal": [
         "R0135744-1",
@@ -11001,7 +11024,9 @@
         "R0136087-1",
         "R0136180-1",
         "R0135493-1",
-        "R0133067-1"
+        "R0133067-1",
+        "R0136555",
+        "R0134310"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -11399,7 +11424,23 @@
         "Experienced-Associate---Transfer-Pricing_619850WD",
         "Senior-Manager---VAT--Indirect-Tax----Dublin_368898WD",
         "IN-Senior-Associate-Java-Full-stack-D-A-Advisory-Bangalore_686264WD-1",
-        "IN-Senior-Associate--BA-Data-Analyst--Data-and-Analytics-Advisory-Pan-India_717862WD-1"
+        "IN-Senior-Associate--BA-Data-Analyst--Data-and-Analytics-Advisory-Pan-India_717862WD-1",
+        "Project-Manager--Senior-Associate---Manager-level---Technology-Consulting--Ref--723124WD---Nicosia-Office_723124WD",
+        "Experienced-AML-Officer--Central-Compliance-Services--Nicosia-Office--Ref-714907WD-_714907WD",
+        "IN-Senior-Associate-Software-Asset-Management-ITRA-Advisory-Hyderabad_724798WD-1",
+        "IN-Senior-Associate-Software-Asset-Management-ITRA-Advisory-Hyderabad_724790WD-1",
+        "IN-Senior-Associate-Software-Asset-Management-ITRA-Advisory-Hyderabad_724791WD-2",
+        "IN-Senior-Associate-Software-Asset-Management-ITRA-Advisory-Hyderabad_724773WD-1",
+        "IN-Senior-Associate-Software-Asset-Management-ITRA-Advisory-Hyderabad_724779WD-2",
+        "Data-Scientist--m-f-_724487WD",
+        "IN-Senior-Associate-Scrum-master-D-A-Advisory-Bangalore_724755WD-2",
+        "IN-Senior-Associate-Scrum-master-D-A-Advisory-Bangalore_724756WD-1",
+        "IN-Manager-SAP-IBP-Enterprise-Apps-SAP-Advisory-Mumbai_722493WD-1",
+        "IN-Associate-SOC-Managed-Services--Advisory--Mumbai_718212WD",
+        "IN-Senior-Associate-Internal-Audit-Internal-audit-services-Advisory-Bangalore_703793WD-1",
+        "IN-Senior-Associate-SAP-ABP---TM--SAP-Advisory-Bangalore_722316WD-1",
+        "IN-Associate--SAP-C4C---SAP-Advisory-Bangalore_698908WD-2",
+        "IN-Senior-Associate-Java-Full-Stack-Developer-IGT---EU-R-Advisory-Gurgaon_699135WD-2"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14133,7 +14174,12 @@
         "R-0103873",
         "R-0105492",
         "R-0104329",
-        "R-0106691"
+        "R-0106691",
+        "R-0104164",
+        "R-0106748",
+        "R-0106353",
+        "R-0105627",
+        "R-0105527"
     ],
     "CrowdStrike": [
         "R26911",
@@ -14203,7 +14249,8 @@
         "R27208",
         "R25608",
         "R24795",
-        "R28181-1"
+        "R28181-1",
+        "R28109-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -14807,7 +14854,9 @@
         "R0000436747",
         "R0000401819",
         "R0000436676",
-        "R0000436706"
+        "R0000436706",
+        "R0000436759",
+        "R0000436762"
     ],
     "Zoom": [
         "R18188-1",
@@ -14936,7 +14985,8 @@
         "R-104696",
         "R-101763",
         "R-105557",
-        "R-102767"
+        "R-102767",
+        "R-105126-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
