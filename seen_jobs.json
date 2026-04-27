@@ -1302,7 +1302,8 @@
         "10402415",
         "10403394",
         "10403403",
-        "10403448"
+        "10403448",
+        "10403644"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -4271,7 +4272,9 @@
         "8469076002",
         "8463173002",
         "8493857002",
-        "8440922002"
+        "8440922002",
+        "8524420002",
+        "8524422002"
     ],
     "Rubrik": [
         "7310036",
@@ -5402,7 +5405,8 @@
         "7836736",
         "7838607",
         "7799134",
-        "7848143"
+        "7848143",
+        "7844485"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -5870,7 +5874,9 @@
         "7794381",
         "7850907",
         "7854363",
-        "7253460"
+        "7253460",
+        "7848972",
+        "7855440"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -6154,7 +6160,8 @@
         "7846935",
         "7819466",
         "7850821",
-        "7834208"
+        "7834208",
+        "7848921"
     ],
     "Dropbox": [
         "7646405",
@@ -8279,7 +8286,12 @@
         "R-272556",
         "R-275956",
         "R-276334",
-        "R-276172"
+        "R-276172",
+        "R-272459",
+        "R-273444",
+        "R-266383",
+        "R-260844",
+        "R-274364"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10535,7 +10547,8 @@
         "Corporate-Strategy---Business-Development--Summer-Intern-2026--APAC-_34011",
         "Experienced-Auditor----Global-Assurance_33688",
         "Ld-HR-Specialist_34312-1",
-        "R-2026_34302"
+        "R-2026_34302",
+        "Mgr-Swift-Operations_34049"
     ],
     "FactSet": [
         "R32107-1",
@@ -10564,7 +10577,9 @@
         "R32138",
         "R29547",
         "R32050",
-        "R31949"
+        "R31949",
+        "R32119",
+        "R32121"
     ],
     "Fiserv": [
         "R-10392824",
@@ -10733,7 +10748,10 @@
         "R-10390069",
         "R-10389510-1",
         "R-10391678",
-        "R-10390638-1"
+        "R-10390638-1",
+        "R-10391032",
+        "R-10391033",
+        "R-10391034"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -10826,7 +10844,8 @@
         "R-13603-1",
         "R-13598-2",
         "R-13093",
-        "R-13691"
+        "R-13691",
+        "R-13386"
     ],
     "PayPal": [
         "R0135744-1",
@@ -10915,7 +10934,8 @@
         "R0135645-1",
         "R0136087-1",
         "R0136180-1",
-        "R0135493-1"
+        "R0135493-1",
+        "R0133067-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -11264,7 +11284,21 @@
         "IN-Director-Cybersecurity---Cyber-as-a-Service-Advisory-Bangalore_724077WD",
         "IN-Senior-Associate--Smart-Factory--Semiconductor-Consumer-Electronics-domain---AppTech-Advisory--Bangalore--immediate-joiners-_724038WD-2",
         "IN-Senior-Associate-Programme-Scheme-Project-Management-Agriculture-Advisory-Kolkata_724036WD-1",
-        "IN-Senior-Associate-Oracle-fusion-finance--Enterprise-Apps-Oracle-Advisory-Kolkata_724035WD-1"
+        "IN-Senior-Associate-Oracle-fusion-finance--Enterprise-Apps-Oracle-Advisory-Kolkata_724035WD-1",
+        "IN--Sr-Associate-Oracle-fusion-SCM-Oracle-Advisory--Gurgaon_724617WD-1",
+        "IN-Senior-Associate-Dotnet-Azure-GCC-Advisory-Bangalore_708352WD-1",
+        "IN-Senior-Associate-CSV-QMS-RC---Internal-Audit-Advisory-Noida_719019WD-6",
+        "IN-Senior-Associate-Master-Data-Management---Data-and-Analytics-Advisory-Pan-India_712081WD-1",
+        "C-Intern--_628529WD",
+        "IN-Associate-CSV-ITRA-Advisory-Mumbai_722842WD-1",
+        "IN-Senior-Manager-Sales-Tax-Tech-TRS-Gurugram_724451WD",
+        "IN-Associate--Procurement--iGT---Social--Advisory--Gurgaon_722649WD",
+        "IN-Senior-Manager-Operations-Supply-Chain-and-Operations-Advisory-Mumbai_714573WD-1",
+        "IN-Manager-Data-Scientist-D-A-Advisory-Mumbai_703032WD",
+        "IN-Senior-Associate-Procurement--Supply-Chain--Advisory-Bangalore_720268WD-1",
+        "IN-Senior-Associate-SAP-MM-Enterprise-Apps-SAP-Advisory-Bangalore_719854WD",
+        "IN-Senior-Associate--SAP-PPQM--Enterprise-Apps---SAP--Advisory----Gurgaon_722181WD-1",
+        "Asset---Wealth-Managed-Services--AWMS----Risk---Compliance-Solutions---Assistant-Manager_724651WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -13000,7 +13034,8 @@
         "7523911",
         "7707200",
         "7850243",
-        "7839844"
+        "7839844",
+        "7841358"
     ],
     "Datadog": [
         "7194969",
@@ -13448,7 +13483,8 @@
         "7834547",
         "7851446",
         "7848869",
-        "7798106"
+        "7798106",
+        "7855619"
     ],
     "Elastic": [
         "7505982",
@@ -13810,7 +13846,8 @@
         "5742043004",
         "5893693004",
         "5751611004",
-        "5868696004"
+        "5868696004",
+        "5809067004"
     ],
     "Udemy": [
         "5424719004",
@@ -14315,7 +14352,8 @@
         "R2008574",
         "R1997726",
         "R2014710",
-        "R2014043"
+        "R2014043",
+        "R2013118"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -14615,7 +14653,27 @@
         "R0000436281",
         "R0000436599",
         "R0000436644",
-        "R0000436718"
+        "R0000436718",
+        "R0000436631",
+        "R0000436701",
+        "R0000436711",
+        "R0000436721",
+        "R0000436652",
+        "R0000436710",
+        "R0000370372",
+        "R0000436642",
+        "R0000436645",
+        "R0000436320-1",
+        "R0000436682",
+        "R0000436569",
+        "R0000436670",
+        "R0000436705",
+        "R0000436639",
+        "R0000436685",
+        "R0000436449",
+        "R0000436689",
+        "R0000436650",
+        "R0000436665"
     ],
     "Zoom": [
         "R18188-1",
@@ -14739,7 +14797,9 @@
         "R-100850-1",
         "R-99329",
         "R-103542-2",
-        "R-105265-1"
+        "R-105265-1",
+        "R-104696",
+        "R-101763"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
