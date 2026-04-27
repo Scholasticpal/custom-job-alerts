@@ -1093,7 +1093,8 @@
         "5978282004",
         "5978327004",
         "5856821004",
-        "5980306004"
+        "5980306004",
+        "5976837004"
     ],
     "Amazon": [
         "3198115",
@@ -1305,7 +1306,8 @@
         "10403448",
         "10403644",
         "10403706",
-        "10403715"
+        "10403715",
+        "10403776"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -1576,7 +1578,9 @@
         "4681615005",
         "4681260005",
         "4688612005",
-        "4686382005"
+        "4686382005",
+        "4688962005",
+        "4686380005"
     ],
     "Rippling": [],
     "Slice": [
@@ -2455,7 +2459,8 @@
         "2ac8560d-5674-455a-8601-606eb58756cf",
         "0ab4a87b-0105-4b01-ad98-1002b6dc5564",
         "c7013b56-453d-478c-959c-f48a7e1ebdb2",
-        "6af5c3c4-57d2-489d-ba4b-e6a5916d1e70"
+        "6af5c3c4-57d2-489d-ba4b-e6a5916d1e70",
+        "708390cc-7f87-4ce5-b411-ec6014b0553a"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4281,7 +4286,8 @@
         "8493857002",
         "8440922002",
         "8524420002",
-        "8524422002"
+        "8524422002",
+        "8521090002"
     ],
     "Rubrik": [
         "7310036",
@@ -4622,7 +4628,8 @@
         "7799183",
         "7826110",
         "7729758",
-        "7844075"
+        "7844075",
+        "7742234"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -5415,7 +5422,8 @@
         "7848143",
         "7844485",
         "7814877",
-        "7335294"
+        "7335294",
+        "7834915"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -5885,7 +5893,8 @@
         "7854363",
         "7253460",
         "7848972",
-        "7855440"
+        "7855440",
+        "7848998"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -6171,7 +6180,8 @@
         "7850821",
         "7834208",
         "7848921",
-        "7851194"
+        "7851194",
+        "7845781"
     ],
     "Dropbox": [
         "7646405",
@@ -8305,7 +8315,18 @@
         "R-272651",
         "R-274944-1",
         "R-263430",
-        "R-267511-1"
+        "R-267511-1",
+        "R-276282",
+        "R-275667",
+        "R-275691",
+        "R-276489",
+        "R-274882-1",
+        "R-276470-1",
+        "R-275012",
+        "R-275944",
+        "R-275580",
+        "R-276050-1",
+        "R-276513-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -8675,7 +8696,9 @@
         "R-2490368",
         "R-2490633",
         "R-2490627",
-        "R-2491277"
+        "R-2491277",
+        "R-2490381-1",
+        "R-2491516"
     ],
     "Salesforce": [
         "R333354",
@@ -10201,7 +10224,11 @@
         "R340010-1",
         "R339997",
         "R339834",
-        "R339311"
+        "R339311",
+        "R338663",
+        "R339998",
+        "R338172-1",
+        "R316760"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10344,7 +10371,9 @@
         "Lead-Business-Systems-Analyst---Interoperability_J-80772",
         "Manager---BlackLine-Centre-of-Excellence---COE--_J-79190",
         "CoE-Project-and-Implementation-Manager_J-81543",
-        "CoE-Business-Excellence-and-Special-Projects-Manager_J-81539"
+        "CoE-Business-Excellence-and-Special-Projects-Manager_J-81539",
+        "Travel-Counselor-I_J-81965",
+        "Assistant-Manager--Lease-Accounting_J-78410"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10476,7 +10505,12 @@
         "R262313-1",
         "R263729-1",
         "R263789",
-        "R258065"
+        "R258065",
+        "R263305",
+        "R263694",
+        "R261178",
+        "R260559",
+        "R258343"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10875,7 +10909,9 @@
         "R-13691",
         "R-13386",
         "R-11787-1",
-        "R-12408"
+        "R-12408",
+        "R-13607",
+        "R-13754"
     ],
     "PayPal": [
         "R0135744-1",
@@ -11347,7 +11383,23 @@
         "Senior-Associate-I---People-Analytics--Performance---Feedback-_723363WD",
         "Consultant-in-Treasury---Risk_724704WD",
         "IN-Associate-Internal-Audit-Internal-Audit--Services-Advisory-Mumbai_694201WD-1",
-        "IN-Senior-Associate-Process-Automation---Improvement-Consultant-Agentic-Automation-Advisory-Bangalore_714956WD-1"
+        "IN-Senior-Associate-Process-Automation---Improvement-Consultant-Agentic-Automation-Advisory-Bangalore_714956WD-1",
+        "IN-Manager-LMCC-ITRA-Advisory-Bangalore_724737WD-1",
+        "IN-Manager-LMCC-ITRA-Advisory-Bangalore_724736WD-1",
+        "IN-Manager-Oracle-fusion-Finance-Oracle-Advisory-Kolkata_724619WD-1",
+        "IN-Manager-Oracle-fusion-Finance-Oracle-Advisory-Kolkata_724690WD-1",
+        "IN-Senior-Associate-Senior-Data-Engineer-Data-and-Analytics-Advisory-Bangalore_717840WD-1",
+        "Senior-BI-Developer---Digital-IPA--freelance-_724776WD",
+        "Infrastructure-Development-Senior-Specialist-in-the-Government-and-Public-sector-practice_724775WD",
+        "Senior-Manager-Transfer-Pricing_696212WD",
+        "Transfer-Pricing-Senior-Consultant_696203WD",
+        "Tax-Legal---Associate-Fiscal-TRS--Santander-_724728WD",
+        "Junior-Ufficio-Gare---Roma--IFS-_724473WD",
+        "IN-Senior-Associate-Sailpoint-Cyber-Defense---Engineering-Advisory-Pan-India_723055WD-1",
+        "Experienced-Associate---Transfer-Pricing_619850WD",
+        "Senior-Manager---VAT--Indirect-Tax----Dublin_368898WD",
+        "IN-Senior-Associate-Java-Full-stack-D-A-Advisory-Bangalore_686264WD-1",
+        "IN-Senior-Associate--BA-Data-Analyst--Data-and-Analytics-Advisory-Pan-India_717862WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -11951,7 +12003,8 @@
         "7843707",
         "7843710",
         "7676111",
-        "7746572"
+        "7746572",
+        "7836969"
     ],
     "Discord": [
         "8289766002",
@@ -13970,7 +14023,8 @@
         "R167839-1",
         "R166864",
         "R168112",
-        "R167609"
+        "R167609",
+        "R166621"
     ],
     "Workday": [
         "R-0106509-1",
@@ -14148,7 +14202,8 @@
         "R28635",
         "R27208",
         "R25608",
-        "R24795"
+        "R24795",
+        "R28181-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -14413,7 +14468,9 @@
         "R2011610-1",
         "R2014981-1",
         "R2016967",
-        "R2016653"
+        "R2016653",
+        "R2016596",
+        "R2014859-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -14742,7 +14799,15 @@
         "R0000436707",
         "R0000436697",
         "R0000436527-1",
-        "R0000436687"
+        "R0000436687",
+        "R0000436752",
+        "R0000436751",
+        "R0000436749",
+        "R0000436748-1",
+        "R0000436747",
+        "R0000401819",
+        "R0000436676",
+        "R0000436706"
     ],
     "Zoom": [
         "R18188-1",
@@ -14870,7 +14935,8 @@
         "R-105265-1",
         "R-104696",
         "R-101763",
-        "R-105557"
+        "R-105557",
+        "R-102767"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
