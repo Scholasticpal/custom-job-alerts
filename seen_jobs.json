@@ -1309,7 +1309,8 @@
         "10403706",
         "10403715",
         "10403776",
-        "10403976"
+        "10403976",
+        "10404186"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -2981,7 +2982,8 @@
         "7579462",
         "7839229",
         "7840101",
-        "7857385"
+        "7857385",
+        "7789483"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4294,7 +4296,8 @@
         "8524420002",
         "8524422002",
         "8521090002",
-        "8512037002"
+        "8512037002",
+        "8525037002"
     ],
     "Rubrik": [
         "7310036",
@@ -8361,7 +8364,10 @@
         "R-269296-1",
         "R-269829",
         "R-276743",
-        "R-275024"
+        "R-275024",
+        "R-276557-1",
+        "R-276632-1",
+        "R-276633-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -8735,7 +8741,9 @@
         "R-2490381-1",
         "R-2491516",
         "R-2490847-2",
-        "R-2491082-2"
+        "R-2491082-2",
+        "R-2492106-1",
+        "R-2488460"
     ],
     "Salesforce": [
         "R333354",
@@ -10292,7 +10300,14 @@
         "R338542",
         "R339816",
         "R329632",
-        "R339968"
+        "R339968",
+        "R297540",
+        "R332115",
+        "R337682",
+        "R339797",
+        "R339385-1",
+        "R339199",
+        "R318460-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10440,7 +10455,10 @@
         "Assistant-Manager--Lease-Accounting_J-78410",
         "Product-Support-Analyst_J-80382",
         "Product-Support-Analyst_J-80383",
-        "Commercial-Director--Global-Travel-for-Meetings_J-81733"
+        "Commercial-Director--Global-Travel-for-Meetings_J-81733",
+        "Travel-Consultant-II--Emergency-Service-Center---Part-time_J-81989",
+        "MI-Analyst_J-81786",
+        "Business-Analyst_J-81778"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10588,7 +10606,8 @@
         "R260946-1",
         "R256344",
         "R262350",
-        "R263838"
+        "R263838",
+        "R263804"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10720,7 +10739,8 @@
         "R32050",
         "R31949",
         "R32119",
-        "R32121"
+        "R32121",
+        "R31889"
     ],
     "Fiserv": [
         "R-10392824",
@@ -10910,7 +10930,8 @@
         "R-10388534",
         "R-10388108",
         "R-10386589",
-        "R-10366690"
+        "R-10366690",
+        "R-10389262"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11554,7 +11575,16 @@
         "Manager--Payments-and-Open-Banking--Consulting_700438WD",
         "Dynamics-365-Finance-Senior-Manager_706868WD",
         "Dynamics-365-Finance-Manager_714554WD",
-        "Functional-D365-Supply-Chain-Management-Consultant_695188WD"
+        "Functional-D365-Supply-Chain-Management-Consultant_695188WD",
+        "Finance-Transformation--Enterprise-Performance-Management--Senior-Associate_723571WD",
+        "Finance-Transformation-ERP--Manager_723568WD",
+        "Senior-Associate---Legal-Financial-Regulation-Milano--LEG-_722243WD",
+        "Business-Application-Consulting---Oracle-Consulting-Generalist---Senior-Associate---CS---G_723932WD-4",
+        "Real-Assets-Senior-Associate_717611WD",
+        "Manager----Compliance-Program-Analyst_723979WD",
+        "Senior-experimentado---Product-Owner_723593WD",
+        "IN-Senior-Associate-Lending--Digital-transformation-FS-Tech-Advisory-Mumbai_724539WD-1",
+        "IN-Senior-Associate-Lending--Digital-transformation-FS-Tech-Advisory-Mumbai_724538WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -12753,7 +12783,9 @@
         "7844218",
         "7838644",
         "7848821",
-        "7819113"
+        "7819113",
+        "7804768",
+        "7852014"
     ],
     "Vercel": [
         "5624231004",
@@ -13301,7 +13333,9 @@
         "7839844",
         "7841358",
         "7843814",
-        "7837225"
+        "7837225",
+        "7851168",
+        "7851166"
     ],
     "Datadog": [
         "7194969",
@@ -13754,7 +13788,9 @@
         "7761064",
         "7852747",
         "7857997",
-        "7858397"
+        "7858397",
+        "7858788",
+        "7833883"
     ],
     "Elastic": [
         "7505982",
@@ -14107,7 +14143,8 @@
         "6806660",
         "7565953",
         "7769478",
-        "7839309"
+        "7839309",
+        "7714290"
     ],
     "Coursera": [
         "5839408004",
@@ -14310,7 +14347,10 @@
         "R-0105527",
         "R-0105395",
         "R-0106512",
-        "R-0106446"
+        "R-0106446",
+        "R-0104944",
+        "R-0106005-1",
+        "R-0105089"
     ],
     "CrowdStrike": [
         "R26911",
@@ -14386,7 +14426,8 @@
         "R28648",
         "R28638",
         "R28662",
-        "R28586"
+        "R28586",
+        "R26867"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -14662,7 +14703,24 @@
         "R2016610",
         "R2016779-1",
         "R2012602",
-        "R2011548"
+        "R2011548",
+        "R2011517",
+        "R2017104",
+        "R2017108",
+        "R2001870",
+        "R2011335",
+        "R2016777",
+        "R2015912",
+        "R2013643",
+        "R2016126",
+        "R2016240",
+        "R2016721",
+        "R2013743",
+        "R2016469",
+        "R2012791",
+        "R2016623",
+        "R2008133",
+        "R2016845"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -14706,7 +14764,8 @@
         "Hardware-Compliance-Regulatory-Engineer_2011539",
         "Hardware-Engineering--Electrical--Technical-Lead_2011767",
         "Embedded-Software-Engineer_2007397",
-        "Integrated-Photonics-Technical-Leader_2002562"
+        "Integrated-Photonics-Technical-Leader_2002562",
+        "Software-Engineer---Data-Center_2008203"
     ],
     "Intel": [
         "R0283052",
@@ -15022,7 +15081,14 @@
         "R0000436712",
         "R0000432492",
         "R0000436621",
-        "R0000436799"
+        "R0000436799",
+        "R0000436838-1",
+        "R0000436832",
+        "R0000436757-1",
+        "R0000436810",
+        "R0000436812",
+        "R0000436172",
+        "R0000436309"
     ],
     "Zoom": [
         "R18188-1",
@@ -15161,7 +15227,10 @@
         "R-101108-1",
         "R-105230",
         "R-105106-1",
-        "R-101263"
+        "R-101263",
+        "R-105358-1",
+        "R-105430-1",
+        "R-102257-ASSOCIATE-ACCOUNT-MANAGER---PORTUGUESE-AND-ENGLISH-SPEAKING-REQUIRED_R-104227"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -15190,7 +15259,8 @@
         "Senior-Product-Manager_112911-JOB",
         "Senior-Lead-Software-Engineer_113010-JOB-2",
         "Senior-Solutions-Consultant_113015-JOB",
-        "Managed-Services-Consultant_113014-JOB"
+        "Managed-Services-Consultant_113014-JOB",
+        "Manager--Sales-Development_113017-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
