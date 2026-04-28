@@ -1323,7 +1323,8 @@
         "10404813",
         "10404791",
         "10404971",
-        "10404937"
+        "10404937",
+        "10404995"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -8443,7 +8444,21 @@
         "R-272349",
         "R-276225",
         "R-276721",
-        "R-275528-1"
+        "R-275528-1",
+        "R-270303",
+        "R-276419",
+        "R-276208",
+        "R-253904",
+        "R-276564-1",
+        "R-276387-1",
+        "R-276708",
+        "R-276867",
+        "R-276417",
+        "R-276769",
+        "R-276207",
+        "R-276464-1",
+        "R-275349",
+        "R-276418"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10411,7 +10426,9 @@
         "R321489",
         "R336482-1",
         "R340119",
-        "R340212"
+        "R340212",
+        "R337927-1",
+        "R338584"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10568,7 +10585,8 @@
         "Global-Client-Manager---Media-and-Entertainment_J-81771",
         "Event-Manager_J-75894",
         "Senior-Engineer-I_J-80200",
-        "Manager---Digital-Services--Meetings---Events-Technology-Services-_J-80518"
+        "Manager---Digital-Services--Meetings---Events-Technology-Services-_J-80518",
+        "Product-Manager_J-81887"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10770,7 +10788,8 @@
         "Private-Equity-Investor-Product-Strategy--Associate_39970",
         "Private-Equity-Investor-Product-Strategy--AVP_39969-2",
         "Private-Equity-Investor-Product-Strategy--Analyst_41467",
-        "Private-Equity-Investor-Product-Strategy--Vice-President_40837"
+        "Private-Equity-Investor-Product-Strategy--Vice-President_40837",
+        "BXMA---Institutional-Client-Solutions--ICS---Associate_41794"
     ],
     "Capital Group": [
         "R6549",
@@ -11097,7 +11116,10 @@
         "R-10386734",
         "R-10386739",
         "R-10386740",
-        "R-10381485"
+        "R-10381485",
+        "R-10392697",
+        "R-10393570",
+        "R-10393002"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11203,7 +11225,9 @@
         "R-12605",
         "R-13714",
         "R-13704",
-        "R-11156"
+        "R-11156",
+        "R-13637",
+        "R-13182"
     ],
     "PayPal": [
         "R0135744-1",
@@ -11315,7 +11339,10 @@
         "R0136183",
         "R0135889-1",
         "R0135057-1",
-        "R0136350-1"
+        "R0136350-1",
+        "R0136352",
+        "R0136354-1",
+        "R0133730-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -11833,7 +11860,27 @@
         "IN-Manager--AI-Application-Security-Architect-IN-IT-Services-CO-IFS-PAN-India_711324WD",
         "IN-Senior-Associate---D365-Technical-Consultant-MS-Dynamics--Advisory-Mumbai_675033WD-1",
         "IN-Senior-Manager-Business-Analyst-D-A-Advisory-Mumbai_689161WD-1",
-        "Manager-Performance-and-Operational-Restructuring_680673WD"
+        "Manager-Performance-and-Operational-Restructuring_680673WD",
+        "IN-Manager-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725046WD-1",
+        "IN-Manager-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725049WD-1",
+        "IN-Manager-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725041WD-1",
+        "Oracle-Payroll--Senior-Associate--Bilingual-FR-EN-_723929WD-4",
+        "IN-Senior-Associate-FIORI-CAPM-GCC-Advisory-Bangalore_725068WD-1",
+        "IN-Senior-Associate-FIORI-CAPM-GCC-Advisory-Bangalore_725063WD-1",
+        "IN-Senior-Associate-FIORI-CAPM-GCC-Advisory-Bangalore_725066WD-2",
+        "IN-Senior-Associate-FIORI-CAPM-GCC-Advisory-Bangalore_725052WD-1",
+        "IN-Manager-SAP-BW-Developer--GCC-Advisory-Pune_725104WD-1",
+        "IN-Senior-Associate-SAP-Analytics-Specialist--with-Cortex--GCC-Advisory-Pune_725108WD-1",
+        "Senior-FIS-Quantum-Implementation-Expert-CEE_725168WD",
+        "IN-Manager-SAP-FICO-SAP-Advisory-Mumbai_714604WD-1",
+        "Oracle-Cloud-Delivery-Leader---Architect--Bilingual-FR-EN-_723927WD",
+        "IN-Associate-Angular-Developer-App-Tech-Advisory-Kolkata_725016WD-1",
+        "Junior-FIS-Quantum-Implementation-Expert-CEE_620120WD",
+        "IN-Senior-Associate--Devops-Engineer--Data---Analytics--Advisory--PAN-India_708003WD",
+        "IN-Manager--SAP-MM--Materials-Management---Data-and-Analytics-Advisory-Mumbai_694122WD",
+        "AI-Engineer--Senior-Associate-_719553WD",
+        "IN-Senior-Associate-Azure-Net-MS-Dynamics-Advisory-Bangalore_721811WD-1",
+        "IN-Senior-Associates-SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_717654WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14057,7 +14104,8 @@
         "7843331",
         "7813863",
         "7812351",
-        "7819471"
+        "7819471",
+        "7857695"
     ],
     "Elastic": [
         "7505982",
@@ -14430,7 +14478,8 @@
         "5893693004",
         "5751611004",
         "5868696004",
-        "5809067004"
+        "5809067004",
+        "5822954004"
     ],
     "Udemy": [
         "5424719004",
@@ -14515,7 +14564,8 @@
         "R168035",
         "R167940",
         "R168196",
-        "R161194-1"
+        "R161194-1",
+        "R168150"
     ],
     "Workday": [
         "R-0106509-1",
@@ -14650,7 +14700,10 @@
         "R-0105971",
         "R-0106484",
         "R-0106833",
-        "R-0100625"
+        "R-0100625",
+        "R-0106302",
+        "R-0106422",
+        "R-0104582"
     ],
     "CrowdStrike": [
         "R26911",
@@ -14735,7 +14788,9 @@
         "R28536",
         "R27825",
         "R28561-1",
-        "R27131"
+        "R27131",
+        "R26316",
+        "R27976"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -15064,7 +15119,9 @@
         "R2016177",
         "R2013876",
         "R2013642",
-        "R2016080-1"
+        "R2016080-1",
+        "R2008774",
+        "R1980272-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -15112,7 +15169,8 @@
         "Software-Engineer---Data-Center_2008203",
         "Software-Engineering-Technical-Leader_2004007",
         "Principal-Software-Engineer_2004135",
-        "Senior-Software-Engineer--Configuration-as-Code-_2013028"
+        "Senior-Software-Engineer--Configuration-as-Code-_2013028",
+        "Senior-Software-Engineer--Networking-Technologies_2010408"
     ],
     "Intel": [
         "R0283052",
@@ -15485,7 +15543,10 @@
         "R0000436891",
         "R0000436811",
         "R0000436785",
-        "R0000436895"
+        "R0000436895",
+        "R0000436551",
+        "R0000435977",
+        "R0000435958"
     ],
     "Zoom": [
         "R18188-1",
@@ -15540,7 +15601,8 @@
         "R17822-1",
         "R19085-1",
         "R18768-1",
-        "R19049-1"
+        "R19049-1",
+        "R18232-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -15643,7 +15705,8 @@
         "R-102283",
         "R-102112",
         "R-101682-1",
-        "R-105251-1"
+        "R-105251-1",
+        "R-102530-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
