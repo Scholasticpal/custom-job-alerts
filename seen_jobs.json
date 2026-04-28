@@ -864,7 +864,9 @@
         "7386950",
         "7809072",
         "7721132",
-        "7805386"
+        "7805386",
+        "7825578",
+        "7522783"
     ],
     "Figma": [
         "5426468004",
@@ -3011,7 +3013,8 @@
         "7840101",
         "7857385",
         "7789483",
-        "7858135"
+        "7858135",
+        "7861915"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4673,7 +4676,8 @@
         "7742234",
         "7510972",
         "7849590",
-        "7844785"
+        "7844785",
+        "7472889"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -8458,7 +8462,19 @@
         "R-276207",
         "R-276464-1",
         "R-275349",
-        "R-276418"
+        "R-276418",
+        "R-271075",
+        "R-276679-1",
+        "R-272916-1",
+        "R-275942",
+        "R-276347",
+        "R-276553",
+        "R-276531",
+        "R-272913",
+        "R-276601",
+        "R-267403-3",
+        "R-267091-3",
+        "R-276309"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -8836,7 +8852,10 @@
         "R-2492106-1",
         "R-2488460",
         "R-2492350",
-        "R-2489376"
+        "R-2489376",
+        "R-2492992",
+        "R-2492981",
+        "R-2492964"
     ],
     "Salesforce": [
         "R333354",
@@ -10428,7 +10447,11 @@
         "R340119",
         "R340212",
         "R337927-1",
-        "R338584"
+        "R338584",
+        "R340107",
+        "R339853",
+        "R321182",
+        "R340108"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10586,7 +10609,9 @@
         "Event-Manager_J-75894",
         "Senior-Engineer-I_J-80200",
         "Manager---Digital-Services--Meetings---Events-Technology-Services-_J-80518",
-        "Product-Manager_J-81887"
+        "Product-Manager_J-81887",
+        "Director---Corporate-Finance_J-81579-1",
+        "Travel-Program-Specialist_J-79600"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10751,7 +10776,12 @@
         "R263868",
         "R261543-1",
         "R261552",
-        "R260209"
+        "R260209",
+        "R263747",
+        "R263824",
+        "R263870",
+        "R263842",
+        "R261351"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10789,7 +10819,10 @@
         "Private-Equity-Investor-Product-Strategy--AVP_39969-2",
         "Private-Equity-Investor-Product-Strategy--Analyst_41467",
         "Private-Equity-Investor-Product-Strategy--Vice-President_40837",
-        "BXMA---Institutional-Client-Solutions--ICS---Associate_41794"
+        "BXMA---Institutional-Client-Solutions--ICS---Associate_41794",
+        "Global-Voice---Video-Engineering-Leader--SVP---Enterprise-Technology_41292-1",
+        "Fund-Accounting-Manager_26358",
+        "Accounting-Strategy---Policy--Vice-President_40876"
     ],
     "Capital Group": [
         "R6549",
@@ -10864,7 +10897,8 @@
         "Mgr-Swift-Operations_34049",
         "Data-Services-Intern_34339",
         "Security-Engineer-II---India_34308-1",
-        "Site-Reliability-Engineer-II_33993-1"
+        "Site-Reliability-Engineer-II_33993-1",
+        "Intern---Market-Risk_34354"
     ],
     "FactSet": [
         "R32107-1",
@@ -10897,7 +10931,8 @@
         "R32119",
         "R32121",
         "R31889",
-        "R31042"
+        "R31042",
+        "R31123"
     ],
     "Fiserv": [
         "R-10392824",
@@ -11119,7 +11154,15 @@
         "R-10381485",
         "R-10392697",
         "R-10393570",
-        "R-10393002"
+        "R-10393002",
+        "R-10389046-1",
+        "R-10393582",
+        "R-10392892",
+        "R-10380342",
+        "R-10385870",
+        "R-10378987",
+        "R-10373971",
+        "R-10391770"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11175,7 +11218,9 @@
         "Sales-Manager_867234-2",
         "FTI-Program-Manager---Regulatory_867354",
         "Business-Development-Associate---France-and-Benelux_863767",
-        "Junior-Quantitative-Trader_866662"
+        "Junior-Quantitative-Trader_866662",
+        "Director--Strategy---Analytics--Global-Client-Group-_866876",
+        "Senior-Software-Engineer--Python--React--Nextjs-Typescript-_863789"
     ],
     "Invesco": [
         "R-13647",
@@ -11227,7 +11272,8 @@
         "R-13704",
         "R-11156",
         "R-13637",
-        "R-13182"
+        "R-13182",
+        "R-13452"
     ],
     "PayPal": [
         "R0135744-1",
@@ -11880,7 +11926,24 @@
         "IN-Manager--SAP-MM--Materials-Management---Data-and-Analytics-Advisory-Mumbai_694122WD",
         "AI-Engineer--Senior-Associate-_719553WD",
         "IN-Senior-Associate-Azure-Net-MS-Dynamics-Advisory-Bangalore_721811WD-1",
-        "IN-Senior-Associates-SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_717654WD-1"
+        "IN-Senior-Associates-SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_717654WD-1",
+        "Principal-Engineer--Analytics---AI-_717199WD",
+        "Analista-de-Recrutamento---Seleo-Snior--Foco-em-Jovens-Talentos----Senior-Associate_724534WD",
+        "IN-Senior-Associate-UiPath-Developer-GCC-Advisory-Hyderabad_724623WD-1",
+        "IN-Senior-Associate-UiPath-Developer-GCC-Advisory-Hyderabad_724624WD-1",
+        "German-Speaking-IT-Experts-for-Specialized-Data---Project-Roles_674925WD-3",
+        "Deals---Strategy-Transaction-Services-Experienced-Professional_725143WD",
+        "Analista-de-Negcios--Projetos-TI----Associate-2--tag01---tag02-_714385WD",
+        "IN-Senior-Associate-Full-Stack-Python-Node-JS-Data-and-Analytics-Advisory-Pune_724793WD-1",
+        "IN-Manager-Data-Protection--ITRA-Advisory-Mumbai_723863WD",
+        "IN-Senior-Associate-Full-Stack-Python-Node-JS-Data-and-Analytics-Advisory-Pune_724792WD-1",
+        "IN-Manager-Data-Protection--ITRA-Advisory-Mumbai_723754WD-1",
+        "Quality-Assurance-Practice-Lead_677322WD-2",
+        "Admin-Resource-planner_725184WD",
+        "Specjalista-Specjalistka-ds-procesw-kadrowych--rekrutacja-prowadzona-online-_645433WD",
+        "IN-Senior-Associate-SAP-ABAP-AI-Advisory-Bangalore_703339WD-2",
+        "Consultant-Manager-Conformit---Banque-H-F_699198WD",
+        "IN-Senior-Associates-SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_717655WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -12367,7 +12430,9 @@
         "5193428008",
         "5197549008",
         "5198255008",
-        "5201264008"
+        "5201264008",
+        "5201506008",
+        "5160128008"
     ],
     "Coinbase": [
         "7559052",
@@ -13644,7 +13709,8 @@
         "7851166",
         "7858450",
         "7827555",
-        "7766197"
+        "7766197",
+        "7807748"
     ],
     "Datadog": [
         "7194969",
@@ -14479,7 +14545,8 @@
         "5751611004",
         "5868696004",
         "5809067004",
-        "5822954004"
+        "5822954004",
+        "5983324004"
     ],
     "Udemy": [
         "5424719004",
@@ -14565,7 +14632,8 @@
         "R167940",
         "R168196",
         "R161194-1",
-        "R168150"
+        "R168150",
+        "R167886-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -14703,7 +14771,14 @@
         "R-0100625",
         "R-0106302",
         "R-0106422",
-        "R-0104582"
+        "R-0104582",
+        "R-0105500",
+        "R-0106289",
+        "R-0105834",
+        "R-0106596",
+        "R-0101600",
+        "R-0106869",
+        "R-0106868"
     ],
     "CrowdStrike": [
         "R26911",
@@ -14790,7 +14865,9 @@
         "R28561-1",
         "R27131",
         "R26316",
-        "R27976"
+        "R27976",
+        "R28329",
+        "R28328"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -15121,7 +15198,15 @@
         "R2013642",
         "R2016080-1",
         "R2008774",
-        "R1980272-1"
+        "R1980272-1",
+        "R2014921",
+        "R2016370",
+        "R2001558",
+        "R2017164",
+        "R2016682",
+        "R2016301",
+        "R2017098",
+        "R2008350"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -15170,7 +15255,8 @@
         "Software-Engineering-Technical-Leader_2004007",
         "Principal-Software-Engineer_2004135",
         "Senior-Software-Engineer--Configuration-as-Code-_2013028",
-        "Senior-Software-Engineer--Networking-Technologies_2010408"
+        "Senior-Software-Engineer--Networking-Technologies_2010408",
+        "ASIC-Engineer---Design-and-Timing-Constraints---Exp-8--years_2007111"
     ],
     "Intel": [
         "R0283052",
@@ -15546,7 +15632,18 @@
         "R0000436895",
         "R0000436551",
         "R0000435977",
-        "R0000435958"
+        "R0000435958",
+        "R0000436960",
+        "R0000436807",
+        "R0000436872-1",
+        "R0000436779",
+        "R0000429999",
+        "R0000436951",
+        "R0000436681",
+        "R0000436867",
+        "R0000435370-1",
+        "R0000436945",
+        "R0000436940"
     ],
     "Zoom": [
         "R18188-1",
@@ -15602,7 +15699,11 @@
         "R19085-1",
         "R18768-1",
         "R19049-1",
-        "R18232-1"
+        "R18232-1",
+        "R18429",
+        "R18865",
+        "R15882-1",
+        "R18517"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -15706,7 +15807,10 @@
         "R-102112",
         "R-101682-1",
         "R-105251-1",
-        "R-102530-1"
+        "R-102530-1",
+        "R-103095",
+        "R-105434",
+        "R-105446"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
