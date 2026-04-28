@@ -866,7 +866,9 @@
         "7721132",
         "7805386",
         "7825578",
-        "7522783"
+        "7522783",
+        "7862532",
+        "7862536"
     ],
     "Figma": [
         "5426468004",
@@ -4682,7 +4684,8 @@
         "7510972",
         "7849590",
         "7844785",
-        "7472889"
+        "7472889",
+        "7842326"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -8483,7 +8486,12 @@
         "R-267091-3",
         "R-276309",
         "R-276326",
-        "R-276325"
+        "R-276325",
+        "R-274542",
+        "R-276858",
+        "R-275766",
+        "R-275260",
+        "R-276811"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -8864,7 +8872,9 @@
         "R-2489376",
         "R-2492992",
         "R-2492981",
-        "R-2492964"
+        "R-2492964",
+        "R-2493271",
+        "R-2493264"
     ],
     "Salesforce": [
         "R333354",
@@ -10467,7 +10477,14 @@
         "R339789",
         "R340186",
         "R318211",
-        "R321572"
+        "R321572",
+        "R339631",
+        "R338514",
+        "R339304",
+        "R340156",
+        "R337911",
+        "R336648",
+        "R338293"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10628,7 +10645,8 @@
         "Product-Manager_J-81887",
         "Director---Corporate-Finance_J-81579-1",
         "Travel-Program-Specialist_J-79600",
-        "Corporate-Sales-Manager--Mid-Market--Remote-_J-79256"
+        "Corporate-Sales-Manager--Mid-Market--Remote-_J-79256",
+        "Engineer-I_J-82014"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10800,7 +10818,9 @@
         "R263842",
         "R261351",
         "R263800",
-        "R263710"
+        "R263710",
+        "R263781",
+        "R261202"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10842,7 +10862,10 @@
         "Global-Voice---Video-Engineering-Leader--SVP---Enterprise-Technology_41292-1",
         "Fund-Accounting-Manager_26358",
         "Accounting-Strategy---Policy--Vice-President_40876",
-        "Investor-Reporting--Associate---Blackstone-Credit---Insurance_42884"
+        "Investor-Reporting--Associate---Blackstone-Credit---Insurance_42884",
+        "Global-Fund-Finance---Blackstone-Credit--Assistant-Vice-President_41811-7",
+        "Global-Fund-Finance---Blackstone-Credit--Assistant-Vice-President_41813-7",
+        "Internal-Audit---Associate_41712"
     ],
     "Capital Group": [
         "R6549",
@@ -10884,7 +10907,8 @@
         "R6566",
         "R6234-3",
         "R6510",
-        "R6541"
+        "R6541",
+        "R6536"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -10920,7 +10944,8 @@
         "Site-Reliability-Engineer-II_33993-1",
         "Intern---Market-Risk_34354",
         "Director--Client-Development---Sales-Commodities_34362",
-        "R-2026_34306"
+        "R-2026_34306",
+        "Operations-Analyst---CME-Group--FanDuel-FCM_33364"
     ],
     "FactSet": [
         "R32107-1",
@@ -11189,7 +11214,15 @@
         "R-10391698",
         "R-10385062",
         "R-10365696",
-        "R-10390072"
+        "R-10390072",
+        "R-10392756",
+        "R-10393594",
+        "R-10389584",
+        "R-10393597-1",
+        "R-10391917",
+        "R-10390709",
+        "R-10388751",
+        "R-10388745"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11420,7 +11453,8 @@
         "R0136295-1",
         "R0136296-1",
         "R0136455-1",
-        "R0134982-1"
+        "R0134982-1",
+        "R0134858"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -11994,7 +12028,13 @@
         "AI-Security-Opportunities-at-PwC--m-f-_700926WD-4",
         "Reward-Associate---Milano--ADV-_711527WD-2",
         "Associate---Indirect-Tax---Vat---Milano--TAX-_715971WD",
-        "Tax-Associate_723289WD"
+        "Tax-Associate_723289WD",
+        "IN-Manager-SAP-Fiori-GCC-Advisory-Bangalore_725138WD-1",
+        "Manager-Tax_725278WD",
+        "IN-Manager-SAP-ARIBA--Enterprise-APP-SAP----Advisory-Bangalore_725149WD-1",
+        "R-2--TAG01-_708700WD-1",
+        "IN-Manager-SAP-BTP-Architect-GCC-Advisory-Bangalore_725079WD-1",
+        "IN-Senior-Associate-ServiceNow-Integration-Developer-Digital-Integration-Advisory-Kolkata_725014WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -13770,7 +13810,8 @@
         "7766197",
         "7807748",
         "7858876",
-        "7681772"
+        "7681772",
+        "7826955"
     ],
     "Datadog": [
         "7194969",
@@ -14458,7 +14499,8 @@
         "7859326",
         "7831596",
         "7766476",
-        "7837575"
+        "7837575",
+        "7848131"
     ],
     "Asana": [
         "7120496",
@@ -14702,7 +14744,9 @@
         "R161194-1",
         "R168150",
         "R167886-1",
-        "R167497-1"
+        "R167497-1",
+        "R168135-1",
+        "R168004"
     ],
     "Workday": [
         "R-0106509-1",
@@ -14852,7 +14896,11 @@
         "R-0103020",
         "R-0106805-2",
         "R-0106305",
-        "R-0106844"
+        "R-0106844",
+        "R-0105415",
+        "R-0106147",
+        "R-0103876",
+        "R-0106723"
     ],
     "CrowdStrike": [
         "R26911",
@@ -14943,7 +14991,9 @@
         "R28329",
         "R28328",
         "R28370",
-        "R24227"
+        "R24227",
+        "R28485",
+        "R28529"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -15284,7 +15334,11 @@
         "R2017098",
         "R2008350",
         "R2007798-1",
-        "R2016353"
+        "R2016353",
+        "R2016971",
+        "R2013780",
+        "R2016659",
+        "R2017206"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -15728,7 +15782,18 @@
         "R0000436880-1",
         "R0000436835",
         "R0000434220",
-        "R0000436971"
+        "R0000436971",
+        "R0000436992",
+        "R0000436989",
+        "R0000436805",
+        "R0000436824",
+        "R0000436821-1",
+        "R0000436820",
+        "R0000436819",
+        "R0000436817",
+        "R0000436815",
+        "R0000436969",
+        "R0000436957"
     ],
     "Zoom": [
         "R18188-1",
