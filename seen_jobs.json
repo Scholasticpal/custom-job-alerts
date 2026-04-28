@@ -868,7 +868,8 @@
         "7825578",
         "7522783",
         "7862532",
-        "7862536"
+        "7862536",
+        "7859849"
     ],
     "Figma": [
         "5426468004",
@@ -1107,7 +1108,8 @@
         "5980306004",
         "5976837004",
         "5982531004",
-        "5982942004"
+        "5982942004",
+        "5983252004"
     ],
     "Amazon": [
         "3198115",
@@ -3019,7 +3021,10 @@
         "7858135",
         "7861915",
         "7859317",
-        "7834495"
+        "7834495",
+        "7862868",
+        "7823003",
+        "7858277"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4338,7 +4343,9 @@
         "7006090002",
         "7845325002",
         "8493150002",
-        "8495059002"
+        "8495059002",
+        "8527117002",
+        "8519282002"
     ],
     "Rubrik": [
         "7310036",
@@ -8491,7 +8498,13 @@
         "R-276858",
         "R-275766",
         "R-275260",
-        "R-276811"
+        "R-276811",
+        "R-272915",
+        "R-276062",
+        "R-275740",
+        "R-274977",
+        "R-268956-1",
+        "R-269393"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10484,7 +10497,14 @@
         "R340156",
         "R337911",
         "R336648",
-        "R338293"
+        "R338293",
+        "R338291",
+        "R339885-2",
+        "R340322",
+        "R338522",
+        "R321740",
+        "R-2_JR331047-1",
+        "R338635"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10820,7 +10840,10 @@
         "R263800",
         "R263710",
         "R263781",
-        "R261202"
+        "R261202",
+        "R257511-1",
+        "R263821",
+        "R263885"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10908,7 +10931,8 @@
         "R6234-3",
         "R6510",
         "R6541",
-        "R6536"
+        "R6536",
+        "R6459"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -11222,7 +11246,13 @@
         "R-10391917",
         "R-10390709",
         "R-10388751",
-        "R-10388745"
+        "R-10388745",
+        "R-10391362",
+        "R-10369984-1",
+        "R-10387258",
+        "R-10385801",
+        "R-10388249",
+        "R-10366858"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11454,7 +11484,11 @@
         "R0136296-1",
         "R0136455-1",
         "R0134982-1",
-        "R0134858"
+        "R0134858",
+        "R0136150",
+        "R0136126-1",
+        "R0136210-1",
+        "R0130730-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -12034,7 +12068,11 @@
         "IN-Manager-SAP-ARIBA--Enterprise-APP-SAP----Advisory-Bangalore_725149WD-1",
         "R-2--TAG01-_708700WD-1",
         "IN-Manager-SAP-BTP-Architect-GCC-Advisory-Bangalore_725079WD-1",
-        "IN-Senior-Associate-ServiceNow-Integration-Developer-Digital-Integration-Advisory-Kolkata_725014WD"
+        "IN-Senior-Associate-ServiceNow-Integration-Developer-Digital-Integration-Advisory-Kolkata_725014WD",
+        "Delivering-Deal-Value--Value-Creation--Manager_722823WD-2",
+        "Assistente-de-Auditoria---Associate_724913WD-1",
+        "US-Tax-Associate_605349WD",
+        "IN-Senior-Associate-SAP-BW-GCC-Advisory-Bangalore_725136WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -12525,7 +12563,9 @@
         "5201506008",
         "5160128008",
         "5196153008",
-        "5139038008"
+        "5139038008",
+        "5198842008",
+        "5203868008"
     ],
     "Coinbase": [
         "7559052",
@@ -13811,7 +13851,9 @@
         "7807748",
         "7858876",
         "7681772",
-        "7826955"
+        "7826955",
+        "7860066",
+        "7838860"
     ],
     "Datadog": [
         "7194969",
@@ -14900,7 +14942,11 @@
         "R-0105415",
         "R-0106147",
         "R-0103876",
-        "R-0106723"
+        "R-0106723",
+        "R-0105024",
+        "R-0103887",
+        "R-0103885-1",
+        "R-0106801"
     ],
     "CrowdStrike": [
         "R26911",
@@ -14993,7 +15039,8 @@
         "R28370",
         "R24227",
         "R28485",
-        "R28529"
+        "R28529",
+        "R26640"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -15338,7 +15385,18 @@
         "R2016971",
         "R2013780",
         "R2016659",
-        "R2017206"
+        "R2017206",
+        "R2016867",
+        "R2016203",
+        "R2017016",
+        "R2016648",
+        "R2011706",
+        "R2008740-1",
+        "R2017223",
+        "R2017148",
+        "R2006767",
+        "R2016753",
+        "R2016973"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -15389,7 +15447,9 @@
         "Senior-Software-Engineer--Configuration-as-Code-_2013028",
         "Senior-Software-Engineer--Networking-Technologies_2010408",
         "ASIC-Engineer---Design-and-Timing-Constraints---Exp-8--years_2007111",
-        "Optical-Component-Test-Engineer_2012927"
+        "Optical-Component-Test-Engineer_2012927",
+        "Software-Engineer--Hybrid-_2012176",
+        "Senior-Software-Engineer---Hybrid-_2012173"
     ],
     "Intel": [
         "R0283052",
@@ -15793,7 +15853,13 @@
         "R0000436817",
         "R0000436815",
         "R0000436969",
-        "R0000436957"
+        "R0000436957",
+        "R0000437005",
+        "R0000436982",
+        "R0000435849",
+        "R0000435853",
+        "R0000437002",
+        "R0000436995"
     ],
     "Zoom": [
         "R18188-1",
@@ -15966,7 +16032,8 @@
         "R-103095",
         "R-105434",
         "R-105446",
-        "R-105318"
+        "R-105318",
+        "R-104651"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
