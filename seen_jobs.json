@@ -862,7 +862,8 @@
         "7852220",
         "7462261",
         "7386950",
-        "7809072"
+        "7809072",
+        "7721132"
     ],
     "Figma": [
         "5426468004",
@@ -1100,7 +1101,8 @@
         "5856821004",
         "5980306004",
         "5976837004",
-        "5982531004"
+        "5982531004",
+        "5982942004"
     ],
     "Amazon": [
         "3198115",
@@ -4311,7 +4313,8 @@
         "8521090002",
         "8512037002",
         "8525037002",
-        "8464996002"
+        "8464996002",
+        "7006090002"
     ],
     "Rubrik": [
         "7310036",
@@ -4655,7 +4658,8 @@
         "7844075",
         "7742234",
         "7510972",
-        "7849590"
+        "7849590",
+        "7844785"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -10337,7 +10341,11 @@
         "R339970",
         "R339648",
         "R327161-1",
-        "R327104"
+        "R327104",
+        "R339839",
+        "R339658",
+        "R340073",
+        "R339871-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10645,7 +10653,9 @@
         "R263659",
         "R260176",
         "R262272",
-        "R258025-1"
+        "R258025-1",
+        "R263830",
+        "R261391"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -10721,7 +10731,10 @@
         "R6263",
         "R6447",
         "R6139",
-        "R6566"
+        "R6566",
+        "R6234-3",
+        "R6510",
+        "R6541"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -10989,7 +11002,8 @@
         "R-10389511",
         "R-10391469-1",
         "R-10391863",
-        "R-10389523"
+        "R-10389523",
+        "R-10382802"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11200,7 +11214,9 @@
         "R0136328-1",
         "R0136291-1",
         "R0135734",
-        "R-3_R0136580"
+        "R-3_R0136580",
+        "R0136202-1",
+        "R0136201-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -11658,7 +11674,15 @@
         "Finance--Economics-and-Analytics---Analyst_697877WD",
         "Acceleration-Center---BSCO-Managed-Services-Guidewire-Developer---Senior-Associate_721559WD-1",
         "Manager---Data-Steward_724499WD",
-        "Manager---DevOps_724509WD"
+        "Manager---DevOps_724509WD",
+        "-_724961WD",
+        "Senior-Associate--Accounting-Advisory_696913WD",
+        "Senior-Associate--Accounting-Advisory_702373WD",
+        "Financial-Services-Assurance--Banking---Capital-Markets----Experienced-Associate_649832WD",
+        "Financial-Services-Assurance--Insurance----Experienced-Associate_649855WD",
+        "Financial-Services-Assurance--Asset-Wealth-Management----Experienced-Associate_649848WD",
+        "Senior-Associate---Transfer-Pricing_712390WD",
+        "Consulting---Regional-Salesforce-Technical-Architect_724948WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14277,7 +14301,8 @@
         "5831732004",
         "5793513004",
         "5809885004",
-        "5424789004"
+        "5424789004",
+        "5784625004"
     ],
     "Grammarly": [],
     "Unacademy": [],
@@ -14321,7 +14346,10 @@
         "R166621",
         "R168176",
         "R168188",
-        "R166174"
+        "R166174",
+        "R165551",
+        "R168192",
+        "R168193"
     ],
     "Workday": [
         "R-0106509-1",
@@ -14449,7 +14477,8 @@
         "R-0105396",
         "R-0104992",
         "R-0105437-1",
-        "R-0106851"
+        "R-0106851",
+        "R-0106736"
     ],
     "CrowdStrike": [
         "R26911",
@@ -14839,7 +14868,10 @@
         "R2016976",
         "R2017036",
         "R2016955",
-        "R2017171-1"
+        "R2017171-1",
+        "R1999975",
+        "R2000295",
+        "R2017185"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -15219,7 +15251,10 @@
         "R0000436289",
         "R0000436211",
         "R0000435083-1",
-        "R0000432621"
+        "R0000432621",
+        "R0000432810",
+        "R0000433659",
+        "R0000436896"
     ],
     "Zoom": [
         "R18188-1",
@@ -15272,7 +15307,9 @@
         "R19083-1",
         "R19084",
         "R17822-1",
-        "R19085-1"
+        "R19085-1",
+        "R18768-1",
+        "R19049-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -15371,7 +15408,8 @@
         "R-102680-1",
         "R-104032",
         "R-103089-2",
-        "R-105071"
+        "R-105071",
+        "R-102283"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -15401,7 +15439,8 @@
         "Senior-Lead-Software-Engineer_113010-JOB-2",
         "Senior-Solutions-Consultant_113015-JOB",
         "Managed-Services-Consultant_113014-JOB",
-        "Manager--Sales-Development_113017-JOB"
+        "Manager--Sales-Development_113017-JOB",
+        "Intern_113019-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
