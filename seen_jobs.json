@@ -878,7 +878,11 @@
         "7865901",
         "7862775",
         "7867868",
-        "7819426"
+        "7819426",
+        "7814947",
+        "7838593",
+        "7862938",
+        "7863332"
     ],
     "Figma": [
         "5426468004",
@@ -6028,7 +6032,9 @@
         "7835518",
         "7835500",
         "7864623",
-        "7845745"
+        "7845745",
+        "7858159",
+        "7858164"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -6319,7 +6325,8 @@
         "7593382",
         "7856700",
         "7661919",
-        "7865849"
+        "7865849",
+        "7863595"
     ],
     "Dropbox": [
         "7646405",
@@ -8626,7 +8633,10 @@
         "R-2_R-272920",
         "R-277184",
         "R-276179-1",
-        "R-275714"
+        "R-275714",
+        "R-273376",
+        "R-275283",
+        "R-276145"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10675,7 +10685,10 @@
         "R340249",
         "R331002",
         "R340471-1",
-        "R340122"
+        "R340122",
+        "R339583",
+        "R278215",
+        "R339623"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11049,7 +11062,8 @@
         "R260412",
         "R260419",
         "R261694",
-        "R261844"
+        "R261844",
+        "R263736"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11178,7 +11192,8 @@
         "Director--Client-Development---Sales-Commodities_34362",
         "R-2026_34306",
         "Operations-Analyst---CME-Group--FanDuel-FCM_33364",
-        "Site-Reliability-Engineer-II_33998-1"
+        "Site-Reliability-Engineer-II_33998-1",
+        "Manager--Desktop-Support_34215"
     ],
     "FactSet": [
         "R32107-1",
@@ -11502,7 +11517,12 @@
         "R-10393661",
         "R-10387550",
         "R-10383726",
-        "R-10389267"
+        "R-10389267",
+        "R-10393666-1",
+        "R-10393664-1",
+        "R-10391653",
+        "R-10388989",
+        "R-10383471"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11627,7 +11647,10 @@
         "R-13343",
         "R-13814",
         "R-13826",
-        "R-13199"
+        "R-13199",
+        "R-13444",
+        "R-13424",
+        "R-10750"
     ],
     "PayPal": [
         "R0135744-1",
@@ -11767,7 +11790,10 @@
         "R0132256-1",
         "R0136302-1",
         "R0136274-1",
-        "R0136342-1"
+        "R0136342-1",
+        "R0134980",
+        "R0134048-1",
+        "R0136292-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -12434,7 +12460,16 @@
         "IN-Senior-Associate-Selenium-GCC-Advisory-Bangalore_709765WD-1",
         "IN-Senior-Associate--SAP-BW-HANA--Data-and-Analytics-Advisory-Pan-India_704318WD-1",
         "IN-Senior-Associate-Oracle-fusion-SCM-Oracle-Advisory-Kolkata_719062WD-1",
-        "IN-Senior-Associate-SAP-Treasury-SAP-Advisory-Mumbai_724981WD-1"
+        "IN-Senior-Associate-SAP-Treasury-SAP-Advisory-Mumbai_724981WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Pan-India_725302WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Pan-India_725303WD",
+        "Salesforce-Technical-Manager--Bilingual-FR-EN-_685310WD-4",
+        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Pan-India_725299WD",
+        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Pan-India_725300WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Pan-India_725301WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Kolkata_711156WD-1",
+        "IN-Manager-SAP-ABAP-SAP-Advsiory-Mumbai_718914WD-2",
+        "Finance-Transformation--Enterprise-Performance-Management--Senior-Associate_705819WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -12929,7 +12964,8 @@
         "5198842008",
         "5203868008",
         "5200856008",
-        "5203545008"
+        "5203545008",
+        "5195866008"
     ],
     "Coinbase": [
         "7559052",
@@ -13058,7 +13094,8 @@
         "7760206",
         "7445174",
         "7809557",
-        "7851231"
+        "7851231",
+        "7868030"
     ],
     "Discord": [
         "8289766002",
@@ -14698,7 +14735,8 @@
         "7858550",
         "7851502",
         "7867762",
-        "7867135"
+        "7867135",
+        "7742823"
     ],
     "Elastic": [
         "7505982",
@@ -15178,7 +15216,8 @@
         "R166390-1",
         "R168133",
         "R165141",
-        "R167166"
+        "R167166",
+        "R165291"
     ],
     "Workday": [
         "R-0106509-1",
@@ -15360,7 +15399,8 @@
         "R-0106628",
         "R-0104470-1",
         "R-0106795",
-        "R-0102770"
+        "R-0102770",
+        "R-0106623"
     ],
     "CrowdStrike": [
         "R26911",
@@ -15884,7 +15924,18 @@
         "R2016641",
         "R2014628",
         "R2006279",
-        "R2014871"
+        "R2014871",
+        "R2017221",
+        "R2014496",
+        "R2016901",
+        "R2015087",
+        "R2017135",
+        "R2016675",
+        "R2017290",
+        "R2016186",
+        "R2013978",
+        "R2015816",
+        "R2016597"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -16389,7 +16440,15 @@
         "R0000429106",
         "R0000434858",
         "R0000437091",
-        "R0000436897"
+        "R0000436897",
+        "R0000432987-1",
+        "R0000437103",
+        "R0000432646",
+        "R0000437128",
+        "R0000437098",
+        "R0000437083",
+        "R0000437084",
+        "R-2026-_R0000437121"
     ],
     "Zoom": [
         "R18188-1",
@@ -16460,7 +16519,9 @@
         "R19093-1",
         "R18856-2",
         "R18855-1",
-        "R19094"
+        "R19094",
+        "R18274-1",
+        "R18681"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -16579,7 +16640,9 @@
         "R-105476-1",
         "R-105185-2",
         "R-104583",
-        "R-102391-1"
+        "R-102391-1",
+        "R-101746-1",
+        "R-101898"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
