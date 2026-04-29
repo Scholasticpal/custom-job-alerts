@@ -875,7 +875,10 @@
         "7863844",
         "7440960",
         "7861422",
-        "7865901"
+        "7865901",
+        "7862775",
+        "7867868",
+        "7819426"
     ],
     "Figma": [
         "5426468004",
@@ -2518,7 +2521,8 @@
         "e5145511-6cbd-4168-a5ad-24bc925487db",
         "1bfddcb6-d00c-4f48-892e-50fd4b62a734",
         "b0377ae2-3d60-4602-a021-d9fc0ee98906",
-        "cef5fbcc-5728-4bfd-a94f-50efdbf23734"
+        "cef5fbcc-5728-4bfd-a94f-50efdbf23734",
+        "8a389cb2-a592-4227-b699-460cdf697ca1"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4383,7 +4387,12 @@
         "8520024002",
         "8520611002",
         "8529348002",
-        "8438263002"
+        "8438263002",
+        "7840555002",
+        "8463065002",
+        "8432348002",
+        "8530171002",
+        "8002207002"
     ],
     "Rubrik": [
         "7310036",
@@ -8614,7 +8623,10 @@
         "R-276695",
         "R-275880",
         "R-276163",
-        "R-2_R-272920"
+        "R-2_R-272920",
+        "R-277184",
+        "R-276179-1",
+        "R-275714"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9000,7 +9012,13 @@
         "R-2493264",
         "R-2493887",
         "R-2493886",
-        "R-2494257"
+        "R-2494257",
+        "R-2494518",
+        "R-2494514",
+        "R-2494511",
+        "R-2494492",
+        "R-2494485",
+        "R-2494478"
     ],
     "Salesforce": [
         "R333354",
@@ -10655,7 +10673,9 @@
         "R339716",
         "R332060",
         "R340249",
-        "R331002"
+        "R331002",
+        "R340471-1",
+        "R340122"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10826,7 +10846,8 @@
         "Project-Manager_J-80026",
         "Project-Manager_J-80032",
         "Associate-Travel-Consultant_J-82038",
-        "HRIS-Reporting-Analyst_J-79441"
+        "HRIS-Reporting-Analyst_J-79441",
+        "Practicante-Operaciones-de-Viajes_J-81105"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11027,7 +11048,8 @@
         "R263681-1",
         "R260412",
         "R260419",
-        "R261694"
+        "R261694",
+        "R261844"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11474,7 +11496,13 @@
         "R-10392885",
         "R-10388123",
         "R-10379701",
-        "R-10366441-1"
+        "R-10366441-1",
+        "R-10389864",
+        "R-10387841",
+        "R-10393661",
+        "R-10387550",
+        "R-10383726",
+        "R-10389267"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11597,7 +11625,9 @@
         "R-13528",
         "R-13382",
         "R-13343",
-        "R-13814"
+        "R-13814",
+        "R-13826",
+        "R-13199"
     ],
     "PayPal": [
         "R0135744-1",
@@ -11735,7 +11765,9 @@
         "R0135526-1",
         "R0136107-1",
         "R0132256-1",
-        "R0136302-1"
+        "R0136302-1",
+        "R0136274-1",
+        "R0136342-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -12397,7 +12429,12 @@
         "TLS---PwC-Services---Controller-Appalti---Milano_597054WD-2",
         "Digital-Risk-Solutions-Senior-Associate_704424WD",
         "Coordinateur-trice--RH---Talent-Acquisition-Delivery_725542WD",
-        "Charg-e--de-Formation---Talent---Development-Delivery_725536WD"
+        "Charg-e--de-Formation---Talent---Development-Delivery_725536WD",
+        "Meeting-and-Events-Senior-Associate_716281WD-1",
+        "IN-Senior-Associate-Selenium-GCC-Advisory-Bangalore_709765WD-1",
+        "IN-Senior-Associate--SAP-BW-HANA--Data-and-Analytics-Advisory-Pan-India_704318WD-1",
+        "IN-Senior-Associate-Oracle-fusion-SCM-Oracle-Advisory-Kolkata_719062WD-1",
+        "IN-Senior-Associate-SAP-Treasury-SAP-Advisory-Mumbai_724981WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -12891,7 +12928,8 @@
         "5139038008",
         "5198842008",
         "5203868008",
-        "5200856008"
+        "5200856008",
+        "5203545008"
     ],
     "Coinbase": [
         "7559052",
@@ -14658,7 +14696,9 @@
         "7137624",
         "7834561",
         "7858550",
-        "7851502"
+        "7851502",
+        "7867762",
+        "7867135"
     ],
     "Elastic": [
         "7505982",
@@ -15028,7 +15068,8 @@
         "7859222",
         "7821585",
         "7844103",
-        "7863512"
+        "7863512",
+        "7838490"
     ],
     "Coursera": [
         "5839408004",
@@ -15314,7 +15355,12 @@
         "R-0106324",
         "R-0106876-1",
         "R-0104906",
-        "R-0105496"
+        "R-0105496",
+        "R-0106004",
+        "R-0106628",
+        "R-0104470-1",
+        "R-0106795",
+        "R-0102770"
     ],
     "CrowdStrike": [
         "R26911",
@@ -15417,7 +15463,9 @@
         "R28439",
         "R28501",
         "R25903-1",
-        "R28445"
+        "R28445",
+        "R28468",
+        "R26401"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -15819,7 +15867,24 @@
         "R2005281",
         "R2003355",
         "R2015853",
-        "R2016534-1"
+        "R2016534-1",
+        "R2003480",
+        "R2014374",
+        "R2013787",
+        "R2009482",
+        "R2011559",
+        "R2009350",
+        "R2005447",
+        "R2002691-1",
+        "R2012046",
+        "R2010019-1",
+        "R2011373",
+        "R2014698",
+        "R2016091-1",
+        "R2016641",
+        "R2014628",
+        "R2006279",
+        "R2014871"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -16320,7 +16385,11 @@
         "R0000436519",
         "R0000436958",
         "R0000432502-1",
-        "R0000431020"
+        "R0000431020",
+        "R0000429106",
+        "R0000434858",
+        "R0000437091",
+        "R0000436897"
     ],
     "Zoom": [
         "R18188-1",
@@ -16388,7 +16457,10 @@
         "R18131-1",
         "R18728-1",
         "R19095",
-        "R19093-1"
+        "R19093-1",
+        "R18856-2",
+        "R18855-1",
+        "R19094"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -16541,7 +16613,8 @@
         "Intern_113019-JOB",
         "Senior-Product-Manager_112926-JOB",
         "Workplace-Coordinator--Onsite--Austin-Office-_113025-JOB",
-        "Sr-Administrative-Assistant_112997-JOB"
+        "Sr-Administrative-Assistant_112997-JOB",
+        "Technical-Success-Manager--TSM----Core_111654-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
