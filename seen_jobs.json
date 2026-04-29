@@ -2515,7 +2515,8 @@
         "1bd21732-ce5b-4dc0-937f-c2a57e7007d2",
         "e5145511-6cbd-4168-a5ad-24bc925487db",
         "1bfddcb6-d00c-4f48-892e-50fd4b62a734",
-        "b0377ae2-3d60-4602-a021-d9fc0ee98906"
+        "b0377ae2-3d60-4602-a021-d9fc0ee98906",
+        "cef5fbcc-5728-4bfd-a94f-50efdbf23734"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -3042,7 +3043,16 @@
         "7858277",
         "7859591",
         "7861010",
-        "7862376"
+        "7862376",
+        "7866324",
+        "7866159",
+        "7866325",
+        "7866313",
+        "7865887",
+        "7866312",
+        "7866315",
+        "7866314",
+        "7866316"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4365,7 +4375,8 @@
         "8495059002",
         "8527117002",
         "8519282002",
-        "8520024002"
+        "8520024002",
+        "8520611002"
     ],
     "Rubrik": [
         "7310036",
@@ -8571,7 +8582,8 @@
         "R-275516",
         "R-273719",
         "R-276307",
-        "R-275356"
+        "R-275356",
+        "R-272041"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10599,7 +10611,11 @@
         "R339849",
         "R340027",
         "R339504",
-        "R339872"
+        "R339872",
+        "R340414",
+        "R340412",
+        "R340349",
+        "R340350"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10765,7 +10781,9 @@
         "Engineer-I_J-82014",
         "Senior-Analyst-WFM_J-79853",
         "Travel-Counselor-II_J-79205",
-        "Senior-Protegrity-Platform-Engineer_J-81383"
+        "Senior-Protegrity-Platform-Engineer_J-81383",
+        "Project-Manager_J-80026",
+        "Project-Manager_J-80032"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10955,7 +10973,10 @@
         "R263292",
         "R262243",
         "R263247",
-        "R261571"
+        "R261571",
+        "R262420-1",
+        "R263816",
+        "R260708"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11000,7 +11021,8 @@
         "Investor-Reporting--Associate---Blackstone-Credit---Insurance_42884",
         "Global-Fund-Finance---Blackstone-Credit--Assistant-Vice-President_41811-7",
         "Global-Fund-Finance---Blackstone-Credit--Assistant-Vice-President_41813-7",
-        "Internal-Audit---Associate_41712"
+        "Internal-Audit---Associate_41712",
+        "Blackstone-Technology-and-Innovations--Executive-Desktop-Support--AVP_42767-2"
     ],
     "Capital Group": [
         "R6549",
@@ -11378,7 +11400,8 @@
         "R-10393005",
         "R-10385139",
         "R-10385451",
-        "R-10392693-1"
+        "R-10392693-1",
+        "R-10393654"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11498,7 +11521,9 @@
         "R-13291",
         "R-12732",
         "R-13404-2",
-        "R-13528"
+        "R-13528",
+        "R-13382",
+        "R-13343"
     ],
     "PayPal": [
         "R0135744-1",
@@ -12262,7 +12287,13 @@
         "IN-Senior-Associate--SAP-Ariba-SAP--Advisory-Kolkata_721624WD-1",
         "IN-Associate-FS-Strategy-Financial-Services-Advisory-Gurgaon_709271WD-1",
         "IN-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_714330WD-1",
-        "Senior-Data-Engineer-focus-Palantir-Foundry-for-Technology-Consulting--f-m-d-_725423WD-1"
+        "Senior-Data-Engineer-focus-Palantir-Foundry-for-Technology-Consulting--f-m-d-_725423WD-1",
+        "IN-Senior-Associate-Data-Engineer--Python-Data---Analytics-Advisory-Bangalore_696318WD-1",
+        "IN-Senior-Associate-SAP-GRC-Security-Enterprise-Apps-SAP-Advisory-Mumbai_694808WD-1",
+        "Iskusni--a-raunovoa--tkinja---vie-pozicija_716413WD",
+        "IN-Director-Enterprise-Architect-Financial-Services-Advisory-Mumbai_724989WD-1",
+        "IN-Senior-Associate-Employee-Central---Time-Off-Enterprise-Apps-SAP-Advisory-Bangalore_717275WD-1",
+        "PwC-sger-teamleder-til-KYC-Teamet-hos-PwC-Hellerup_725448WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14050,7 +14081,9 @@
         "7838860",
         "7759971",
         "7784006",
-        "7851080"
+        "7851080",
+        "7853760",
+        "7851083"
     ],
     "Datadog": [
         "7194969",
@@ -15160,7 +15193,10 @@
         "R-0104153",
         "R-0105242",
         "R-0106369-1",
-        "R-0103194-1"
+        "R-0103194-1",
+        "R-0103606",
+        "R-0106856",
+        "R-0106792-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -15259,7 +15295,9 @@
         "R28641",
         "R-1--PROCUREMENT_R28685",
         "R28593",
-        "R25858"
+        "R25858",
+        "R28439",
+        "R28501"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -16140,7 +16178,12 @@
         "R0000437065-1",
         "R0000437064",
         "R0000437063",
-        "R0000437060"
+        "R0000437060",
+        "R0000436258",
+        "R0000435428-1",
+        "R0000437020",
+        "R0000436938",
+        "R0000437069"
     ],
     "Zoom": [
         "R18188-1",
