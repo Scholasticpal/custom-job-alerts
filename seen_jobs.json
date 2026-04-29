@@ -3054,7 +3054,10 @@
         "7866312",
         "7866315",
         "7866314",
-        "7866316"
+        "7866316",
+        "7863467",
+        "7864989",
+        "7863541"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -6538,7 +6541,9 @@
         "7812032",
         "7812031",
         "7812024",
-        "7812025"
+        "7812025",
+        "7773571",
+        "7773573"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -8605,7 +8610,11 @@
         "R-276740",
         "R-276536",
         "R-271934",
-        "R-276608"
+        "R-276608",
+        "R-276695",
+        "R-275880",
+        "R-276163",
+        "R-2_R-272920"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -8990,7 +8999,8 @@
         "R-2493271",
         "R-2493264",
         "R-2493887",
-        "R-2493886"
+        "R-2493886",
+        "R-2494257"
     ],
     "Salesforce": [
         "R333354",
@@ -10640,7 +10650,12 @@
         "R340350",
         "R338521-1",
         "R340080-1",
-        "R339961-1"
+        "R339961-1",
+        "R339719",
+        "R339716",
+        "R332060",
+        "R340249",
+        "R331002"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10709,7 +10724,8 @@
         "7572460",
         "7589373",
         "7773637",
-        "7733886"
+        "7733886",
+        "7862030"
     ],
     "PayU": [],
     "American Express": [
@@ -10809,7 +10825,8 @@
         "Senior-Protegrity-Platform-Engineer_J-81383",
         "Project-Manager_J-80026",
         "Project-Manager_J-80032",
-        "Associate-Travel-Consultant_J-82038"
+        "Associate-Travel-Consultant_J-82038",
+        "HRIS-Reporting-Analyst_J-79441"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11006,7 +11023,11 @@
         "R260629",
         "R263873",
         "R263723",
-        "R262234"
+        "R262234",
+        "R263681-1",
+        "R260412",
+        "R260419",
+        "R261694"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11444,7 +11465,16 @@
         "R-10391242",
         "R-10393129",
         "R-10391241",
-        "R-10388533"
+        "R-10388533",
+        "R-10391856",
+        "R-10392762",
+        "R-10392893",
+        "R-10392207",
+        "R-10392820",
+        "R-10392885",
+        "R-10388123",
+        "R-10379701",
+        "R-10366441-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11703,7 +11733,9 @@
         "R0136272-1",
         "R0136064-1",
         "R0135526-1",
-        "R0136107-1"
+        "R0136107-1",
+        "R0132256-1",
+        "R0136302-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -12358,7 +12390,14 @@
         "IN-Manager-HRT-P-O-Advisory-Gurugram_685197WD-2",
         "IN-Specialist-3-Internal-Audit-Managed-Services-Advisory-Bangalore_725266WD-1",
         "Meneder-Menederka---Indirect-Tax-ESG--Excise---Energy---Environment-_692632WD",
-        "Operation-FS-BNK-BLOCKCHAIN---Associate---Milano---Financial-Services_707168WD"
+        "Operation-FS-BNK-BLOCKCHAIN---Associate---Milano---Financial-Services_707168WD",
+        "Senior-Associate--Payments-and-Open-Banking--Consulting_700442WD",
+        "Solution-Architect_725582WD",
+        "Functional-D365-Supply-Chain-Management-Consultant_725581WD",
+        "TLS---PwC-Services---Controller-Appalti---Milano_597054WD-2",
+        "Digital-Risk-Solutions-Senior-Associate_704424WD",
+        "Coordinateur-trice--RH---Talent-Acquisition-Delivery_725542WD",
+        "Charg-e--de-Formation---Talent---Development-Delivery_725536WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -12980,7 +13019,8 @@
         "7836969",
         "7760206",
         "7445174",
-        "7809557"
+        "7809557",
+        "7851231"
     ],
     "Discord": [
         "8289766002",
@@ -14842,7 +14882,10 @@
         "7837575",
         "7848131",
         "7663327",
-        "7817931"
+        "7817931",
+        "7525643",
+        "7863815",
+        "7621572"
     ],
     "Asana": [
         "7120496",
@@ -15266,7 +15309,12 @@
         "R-0106856",
         "R-0106792-1",
         "R-0105931",
-        "R-0104914"
+        "R-0104914",
+        "R-0103116",
+        "R-0106324",
+        "R-0106876-1",
+        "R-0104906",
+        "R-0105496"
     ],
     "CrowdStrike": [
         "R26911",
@@ -15367,7 +15415,9 @@
         "R28593",
         "R25858",
         "R28439",
-        "R28501"
+        "R28501",
+        "R25903-1",
+        "R28445"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -15763,7 +15813,13 @@
         "R1987602",
         "R2016009",
         "R2016171-1",
-        "R2013891"
+        "R2013891",
+        "R2016992",
+        "R2016463",
+        "R2005281",
+        "R2003355",
+        "R2015853",
+        "R2016534-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -15816,7 +15872,8 @@
         "ASIC-Engineer---Design-and-Timing-Constraints---Exp-8--years_2007111",
         "Optical-Component-Test-Engineer_2012927",
         "Software-Engineer--Hybrid-_2012176",
-        "Senior-Software-Engineer---Hybrid-_2012173"
+        "Senior-Software-Engineer---Hybrid-_2012173",
+        "ASIC-Engineering-Technical-Leader_2011645"
     ],
     "Intel": [
         "R0283052",
@@ -16261,7 +16318,9 @@
         "R0000436123",
         "R0000436118",
         "R0000436519",
-        "R0000436958"
+        "R0000436958",
+        "R0000432502-1",
+        "R0000431020"
     ],
     "Zoom": [
         "R18188-1",
@@ -16481,7 +16540,8 @@
         "Manager--Sales-Development_113017-JOB",
         "Intern_113019-JOB",
         "Senior-Product-Manager_112926-JOB",
-        "Workplace-Coordinator--Onsite--Austin-Office-_113025-JOB"
+        "Workplace-Coordinator--Onsite--Austin-Office-_113025-JOB",
+        "Sr-Administrative-Assistant_112997-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
