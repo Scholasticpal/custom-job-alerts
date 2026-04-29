@@ -10707,7 +10707,10 @@
         "R278215",
         "R339623",
         "R339589",
-        "R339966"
+        "R339966",
+        "R340462",
+        "R264377",
+        "R288974"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11083,7 +11086,9 @@
         "R261694",
         "R261844",
         "R263736",
-        "R260945"
+        "R260945",
+        "R263790",
+        "R263773"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11547,7 +11552,11 @@
         "R-10352344",
         "R-10382793",
         "R-10388385",
-        "R-10393010"
+        "R-10393010",
+        "R-10391636",
+        "R-10387570",
+        "R-10387569",
+        "R-10391470"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12503,7 +12512,8 @@
         "IN-Senior-Associate-SAP-ABAP-SAP-Advisory-Mumbai_718911WD-1",
         "IN-Manager-SAP-ABAP-MDG-SAP-Advisory-Bangalore_718857WD",
         "Independence-Manager_724322WD-2",
-        "External-Audit---Senior-Associate_709319WD"
+        "External-Audit---Senior-Associate_709319WD",
+        "Senior-Associate--Operations-and-Procurement_711238WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -13001,7 +13011,8 @@
         "5203545008",
         "5195866008",
         "5189205008",
-        "5205495008"
+        "5205495008",
+        "5165539008"
     ],
     "Coinbase": [
         "7559052",
@@ -15999,7 +16010,13 @@
         "R2016878-1",
         "R2016589",
         "R2017192",
-        "R2017101"
+        "R2017101",
+        "R2015305",
+        "R2017175-1",
+        "R2017268-1",
+        "R2016674",
+        "R2017354",
+        "R2017361"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -16056,7 +16073,8 @@
         "ASIC-Engineering-Technical-Leader_2011645",
         "Silicon-Photonics-Senior-Design-Engineer_2012792",
         "Silicon-Photonics-Design-Engineer_2012894",
-        "Silicon-Photonics-Packaging-Technical-Leader_2012895"
+        "Silicon-Photonics-Packaging-Technical-Leader_2012895",
+        "Security-Engineering-Technical-Leader--Control-Plane--Hypershield-_2011401"
     ],
     "Intel": [
         "R0283052",
