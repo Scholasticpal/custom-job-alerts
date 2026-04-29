@@ -1612,7 +1612,8 @@
         "4686380005",
         "4676696005",
         "4689132005",
-        "4681254005"
+        "4681254005",
+        "4688061005"
     ],
     "Rippling": [],
     "Slice": [
@@ -2505,7 +2506,11 @@
         "708390cc-7f87-4ce5-b411-ec6014b0553a",
         "2a61ae9d-b901-4017-a7d1-5f0035fe6043",
         "c3b33dcc-f61f-4779-aada-d84a71a58630",
-        "9f62ea59-f407-41ac-991f-8a2102f50b62"
+        "9f62ea59-f407-41ac-991f-8a2102f50b62",
+        "81234353-a3e0-458e-9fda-c0cb0b801025",
+        "1bd21732-ce5b-4dc0-937f-c2a57e7007d2",
+        "e5145511-6cbd-4168-a5ad-24bc925487db",
+        "1bfddcb6-d00c-4f48-892e-50fd4b62a734"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -3127,7 +3132,8 @@
         "7816571",
         "7839735",
         "7839649",
-        "5650542"
+        "5650542",
+        "7436155"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -5973,7 +5979,19 @@
         "7860518",
         "7855876",
         "7859882",
-        "7756959"
+        "7756959",
+        "7864639",
+        "7864663",
+        "7864586",
+        "7864764",
+        "7859876",
+        "7864650",
+        "7864667",
+        "7864607",
+        "7835495",
+        "7835518",
+        "7835500",
+        "7864623"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -8521,7 +8539,21 @@
         "R-276257",
         "R-276168",
         "R-271753",
-        "R-272420-1"
+        "R-272420-1",
+        "R-270710",
+        "R-274257",
+        "R-271372",
+        "R-276525-1",
+        "R-274727-1",
+        "R-276480",
+        "R-276319-1",
+        "R-276320-1",
+        "R-274711",
+        "R-276862",
+        "R-275440",
+        "R-276709",
+        "R-276610",
+        "R-276860"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10541,7 +10573,11 @@
         "R339054",
         "R338769",
         "R339859",
-        "R329478-1"
+        "R329478-1",
+        "R332103-1",
+        "R339954",
+        "R340170",
+        "R339056"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10704,7 +10740,9 @@
         "Director---Corporate-Finance_J-81579-1",
         "Travel-Program-Specialist_J-79600",
         "Corporate-Sales-Manager--Mid-Market--Remote-_J-79256",
-        "Engineer-I_J-82014"
+        "Engineer-I_J-82014",
+        "Senior-Analyst-WFM_J-79853",
+        "Travel-Counselor-II_J-79205"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -10882,7 +10920,10 @@
         "R257511-1",
         "R263821",
         "R263885",
-        "R263807"
+        "R263807",
+        "R263856",
+        "R261164",
+        "R263716-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11298,7 +11339,8 @@
         "R-10374043",
         "R-10359774",
         "R-10391865",
-        "R-10380331"
+        "R-10380331",
+        "R-10386751"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11410,7 +11452,8 @@
         "R-13637",
         "R-13182",
         "R-13452",
-        "R-13602"
+        "R-13602",
+        "R-11918"
     ],
     "PayPal": [
         "R0135744-1",
@@ -11537,7 +11580,8 @@
         "R0130730-1",
         "R0133967-1",
         "R0136369-1",
-        "R0136054-1"
+        "R0136054-1",
+        "R0136289-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -12125,7 +12169,25 @@
         "Risk-Services---Manager---Internal-Audit_715565WD",
         "---_694180WD",
         "Risk-Management---Independence---Senior-Associate--Fixed-Term-_725329WD",
-        "XMLNAME--ELT-program-Consultant---Intern_436684WD"
+        "XMLNAME--ELT-program-Consultant---Intern_436684WD",
+        "IFS---CMD---Strategic-Marketing-Specialist---Marketing_698552WD",
+        "L----_602866WD",
+        "AML-Analyst-with-Brazilian-Portuguese--PT-BR----Financial-Crime-Unit_718866WD-4",
+        "Consultant-Manager-Actuariat---CDI---H-F_683848WD",
+        "Consultant-Manager-Modlisation-Risques-de-March---Secteur-Financier--CDI---H-F_687891WD",
+        "Consultant-Manager-Risques-ESG---Secteur-Financier---CDI---H-F_687938WD",
+        "IN-Senior-Associate-Business-analysis-IGT---EU-R-Advisory-Gurgaon_718602WD-1",
+        "Consultant-Senior-en-Modlisation-des-Risques-ALM-ERM---Banque---CDI---H-F_667153WD",
+        "Consultant-Manager-Senior-Manager-Actuariat-Compensation---Benefits-H-F_689722WD",
+        "Consultant-Senior-Actuariat-Compensation---Benefits-H-F_696849WD",
+        "Consultant-Expriment-Conformit-Contrle-Interne---Asset-Management---CDI---H-F_687869WD",
+        "Consultant-Senior-Contrle---Audit-Interne---Secteur-Assurance-F-H_704037WD",
+        "Consultant-Senior-Risk---Controls---Secteur-Financier-F-H_681891WD",
+        "Senior-Manager-Sanctions---Secteur-Financier-H-F_700677WD",
+        "Consultant-Senior-Conformit---Secteur-Financier---CDI---H-F_685234WD",
+        "Consultant-Manager-Audit---Contrle-Interne---Assurance---CDI---H-F_675519WD",
+        "Consultant-Senior-Reporting-Financier---Banque-F-H_715786WD",
+        "Consultant-Senior-Contrle---Audit-Interne---Secteur-Financier-F-H_718890WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -15110,7 +15172,11 @@
         "R24227",
         "R28485",
         "R28529",
-        "R26640"
+        "R26640",
+        "R28491",
+        "R28641",
+        "R-1--PROCUREMENT_R28685",
+        "R28593"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -15490,7 +15556,9 @@
         "R2012089",
         "R2012085",
         "R2016900-1",
-        "R2016895"
+        "R2016895",
+        "R2007890",
+        "R2016771"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -15962,7 +16030,10 @@
         "R0000428858",
         "R0000437022",
         "R0000436359-1",
-        "R0000436722"
+        "R0000436722",
+        "R0000436254",
+        "R0000435044",
+        "R0000436614"
     ],
     "Zoom": [
         "R18188-1",
@@ -16141,7 +16212,8 @@
         "R-105322-1",
         "R-105422-1",
         "R-99889-1",
-        "R-101713-1"
+        "R-101713-1",
+        "R-105086-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
