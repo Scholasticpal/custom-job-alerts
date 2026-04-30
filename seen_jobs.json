@@ -8687,7 +8687,15 @@
         "R-270034-1",
         "R-268243",
         "R-277155",
-        "R-277150"
+        "R-277150",
+        "R-266710",
+        "R-276475",
+        "R-276739",
+        "R-275594",
+        "R-276591",
+        "R-271499",
+        "R-276611",
+        "R-276823"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10762,7 +10770,11 @@
         "R330647",
         "R330646",
         "R327677",
-        "R339689"
+        "R339689",
+        "R340526",
+        "R340537",
+        "R340541",
+        "R338577"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10832,7 +10844,8 @@
         "7589373",
         "7773637",
         "7733886",
-        "7862030"
+        "7862030",
+        "7810851"
     ],
     "PayU": [],
     "American Express": [
@@ -10937,7 +10950,10 @@
         "Practicante-Operaciones-de-Viajes_J-81105",
         "Travel-Experience-Counselor-III_J-81872",
         "Senior-Travel-Consultant_J-78570",
-        "Business-Analyst_J-80817"
+        "Business-Analyst_J-80817",
+        "Senior-Event-Project-Lead_J-80851",
+        "DevOps-Engineer_J-80131",
+        "Travel-Consultant_J-82060"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11152,7 +11168,8 @@
         "R263941",
         "R263752",
         "R261675-1",
-        "R258180"
+        "R258180",
+        "R260566-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11245,7 +11262,8 @@
         "R6536",
         "R6459",
         "R6175-1",
-        "R6584"
+        "R6584",
+        "R6412"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -11630,7 +11648,10 @@
         "R-10363759",
         "R-10391648",
         "R-10391980",
-        "R-10392172"
+        "R-10392172",
+        "R-10389597-1",
+        "R-10389596",
+        "R-10393247"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11906,7 +11927,8 @@
         "R0136292-1",
         "R0136512-1",
         "R0136053-1",
-        "R0135972-1"
+        "R0135972-1",
+        "R0136276-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -12627,7 +12649,19 @@
         "Payroll-Specialist_725718WD-1",
         "IN-Senior-Associate-MERN-Developer-GCC-Advisory-Bangalore_712700WD",
         "IN-Senior-Associate-AWS-Cloud-Engineer--GCC-Advisory-Bangalore_716668WD",
-        "IN-Associate-CSV-ITRA-Advisory-Mumbai_725445WD"
+        "IN-Associate-CSV-ITRA-Advisory-Mumbai_725445WD",
+        "IN-Senior-Associate-SAP-SD-Enterprise-Apps-SAP-Advisory-Mumbai_721061WD-2",
+        "IN-Manager--GCP-Data-Engineer---Data--Analytics--Advisory--Bangalore_718062WD-1",
+        "IN-Senior-Associate--SAP-ABAP-OC-SAP--Advisory----Kolkata_708622WD-1",
+        "Konsultant-ka-ds-obsugi-systemu-HR--rekrutacja-prowadzona-online-_716958WD-1",
+        "IN-Senior-Associate-Python-Fullstack-Data-Analytics-Advisory-Bangalore_705964WD",
+        "Senior-OT-Engineer_723734WD",
+        "IN-Senior-Associate-MERN-Developer-GCC-Advisory-Bangalore_712699WD-1",
+        "Senior-Consultant---Operaciones_725117WD",
+        "IN-Senior-Manager-Agentic-Contact-Center-Delivery-Agentic-Automation-Advisory-Bangalore_719355WD-1",
+        "IN-Senior-Associate-Azure-DevOps-Engineer-Digital-Integration-Advisory-Kolkata_721779WD-1",
+        "IN-Associate-KYC-AML-Fincrime-COE-Bangalore_715304WD-1",
+        "Payroll-Manager_707480WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14437,7 +14471,9 @@
         "7851083",
         "7861722",
         "7778981",
-        "7838735"
+        "7838735",
+        "7334950",
+        "7056256"
     ],
     "Datadog": [
         "7194969",
@@ -15689,7 +15725,9 @@
         "R27669",
         "R28261",
         "R27538-1",
-        "R23382"
+        "R23382",
+        "R28025",
+        "R27144"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -16737,7 +16775,8 @@
         "R0000400264",
         "R0000437126",
         "R0000437146",
-        "R0000436856"
+        "R0000436856",
+        "R0000432077"
     ],
     "Zoom": [
         "R18188-1",
@@ -16815,7 +16854,8 @@
         "R19097-2",
         "R19096",
         "R18950",
-        "R19098-1"
+        "R19098-1",
+        "R19100-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -16943,7 +16983,8 @@
         "R-99423-1",
         "R-99230",
         "R-99673-1",
-        "R-101899-1"
+        "R-101899-1",
+        "R-100663"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
