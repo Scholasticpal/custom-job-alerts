@@ -885,7 +885,9 @@
         "7863332",
         "7559141",
         "7868256",
-        "7467934"
+        "7467934",
+        "7856807",
+        "7863789"
     ],
     "Figma": [
         "5426468004",
@@ -5552,7 +5554,10 @@
         "7834915",
         "7850089",
         "7757293",
-        "7863245"
+        "7863245",
+        "7855832",
+        "7855864",
+        "7863831"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -10716,7 +10721,9 @@
         "R339966",
         "R340462",
         "R264377",
-        "R288974"
+        "R288974",
+        "R338156",
+        "R338157"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10889,7 +10896,8 @@
         "Associate-Travel-Consultant_J-82038",
         "HRIS-Reporting-Analyst_J-79441",
         "Practicante-Operaciones-de-Viajes_J-81105",
-        "Travel-Experience-Counselor-III_J-81872"
+        "Travel-Experience-Counselor-III_J-81872",
+        "Senior-Travel-Consultant_J-78570"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11096,7 +11104,10 @@
         "R263736",
         "R260945",
         "R263790",
-        "R263773"
+        "R263773",
+        "R262440-1",
+        "R261328",
+        "R261639"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11188,7 +11199,8 @@
         "R6541",
         "R6536",
         "R6459",
-        "R6175-1"
+        "R6175-1",
+        "R6584"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -11227,7 +11239,8 @@
         "R-2026_34306",
         "Operations-Analyst---CME-Group--FanDuel-FCM_33364",
         "Site-Reliability-Engineer-II_33998-1",
-        "Manager--Desktop-Support_34215"
+        "Manager--Desktop-Support_34215",
+        "Sr-Market-Surveillance-Analyst---NY--Hybrid-_34320-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -11567,7 +11580,8 @@
         "R-10391470",
         "R-10392236",
         "R-10393258",
-        "R-10391025"
+        "R-10391025",
+        "R-10384697"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12524,7 +12538,10 @@
         "IN-Manager-SAP-ABAP-MDG-SAP-Advisory-Bangalore_718857WD",
         "Independence-Manager_724322WD-2",
         "External-Audit---Senior-Associate_709319WD",
-        "Senior-Associate--Operations-and-Procurement_711238WD"
+        "Senior-Associate--Operations-and-Procurement_711238WD",
+        "IN-Senior-Associate-Sailpoint-Cyber-Defense---Engineering-Advisory-Pan-India_721483WD-1",
+        "IN-Specialist-2--Sustainability--ESG--Advisory--Gurgaon_719226WD-1",
+        "---M365_725635WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -13024,7 +13041,8 @@
         "5189205008",
         "5205495008",
         "5165539008",
-        "5205626008"
+        "5205626008",
+        "5140260008"
     ],
     "Coinbase": [
         "7559052",
@@ -13154,7 +13172,9 @@
         "7445174",
         "7809557",
         "7851231",
-        "7868030"
+        "7868030",
+        "7866674",
+        "7866623"
     ],
     "Discord": [
         "8289766002",
@@ -14328,7 +14348,8 @@
         "7784006",
         "7851080",
         "7853760",
-        "7851083"
+        "7851083",
+        "7861722"
     ],
     "Datadog": [
         "7194969",
@@ -16031,7 +16052,24 @@
         "R2017354",
         "R2017361",
         "R1997040",
-        "R1999579"
+        "R1999579",
+        "R2017058",
+        "R2017050",
+        "R2016650",
+        "R2017241",
+        "R2015041",
+        "R2017178",
+        "R2017243",
+        "R2017062",
+        "R2017162",
+        "R2017063",
+        "R2016747",
+        "R2017055",
+        "R2015098",
+        "R2016728",
+        "R2017224",
+        "R1973423",
+        "R2011908"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -16558,7 +16596,14 @@
         "R0000436993",
         "R0000437023",
         "R0000436834",
-        "R0000437152"
+        "R0000437152",
+        "R0000436763",
+        "R0000437125",
+        "R0000436025",
+        "R0000437145",
+        "R0000412797",
+        "R0000437149",
+        "R0000437008"
     ],
     "Zoom": [
         "R18188-1",
@@ -16635,7 +16680,8 @@
         "R18531-1",
         "R19097-2",
         "R19096",
-        "R18950"
+        "R18950",
+        "R19098-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -16759,7 +16805,9 @@
         "R-101898",
         "R-105444-2",
         "R-105443-1",
-        "R-104116-1"
+        "R-104116-1",
+        "R-99423-1",
+        "R-99230"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
