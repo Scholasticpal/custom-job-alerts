@@ -4430,7 +4430,8 @@
         "8531838002",
         "8439172002",
         "8397556002",
-        "8523677002"
+        "8523677002",
+        "8527655002"
     ],
     "Rubrik": [
         "7310036",
@@ -6606,7 +6607,8 @@
         "7773571",
         "7773573",
         "7862076",
-        "7862073"
+        "7862073",
+        "7739988"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -8743,7 +8745,8 @@
         "R-276453",
         "R-276788",
         "R-269626",
-        "R-269624"
+        "R-269624",
+        "R-271008-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9139,7 +9142,8 @@
         "R-2494876",
         "R-2485463",
         "R-2494750-2",
-        "R-2336175"
+        "R-2336175",
+        "R-2495622"
     ],
     "Salesforce": [
         "R333354",
@@ -10857,7 +10861,13 @@
         "R331341",
         "R340264",
         "R340267",
-        "R340221"
+        "R340221",
+        "R332576",
+        "R339813",
+        "R339380",
+        "R339371",
+        "R293196",
+        "R292762"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11288,7 +11298,10 @@
         "R263858",
         "R263894",
         "R263859",
-        "R261776"
+        "R261776",
+        "R258423",
+        "R263709",
+        "R261091"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11811,7 +11824,10 @@
         "R-10393731",
         "R-10392550",
         "R-10381388",
-        "R-10391029"
+        "R-10391029",
+        "R-10381092",
+        "R-10390608",
+        "R-10382599"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11876,7 +11892,8 @@
         "Product-Specialist---Canvas-Custom-Indexing_867638-1",
         "Marketing---Event-Officer---12-month-contract_866778-1",
         "Intern---Sales-and-Marketing_867598",
-        "Retirement-Business-Development-Specialist_867657"
+        "Retirement-Business-Development-Specialist_867657",
+        "WAMBR-Legal-Counsel-2_867284"
     ],
     "Invesco": [
         "R-13647",
@@ -12105,7 +12122,11 @@
         "R0135904-1",
         "R0135641",
         "R0136248-1",
-        "R0134004-1"
+        "R0134004-1",
+        "R0136207",
+        "R0136640",
+        "R0136641",
+        "R0135195-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -12897,7 +12918,14 @@
         "IN-Associate-Python-Gen-AI-AI-in-Delivery-Advisory-Bangalore_725204WD-1",
         "IN-Associate-Python-Gen-AI-AI-in-Delivery-Advisory-Bangalore_725205WD-1",
         "IN-Senior-Associate--AI-ML-Data-Science-Data-and-Analytics-Advisory-Bangalore_725305WD-1",
-        "IN-Senior-Associate--AI-ML-Data-Science-Data-and-Analytics-Advisory-Bangalore_725306WD-1"
+        "IN-Senior-Associate--AI-ML-Data-Science-Data-and-Analytics-Advisory-Bangalore_725306WD-1",
+        "Senior-Manager---Director---Achats-Directs---Supply-Chain---F-H_724412WD",
+        "Digital-Operations--Senior-Associate_707152WD-1",
+        "Finance-Associate_703989WD-1",
+        "Government-Tech-Director---Government---Public-Sector--G-PS----Advisory_725901WD",
+        "IN-Senior-Manager--Project-Management-and-Business-Analyst-Data-Analytics-Advisory-Gurgaon_725705WD-1",
+        "IN-Director-Technical-risk-FS-ITRA-Advisory-Mumbai_725412WD-1",
+        "IN-Senior-Associate-Identity-Access-Engineer-Digital-Integration-Advisory-Kolkata_725609WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -13399,7 +13427,8 @@
         "5165539008",
         "5205626008",
         "5140260008",
-        "4880880008"
+        "4880880008",
+        "5206978008"
     ],
     "Coinbase": [
         "7559052",
@@ -15880,7 +15909,8 @@
         "R-0105379",
         "R-0105490-1",
         "R-0106588",
-        "R-0106889"
+        "R-0106889",
+        "R-0106881"
     ],
     "CrowdStrike": [
         "R26911",
@@ -16491,7 +16521,8 @@
         "R2016943",
         "R2009389",
         "R2013615",
-        "R2014504"
+        "R2014504",
+        "R2012070"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -17082,7 +17113,9 @@
         "R0000437273",
         "R0000437272",
         "R0000437270-1",
-        "R0000437269"
+        "R0000437269",
+        "R0000437284",
+        "R0000437222-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -17167,7 +17200,8 @@
         "R18727-1",
         "R19105",
         "R19104",
-        "R19106-1"
+        "R19106-1",
+        "R18714-1"
     ],
     "Expedia": [
         "R-2_R-105040",
