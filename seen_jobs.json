@@ -3080,7 +3080,10 @@
         "7867435",
         "7864290",
         "7867052",
-        "7866916"
+        "7866916",
+        "7862091",
+        "7870775",
+        "7870762"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -8695,7 +8698,13 @@
         "R-276591",
         "R-271499",
         "R-276611",
-        "R-276823"
+        "R-276823",
+        "R-276722",
+        "R-271518-1",
+        "R-276299-1",
+        "R-276288",
+        "R-276871",
+        "R-274144-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10774,7 +10783,15 @@
         "R340526",
         "R340537",
         "R340541",
-        "R338577"
+        "R338577",
+        "R329720",
+        "R338280",
+        "R308760",
+        "R339475",
+        "R340245",
+        "R321493-1",
+        "R340421",
+        "R340260"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -10953,7 +10970,13 @@
         "Business-Analyst_J-80817",
         "Senior-Event-Project-Lead_J-80851",
         "DevOps-Engineer_J-80131",
-        "Travel-Consultant_J-82060"
+        "Travel-Consultant_J-82060",
+        "Senior-Travel-Counsellor_J-81754",
+        "Travel-Counselor---German---English_J-82073",
+        "Travel-Counselor_J-82072-1",
+        "Travel-Counselor---French---English_J-82071",
+        "Junior-Engineer---I_J-80039",
+        "Travel-Counselor---English-and-Spanish_J-82067"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11169,7 +11192,9 @@
         "R263752",
         "R261675-1",
         "R258180",
-        "R260566-1"
+        "R260566-1",
+        "R260926-1",
+        "R261049"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11216,7 +11241,8 @@
         "Global-Fund-Finance---Blackstone-Credit--Assistant-Vice-President_41813-7",
         "Internal-Audit---Associate_41712",
         "Blackstone-Technology-and-Innovations--Executive-Desktop-Support--AVP_42767-2",
-        "Product-Manager--VP---BXCI-Technology_41707-1"
+        "Product-Manager--VP---BXCI-Technology_41707-1",
+        "Blackstone-Internal-Audit--BXIA--AVP---Technology-Audit_42889"
     ],
     "Capital Group": [
         "R6549",
@@ -11651,7 +11677,17 @@
         "R-10392172",
         "R-10389597-1",
         "R-10389596",
-        "R-10393247"
+        "R-10393247",
+        "R-10386700",
+        "R-10390642",
+        "R-10380329",
+        "R-10391983",
+        "R-10278841",
+        "R-10387879",
+        "R-10387873",
+        "R-10387878",
+        "R-10391976",
+        "R-10391970"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11928,7 +11964,8 @@
         "R0136512-1",
         "R0136053-1",
         "R0135972-1",
-        "R0136276-1"
+        "R0136276-1",
+        "R0125922-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -12661,7 +12698,21 @@
         "IN-Senior-Manager-Agentic-Contact-Center-Delivery-Agentic-Automation-Advisory-Bangalore_719355WD-1",
         "IN-Senior-Associate-Azure-DevOps-Engineer-Digital-Integration-Advisory-Kolkata_721779WD-1",
         "IN-Associate-KYC-AML-Fincrime-COE-Bangalore_715304WD-1",
-        "Payroll-Manager_707480WD"
+        "Payroll-Manager_707480WD",
+        "IN-Manager-Green-technology-Climate---sustainability-strategy--Advisory--Kolkata_707832WD-1",
+        "IN-Senior-Associate-CRM-Technical-GCC-Advisory-Bangalore_723233WD-1",
+        "Konsultant-Konsultantka---VAT_725803WD-1",
+        "IN-Senior-Associate-Vlocity-Enterprise-Apps-SFDC-Advisory-Bangalore_708137WD-1",
+        "IN-Manager-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Gurugram_722281WD-2",
+        "IN-Senior-Associates-SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_718074WD-1",
+        "IN-Senior-Associates-SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_718073WD-1",
+        "XMLNAME--Senior--Manager-International-Employment-Tax--Amsterdam--Utrecht--Rotterdam-en-Eindhoven-_629418WD-2",
+        "IN-Manager-Zoho-Creator-OneCloud-Advisory-Gurgaon_714245WD-1",
+        "Architekt-IT-Architektka-IT_664666WD",
+        "IN-Senior-Associate-SAP-SD-Enterprise-Apps-SAP-Advisory-Mumbai_721063WD-1",
+        "IN-Senior-Associate-GEN-AI-Data-and-Analytics-Advisory-Bangalore_722860WD-1",
+        "SIEM---Splunk-Administrator---Platform-Engineer_722313WD",
+        "IN-Manager-FATCA--CRS-GTO---SCO-TRS-Bangalore_714195WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14946,7 +14997,8 @@
         "7867135",
         "7742823",
         "7867749",
-        "7844421"
+        "7844421",
+        "7787709"
     ],
     "Elastic": [
         "7505982",
@@ -16212,7 +16264,8 @@
         "R2017040",
         "R2016982",
         "R2017147",
-        "R2013215"
+        "R2013215",
+        "R2012810"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -16776,7 +16829,8 @@
         "R0000437126",
         "R0000437146",
         "R0000436856",
-        "R0000432077"
+        "R0000432077",
+        "R0000400282"
     ],
     "Zoom": [
         "R18188-1",
