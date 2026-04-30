@@ -889,7 +889,9 @@
         "7856807",
         "7863789",
         "7857010",
-        "7813411"
+        "7813411",
+        "6558993",
+        "7862528"
     ],
     "Figma": [
         "5426468004",
@@ -1129,7 +1131,8 @@
         "5976837004",
         "5982531004",
         "5982942004",
-        "5983252004"
+        "5983252004",
+        "5985397004"
     ],
     "Amazon": [
         "3198115",
@@ -4417,7 +4420,8 @@
         "8432348002",
         "8530171002",
         "8002207002",
-        "8520123002"
+        "8520123002",
+        "8531019002"
     ],
     "Rubrik": [
         "7310036",
@@ -5569,7 +5573,8 @@
         "7863245",
         "7855832",
         "7855864",
-        "7863831"
+        "7863831",
+        "7867723"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -8719,7 +8724,9 @@
         "R-272886",
         "R-276303",
         "R-271561",
-        "R-275269"
+        "R-275269",
+        "R-275774-1",
+        "R-277012"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9113,7 +9120,8 @@
         "R-2494485",
         "R-2494478",
         "R-2494876",
-        "R-2485463"
+        "R-2485463",
+        "R-2494750-2"
     ],
     "Salesforce": [
         "R333354",
@@ -10820,7 +10828,12 @@
         "R338509",
         "R339779",
         "R340184",
-        "R339821"
+        "R339821",
+        "R340593",
+        "R340577",
+        "R340587",
+        "R340568",
+        "R340252"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11009,7 +11022,11 @@
         "Travel-Consultant_J-81790",
         "Client-Solutions-Manager_J-79585",
         "Strategic-Client-Account-Manager_J-80581",
-        "Project-Manager_J-81628"
+        "Project-Manager_J-81628",
+        "Director--Marketplace---Ground--Rail--Car--Mobility-_J-81596-1",
+        "Director--Marketplace-Planning_J-81595-1",
+        "Travel-Consultant---After-Hours---German-and-English-Speaking-with-Amadeus_J-82087",
+        "Travel-Counselor-After-Hours_J-82085"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11231,7 +11248,9 @@
         "R263889",
         "R260837",
         "R257270",
-        "R261402"
+        "R261402",
+        "R251197",
+        "R256289"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11367,7 +11386,9 @@
         "Site-Reliability-Engineer-II_33998-1",
         "Manager--Desktop-Support_34215",
         "Sr-Market-Surveillance-Analyst---NY--Hybrid-_34320-1",
-        "Director--Data-Sales---Strategic-Accounts_34217-1"
+        "Director--Data-Sales---Strategic-Accounts_34217-1",
+        "Senior-Sales-Associate--Platform-Solutions_33664",
+        "Sr-Data-Analyst_34366"
     ],
     "FactSet": [
         "R32107-1",
@@ -11739,7 +11760,10 @@
         "R-10385634",
         "R-10391800",
         "R-10392991",
-        "R-10392994"
+        "R-10392994",
+        "R-10390636",
+        "R-10388488",
+        "R-10391548"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -11874,7 +11898,8 @@
         "R-13384-2",
         "R-13422",
         "R-12134",
-        "R-13842"
+        "R-13842",
+        "R-13830"
     ],
     "PayPal": [
         "R0135744-1",
@@ -12026,7 +12051,10 @@
         "R0134940-1",
         "R0135182-1",
         "R0135181-1",
-        "R0135904-1"
+        "R0135904-1",
+        "R0135641",
+        "R0136248-1",
+        "R0134004-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -12793,7 +12821,9 @@
         "IN-Associate---Credit-Risk-Quant---Financial-Services-Risk-Advisory-Mumbai_725239WD-1",
         "ASR-AH-DE-speaking-resource_725770WD",
         "Senior-Associate---Junior-Proposal-Manager--Advisory-Major-Pursuits-_725769WD",
-        "IN-Senior-Associate-SAP-BASIS-GCC-Advisory-Bangalore_725099WD-1"
+        "IN-Senior-Associate-SAP-BASIS-GCC-Advisory-Bangalore_725099WD-1",
+        "IN-Senior-Associate-SAP-SD-Enterprise-Apps-SAP-Advisory-Mumbai_721065WD-1",
+        "Analista-de-tica-e-Conduta-Empresarial---Senior-Associate_720026WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14036,7 +14066,8 @@
         "7852014",
         "7489553",
         "7804677",
-        "7125765"
+        "7125765",
+        "7729424"
     ],
     "Vercel": [
         "5624231004",
@@ -15311,7 +15342,8 @@
         "7817931",
         "7525643",
         "7863815",
-        "7621572"
+        "7621572",
+        "7843340"
     ],
     "Asana": [
         "7120496",
@@ -15455,7 +15487,8 @@
         "7821585",
         "7844103",
         "7863512",
-        "7838490"
+        "7838490",
+        "7859564"
     ],
     "Coursera": [
         "5839408004",
@@ -15753,7 +15786,10 @@
         "R-0106708",
         "R-0106247",
         "R-0106301",
-        "R-0106413"
+        "R-0106413",
+        "R-0105421",
+        "R-0105489-1",
+        "R-0105379"
     ],
     "CrowdStrike": [
         "R26911",
@@ -16353,7 +16389,11 @@
         "R2016982",
         "R2017147",
         "R2013215",
-        "R2012810"
+        "R2012810",
+        "R1999196-1",
+        "R2004837",
+        "R2016104",
+        "R2000424"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -16929,7 +16969,11 @@
         "R0000437187",
         "R0000434109-1",
         "R0000400318",
-        "R0000437186"
+        "R0000437186",
+        "R0000437216",
+        "R0000433373",
+        "R0000400316",
+        "R0000437099"
     ],
     "Zoom": [
         "R18188-1",
@@ -17010,7 +17054,8 @@
         "R19098-1",
         "R19100-1",
         "R18477-1",
-        "R18166-2"
+        "R18166-2",
+        "R18727-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -17141,7 +17186,8 @@
         "R-101899-1",
         "R-100663",
         "R-105287",
-        "R-105346-1"
+        "R-105346-1",
+        "R-105242-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
