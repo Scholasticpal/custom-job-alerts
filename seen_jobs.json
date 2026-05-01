@@ -2554,7 +2554,9 @@
         "8a389cb2-a592-4227-b699-460cdf697ca1",
         "14b92563-6fc9-4c76-83d4-8890fe53150d",
         "50abecc2-b565-4ae4-830a-d818177e8b80",
-        "95f05aaa-9180-4d15-baf0-c1aa8efdb9fb"
+        "95f05aaa-9180-4d15-baf0-c1aa8efdb9fb",
+        "9d497980-2032-440c-8bac-63fb53938acc",
+        "46bad05c-9c01-43e5-9056-a46ae4d24b27"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8769,7 +8771,9 @@
         "R-274457-1",
         "R-259398",
         "R-277225-1",
-        "R-276392"
+        "R-276392",
+        "R-275564",
+        "R-276219"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11360,7 +11364,8 @@
         "R260443",
         "R262228",
         "R257240-1",
-        "R260785"
+        "R260785",
+        "R263628"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11458,7 +11463,9 @@
         "R6175-1",
         "R6584",
         "R6412",
-        "R6430"
+        "R6430",
+        "R6586",
+        "R6543"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -11890,7 +11897,10 @@
         "R-10382599",
         "R-10392752",
         "R-10393451-1",
-        "R-10392672"
+        "R-10392672",
+        "R-10393823",
+        "R-10393512",
+        "R-10393514"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12191,7 +12201,8 @@
         "R0136640",
         "R0136641",
         "R0135195-1",
-        "R0136402-1"
+        "R0136402-1",
+        "R0136471-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -13015,7 +13026,22 @@
         "SAP-Solution-Architect---Senior-Manager-Director---Technology-Consulting---Advisory_725953WD",
         "IN-Senior-Associate-Intelligence-Automation-Agentic-Automation-Advisory-Bangalore_702805WD-1",
         "IN-Senior-Associate-Master-Data-Management-Data-and-Analytics-Advisory-Pan-India_712110WD-1",
-        "IN-Senior-Associate--Internal-Audit-Internal-audit-services-Advisory-Bangalore_703925WD"
+        "IN-Senior-Associate--Internal-Audit-Internal-audit-services-Advisory-Bangalore_703925WD",
+        "IN-Senior-Associate--AI-ML-Engineer----Data---Analytics---Advisory--Bangalore_705573WD-1",
+        "IN-Specialist-3-Procurement-review-Regulatory---Business-Solutions-TRS-Gurgaon_720286WD-1",
+        "IN-Senior-Associate--Data-Science---Gen-AI--Data---Analytics--Advisory--Bangalore_717455WD-1",
+        "IN-Manager--Data-Science---Gen-AI--Data-Analytics--Advisory--Bangalore_720673WD-1",
+        "IN-Senior-Associate--Data-Science---Gen-AI--Data---Analytics--Advisory--Bangalore_717456WD-1",
+        "IN-Senior-Associate--Data-Science---Gen-AI--Data-Analytics--Advisory--Bangalore_717423WD-2",
+        "IN-Manager--Data-Science---Gen-AI--Data-Analytics--Advisory--Bangalore_720664WD-1",
+        "IN-Manager--Data-Science---Gen-AI--Data-Analytics--Advisory--Bangalore_720666WD-1",
+        "IN-Senior-Associate-Oracle-APEX-Developer-OC-Oracle-Apps-Advisory-Kolkata_718978WD-1",
+        "In-house-Legal-Counsel---Generalist_710625WD-1",
+        "IN-Senior-Associate-Primavera-Oracle-Advisory-Bangalore_723251WD-1",
+        "Senior-Tax-Consultant_665337WD",
+        "IN-Senior-Associate-CSV-QMS-RC---Internal-Audit-Advisory-Noida_719021WD-6",
+        "IN-Senior-Associate-CSV-QMS-RC---Internal-Audit-Advisory-Noida_719020WD-6",
+        "IN-Senior-Associate-Oracle-APEX-Developer-OC-Oracle-Apps-Advisory-Noida_718989WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -15326,7 +15352,8 @@
         "7867749",
         "7844421",
         "7787709",
-        "7871543"
+        "7871543",
+        "7862489"
     ],
     "Elastic": [
         "7505982",
@@ -17469,7 +17496,8 @@
         "R-105276",
         "R-104643-1",
         "R-99477-1",
-        "R-103988-2"
+        "R-103988-2",
+        "R-104019"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
