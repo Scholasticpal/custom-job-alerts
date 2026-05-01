@@ -898,7 +898,8 @@
         "7819587",
         "7569678",
         "7867330",
-        "7868564"
+        "7868564",
+        "7597490"
     ],
     "Figma": [
         "5426468004",
@@ -2551,7 +2552,9 @@
         "b0377ae2-3d60-4602-a021-d9fc0ee98906",
         "cef5fbcc-5728-4bfd-a94f-50efdbf23734",
         "8a389cb2-a592-4227-b699-460cdf697ca1",
-        "14b92563-6fc9-4c76-83d4-8890fe53150d"
+        "14b92563-6fc9-4c76-83d4-8890fe53150d",
+        "50abecc2-b565-4ae4-830a-d818177e8b80",
+        "95f05aaa-9180-4d15-baf0-c1aa8efdb9fb"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4442,7 +4445,9 @@
         "8527655002",
         "8532695002",
         "8532681002",
-        "8532682002"
+        "8532682002",
+        "8532728002",
+        "8530859002"
     ],
     "Rubrik": [
         "7310036",
@@ -8762,7 +8767,8 @@
         "R-277226",
         "R-274457-1",
         "R-259398",
-        "R-277225-1"
+        "R-277225-1",
+        "R-276392"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10903,7 +10909,8 @@
         "R339408",
         "R340342",
         "R339531",
-        "R340656"
+        "R340656",
+        "R340228"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11339,7 +11346,12 @@
         "R261776",
         "R258423",
         "R263709",
-        "R261091"
+        "R261091",
+        "R261642-1",
+        "R263672-1",
+        "R263306",
+        "R260058",
+        "R260443"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11436,7 +11448,8 @@
         "R6459",
         "R6175-1",
         "R6584",
-        "R6412"
+        "R6412",
+        "R6430"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -12969,7 +12982,21 @@
         "IN-Director-Technical-risk-FS-ITRA-Advisory-Mumbai_725412WD-1",
         "IN-Senior-Associate-Identity-Access-Engineer-Digital-Integration-Advisory-Kolkata_725609WD-1",
         "Asistente-de-Service-Desk_720380WD",
-        "Chef-de-Projet-TMA_712872WD"
+        "Chef-de-Projet-TMA_712872WD",
+        "IN-Senior-associate---Energy-Tansition-Renewables--Decarbonization-Advisory-Gurgaon_720926WD-1",
+        "IN-Senior-Associate-SAP-BTP-ABAP-RAP-SAP-Advisory-Bangalore_672937WD-1",
+        "IN-Manager-Robotic-Process-Automation--RPA--GCC-Advisory-Bangalore_715652WD-1",
+        "IN-Senior-Associate--Retail-banking---FS-Tech-Advisory-Mumbai_725663WD",
+        "IN-Senior-Associate--Retail-banking---FS-Tech-Advisory-Mumbai_725662WD-1",
+        "IN-Senior-Associate--Retail-banking---FS-Tech-Advisory-Mumbai_725660WD-2",
+        "IN-Senior-Associate--Retail-banking---FS-Tech-Advisory-Mumbai_725661WD-1",
+        "IN-Senior-Associate--Retail-banking---FS-Tech-Advisory-Mumbai_725659WD-1",
+        "IN-Senior-Associate-Ivalua--Supply-Chain--Advisory-Mumbai_725820WD-1",
+        "IN-Senior-Associate-Ivalua--Supply-Chain--Advisory-Mumbai_725818WD-1",
+        "IN-Senior-Associate-Ivalua--Supply-Chain--Advisory-Mumbai_725817WD",
+        "IN-Senior-Associate-Azure-DevOps-Engineer-Digital-Integration-Advisory-Kolkata_722013WD-1",
+        "IN-Senior-Associate-SAP-PS-Enterprise-Apps-SAP-Advisory-Mumbai_717909WD-1",
+        "IN-Senior-Associate---GTM-Strategy-Consulting---Strategy---Advisory---Mumbai_719691WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -13472,7 +13499,8 @@
         "5205626008",
         "5140260008",
         "4880880008",
-        "5206978008"
+        "5206978008",
+        "5205884008"
     ],
     "Coinbase": [
         "7559052",
@@ -13863,7 +13891,8 @@
         "7852824",
         "7859086",
         "7659597",
-        "7868511"
+        "7868511",
+        "7844676"
     ],
     "Notion": [],
     "Plaid": [],
@@ -14316,7 +14345,8 @@
         "5974111004",
         "5974107004",
         "5979111004",
-        "5980244004"
+        "5980244004",
+        "5691965004"
     ],
     "MongoDB": [
         "7574659",
@@ -15762,7 +15792,8 @@
         "R165141",
         "R167166",
         "R165291",
-        "R166782"
+        "R166782",
+        "R168377"
     ],
     "Workday": [
         "R-0106509-1",
@@ -16590,7 +16621,10 @@
         "R2017117",
         "R2016996-1",
         "R2017132",
-        "R2013336"
+        "R2013336",
+        "R2008144",
+        "R2017292-1",
+        "R2016827"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -17187,7 +17221,9 @@
         "R0000437314",
         "R0000436950-1",
         "R0000436871",
-        "R0000428496-1"
+        "R0000428496-1",
+        "R0000437262-1",
+        "R0000436565"
     ],
     "Zoom": [
         "R18188-1",
