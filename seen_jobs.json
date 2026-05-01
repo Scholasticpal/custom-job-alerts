@@ -3111,7 +3111,8 @@
         "7870762",
         "7867292",
         "7773838",
-        "7870802"
+        "7870802",
+        "7871746"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -8798,7 +8799,10 @@
         "R-276430",
         "R-270047",
         "R-276712",
-        "R-272020-1"
+        "R-272020-1",
+        "R-270895",
+        "R-276807",
+        "R-276711-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10964,7 +10968,11 @@
         "R330021",
         "R338432",
         "R318476",
-        "R339119"
+        "R339119",
+        "R340168-1",
+        "R322911-1",
+        "R339277",
+        "R340443"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11613,7 +11621,9 @@
         "R31042",
         "R31123",
         "R32139",
-        "R31931"
+        "R31931",
+        "R32064",
+        "R32063"
     ],
     "Fiserv": [
         "R-10392824",
@@ -11996,7 +12006,10 @@
         "R-10391875",
         "R-10388499-1",
         "R-10390231",
-        "R-10388673"
+        "R-10388673",
+        "R-10393856",
+        "R-10365561",
+        "R-10392932"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12063,7 +12076,9 @@
         "Intern---Sales-and-Marketing_867598",
         "Retirement-Business-Development-Specialist_867657",
         "WAMBR-Legal-Counsel-2_867284",
-        "VP--Business-Development-Corporate-Liquidity_864199"
+        "VP--Business-Development-Corporate-Liquidity_864199",
+        "Relationship-Associate_867548",
+        "Trust-Officer---Delaware_867547"
     ],
     "Invesco": [
         "R-13647",
@@ -12302,7 +12317,10 @@
         "R0136402-1",
         "R0136471-1",
         "R0136236-1",
-        "R0136349"
+        "R0136349",
+        "R0134738",
+        "R0132010-1",
+        "R0136409"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -13167,7 +13185,8 @@
         "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725271WD-2",
         "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725008WD-1",
         "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725269WD-1",
-        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725270WD-1"
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725270WD-1",
+        "Oracle-Financial-Management-Consultant--Associate_723934WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14271,7 +14290,9 @@
         "7721483003",
         "7721485003",
         "7713708003",
-        "7713710003"
+        "7713710003",
+        "7717901003",
+        "7717899003"
     ],
     "Robinhood": [
         "7799902",
@@ -14436,7 +14457,8 @@
         "7125765",
         "7729424",
         "7774110",
-        "7871882"
+        "7871882",
+        "7263578"
     ],
     "Vercel": [
         "5624231004",
@@ -15494,7 +15516,8 @@
         "7844421",
         "7787709",
         "7871543",
-        "7862489"
+        "7862489",
+        "6685931"
     ],
     "Elastic": [
         "7505982",
@@ -15872,7 +15895,8 @@
         "7863512",
         "7838490",
         "7859564",
-        "7821582"
+        "7821582",
+        "7867751"
     ],
     "Coursera": [
         "5839408004",
@@ -16189,7 +16213,9 @@
         "R-0104087",
         "R-0105070",
         "R-0106565",
-        "R-0106551-1"
+        "R-0106551-1",
+        "R-0106776",
+        "R-0106321"
     ],
     "CrowdStrike": [
         "R26911",
@@ -16306,7 +16332,8 @@
         "R27956",
         "R28625",
         "R28495",
-        "R26492"
+        "R26492",
+        "R27548"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -16834,7 +16861,9 @@
         "R2016987",
         "R2017416",
         "R2014757",
-        "R2016377"
+        "R2016377",
+        "R2017381",
+        "R2017288"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -16892,7 +16921,9 @@
         "Silicon-Photonics-Senior-Design-Engineer_2012792",
         "Silicon-Photonics-Design-Engineer_2012894",
         "Silicon-Photonics-Packaging-Technical-Leader_2012895",
-        "Security-Engineering-Technical-Leader--Control-Plane--Hypershield-_2011401"
+        "Security-Engineering-Technical-Leader--Control-Plane--Hypershield-_2011401",
+        "ASIC-Engineering-Technical-Leader--STA_2011055",
+        "AI-Operations-Engineering-Technical-Leader_2013252"
     ],
     "Intel": [
         "R0283052",
@@ -17719,7 +17750,8 @@
         "R-102527-1",
         "R-102528",
         "R-105176",
-        "R-105183"
+        "R-105183",
+        "R-103163"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
