@@ -6637,7 +6637,9 @@
         "7773573",
         "7862076",
         "7862073",
-        "7739988"
+        "7739988",
+        "7843660",
+        "7843663"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -8790,7 +8792,9 @@
         "R-269000",
         "R-275064-1",
         "R-270373-1",
-        "R-270295"
+        "R-270295",
+        "R-276430",
+        "R-270047"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11408,7 +11412,10 @@
         "R263679",
         "R263836",
         "R260212",
-        "R263834"
+        "R263834",
+        "R263900",
+        "R264002",
+        "R261457"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11508,7 +11515,8 @@
         "R6412",
         "R6430",
         "R6586",
-        "R6543"
+        "R6543",
+        "R6061"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -11959,7 +11967,12 @@
         "R-10393846-1",
         "R-10393845",
         "R-10392392",
-        "R-10382703"
+        "R-10382703",
+        "R-10393852",
+        "R-10388921",
+        "R-10390263",
+        "R-10393853-1",
+        "R-10390264"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13112,7 +13125,13 @@
         "IN-Senior-Manager-GTM-Tax-Tech-TRS-Chennai_724838WD-2",
         "IN-Associate-Agentic-Automation-Developer-Agentic-Automation--Advisory-Pune_704162WD-1",
         "Vr-med-til-at-drive-digitaliseringen-indefra-hos-PwC-Hellerup_725960WD-1",
-        "R-2-GTO-TRS-GURGAON_725553WD-2"
+        "R-2-GTO-TRS-GURGAON_725553WD-2",
+        "IN-Senior-Manager-Oil---Gas-Fuels---Resources-S-O-Advisory-Mumbai_725365WD-1",
+        "IN-Senior-Manager-Oil---Gas-Fuels---Resources-S-O-Advisory-Mumbai_725366WD",
+        "Associate_524402WD",
+        "Finance-Transformation--EPM-Oracle--Senior-Associate_723572WD",
+        "Enterprise-Performance-Management--Manager--Finance-Consulting_680012WD",
+        "Advisory-Trainee_717719WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14213,7 +14232,9 @@
         "7712659003",
         "7712661003",
         "7721483003",
-        "7721485003"
+        "7721485003",
+        "7713708003",
+        "7713710003"
     ],
     "Robinhood": [
         "7799902",
@@ -15665,7 +15686,8 @@
         "7843340",
         "7863806",
         "7874506",
-        "7866805"
+        "7866805",
+        "7874804"
     ],
     "Asana": [
         "7120496",
@@ -16126,7 +16148,8 @@
         "R-0106852-1",
         "R-0106173",
         "R-0104087",
-        "R-0105070"
+        "R-0105070",
+        "R-0106565"
     ],
     "CrowdStrike": [
         "R26911",
@@ -16766,7 +16789,8 @@
         "R2017128",
         "R2010896",
         "R2017006",
-        "R2014995"
+        "R2014995",
+        "R2006008"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -17383,7 +17407,11 @@
         "R0000437082",
         "R0000437375",
         "R0000432747",
-        "R0000437339"
+        "R0000437339",
+        "R0000395357-1",
+        "R0000437377",
+        "R0000437373-1",
+        "R0000436732"
     ],
     "Zoom": [
         "R18188-1",
@@ -17613,7 +17641,16 @@
         "R-103902",
         "R-103877-1",
         "R-102732-1",
-        "R-102246"
+        "R-102246",
+        "R-101649-1",
+        "R-103204-1",
+        "R-102646-1",
+        "R-101707-1",
+        "R-105186",
+        "R-101749",
+        "R-102325-1",
+        "R-102527-1",
+        "R-102528"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
