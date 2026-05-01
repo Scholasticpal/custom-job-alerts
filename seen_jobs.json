@@ -4456,7 +4456,8 @@
         "8532728002",
         "8530859002",
         "8532835002",
-        "8532800002"
+        "8532800002",
+        "8527663002"
     ],
     "Rubrik": [
         "7310036",
@@ -5613,7 +5614,8 @@
         "7872031",
         "7857793",
         "6988014",
-        "7864156"
+        "7864156",
+        "7867139"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -8794,7 +8796,9 @@
         "R-270373-1",
         "R-270295",
         "R-276430",
-        "R-270047"
+        "R-270047",
+        "R-276712",
+        "R-272020-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9197,7 +9201,10 @@
         "R-2496137-1",
         "R-2496176",
         "R-2491799-1",
-        "R-2496556"
+        "R-2496556",
+        "R-2483279-1",
+        "R-2496952",
+        "R-2492382-1"
     ],
     "Salesforce": [
         "R333354",
@@ -10952,7 +10959,12 @@
         "R332588-1",
         "R339972",
         "R340710",
-        "R340654"
+        "R340654",
+        "R331872",
+        "R330021",
+        "R338432",
+        "R318476",
+        "R339119"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11415,7 +11427,9 @@
         "R263834",
         "R263900",
         "R264002",
-        "R261457"
+        "R261457",
+        "R261021",
+        "R260915"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11465,7 +11479,9 @@
         "Product-Manager--VP---BXCI-Technology_41707-1",
         "Blackstone-Internal-Audit--BXIA--AVP---Technology-Audit_42889",
         "Private-Equity-FP-A--Associate_41822",
-        "Legal---Compliance---Conflicts-Clearance--Associate_42906"
+        "Legal---Compliance---Conflicts-Clearance--Associate_42906",
+        "Data-Analytics-Developer--Associate---Credit-and-Insurance_40787-1",
+        "HR-Product-Management--AVP_40958"
     ],
     "Capital Group": [
         "R6549",
@@ -11516,7 +11532,8 @@
         "R6430",
         "R6586",
         "R6543",
-        "R6061"
+        "R6061",
+        "R5149"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -11972,7 +11989,14 @@
         "R-10388921",
         "R-10390263",
         "R-10393853-1",
-        "R-10390264"
+        "R-10390264",
+        "R-10393855",
+        "R-10392398",
+        "R-10389529",
+        "R-10391875",
+        "R-10388499-1",
+        "R-10390231",
+        "R-10388673"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12114,7 +12138,8 @@
         "R-13830",
         "R-12749",
         "R-13807",
-        "R-11646"
+        "R-11646",
+        "R-12384"
     ],
     "PayPal": [
         "R0135744-1",
@@ -12276,7 +12301,8 @@
         "R0135195-1",
         "R0136402-1",
         "R0136471-1",
-        "R0136236-1"
+        "R0136236-1",
+        "R0136349"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -13131,7 +13157,17 @@
         "Associate_524402WD",
         "Finance-Transformation--EPM-Oracle--Senior-Associate_723572WD",
         "Enterprise-Performance-Management--Manager--Finance-Consulting_680012WD",
-        "Advisory-Trainee_717719WD"
+        "Advisory-Trainee_717719WD",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725276WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725277WD-2",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725274WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725275WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725268WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725272WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725271WD-2",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725008WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725269WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725270WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -13769,7 +13805,8 @@
         "7851231",
         "7868030",
         "7866674",
-        "7866623"
+        "7866623",
+        "7875203"
     ],
     "Discord": [
         "8289766002",
@@ -14979,7 +15016,9 @@
         "7870884",
         "7874662",
         "7711866",
-        "7861685"
+        "7861685",
+        "7860071",
+        "7866797"
     ],
     "Datadog": [
         "7194969",
@@ -16149,7 +16188,8 @@
         "R-0106173",
         "R-0104087",
         "R-0105070",
-        "R-0106565"
+        "R-0106565",
+        "R-0106551-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -16790,7 +16830,11 @@
         "R2010896",
         "R2017006",
         "R2014995",
-        "R2006008"
+        "R2006008",
+        "R2016987",
+        "R2017416",
+        "R2014757",
+        "R2016377"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -17411,7 +17455,27 @@
         "R0000395357-1",
         "R0000437377",
         "R0000437373-1",
-        "R0000436732"
+        "R0000436732",
+        "R0000437234",
+        "R0000437241",
+        "R0000432175",
+        "R0000437219-1",
+        "R0000437238",
+        "R0000437236",
+        "R0000437235-1",
+        "R0000437233",
+        "R0000437399",
+        "R0000437232",
+        "R0000437231",
+        "R0000437078",
+        "R0000437229",
+        "R0000437088",
+        "R0000436275",
+        "R0000432984",
+        "R0000433684",
+        "R0000433685",
+        "R0000437371",
+        "R0000422135"
     ],
     "Zoom": [
         "R18188-1",
@@ -17499,7 +17563,10 @@
         "R19106-1",
         "R18714-1",
         "R19101-1",
-        "R19107-1"
+        "R19107-1",
+        "R18203-1",
+        "R18572-1",
+        "R18343-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -17650,7 +17717,9 @@
         "R-101749",
         "R-102325-1",
         "R-102527-1",
-        "R-102528"
+        "R-102528",
+        "R-105176",
+        "R-105183"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
