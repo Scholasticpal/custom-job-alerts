@@ -5601,7 +5601,8 @@
         "7855864",
         "7863831",
         "7867723",
-        "7872031"
+        "7872031",
+        "7857793"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -10910,7 +10911,11 @@
         "R340342",
         "R339531",
         "R340656",
-        "R340228"
+        "R340228",
+        "R334573",
+        "R337672",
+        "R325995",
+        "R331066"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11109,7 +11114,8 @@
         "Meeting-Planner_J-81267",
         "M-E-Sourcing-Specialist_J-81608",
         "Hotel-Desk-agent---SABRE-experienced_J-78626",
-        "Information-Security-Analyst_J-78106-1"
+        "Information-Security-Analyst_J-78106-1",
+        "NetSuite-Engineer_J-80695"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11351,7 +11357,10 @@
         "R263672-1",
         "R263306",
         "R260058",
-        "R260443"
+        "R260443",
+        "R262228",
+        "R257240-1",
+        "R260785"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11880,7 +11889,8 @@
         "R-10390608",
         "R-10382599",
         "R-10392752",
-        "R-10393451-1"
+        "R-10393451-1",
+        "R-10392672"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12996,7 +13006,16 @@
         "IN-Senior-Associate-Ivalua--Supply-Chain--Advisory-Mumbai_725817WD",
         "IN-Senior-Associate-Azure-DevOps-Engineer-Digital-Integration-Advisory-Kolkata_722013WD-1",
         "IN-Senior-Associate-SAP-PS-Enterprise-Apps-SAP-Advisory-Mumbai_717909WD-1",
-        "IN-Senior-Associate---GTM-Strategy-Consulting---Strategy---Advisory---Mumbai_719691WD-1"
+        "IN-Senior-Associate---GTM-Strategy-Consulting---Strategy---Advisory---Mumbai_719691WD-1",
+        "IN-Associate-Compliance-Researcher-C-C-TRS-Gurgaon_725819WD-2",
+        "IN-Senior-Associate-AWS-Cloud-Engineer--GCC-Advisory-Bangalore_716599WD-1",
+        "IN-Director-Core-Data-Practitioner-Data-Analytics-Advisory-Bangalore_705990WD-1",
+        "IN-Associate-Oil---Gas-Fuels---Resources-Advisory-Gurgaon_725298WD-2",
+        "IN-Senior-Associate--SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_697116WD-1",
+        "SAP-Solution-Architect---Senior-Manager-Director---Technology-Consulting---Advisory_725953WD",
+        "IN-Senior-Associate-Intelligence-Automation-Agentic-Automation-Advisory-Bangalore_702805WD-1",
+        "IN-Senior-Associate-Master-Data-Management-Data-and-Analytics-Advisory-Pan-India_712110WD-1",
+        "IN-Senior-Associate--Internal-Audit-Internal-audit-services-Advisory-Bangalore_703925WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -13500,7 +13519,8 @@
         "5140260008",
         "4880880008",
         "5206978008",
-        "5205884008"
+        "5205884008",
+        "5196986008"
     ],
     "Coinbase": [
         "7559052",
@@ -15793,7 +15813,8 @@
         "R167166",
         "R165291",
         "R166782",
-        "R168377"
+        "R168377",
+        "R167754"
     ],
     "Workday": [
         "R-0106509-1",
@@ -16624,7 +16645,8 @@
         "R2013336",
         "R2008144",
         "R2017292-1",
-        "R2016827"
+        "R2016827",
+        "R2008150"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
