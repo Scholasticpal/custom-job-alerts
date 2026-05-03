@@ -9234,7 +9234,8 @@
         "R-2492382-1",
         "R-2495733-1",
         "R-2443061",
-        "R-2497461"
+        "R-2497461",
+        "R-2498406"
     ],
     "Salesforce": [
         "R333354",
@@ -13245,7 +13246,12 @@
         "IN-Associate--Financial-Due-Diligence-Transaction-Services-Advisory-Chennai_724965WD-1",
         "IN-Senior-Associate-AI-Engineer-Data-Analytics-Advisory-Bangalore_725978WD-1",
         "IN-Senior-Associate-AI-Engineer-Data-Analytics-Advisory-Bangalore_725970WD-1",
-        "IN-Senior-Associate-AI-Engineer-Data-Analytics-Advisory-Bangalore_725972WD"
+        "IN-Senior-Associate-AI-Engineer-Data-Analytics-Advisory-Bangalore_725972WD",
+        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Bangalore_725964WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Bangalore_725526WD-1",
+        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Bangalore_725963WD-1",
+        "IN-Manager-Service-Now-Developer-Application-Technology-Advisory-Bangalore_715868WD-1",
+        "IN-Senior-Associate--Concur--Enterprise-Apps-SAP-Advisory--Bangalore_717650WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -16960,7 +16966,11 @@
         "R2010782",
         "R2008526",
         "R1980127",
-        "R2015843"
+        "R2015843",
+        "R2004947-1",
+        "R2012886",
+        "R2012884",
+        "R2016882"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
