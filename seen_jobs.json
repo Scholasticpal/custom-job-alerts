@@ -909,7 +909,9 @@
         "7874562",
         "7834218",
         "7839662",
-        "7462358"
+        "7462358",
+        "7823683",
+        "7863824"
     ],
     "Figma": [
         "5426468004",
@@ -1387,7 +1389,8 @@
         "10409654",
         "10409652",
         "10409650",
-        "10409677"
+        "10409677",
+        "10409699"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -8844,7 +8847,8 @@
         "R-276676-1",
         "R-268249",
         "R-275732",
-        "R-275731"
+        "R-275731",
+        "R-270315"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11029,7 +11033,8 @@
         "R334264",
         "R338526",
         "R287222",
-        "R340376"
+        "R340376",
+        "R338031-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11236,7 +11241,10 @@
         "Technical-Lead_J-81799",
         "Application-Developer_J-82132",
         "Commercial-Finance-Intern_J-80778",
-        "Director---Delivery-Management_J-80103"
+        "Director---Delivery-Management_J-80103",
+        "Travel-Counselor_J-81860",
+        "Engineer-I--Fullstack_J-80212-1",
+        "Engineer-I---Java_J-80708"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11498,7 +11506,10 @@
         "R261021",
         "R260915",
         "R261344",
-        "R264015"
+        "R264015",
+        "R261532",
+        "R261670",
+        "R261537-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11691,7 +11702,8 @@
         "R32064",
         "R32063",
         "R32203",
-        "R31916"
+        "R31916",
+        "R32204"
     ],
     "Fiserv": [
         "R-10392824",
@@ -12084,7 +12096,10 @@
         "R-10375587",
         "R-10390246",
         "R-10383606",
-        "R-10382193"
+        "R-10382193",
+        "R-10364456",
+        "R-10378321",
+        "R-10369202"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12406,7 +12421,8 @@
         "R0136241",
         "R0136242",
         "R0135124-1",
-        "R0136443-1"
+        "R0136443-1",
+        "R0136175-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -13317,7 +13333,26 @@
         "_512424WD",
         "IN-Manager-Unsecured-Credit--Captives---FST-Advisory-Gurgaon_695898WD-1",
         "IN-Sr-Associate-Big-Data-Developer--Data---Analytics--Advisory--Mumbai_716681WD-1",
-        "---SPA-_657777WD"
+        "---SPA-_657777WD",
+        "IN-Senior-Associates-SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_718075WD",
+        "IN-Associate--Java-Backend-GCC-Advisory-Bangalore_709704WD-1",
+        "IN-Senior-Associate--Investment-Banking---CFIB---Advisory--Mumbai_712533WD",
+        "IN-Senior-Associate-Selenium-GCC-Advisory-Bangalore_709768WD-1",
+        "IN-Senior-Associate-JAVA-Full-Stack-D-A-Advisory-Bangalore_726059WD",
+        "IN-Senior-Associate-JAVA-Full-Stack-D-A-Advisory-Bangalore_726053WD-1",
+        "IN-Senior-Associate-JAVA-Full-Stack-D-A-Advisory-Bangalore_726058WD-1",
+        "IN-Senior-Associate-Java-Backend-GCC-Advisory-Bangalore_709709WD-1",
+        "IN-Senior-Associate-JAVA-Full-Stack-D-A-Advisory-Bangalore_726056WD-1",
+        "IN-Senior-Associate-JAVA-Full-Stack-D-A-Advisory-Bangalore_726052WD-1",
+        "IN-Senior-Associate-JAVA-Full-Stack-D-A-Advisory-Bangalore_726054WD-2",
+        "IN-Senior-Associate-JAVA-Full-Stack-D-A-Advisory-Bangalore_726055WD-1",
+        "IN-Senior-Associate-JAVA-Full-Stack-D-A-Advisory-Bangalore_726057WD-2",
+        "Consultant-Expriment---Pilotage-de-Programmes---Capital-Project---Infrastructure--CP-I----F-H_708720WD",
+        "IN-Senior-Associate-Salesforce-Copado-QA-GCC-Advisory-Pune_726044WD-1",
+        "IN-Senior-Associate-Operations-Supply-Chain-and-Operations-Advisory-Bangalore_725877WD-1",
+        "IN-Senior-Associate-Operations-Supply-Chain-and-Operations-Advisory-Bangalore_725868WD-1",
+        "IN-Senior-Associate-MSD365-Technical--MS-Dynamics-Advisory-Bangalore_725861WD-1",
+        "IN-Senior-Associate-MSD365-Technical--MS-Dynamics-Advisory-Bangalore_725854WD-2"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -15186,7 +15221,8 @@
         "7861685",
         "7860071",
         "7866797",
-        "7873817"
+        "7873817",
+        "7870623"
     ],
     "Datadog": [
         "7194969",
@@ -16159,7 +16195,8 @@
         "R166782",
         "R168377",
         "R167754",
-        "R168003"
+        "R168003",
+        "R168344"
     ],
     "Workday": [
         "R-0106509-1",
@@ -17064,7 +17101,10 @@
         "R2017456",
         "R2017458",
         "R2017309",
-        "R2016363"
+        "R2016363",
+        "R2016600",
+        "R2012610",
+        "R2015897"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -17740,7 +17780,27 @@
         "R0000436970",
         "R0000437404",
         "R0000437410",
-        "R0000437344"
+        "R0000437344",
+        "R0000437527",
+        "R0000437526",
+        "R0000437525",
+        "R0000437524",
+        "R0000437523",
+        "R0000400248",
+        "R0000437522",
+        "R0000437519",
+        "R0000430756",
+        "R0000433692",
+        "R0000437436-1",
+        "R0000437116",
+        "R0000437517",
+        "R0000437515",
+        "R0000437513",
+        "R0000437511",
+        "R0000437218-1",
+        "R0000437510",
+        "R0000437361",
+        "R0000437508-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -18028,7 +18088,8 @@
         "Technical-Success-Manager--TSM----Core_111654-JOB",
         "Large-Enterprise-Account-Executive_112989-JOB-1",
         "Lead-Solutions-Consultant_113020-JOB",
-        "Senior-Software-Development-Engineer_113006-JOB-1"
+        "Senior-Software-Development-Engineer_113006-JOB-1",
+        "Services-Partner-Manager---Consultant_113038-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
