@@ -8916,7 +8916,8 @@
         "R-276629",
         "R-277197",
         "R-274988",
-        "R-274337-1"
+        "R-274337-1",
+        "R-276806"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11132,7 +11133,13 @@
         "R321500-1",
         "R340149",
         "R340770-1",
-        "R340423"
+        "R340423",
+        "R341032",
+        "R334006",
+        "R337883-1",
+        "R339934",
+        "R341034",
+        "R341033"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12277,7 +12284,8 @@
         "R-10393908",
         "R-10392171",
         "R-10391992",
-        "R-10393386"
+        "R-10393386",
+        "R-10387043"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13626,7 +13634,12 @@
         "Senior---Application-Security-Consultant_726352WD",
         "Senior---Tech-Operations-Engineer_726351WD",
         "Senior-Manager---Solution-Architect-ServiceNow_726348WD",
-        "Analista-Snior-de-Cibersegurana---Senior-Associate--tag01-_711966WD-1"
+        "Analista-Snior-de-Cibersegurana---Senior-Associate--tag01-_711966WD-1",
+        "Gerente-Snior-de-Auditoria---Senior-Manager_725913WD",
+        "Real-Assets--Infrastructure-Project-Finance--Associate_722887WD",
+        "Auditor-Snior---Senior-Associate_725910WD-1",
+        "Assistente-de-Auditoria---Associate-2_725909WD-1",
+        "Senior-Manager---IT-Operations-Support_726346WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14143,7 +14156,8 @@
         "5202386008",
         "5207302008",
         "5162711008",
-        "5205704008"
+        "5205704008",
+        "5207565008"
     ],
     "Coinbase": [
         "7559052",
@@ -14552,7 +14566,9 @@
         "7807575",
         "7886459",
         "7534943",
-        "7890096"
+        "7890096",
+        "7869277",
+        "7843673"
     ],
     "Notion": [],
     "Plaid": [],
@@ -15516,7 +15532,9 @@
         "7873817",
         "7870623",
         "7317943",
-        "7318028"
+        "7318028",
+        "7602834",
+        "7646261"
     ],
     "Datadog": [
         "7194969",
@@ -16704,7 +16722,8 @@
         "R-0106926-1",
         "R-0106071-1",
         "R-0104504",
-        "R-0106467"
+        "R-0106467",
+        "R-0106751"
     ],
     "CrowdStrike": [
         "R26911",
@@ -18174,7 +18193,13 @@
         "R0000437598",
         "R0000437198",
         "R0000437607",
-        "R0000437606"
+        "R0000437606",
+        "R0000435430",
+        "R0000437629",
+        "R0000437620",
+        "R0000437648",
+        "R0000437605",
+        "R0000437633"
     ],
     "Zoom": [
         "R18188-1",
@@ -18267,7 +18292,9 @@
         "R18572-1",
         "R18343-1",
         "R19111-1",
-        "R18878-1"
+        "R18878-1",
+        "R19117-1",
+        "R19115-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -18433,7 +18460,10 @@
         "R-99739-1",
         "R-104377-1",
         "R-101215-1",
-        "R-103881-1"
+        "R-103881-1",
+        "R-101647-1",
+        "R-105806-1",
+        "R-104463-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
