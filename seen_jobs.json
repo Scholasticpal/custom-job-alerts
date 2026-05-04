@@ -11008,7 +11008,9 @@
         "R340158",
         "R340796",
         "R340208",
-        "R340815"
+        "R340815",
+        "R334264",
+        "R338526"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11474,7 +11476,8 @@
         "R264002",
         "R261457",
         "R261021",
-        "R260915"
+        "R260915",
+        "R261344"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -12055,7 +12058,8 @@
         "R-10383217",
         "R-10390232",
         "R-10375587",
-        "R-10390246"
+        "R-10390246",
+        "R-10383606"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12370,7 +12374,10 @@
         "R0136349",
         "R0134738",
         "R0132010-1",
-        "R0136409"
+        "R0136409",
+        "R0133264",
+        "R0136241",
+        "R0136242"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -13258,7 +13265,13 @@
         "IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_725980WD-1",
         "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Bangalore_725975WD-1",
         "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Bangalore_725974WD-1",
-        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Bangalore_725976WD"
+        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Bangalore_725976WD",
+        "Experienced-Associate---Software-Development--Full-stack-developer-_724232WD",
+        "Trade-Advisory-Hub---Senior-Associate_705526WD",
+        "------_722265WD",
+        "Consulting---Transformation-Design---Delivery---Senior-Analyst---Manager_716002WD-1",
+        "PwC-Private---Tax-Manager_677693WD-3",
+        "Manager--Customer-Strategy-Transformation_706130WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -13906,7 +13919,8 @@
         "7866674",
         "7866623",
         "7875203",
-        "7875711"
+        "7875711",
+        "7881537"
     ],
     "Discord": [
         "8289766002",
@@ -14633,7 +14647,8 @@
         "5974107004",
         "5979111004",
         "5980244004",
-        "5691965004"
+        "5691965004",
+        "5982743004"
     ],
     "MongoDB": [
         "7574659",
@@ -15602,7 +15617,8 @@
         "7787709",
         "7871543",
         "7862489",
-        "6685931"
+        "6685931",
+        "7868421"
     ],
     "Elastic": [
         "7505982",
@@ -16423,7 +16439,8 @@
         "R28337",
         "R28384",
         "R28385",
-        "R28677"
+        "R28677",
+        "R28230"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -16980,7 +16997,15 @@
         "R2016882",
         "R2014939",
         "R2006471",
-        "R2013188"
+        "R2013188",
+        "R2017455",
+        "R2017170-1",
+        "R2017174",
+        "R2017438-1",
+        "R2017315",
+        "R2016720",
+        "R2017155",
+        "R2017396"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -17633,7 +17658,10 @@
         "R0000436988",
         "R0000400288",
         "R0000437400",
-        "R0000437184"
+        "R0000437184",
+        "R0000437420",
+        "R0000436857",
+        "R0000437422"
     ],
     "Zoom": [
         "R18188-1",
