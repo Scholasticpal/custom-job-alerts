@@ -4484,7 +4484,8 @@
         "8501390002",
         "8509693002",
         "8455752002",
-        "8517059002"
+        "8517059002",
+        "8438777002"
     ],
     "Rubrik": [
         "7310036",
@@ -8848,7 +8849,16 @@
         "R-268249",
         "R-275732",
         "R-275731",
-        "R-270315"
+        "R-270315",
+        "R-277160-1",
+        "R-276699",
+        "R-277067",
+        "R-2_R-270228",
+        "R-265525-1",
+        "R-276586",
+        "R-276578",
+        "R-275700-1",
+        "R-276477"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11034,7 +11044,9 @@
         "R338526",
         "R287222",
         "R340376",
-        "R338031-1"
+        "R338031-1",
+        "R340699-1",
+        "R339863-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11509,7 +11521,16 @@
         "R264015",
         "R261532",
         "R261670",
-        "R261537-1"
+        "R261537-1",
+        "R260481",
+        "R261084",
+        "R261854",
+        "R261415",
+        "R263818",
+        "R261780",
+        "R261835-1",
+        "R263935",
+        "R260754"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11561,7 +11582,8 @@
         "Private-Equity-FP-A--Associate_41822",
         "Legal---Compliance---Conflicts-Clearance--Associate_42906",
         "Data-Analytics-Developer--Associate---Credit-and-Insurance_40787-1",
-        "HR-Product-Management--AVP_40958"
+        "HR-Product-Management--AVP_40958",
+        "Executive-Assistant--Private-Equity---Sydney_42934"
     ],
     "Capital Group": [
         "R6549",
@@ -11662,7 +11684,8 @@
         "Director-Financial-Research---Product-Development_34330-1",
         "Dir-CME-Ventures_34298",
         "Staff-Site-Reliability-Engineer_34344-1",
-        "Sr-Pltaform-Engineer_33829-1"
+        "Sr-Pltaform-Engineer_33829-1",
+        "Maternity-Cover---Events-Specialist_34379"
     ],
     "FactSet": [
         "R32107-1",
@@ -12099,7 +12122,9 @@
         "R-10382193",
         "R-10364456",
         "R-10378321",
-        "R-10369202"
+        "R-10369202",
+        "R-10385863",
+        "R-10392196"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12250,7 +12275,9 @@
         "R-11646",
         "R-12384",
         "R-13353",
-        "R-12583"
+        "R-12583",
+        "R-13536",
+        "R-13811-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -12422,7 +12449,9 @@
         "R0136242",
         "R0135124-1",
         "R0136443-1",
-        "R0136175-1"
+        "R0136175-1",
+        "R0136470-1",
+        "R0136424-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -13352,7 +13381,12 @@
         "IN-Senior-Associate-Operations-Supply-Chain-and-Operations-Advisory-Bangalore_725877WD-1",
         "IN-Senior-Associate-Operations-Supply-Chain-and-Operations-Advisory-Bangalore_725868WD-1",
         "IN-Senior-Associate-MSD365-Technical--MS-Dynamics-Advisory-Bangalore_725861WD-1",
-        "IN-Senior-Associate-MSD365-Technical--MS-Dynamics-Advisory-Bangalore_725854WD-2"
+        "IN-Senior-Associate-MSD365-Technical--MS-Dynamics-Advisory-Bangalore_725854WD-2",
+        "Talent-Summer-Intern_722661WD",
+        "IN-Senior-Associate-Valuations-Valuations-Mumbai_710008WD-1",
+        "IN-Senior-Associates-SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_718083WD-1",
+        "Consultant-expriment---Pilotage-de-Programmes---Economie-et-Souverainet---F-H_712681WD",
+        "Senior-SAP-SuccessFactors-Professional_726185WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17104,7 +17138,8 @@
         "R2016363",
         "R2016600",
         "R2012610",
-        "R2015897"
+        "R2015897",
+        "R2001139"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -17800,7 +17835,8 @@
         "R0000437218-1",
         "R0000437510",
         "R0000437361",
-        "R0000437508-1"
+        "R0000437508-1",
+        "R0000431236"
     ],
     "Zoom": [
         "R18188-1",
