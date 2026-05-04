@@ -2579,7 +2579,9 @@
         "50abecc2-b565-4ae4-830a-d818177e8b80",
         "95f05aaa-9180-4d15-baf0-c1aa8efdb9fb",
         "9d497980-2032-440c-8bac-63fb53938acc",
-        "46bad05c-9c01-43e5-9056-a46ae4d24b27"
+        "46bad05c-9c01-43e5-9056-a46ae4d24b27",
+        "74ce5d90-26b5-41b5-81dc-2ba5b862da60",
+        "972d12ff-51a3-4196-a96f-62a9e38b7773"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -6141,7 +6143,11 @@
         "7309653",
         "7849054",
         "7880990",
-        "7881015"
+        "7881015",
+        "7883197",
+        "7883201",
+        "7883168",
+        "7883171"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -8858,7 +8864,14 @@
         "R-276586",
         "R-276578",
         "R-275700-1",
-        "R-276477"
+        "R-276477",
+        "R-275038-1",
+        "R-276625",
+        "R-276623-1",
+        "R-2_R-276620",
+        "R-1_R-276621",
+        "R-268172",
+        "R-274593"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11046,7 +11059,8 @@
         "R340376",
         "R338031-1",
         "R340699-1",
-        "R339863-1"
+        "R339863-1",
+        "R340683"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11256,7 +11270,8 @@
         "Director---Delivery-Management_J-80103",
         "Travel-Counselor_J-81860",
         "Engineer-I--Fullstack_J-80212-1",
-        "Engineer-I---Java_J-80708"
+        "Engineer-I---Java_J-80708",
+        "SME---Software-Cap---Technology-Accounting_J-79931"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11530,7 +11545,12 @@
         "R261780",
         "R261835-1",
         "R263935",
-        "R260754"
+        "R260754",
+        "R260402",
+        "R262212",
+        "R261326",
+        "R260409",
+        "R261839"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11583,7 +11603,9 @@
         "Legal---Compliance---Conflicts-Clearance--Associate_42906",
         "Data-Analytics-Developer--Associate---Credit-and-Insurance_40787-1",
         "HR-Product-Management--AVP_40958",
-        "Executive-Assistant--Private-Equity---Sydney_42934"
+        "Executive-Assistant--Private-Equity---Sydney_42934",
+        "Institutional-Client-Solutions--ICS----Administrative-Assistant_42886",
+        "Blackstone-Operating-Team--Healthcare-Strategy-and-Analytics-Associate_41602"
     ],
     "Capital Group": [
         "R6549",
@@ -12124,7 +12146,14 @@
         "R-10378321",
         "R-10369202",
         "R-10385863",
-        "R-10392196"
+        "R-10392196",
+        "R-10389330",
+        "R-10389799",
+        "R-10388614",
+        "R-10391975",
+        "R-10392180",
+        "R-10390006-1",
+        "R-10392178"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12277,7 +12306,11 @@
         "R-13353",
         "R-12583",
         "R-13536",
-        "R-13811-1"
+        "R-13811-1",
+        "R-13728",
+        "R-13535",
+        "R-13532",
+        "R-13727"
     ],
     "PayPal": [
         "R0135744-1",
@@ -13386,7 +13419,27 @@
         "IN-Senior-Associate-Valuations-Valuations-Mumbai_710008WD-1",
         "IN-Senior-Associates-SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_718083WD-1",
         "Consultant-expriment---Pilotage-de-Programmes---Economie-et-Souverainet---F-H_712681WD",
-        "Senior-SAP-SuccessFactors-Professional_726185WD"
+        "Senior-SAP-SuccessFactors-Professional_726185WD",
+        "IN-Associate-FS-Consulting-Financial-Services-Advisory-Mumbai_705449WD-1",
+        "Manager---Senior-Manager-SAP-Business-Transformation---Architecture_720586WD",
+        "IN-Associate-SOC-Managed-Services--Advisory--Mumbai_722761WD",
+        "IN-Associate-SOC-Managed-Services--Advisory--Mumbai_722786WD-1",
+        "IN-Associate-Oracle-VBCS-Oracle-Advisory-Bangalore_726019WD-1",
+        "IN-Specialist-3-Commercial-Due-diligence-Deals-Strategy-Advisory-Mumbai_719464WD-1",
+        "IN-Specialist-2--CDD--Deals-Knowledge-Hub-Advisory-Mumbai_725801WD-1",
+        "IN-Associate-SOC-Managed-Services--Advisory--Mumbai_722868WD-1",
+        "IN-Associate-SOC-Managed-Services--Advisory--Mumbai_722845WD-1",
+        "IN-Associate-SOC-Managed-Services--Advisory--Mumbai_722851WD-1",
+        "Advokt--m--_725716WD",
+        "Junior-prvnik--prvnika---advoktsky-koncipient-tka_725735WD",
+        "IN-Senior-Associates-SAP-FICO-Enterprise-Apps-SAP-Advisory-Gurgaon_718085WD-1",
+        "IN-Director-SAP-Migration-SAP-Advisory-Noida_726088WD",
+        "IN-Senior-Associate-IT-Project-Manager-GCC-Advisory-Bangalore_705469WD-1",
+        "IN-Senior-Associate-IAM-Analyst--Cyber-Strategy-Risk---Compliance--Advisory-Bangalore_720746WD-1",
+        "IN-Associate-Project-Management-Cyber-Risk---Regulations-Advisory-Gurgaon_720077WD-1",
+        "IN-Senior-Associate-Internal-Audit-Managed-Services-Advisory-Hyderabad_708938WD-1",
+        "Assurance---Consultor-Senior-GRC-IT_726210WD",
+        "IN-Senior-Associate-Azure-DevOps-Data-and-Analytics-Advisory-Pune_717789WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -15256,7 +15309,8 @@
         "7860071",
         "7866797",
         "7873817",
-        "7870623"
+        "7870623",
+        "7317943"
     ],
     "Datadog": [
         "7194969",
@@ -17836,7 +17890,12 @@
         "R0000437510",
         "R0000437361",
         "R0000437508-1",
-        "R0000431236"
+        "R0000431236",
+        "R0000437533",
+        "R0000437242",
+        "R0000437349",
+        "R0000412696",
+        "R0000437387"
     ],
     "Zoom": [
         "R18188-1",
@@ -17928,7 +17987,8 @@
         "R18203-1",
         "R18572-1",
         "R18343-1",
-        "R19111-1"
+        "R19111-1",
+        "R18878-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -18086,7 +18146,8 @@
         "R-105155",
         "R-102208",
         "R-102606-1",
-        "R-101356"
+        "R-101356",
+        "R-105790-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
