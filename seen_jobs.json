@@ -1394,7 +1394,9 @@
         "10409677",
         "10409699",
         "10410018",
-        "10410006"
+        "10410006",
+        "10410307",
+        "10410306"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -2147,7 +2149,8 @@
         "8530763002",
         "8534621002",
         "8534634002",
-        "8534633002"
+        "8534633002",
+        "8534944002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -6460,7 +6463,8 @@
         "7824875",
         "7825089",
         "7861941",
-        "7884052"
+        "7884052",
+        "7627768"
     ],
     "Dropbox": [
         "7646405",
@@ -8900,7 +8904,14 @@
         "R-276129-1",
         "R-276780",
         "R-277193",
-        "R-276738-1"
+        "R-276738-1",
+        "R-276761",
+        "R-275790-1",
+        "R-277023",
+        "R-277026",
+        "R-276629",
+        "R-277197",
+        "R-274988"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11107,7 +11118,14 @@
         "R338933",
         "R340153-1",
         "R339822",
-        "R336876-1"
+        "R336876-1",
+        "R332514-1",
+        "R339810",
+        "R332516-1",
+        "R332489-1",
+        "R339641",
+        "R321500-1",
+        "R340149"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11322,7 +11340,9 @@
         "Deal-Consulting-Specialist_J-81136",
         "Director--Marketing-Science--Remote-_J-78456",
         "Full-Stack-Developer_J-81594",
-        "Travel-Experience-Counselor-I---Entry-Level-_J-79059"
+        "Travel-Experience-Counselor-I---Entry-Level-_J-79059",
+        "Meeting-Manager_J-81633",
+        "Experienced-Travel-Consultant_J-79470-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11607,7 +11627,9 @@
         "R261562",
         "R263819-1",
         "R263985",
-        "R263238"
+        "R263238",
+        "R264014",
+        "R261285"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11662,7 +11684,8 @@
         "HR-Product-Management--AVP_40958",
         "Executive-Assistant--Private-Equity---Sydney_42934",
         "Institutional-Client-Solutions--ICS----Administrative-Assistant_42886",
-        "Blackstone-Operating-Team--Healthcare-Strategy-and-Analytics-Associate_41602"
+        "Blackstone-Operating-Team--Healthcare-Strategy-and-Analytics-Associate_41602",
+        "XMLNAME-2027-Blackstone-Private-Equity-Infrastructure-Partners-Associate_37619-1"
     ],
     "Capital Group": [
         "R6549",
@@ -11715,7 +11738,8 @@
         "R6543",
         "R6061",
         "R5149",
-        "R6594"
+        "R6594",
+        "R6442"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -11806,7 +11830,8 @@
         "R32063",
         "R32203",
         "R31916",
-        "R32204"
+        "R32204",
+        "R32072"
     ],
     "Fiserv": [
         "R-10392824",
@@ -12226,7 +12251,10 @@
         "R-10392769",
         "R-10388261",
         "R-10391989",
-        "R-10392189"
+        "R-10392189",
+        "R-10386043",
+        "R-10393907-1",
+        "R-10393906-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12385,7 +12413,8 @@
         "R-13728",
         "R-13535",
         "R-13532",
-        "R-13727"
+        "R-13727",
+        "R-13689"
     ],
     "PayPal": [
         "R0135744-1",
@@ -12561,7 +12590,11 @@
         "R0136470-1",
         "R0136424-1",
         "R0136270",
-        "R0136411-1"
+        "R0136411-1",
+        "R0135859-1",
+        "R0136367-1",
+        "R0136320-1",
+        "R0136317-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -13544,7 +13577,27 @@
         "Advisory-Senior-Consultant---Operations-Banking-ambito-Digital-Channels_726309WD",
         "Tax-Experienced-Associate_714667WD",
         "Senior---Consultora-Funcional-de-Procesos_721568WD-2",
-        "People-Operations---Specialist--English-French-_721543WD-1"
+        "People-Operations---Specialist--English-French-_721543WD-1",
+        "Gerente-de-Auditoria---Manager--Brasil-_696416WD-1",
+        "IN-Senior-Associate-Full-Stack-Developers--Net---Java--Agriculture-Advisory-Mumbai_726268WD-2",
+        "IN-Senior-Associate-Digital-Strategy-Advisory-Corporate-Advisory-Hyderabad_726200WD-2",
+        "IN-Manager-Energy-iGT---EU-R-Advisory-Gurgaon_726112WD-1",
+        "IN-Senior-Associate-UI-UX-Data-and-Analytics-Advisory-Bangalore_726062WD",
+        "IN-Senior-Associate-UI-UX-Data-and-Analytics-Advisory-Bangalore_726171WD-1",
+        "IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_726012WD-1",
+        "IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_726014WD-1",
+        "IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_726013WD-1",
+        "IN-Associate-Embedded-Engineer-Digital-Engineering-Transformation-Advisory-Chennai_725875WD-1",
+        "IN-Associate-Planning-Supply-Chain-Advisory-Mumbai_725929WD-1",
+        "IN-Senior-Associate-MSD-365-Technical-MS-Dynamics-Advisory-Bangalore_725814WD-2",
+        "IN-Senior-Associate-MSD-365-Technical-MS-Dynamics-Advisory-Bangalore_725886WD",
+        "IN-Senior-Associate-MSD-365-Technical-MS-Dynamics-Advisory-Bangalore_725888WD-1",
+        "Senior---Consultora-de-Procesos_726308WD",
+        "IN-Senior-Associate-Full-Stack-Agentic-AI-Engineer-Data-and-Analytics-Advisory-Pune_725761WD-1",
+        "IN-Senior-Associate-Full-Stack-Agentic-AI-Engineer-Data-and-Analytics-Advisory-Pune_725896WD-1",
+        "IN-Senior-Associate-Full-Stack-Agentic-AI-Engineer-Data-and-Analytics-Advisory-Pune_725897WD-1",
+        "IN-Senior-Associate-Full-Stack-Agentic-AI-Engineer-Data-and-Analytics-Advisory-Pune_725898WD-1",
+        "IN-Senior-Associate-Oracle-Apex-Oracle-Advisory-Bangalore_725881WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14059,7 +14112,8 @@
         "5208136008",
         "5208130008",
         "5202386008",
-        "5207302008"
+        "5207302008",
+        "5162711008"
     ],
     "Coinbase": [
         "7559052",
@@ -14466,7 +14520,8 @@
         "7886619",
         "7886615",
         "7807575",
-        "7886459"
+        "7886459",
+        "7534943"
     ],
     "Notion": [],
     "Plaid": [],
@@ -14673,7 +14728,8 @@
         "7717901003",
         "7717899003",
         "7718661003",
-        "7718659003"
+        "7718659003",
+        "7721123003"
     ],
     "Robinhood": [
         "7799902",
@@ -14840,7 +14896,8 @@
         "7774110",
         "7871882",
         "7263578",
-        "7875387"
+        "7875387",
+        "7852072"
     ],
     "Vercel": [
         "5624231004",
@@ -16139,7 +16196,8 @@
         "7866805",
         "7874804",
         "7764788",
-        "7885940"
+        "7885940",
+        "7843743"
     ],
     "Asana": [
         "7120496",
@@ -16610,7 +16668,9 @@
         "R-0106321",
         "R-0104686",
         "R-0106606",
-        "R-0106926-1"
+        "R-0106926-1",
+        "R-0106071-1",
+        "R-0104504"
     ],
     "CrowdStrike": [
         "R26911",
@@ -17326,7 +17386,16 @@
         "R2016964",
         "R2016911",
         "R2007865-1",
-        "R2015261"
+        "R2015261",
+        "R2017267",
+        "R2017463-1",
+        "R2017472",
+        "R2017490",
+        "R2017531",
+        "R2001030",
+        "R2017184-1",
+        "R2017194",
+        "R2016860"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -18053,7 +18122,17 @@
         "R0000429666",
         "R0000437408",
         "R0000437407",
-        "R0000433912"
+        "R0000433912",
+        "R0000437603",
+        "R0000437597",
+        "R0000437596",
+        "R0000437595",
+        "R0000437599",
+        "R0000437212-1",
+        "R0000437277",
+        "R0000437425",
+        "R0000437574",
+        "R-4AM-INBOUND---HILLDALE--WI_R0000437554"
     ],
     "Zoom": [
         "R18188-1",
@@ -18309,7 +18388,9 @@
         "R-99666-1",
         "R-105378",
         "R-99376-1",
-        "R-99739-1"
+        "R-99739-1",
+        "R-104377-1",
+        "R-101215-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
