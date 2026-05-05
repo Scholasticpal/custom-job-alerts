@@ -1403,7 +1403,10 @@
         "10410018",
         "10410006",
         "10410307",
-        "10410306"
+        "10410306",
+        "10410948",
+        "10410949",
+        "10410945"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -1528,7 +1531,8 @@
         "7710926003",
         "7711699003",
         "7714563003",
-        "7701490003"
+        "7701490003",
+        "7707540003"
     ],
     "Razorpay": [
         "4665089005",
@@ -2157,7 +2161,9 @@
         "8534621002",
         "8534634002",
         "8534633002",
-        "8534944002"
+        "8534944002",
+        "8535434002",
+        "8301919002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -2600,7 +2606,9 @@
         "46bad05c-9c01-43e5-9056-a46ae4d24b27",
         "74ce5d90-26b5-41b5-81dc-2ba5b862da60",
         "972d12ff-51a3-4196-a96f-62a9e38b7773",
-        "099f54ff-f447-4bb2-9a9b-7a5f0efbbe82"
+        "099f54ff-f447-4bb2-9a9b-7a5f0efbbe82",
+        "656c9424-0b62-46fc-ba1f-f070819a6cd2",
+        "26869a2d-534e-4aa8-922f-2020a6574cf1"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -6309,7 +6317,8 @@
         "4964572",
         "5774342",
         "3492170",
-        "4964574"
+        "4964574",
+        "7785168"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -9064,7 +9073,11 @@
         "R-277189-1",
         "R-275140",
         "R-276315",
-        "R-269541"
+        "R-269541",
+        "R-276545",
+        "R-275334",
+        "R-276289-1",
+        "R-277141"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11291,7 +11304,13 @@
         "R341033",
         "R339793",
         "R333736",
-        "R338974"
+        "R338974",
+        "R341087-2",
+        "R339989",
+        "R338247",
+        "R338930",
+        "R339990",
+        "R340332"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11508,7 +11527,9 @@
         "Full-Stack-Developer_J-81594",
         "Travel-Experience-Counselor-I---Entry-Level-_J-79059",
         "Meeting-Manager_J-81633",
-        "Experienced-Travel-Consultant_J-79470-1"
+        "Experienced-Travel-Consultant_J-79470-1",
+        "Senior-Travel-Counselor_J-81375",
+        "Lead-Analyst---German_J-81385"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11800,7 +11821,8 @@
         "R262319",
         "R263745",
         "R257138",
-        "R263840"
+        "R263840",
+        "R261743"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11964,7 +11986,8 @@
         "Staff-Site-Reliability-Engineer_34344-1",
         "Sr-Pltaform-Engineer_33829-1",
         "Maternity-Cover---Events-Specialist_34379",
-        "Software-Engineer-in-Test---_34326-1"
+        "Software-Engineer-in-Test---_34326-1",
+        "Manager-CD-S---Props_34293-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -12007,7 +12030,8 @@
         "R31916",
         "R32204",
         "R32072",
-        "R-2026-_R30675"
+        "R-2026-_R30675",
+        "R31097"
     ],
     "Fiserv": [
         "R-10392824",
@@ -12440,7 +12464,11 @@
         "R-10393386",
         "R-10387043",
         "R-10367735",
-        "R-10388199"
+        "R-10388199",
+        "R-10392181",
+        "R-10385860",
+        "R-10391979",
+        "R-10391972"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12600,7 +12628,9 @@
         "R-13535",
         "R-13532",
         "R-13727",
-        "R-13689"
+        "R-13689",
+        "R-13651-2",
+        "R-12176-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -13798,7 +13828,25 @@
         "Senior-Manager---IT-Operations-Support_726346WD",
         "Real-Assets--Infrastructure-Project-Finance--Manager_722890WD",
         "Administrator--One-Technology--1T-_666933WD",
-        "IN-Senior-Associate-Robotic-Process-Automation-GCC-Advisory-Bangalore_715692WD-1"
+        "IN-Senior-Associate-Robotic-Process-Automation-GCC-Advisory-Bangalore_715692WD-1",
+        "Senior-Associate--Internal-Audit_723443WD",
+        "ETIC--CPS-Project-Manager---Senior-Associate_670662WD",
+        "IN-Associate--Valuations-Financial-Modelling-Valuations-Advisory--Gurgaon_719843WD-1",
+        "IN-Associate-Financial-Modeling-Valuations-Advisory-Gurgaon_719869WD-1",
+        "AML-KYC-Associate--Davao-_726435WD",
+        "SATIC---Legal-Engineer--AI---Knowledge--LEAH-_725261WD-1",
+        "IN-Senior-Associate-SAP-Fiori-AI-in-Delivery-Advisory-Bangalore_725122WD-2",
+        "IN-Senior-Associate-SAP-Fiori-AI-in-Delivery-Advisory-Bangalore_725123WD-1",
+        "IN-Senior-Associate-SAP-Fiori-AI-in-Delivery-Advisory-Bangalore_725125WD-1",
+        "IN-Senior-Associate-Unsecured-Risk-Financial-Services-Risk-Advisory-Gurgaon_721404WD-1",
+        "IN-Senior-Associate-Manufacturing-Fuels---Resources-S-O-Advisory-Gurgaon_726323WD-1",
+        "IN-Senior-Associate-Manufacturing-Fuels---Resources-S-O-Advisory-Gurgaon_726328WD-1",
+        "IN-Manager-Project-Management-Automotive-Advisory-Gurgaon_724699WD-1",
+        "IN-Senior-Associate-Manufacturing-Fuels---Resources-S-O-Advisory-Gurgaon_726317WD-1",
+        "IN-Senior-Associate-Manufacturing-Fuels---Resources-S-O-Advisory-Gurgaon_726314WD",
+        "IN-Senior-Associate-Manufacturing-Fuels---Resources-S-O-Advisory-Gurgaon_726319WD-1",
+        "IN-Senior-Associate-SAP-CRM-ABAP-Data-and-Analytics-Advisory-Gurgaon_726126WD-1",
+        "IN-Senior-Associate-SAP-CRM-ABAP-Data-and-Analytics-Advisory-Gurgaon_726121WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17030,7 +17078,8 @@
         "R26910",
         "R27313",
         "R28382",
-        "R27815"
+        "R27815",
+        "R28507"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -17636,7 +17685,10 @@
         "R2013047",
         "R2017360-1",
         "R2014125",
-        "R2017111"
+        "R2017111",
+        "R2014207",
+        "R2015387",
+        "R2015382"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -18388,7 +18440,27 @@
         "R0000437602",
         "R0000437663",
         "R0000437547",
-        "R0000437558"
+        "R0000437558",
+        "R0000437676",
+        "R0000437621",
+        "R0000437696",
+        "R0000437601",
+        "R0000437677",
+        "R0000437577",
+        "R0000437397",
+        "R0000437617",
+        "R0000437647",
+        "R0000437661",
+        "R0000437671",
+        "R0000421848",
+        "R0000437659",
+        "R0000437578",
+        "R0000437618",
+        "R0000437684",
+        "R0000436688",
+        "R0000437665",
+        "R0000429665",
+        "R0000437582"
     ],
     "Zoom": [
         "R18188-1",
@@ -18486,7 +18558,9 @@
         "R19115-1",
         "R19123-2",
         "R19121-1",
-        "R19118"
+        "R19118",
+        "R18936-1",
+        "R19124-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -18701,7 +18775,10 @@
         "Lead-Solutions-Consultant_113020-JOB",
         "Senior-Software-Development-Engineer_113006-JOB-1",
         "Services-Partner-Manager---Consultant_113038-JOB",
-        "Senior-Manager-Software-Engineering_113030-JOB"
+        "Senior-Manager-Software-Engineering_113030-JOB",
+        "Senior-Business-Analyst---Digital-Success-Operations_112701-JOB-1",
+        "Proposal-Manager_112778-JOB",
+        "Sr-Implementation-Consultant_111806-JOB-1"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
