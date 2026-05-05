@@ -1691,7 +1691,8 @@
         "4688586005",
         "4684249005",
         "4689143005",
-        "4687661005"
+        "4687661005",
+        "4675036005"
     ],
     "Rippling": [],
     "Slice": [
@@ -4882,7 +4883,8 @@
         "7871123",
         "7869742",
         "7885055",
-        "7871817"
+        "7871817",
+        "7849713"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -6972,7 +6974,8 @@
         "ca616a8a-eeb4-4fbb-b0f8-596e17d8ed9a",
         "257248f6-7593-4a61-a890-e79828be0cf3",
         "c008e544-9420-4f7f-a36e-bc28c3ba891e",
-        "00c71ab0-6113-4e5c-8e6d-22ccd3d13dbe"
+        "00c71ab0-6113-4e5c-8e6d-22ccd3d13dbe",
+        "1de2fc88-e203-4f1a-8046-55df700de4be"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -9084,7 +9087,12 @@
         "R-276289-1",
         "R-277141",
         "R-270159",
-        "R-277098"
+        "R-277098",
+        "R-270269-1",
+        "R-275637-1",
+        "R-274635",
+        "R-276696",
+        "R-277052"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11322,7 +11330,13 @@
         "R341086-1",
         "R340828",
         "R331298",
-        "R339236"
+        "R339236",
+        "R341082",
+        "R332198",
+        "R330678",
+        "R324106",
+        "R322385",
+        "R340189-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11541,7 +11555,8 @@
         "Meeting-Manager_J-81633",
         "Experienced-Travel-Consultant_J-79470-1",
         "Senior-Travel-Counselor_J-81375",
-        "Lead-Analyst---German_J-81385"
+        "Lead-Analyst---German_J-81385",
+        "Liga-Travel-GmbH---Pflichtpraktikum_J-78945"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11843,7 +11858,9 @@
         "R263943",
         "R260695",
         "R263965",
-        "R263231-1"
+        "R263231-1",
+        "R261652",
+        "R261651"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -12572,7 +12589,8 @@
         "Analyst---Strategic-Sourcing--Spend-Analytics----Enterprise-Vendor-Management_867667",
         "Business-Development-Director---South-West_866828",
         "Supervisor-Facilities-Rancho-Cordova_867617",
-        "AI-Research-Analyst--AI---Digital-Asset-Solutions-_867695"
+        "AI-Research-Analyst--AI---Digital-Asset-Solutions-_867695",
+        "Intern-Institutional-Client-Reporting_867833"
     ],
     "Invesco": [
         "R-13647",
@@ -12848,7 +12866,11 @@
         "R0136472",
         "R0136530",
         "R0136164",
-        "R0136444"
+        "R0136444",
+        "R0135555-1",
+        "R0136448-1",
+        "R0135340-1",
+        "R0136137-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -13898,7 +13920,16 @@
         "T---_726482WD",
         "IN-Senior-Associate-SAP-ABAP-AI-Advisory-Bangalore_703340WD-1",
         "IN-Senior-Associate-SAP-GR-Enterprise-Apps-SAP-Advisory-Mumbai_722386WD-1",
-        "IN-Senior-Associate-D365-CRM-Technical-MS-Dynamics-Advisory-Bangalore_722734WD-1"
+        "IN-Senior-Associate-D365-CRM-Technical-MS-Dynamics-Advisory-Bangalore_722734WD-1",
+        "IN-Senior-Associate-Oracle-Fusion-HCM-Oracle-Advisory-Mumbai_700339WD-1",
+        "QA-Engineer_696888WD",
+        "IN-Senior-Associate-CRM-Technical-GCC-Advisory-Bangalore_723236WD-1",
+        "IN-Associate-KYC-AML-Fincrime-COE-Advisory-Bangalore_715331WD-1",
+        "IN-Senior-Associate-Strategic-planning-iGT---Citizen-and-Business-Services-Advisory-Guragon_716092WD-1",
+        "IN-Associate-KYC-AML-Fincrime-COE-Advisory-Bangalore_717537WD-2",
+        "C-_642775WD",
+        "Senior-Associate-in-Financial-Analysis-Corporate-Finance_717158WD",
+        "Manager-in-Financial-Analysis-Corporate-Finance_717162WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -16282,7 +16313,8 @@
         "7871543",
         "7862489",
         "6685931",
-        "7868421"
+        "7868421",
+        "4599148"
     ],
     "Elastic": [
         "7505982",
@@ -17135,7 +17167,8 @@
         "R27313",
         "R28382",
         "R27815",
-        "R28507"
+        "R28507",
+        "R28107"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -17761,7 +17794,8 @@
         "R2017130",
         "R2017259",
         "R2017329",
-        "R2016315"
+        "R2016315",
+        "R2017153-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -18550,7 +18584,17 @@
         "R0000437571",
         "R0000437576-1",
         "R0000437556",
-        "R0000437591"
+        "R0000437591",
+        "R0000437066",
+        "R0000437067",
+        "R0000437460-1",
+        "R0000437010",
+        "R0000437690",
+        "R0000422846",
+        "R0000437450",
+        "R0000437580",
+        "R0000437643",
+        "R0000437683"
     ],
     "Zoom": [
         "R18188-1",
@@ -18827,7 +18871,8 @@
         "R-101606",
         "R-104459-1",
         "R-102791-1",
-        "R-105791"
+        "R-105791",
+        "R-103097"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -18870,7 +18915,8 @@
         "Senior-Manager-Software-Engineering_113030-JOB",
         "Senior-Business-Analyst---Digital-Success-Operations_112701-JOB-1",
         "Proposal-Manager_112778-JOB",
-        "Sr-Implementation-Consultant_111806-JOB-1"
+        "Sr-Implementation-Consultant_111806-JOB-1",
+        "Group-Director--Customer-Success_111189-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
