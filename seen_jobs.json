@@ -2613,7 +2613,9 @@
         "972d12ff-51a3-4196-a96f-62a9e38b7773",
         "099f54ff-f447-4bb2-9a9b-7a5f0efbbe82",
         "656c9424-0b62-46fc-ba1f-f070819a6cd2",
-        "26869a2d-534e-4aa8-922f-2020a6574cf1"
+        "26869a2d-534e-4aa8-922f-2020a6574cf1",
+        "ce1b44f9-52f5-4a82-a1ea-4b798c54e163",
+        "0613ed07-d566-4789-8d23-c08b67140432"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -6975,7 +6977,8 @@
         "257248f6-7593-4a61-a890-e79828be0cf3",
         "c008e544-9420-4f7f-a36e-bc28c3ba891e",
         "00c71ab0-6113-4e5c-8e6d-22ccd3d13dbe",
-        "1de2fc88-e203-4f1a-8046-55df700de4be"
+        "1de2fc88-e203-4f1a-8046-55df700de4be",
+        "cb994052-ded4-4efe-b2c4-1ab98d708855"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -9092,7 +9095,8 @@
         "R-275637-1",
         "R-274635",
         "R-276696",
-        "R-277052"
+        "R-277052",
+        "R-275585-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11336,7 +11340,10 @@
         "R330678",
         "R324106",
         "R322385",
-        "R340189-1"
+        "R340189-1",
+        "R333868",
+        "R333716",
+        "R334984"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11860,7 +11867,10 @@
         "R263965",
         "R263231-1",
         "R261652",
-        "R261651"
+        "R261651",
+        "R264001",
+        "R261047",
+        "R263738"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -12514,7 +12524,8 @@
         "R-10391984",
         "R-10385084",
         "R-10385858",
-        "R-10392193"
+        "R-10392193",
+        "R-10393114-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12590,7 +12601,8 @@
         "Business-Development-Director---South-West_866828",
         "Supervisor-Facilities-Rancho-Cordova_867617",
         "AI-Research-Analyst--AI---Digital-Asset-Solutions-_867695",
-        "Intern-Institutional-Client-Reporting_867833"
+        "Intern-Institutional-Client-Reporting_867833",
+        "Sr-Data-Analyst--Senior-Data-Engineer-_867351"
     ],
     "Invesco": [
         "R-13647",
@@ -12677,7 +12689,8 @@
         "R-13727",
         "R-13689",
         "R-13651-2",
-        "R-12176-1"
+        "R-12176-1",
+        "R-13463"
     ],
     "PayPal": [
         "R0135744-1",
@@ -13929,7 +13942,24 @@
         "IN-Associate-KYC-AML-Fincrime-COE-Advisory-Bangalore_717537WD-2",
         "C-_642775WD",
         "Senior-Associate-in-Financial-Analysis-Corporate-Finance_717158WD",
-        "Manager-in-Financial-Analysis-Corporate-Finance_717162WD"
+        "Manager-in-Financial-Analysis-Corporate-Finance_717162WD",
+        "IN--Manager--Salesforce-LWC-Enterprise-Apps-SFDC-Advisory-Pan-India_726042WD-1",
+        "IN--Manager--Salesforce-LWC-GCC-Advisory-Pan-India_726041WD-1",
+        "IN-Senior-Associate-IT-Function-Transformation-GCC-Advisory-Hyderabad_726467WD-1",
+        "IN-Senior-Associate-IT-Function-Transformation-GCC-Advisory-Hyderabad_726468WD-1",
+        "IN-Senior-Associate-IT-Function-Transformation-GCC-Advisory-Hyderabad_726390WD-1",
+        "IN-Senior-Associate-Azure-Deveops-MS-Engineering-Advisory-Kolkata_726421WD",
+        "IN-Senior-Associate-Azure-Cloud-GCC-Advisory-Bangalore_726426WD-2",
+        "IN-Senior-Associate-Azure-Cloud-GCC-Advisory-Bangalore_726425WD",
+        "IN-Senior-Associate-Oracle-Fusion-Technical-Oracle-Advisory-Mumbai_726443WD-1",
+        "IN-Senior-Associate-Oracle-Fusion-Technical-Oracle-Advisory-Mumbai_726445WD-1",
+        "IN-Senior-Associate-Oracle-Fusion-SCM-Oracle-Advisory-Mumbai_726450WD-1",
+        "IN-Senior-Associate-Oracle-Fusion-SCM-Oracle-Advisory-Mumbai_726456WD",
+        "IN-Senior-Associate-Azure-DevOps-Digital-Integration-Advisory-Gurugram_726517WD-1",
+        "IN-Senior-Associate-Oracle-Fusion-SCM-Oracle-Advisory-Mumbai_726449WD-1",
+        "IN-Manager-Data-Scientist-Gen-AI-Data---Analytics-Advisory-PAN-India_703958WD-2",
+        "IN-Senior-Associate-Azure-DevOps-Digital-Integration-Advisory-Gurugram_726513WD-1",
+        "IN-Senior-Associate-MERN-Stack-Digital-Integration-Advisory-Kolkata_722812WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -16314,7 +16344,8 @@
         "7862489",
         "6685931",
         "7868421",
-        "4599148"
+        "4599148",
+        "7034798"
     ],
     "Elastic": [
         "7505982",
@@ -17034,7 +17065,8 @@
         "R-0106898",
         "R-0106899",
         "R-0105426",
-        "R-0106908"
+        "R-0106908",
+        "R-0107047"
     ],
     "CrowdStrike": [
         "R26911",
@@ -17168,7 +17200,9 @@
         "R28382",
         "R27815",
         "R28507",
-        "R28107"
+        "R28107",
+        "R25565",
+        "R28579"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -17795,7 +17829,9 @@
         "R2017259",
         "R2017329",
         "R2016315",
-        "R2017153-1"
+        "R2017153-1",
+        "R2014308-1",
+        "R2012649"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
