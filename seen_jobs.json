@@ -919,7 +919,8 @@
         "7813496",
         "7867389",
         "7775622",
-        "7644950"
+        "7644950",
+        "7562148"
     ],
     "Figma": [
         "5426468004",
@@ -3172,7 +3173,8 @@
         "7873984",
         "7886515",
         "7859233",
-        "7881261"
+        "7881261",
+        "7881559"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4528,7 +4530,8 @@
         "8534469002",
         "8534472002",
         "8534974002",
-        "8359542002"
+        "8359542002",
+        "8530796002"
     ],
     "Rubrik": [
         "7310036",
@@ -6625,7 +6628,8 @@
         "7825089",
         "7861941",
         "7884052",
-        "7627768"
+        "7627768",
+        "7821460"
     ],
     "Dropbox": [
         "7646405",
@@ -9096,7 +9100,15 @@
         "R-274635",
         "R-276696",
         "R-277052",
-        "R-275585-1"
+        "R-275585-1",
+        "R-268237",
+        "R-277161",
+        "R-277428-1",
+        "R-277412-1",
+        "R-276260-1",
+        "R-276124",
+        "R-271498",
+        "R-275014"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11343,7 +11355,14 @@
         "R340189-1",
         "R333868",
         "R333716",
-        "R334984"
+        "R334984",
+        "R341134",
+        "R341133",
+        "R341128",
+        "R340607",
+        "R269929",
+        "R340556",
+        "R339412"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11870,7 +11889,12 @@
         "R261651",
         "R264001",
         "R261047",
-        "R263738"
+        "R263738",
+        "R263657",
+        "R264041",
+        "R263854",
+        "R263958",
+        "R261350"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -11930,7 +11954,8 @@
         "Real-Estate-Finance--Associate---Blackstone-Digital-Infrastructure-Trust--BXDC-_42954-2",
         "Messaging-and-Collaboration-Engineer--AVP---BXTI-Workplace-Experience_41496-2",
         "Real-Estate-Finance--Vice-President---Blackstone-Digital-Infrastructure-Trust--BXDC-_42953-3",
-        "Expense-Team--Assistant-Vice-President--Blackstone-Credit---Insurance_42361"
+        "Expense-Team--Assistant-Vice-President--Blackstone-Credit---Insurance_42361",
+        "Blackstone-Life-Sciences-Finance--Analyst_41830"
     ],
     "Capital Group": [
         "R6549",
@@ -12080,7 +12105,8 @@
         "R32204",
         "R32072",
         "R-2026-_R30675",
-        "R31097"
+        "R31097",
+        "R30606"
     ],
     "Fiserv": [
         "R-10392824",
@@ -12525,7 +12551,12 @@
         "R-10385084",
         "R-10385858",
         "R-10392193",
-        "R-10393114-1"
+        "R-10393114-1",
+        "R-10393968",
+        "R-10368150",
+        "R-10379030",
+        "R-10386690-1",
+        "R-10376635"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12602,7 +12633,8 @@
         "Supervisor-Facilities-Rancho-Cordova_867617",
         "AI-Research-Analyst--AI---Digital-Asset-Solutions-_867695",
         "Intern-Institutional-Client-Reporting_867833",
-        "Sr-Data-Analyst--Senior-Data-Engineer-_867351"
+        "Sr-Data-Analyst--Senior-Data-Engineer-_867351",
+        "Senior-Messaging---UC-Engineer--Microsoft-365-Global-Administrator-_867357"
     ],
     "Invesco": [
         "R-13647",
@@ -12883,7 +12915,9 @@
         "R0135555-1",
         "R0136448-1",
         "R0135340-1",
-        "R0136137-1"
+        "R0136137-1",
+        "R0136403-1",
+        "R0136581"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -13959,7 +13993,25 @@
         "IN-Senior-Associate-Oracle-Fusion-SCM-Oracle-Advisory-Mumbai_726449WD-1",
         "IN-Manager-Data-Scientist-Gen-AI-Data---Analytics-Advisory-PAN-India_703958WD-2",
         "IN-Senior-Associate-Azure-DevOps-Digital-Integration-Advisory-Gurugram_726513WD-1",
-        "IN-Senior-Associate-MERN-Stack-Digital-Integration-Advisory-Kolkata_722812WD-1"
+        "IN-Senior-Associate-MERN-Stack-Digital-Integration-Advisory-Kolkata_722812WD-1",
+        "UX-Lead_726630WD-2",
+        "IN-Senior-Associate--SAP-SD-Enterprise-APP-SAP-Advisory-Bangalore_694852WD-2",
+        "Technical-Delivery-Lead--PO-PM---m-f-_725420WD-2",
+        "Manager---Finance-Transformation---Advisory_662621WD-1",
+        "Analyste-Expriment-Transaction-Services---SPA---F-H_707015WD",
+        "IN-Manager-Healthcare-consulting-Health-Industries-Advisory-Bangalore_726538WD-1",
+        "IN-Sr-Associate-Azure-Devops--Data---Analytics--Advisory--PAN-India_716950WD",
+        "IN-Manager-Azure-Devops-Digital-Integration-Advisory-Kolkata_726522WD-1",
+        "Senior-Associate---Finance-Transformation---Advisory_677977WD",
+        "Assistente-de-Auditoria---Associate-2_725905WD-1",
+        "International-Tax-Services--Senior-Manager--Bilingual-FR-EN-_716622WD",
+        "IN-Associate--Pega-Developer-Automation-Developer-with-Pega-Agentic-Automation--Advisory--Noida_717453WD-1",
+        "IN-Senior-Associate-Automation-Developer-Agentic-Automation-Advisory-Noida_716902WD-1",
+        "IN-Senior-Associate-Automation-Developer-Agentic-Automation-Advisory-Noida_716901WD-1",
+        "IN-Senior-Associate-Automation-Developer-Agentic-Automation-Advisory-Pune_703937WD-1",
+        "Starszy-Konsultant---Starsza-Konsultantka---Transformacja-Cyfrowa-Procesw-Podatkowo-Ksigowych_724494WD",
+        "Senior-Associate-ESG-Assurance_647305WD",
+        "IN-Associate-FS-Strategy--CA--Financial-Services-Advisory-Hyderabad_698119WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -16345,7 +16397,8 @@
         "6685931",
         "7868421",
         "4599148",
-        "7034798"
+        "7034798",
+        "7874877"
     ],
     "Elastic": [
         "7505982",
@@ -16582,7 +16635,8 @@
         "7885940",
         "7843743",
         "7862022",
-        "7893106"
+        "7893106",
+        "7865012"
     ],
     "Asana": [
         "7120496",
@@ -17066,7 +17120,10 @@
         "R-0106899",
         "R-0105426",
         "R-0106908",
-        "R-0107047"
+        "R-0107047",
+        "R-0106762",
+        "R-0106307",
+        "R-0107017"
     ],
     "CrowdStrike": [
         "R26911",
@@ -17202,7 +17259,8 @@
         "R28507",
         "R28107",
         "R25565",
-        "R28579"
+        "R28579",
+        "R26426-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -17831,7 +17889,12 @@
         "R2016315",
         "R2017153-1",
         "R2014308-1",
-        "R2012649"
+        "R2012649",
+        "R2008695",
+        "R2017129",
+        "R1999592",
+        "R2012342",
+        "R2013575"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -17894,7 +17957,9 @@
         "AI-Operations-Engineering-Technical-Leader_2013252",
         "Software-Engineer_2007185-2",
         "Solutions-Engineer---Enterprise-Networking-UKI_2008384-1",
-        "IC-Package-Design-Technical-Leader_2012260-1"
+        "IC-Package-Design-Technical-Leader_2012260-1",
+        "Senior-Hardware-Engineering-Failure-Analysis-Technical-Lead_2011615",
+        "Hardware-System-and-Board-Failure-Analysis-Technical-Lead_2011016"
     ],
     "Intel": [
         "R0283052",
@@ -18630,7 +18695,12 @@
         "R0000437450",
         "R0000437580",
         "R0000437643",
-        "R0000437683"
+        "R0000437683",
+        "R-2026-START-DATE_R0000437392",
+        "R0000437740",
+        "R0000437737",
+        "R0000437587",
+        "R0000437255"
     ],
     "Zoom": [
         "R18188-1",
@@ -18731,7 +18801,8 @@
         "R19118",
         "R18936-1",
         "R19124-1",
-        "R18361-1"
+        "R18361-1",
+        "R18151"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -18908,7 +18979,11 @@
         "R-104459-1",
         "R-102791-1",
         "R-105791",
-        "R-103097"
+        "R-103097",
+        "R-100363",
+        "R-102790",
+        "R-101824-1",
+        "R-102632"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
