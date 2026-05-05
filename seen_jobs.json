@@ -924,7 +924,8 @@
         "7852222",
         "7894884",
         "7470827",
-        "7456177"
+        "7456177",
+        "7895344"
     ],
     "Figma": [
         "5426468004",
@@ -1172,7 +1173,8 @@
         "5985521004",
         "5985022004",
         "5984560004",
-        "5985406004"
+        "5985406004",
+        "5987730004"
     ],
     "Amazon": [
         "3198115",
@@ -1413,7 +1415,8 @@
         "10410948",
         "10410949",
         "10410945",
-        "10411242"
+        "10411242",
+        "10411647"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -2176,7 +2179,11 @@
         "8535434002",
         "8301919002",
         "8535366002",
-        "8536099002"
+        "8536099002",
+        "8536424002",
+        "8459783002",
+        "8536524002",
+        "8536526002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -9130,7 +9137,14 @@
         "R-277011-1",
         "R-273050",
         "R-276657",
-        "R-277295"
+        "R-277295",
+        "R-276083",
+        "R-277201",
+        "R-277025-1",
+        "R-277024-1",
+        "R-275259",
+        "R-275768",
+        "R-275775-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11404,7 +11418,15 @@
         "R338656",
         "R341183",
         "R339083",
-        "R320864"
+        "R320864",
+        "R340465-1",
+        "R340732",
+        "R340775",
+        "R340157",
+        "R341204",
+        "R340783",
+        "R340357",
+        "R340360"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11626,7 +11648,8 @@
         "Lead-Analyst---German_J-81385",
         "Liga-Travel-GmbH---Pflichtpraktikum_J-78945",
         "Project-Manager_J-80108",
-        "Project-Manager_J-80112"
+        "Project-Manager_J-80112",
+        "Executive-Travel-Counselor_J-82218-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11940,7 +11963,10 @@
         "R263958",
         "R261350",
         "R261269",
-        "R261767"
+        "R261767",
+        "R260666",
+        "R261431",
+        "R264016"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -12626,7 +12652,14 @@
         "R-10383955-1",
         "R-10391991-1",
         "R-10391923",
-        "R-10391906"
+        "R-10391906",
+        "R-10392587",
+        "R-10371170",
+        "R-10393857-1",
+        "R-10392784",
+        "R-10388531-1",
+        "R-10383949",
+        "R-10390506"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12704,7 +12737,8 @@
         "AI-Research-Analyst--AI---Digital-Asset-Solutions-_867695",
         "Intern-Institutional-Client-Reporting_867833",
         "Sr-Data-Analyst--Senior-Data-Engineer-_867351",
-        "Senior-Messaging---UC-Engineer--Microsoft-365-Global-Administrator-_867357"
+        "Senior-Messaging---UC-Engineer--Microsoft-365-Global-Administrator-_867357",
+        "Supervisor---Facilities--Boston_867476"
     ],
     "Invesco": [
         "R-13647",
@@ -12793,7 +12827,8 @@
         "R-13651-2",
         "R-12176-1",
         "R-13463",
-        "R-13854"
+        "R-13854",
+        "R-13908"
     ],
     "PayPal": [
         "R0135744-1",
@@ -12998,7 +13033,8 @@
         "R0135748-1",
         "R0136399-1",
         "R0136398-1",
-        "R0136364-1"
+        "R0136364-1",
+        "R0136235-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -14113,7 +14149,9 @@
         "Senior-IT-Forensic-Consultant_726632WD",
         "Acceleration-Center----DAT-Assurance---System-Transformation---Other-Tech-Consolidation---Senior-Associate_721508WD-1",
         "IN-Senior-Associate-Salesforce-LWC-GCC-Advisory-Chennai_726085WD-1",
-        "IN-Senior-Associate-Salesforce-LWC-GCC-Advisory-Chennai_726060WD-1"
+        "IN-Senior-Associate-Salesforce-LWC-GCC-Advisory-Chennai_726060WD-1",
+        "Solution-Architect---Digital-IPA--freelance-_726714WD",
+        "Offensive-Security-Senior_723959WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14637,7 +14675,8 @@
         "5209865008",
         "5210253008",
         "5210242008",
-        "5208278008"
+        "5208278008",
+        "5209896008"
     ],
     "Coinbase": [
         "7559052",
@@ -15058,7 +15097,8 @@
         "7731917",
         "7871480",
         "7871860",
-        "7871398"
+        "7871398",
+        "7445240"
     ],
     "Notion": [],
     "Plaid": [],
@@ -15437,7 +15477,8 @@
         "7852072",
         "7868994",
         "7819461",
-        "7822619"
+        "7822619",
+        "7736185"
     ],
     "Vercel": [
         "5624231004",
@@ -16028,7 +16069,8 @@
         "7602834",
         "7646261",
         "7790438",
-        "7613157"
+        "7613157",
+        "7883426"
     ],
     "Datadog": [
         "7194969",
@@ -16511,7 +16553,8 @@
         "7034798",
         "7874877",
         "7513658",
-        "7873854"
+        "7873854",
+        "7888063"
     ],
     "Elastic": [
         "7505982",
@@ -16900,7 +16943,8 @@
         "7867751",
         "7843326",
         "7821648",
-        "7895275"
+        "7895275",
+        "7776344"
     ],
     "Coursera": [
         "5839408004",
@@ -17245,7 +17289,11 @@
         "R-0106979",
         "R-0106721",
         "R-0104640",
-        "R-0105797"
+        "R-0105797",
+        "R-0106657-1",
+        "R-0106666-1",
+        "R-0107053",
+        "R-0106107"
     ],
     "CrowdStrike": [
         "R26911",
@@ -18025,7 +18073,14 @@
         "R2005202",
         "R2016937",
         "R2011934",
-        "R1997578"
+        "R1997578",
+        "R2016997",
+        "R2005608",
+        "R2012771",
+        "R2013676",
+        "R2017483",
+        "R2014611",
+        "R2017002"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -18093,7 +18148,9 @@
         "Hardware-System-and-Board-Failure-Analysis-Technical-Lead_2011016",
         "ASIC-DFT-CAD-Technical-Leader_2012616",
         "Software-Engineering-Technical-Leader--Data-Center-Switching_2002702",
-        "Business-Operations-Manager_2011300-1"
+        "Business-Operations-Manager_2011300-1",
+        "ASIC-High-Speed-AMS-Technical-Leader_2012219",
+        "Sr-Hardware-Test-and-Packaging-Engineer_2012089"
     ],
     "Intel": [
         "R0283052",
@@ -18847,7 +18904,17 @@
         "R0000437649",
         "R0000437744",
         "R0000437759-1",
-        "R0000437756"
+        "R0000437756",
+        "R0000435786",
+        "R0000435785-1",
+        "R0000436028-1",
+        "R0000437773",
+        "R0000437692",
+        "R0000437779",
+        "R0000434470",
+        "R0000434844",
+        "R0000437411",
+        "R0000437771"
     ],
     "Zoom": [
         "R18188-1",
@@ -18953,7 +19020,8 @@
         "R19127",
         "R19129-1",
         "R19108-1",
-        "R19113-1"
+        "R19113-1",
+        "R19125-1"
     ],
     "Expedia": [
         "R-2_R-105040",
