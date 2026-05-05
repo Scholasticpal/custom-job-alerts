@@ -925,7 +925,8 @@
         "7894884",
         "7470827",
         "7456177",
-        "7895344"
+        "7895344",
+        "7891723"
     ],
     "Figma": [
         "5426468004",
@@ -9144,7 +9145,8 @@
         "R-277024-1",
         "R-275259",
         "R-275768",
-        "R-275775-1"
+        "R-275775-1",
+        "R-276421"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11426,7 +11428,10 @@
         "R341204",
         "R340783",
         "R340357",
-        "R340360"
+        "R340360",
+        "R328282",
+        "R340428",
+        "R341201"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12738,7 +12743,8 @@
         "Intern-Institutional-Client-Reporting_867833",
         "Sr-Data-Analyst--Senior-Data-Engineer-_867351",
         "Senior-Messaging---UC-Engineer--Microsoft-365-Global-Administrator-_867357",
-        "Supervisor---Facilities--Boston_867476"
+        "Supervisor---Facilities--Boston_867476",
+        "Director--Trust-Administration_867689"
     ],
     "Invesco": [
         "R-13647",
@@ -13034,7 +13040,12 @@
         "R0136399-1",
         "R0136398-1",
         "R0136364-1",
-        "R0136235-1"
+        "R0136235-1",
+        "R0136519-1",
+        "R0136404-1",
+        "R0136520-1",
+        "R0136579-1",
+        "R0136298-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -14151,7 +14162,8 @@
         "IN-Senior-Associate-Salesforce-LWC-GCC-Advisory-Chennai_726085WD-1",
         "IN-Senior-Associate-Salesforce-LWC-GCC-Advisory-Chennai_726060WD-1",
         "Solution-Architect---Digital-IPA--freelance-_726714WD",
-        "Offensive-Security-Senior_723959WD"
+        "Offensive-Security-Senior_723959WD",
+        "People-Operations---Specialist--English-_721537WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14676,7 +14688,9 @@
         "5210253008",
         "5210242008",
         "5208278008",
-        "5209896008"
+        "5209896008",
+        "5210631008",
+        "5210629008"
     ],
     "Coinbase": [
         "7559052",
@@ -15306,7 +15320,9 @@
         "7717899003",
         "7718661003",
         "7718659003",
-        "7721123003"
+        "7721123003",
+        "7721457003",
+        "7721455003"
     ],
     "Robinhood": [
         "7799902",
@@ -17293,7 +17309,8 @@
         "R-0106657-1",
         "R-0106666-1",
         "R-0107053",
-        "R-0106107"
+        "R-0106107",
+        "R-0106841"
     ],
     "CrowdStrike": [
         "R26911",
@@ -18080,7 +18097,16 @@
         "R2013676",
         "R2017483",
         "R2014611",
-        "R2017002"
+        "R2017002",
+        "R2011761",
+        "R2015229",
+        "R2001491",
+        "R2008715",
+        "R2017173",
+        "R2017560",
+        "R2016690",
+        "R2017419-1",
+        "R2016939"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -18914,7 +18940,9 @@
         "R0000434470",
         "R0000434844",
         "R0000437411",
-        "R0000437771"
+        "R0000437771",
+        "R0000434111-1",
+        "R0000437766"
     ],
     "Zoom": [
         "R18188-1",
