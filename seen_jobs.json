@@ -3218,7 +3218,9 @@
         "7881559",
         "7892069",
         "7858738",
-        "7862143"
+        "7862143",
+        "7644441",
+        "7896347"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4577,7 +4579,9 @@
         "8359542002",
         "8530796002",
         "8535384002",
-        "8408815002"
+        "8408815002",
+        "8525890002",
+        "8537033002"
     ],
     "Rubrik": [
         "7310036",
@@ -9181,7 +9185,10 @@
         "R-276415-1",
         "R-271190",
         "R-276452",
-        "R-272034"
+        "R-272034",
+        "R-277332",
+        "R-277473",
+        "R-274909-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11475,7 +11482,11 @@
         "R340655",
         "R340729",
         "R341200",
-        "R340486"
+        "R340486",
+        "R324659",
+        "R341276-1",
+        "R-2026-INTERN---REAL-ESTATE---WORKPLACE-SERVICES_JR341243-1",
+        "R340353"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12799,7 +12810,8 @@
         "Senior-Messaging---UC-Engineer--Microsoft-365-Global-Administrator-_867357",
         "Supervisor---Facilities--Boston_867476",
         "Director--Trust-Administration_867689",
-        "Senior-Compliance-Analyst_867514"
+        "Senior-Compliance-Analyst_867514",
+        "Software-Engineer--C---Net--React--Python-_867359"
     ],
     "Invesco": [
         "R-13647",
@@ -14222,7 +14234,16 @@
         "Solution-Architect---Digital-IPA--freelance-_726714WD",
         "Offensive-Security-Senior_723959WD",
         "People-Operations---Specialist--English-_721537WD-1",
-        "Customer-Transformation---Associate-Director_725923WD-1"
+        "Customer-Transformation---Associate-Director_725923WD-1",
+        "IN-Senior-Associate-Java-Python-Risk-Analytics---GRC-Advisory-Gurgaon_720787WD-1",
+        "IN-Senior-Associate-Business-Analyst--D-A--Advisory--Kolkata_714804WD-1",
+        "IN-Senior-Associate-E-Governance-iGT---Citizen-and-Business-Services-Advisory-Kolkata_710308WD-1",
+        "XMLNAME-592902WD-Capital-Markets-and-Accounting-Advisory-Services---Senior-Associate_603068WD-1",
+        "Senior-Workforce-Solutions-Advisor_726375WD",
+        "Global-Structuring--Transfer-Pricing---MA-SM_647712WD",
+        "Risk-Services---AI-Factory--Data-Scientist----Deals-Advisory_726736WD",
+        "Risk-Services---AI-Factory--Data-Scientist--Senior-Associate_712770WD-1",
+        "Business-Analyst---Application-Testing-Senior-Associate_726732WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -14750,7 +14771,8 @@
         "5209896008",
         "5210631008",
         "5210629008",
-        "5209776008"
+        "5209776008",
+        "5211222008"
     ],
     "Coinbase": [
         "7559052",
@@ -17373,7 +17395,8 @@
         "R-0107053",
         "R-0106107",
         "R-0106841",
-        "R-0104716"
+        "R-0104716",
+        "R-0107085"
     ],
     "CrowdStrike": [
         "R26911",
@@ -18178,7 +18201,10 @@
         "R2017657",
         "R2017643",
         "R2002670",
-        "R2014596-1"
+        "R2014596-1",
+        "R2017499",
+        "R2017461",
+        "R2017468"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -19024,7 +19050,9 @@
         "R0000437784",
         "R0000437656",
         "R0000437546",
-        "R0000433886"
+        "R0000433886",
+        "R0000437011",
+        "R0000437007"
     ],
     "Zoom": [
         "R18188-1",
@@ -19327,7 +19355,10 @@
         "R-103344-1",
         "R-105339",
         "R-105372",
-        "R-104445"
+        "R-104445",
+        "R-101021",
+        "R-103343-1",
+        "R-103413"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
