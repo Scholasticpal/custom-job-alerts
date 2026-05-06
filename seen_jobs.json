@@ -11596,7 +11596,9 @@
         "R341308",
         "R331136",
         "R332505-1",
-        "R340898"
+        "R340898",
+        "R339400",
+        "R341160"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12178,7 +12180,9 @@
         "R264087",
         "R258378",
         "R264089",
-        "R264077"
+        "R264077",
+        "R255460-1",
+        "R263739"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -12920,7 +12924,8 @@
         "R-10362285",
         "R-10394041",
         "R-10394043",
-        "R-10393004"
+        "R-10393004",
+        "R-10387541"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13100,7 +13105,8 @@
         "R-12823",
         "R-13866",
         "R-13492-1",
-        "R-10642"
+        "R-10642",
+        "R-13907"
     ],
     "PayPal": [
         "R0135744-1",
@@ -13325,7 +13331,8 @@
         "R0136205-1",
         "R0134871-1",
         "R0136495",
-        "R0136174-1"
+        "R0136174-1",
+        "R0135661"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -14535,7 +14542,9 @@
         "Talent-Enablement-Center---Specialist_726719WD",
         "Risk-Management-Office---Manager_726717WD-3",
         "Sr----Analista-de-Datos_724926WD-2",
-        "Client-Risk--Senior-Associate_727084WD-1"
+        "Client-Risk--Senior-Associate_727084WD-1",
+        "Real-Assets--Infrastructure-Project-Finance--Senior-Associate_722891WD",
+        "Quality-Portfolio-Lead--Risk---Quality--Senior-Manager--Global_722816WD-3"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -15705,7 +15714,9 @@
         "7718659003",
         "7721123003",
         "7721457003",
-        "7721455003"
+        "7721455003",
+        "7724229003",
+        "7724227003"
     ],
     "Robinhood": [
         "7799902",
@@ -17886,7 +17897,11 @@
         "R27420",
         "R26835",
         "R28726",
-        "R28728"
+        "R28728",
+        "R27336",
+        "R28645",
+        "R28647",
+        "R28715"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -18596,7 +18611,11 @@
         "R2017600",
         "R2016267",
         "R2017586",
-        "R2014623"
+        "R2014623",
+        "R2011939",
+        "R2013066-1",
+        "R2017581",
+        "R2017633"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -19488,7 +19507,13 @@
         "R0000437845",
         "R0000437741",
         "R0000433858",
-        "R0000436100-1"
+        "R0000436100-1",
+        "R0000437927",
+        "R0000437922",
+        "R0000437926",
+        "R0000437594-1",
+        "R0000437917",
+        "R0000427647"
     ],
     "Zoom": [
         "R18188-1",
