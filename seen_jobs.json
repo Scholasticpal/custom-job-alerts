@@ -3232,7 +3232,9 @@
         "7858738",
         "7862143",
         "7644441",
-        "7896347"
+        "7896347",
+        "7863019",
+        "7898813"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4953,7 +4955,8 @@
         "7871817",
         "7849713",
         "7891325",
-        "7893272"
+        "7893272",
+        "7893827"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -5763,7 +5766,8 @@
         "7875143",
         "7495538",
         "7875155",
-        "7892149"
+        "7892149",
+        "7883803"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -9228,7 +9232,14 @@
         "R-276230-1",
         "R-2_R-277560",
         "R-2_R-277558",
-        "R-277444"
+        "R-277444",
+        "R-275270",
+        "R-276723",
+        "R-276705",
+        "R-276587",
+        "R-277482",
+        "R-277490",
+        "R-277615"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11537,7 +11548,13 @@
         "R340839",
         "R337556-1",
         "R337043",
-        "R340265-1"
+        "R340265-1",
+        "R339264-1",
+        "R339847",
+        "R341317",
+        "R341101",
+        "R320455",
+        "R341307"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11770,7 +11787,8 @@
         "Senior-Travel-Consultant_J-81643",
         "Team-Coach_J-75179",
         "Team-Coach_J-81259",
-        "Financial-Analyst-II_J-81086-1"
+        "Financial-Analyst-II_J-81086-1",
+        "Technical-Product-Manager_J-81918"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12821,7 +12839,16 @@
         "R-10392668",
         "R-10392666",
         "R-10392664",
-        "R-10392869"
+        "R-10392869",
+        "R-10389281",
+        "R-10383139",
+        "R-10388517-1",
+        "R-10394024",
+        "R-10389110",
+        "R-10388505-1",
+        "R-10392937",
+        "R-10389979",
+        "R-10383962"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -12996,7 +13023,8 @@
         "R-13908",
         "R-13893",
         "R-12522",
-        "R-13071"
+        "R-13071",
+        "R-12823"
     ],
     "PayPal": [
         "R0135744-1",
@@ -13214,7 +13242,8 @@
         "R0135805-1",
         "R0134770-1",
         "R0136303-1",
-        "R0134771-1"
+        "R0134771-1",
+        "R0136529"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -14395,7 +14424,27 @@
         "IN-Sr-Associate--SAP-IBP--Enterprise-APP-SAP----Advisory--Pan-India_721997WD-2",
         "IN-Senior-Associate--AI-ML-Engineer----Data---Analytics---Advisory--Bangalore_705578WD-1",
         "IN-Senior-Associate--Product-Owner-Business-Transformation-AppTech--Advisory-Bangalore_685984WD-1",
-        "IN-Senior-Associate-GraphQL-and-API-Data-and-Analytics-Advisory-Gurgaon_717566WD-1"
+        "IN-Senior-Associate-GraphQL-and-API-Data-and-Analytics-Advisory-Gurgaon_717566WD-1",
+        "Digital-Tax---MA-SM_649461WD",
+        "Senior-Payroll-Consultant_727073WD",
+        "Digital-Tax--Data-Scientist---Manager_678893WD-1",
+        "Gerente-de-Auditoria---Manager_725914WD-1",
+        "Data-Quality-Support-Analyst_674897WD-1",
+        "Quality-Portfolio-Lead--Human-Capital-Technologies--SaaS--Senior-Manager--Global_725587WD",
+        "Senior-Associate---Legal-Regulatory-Project-Manager_726036WD",
+        "XMLNAME--Senior--Manager---Operations---Manufacturing-Strategy---Transformation--80-100--_713660WD",
+        "Data-Protection_668935WD",
+        "Quality-Portfolio-Lead--ERP-Financials--SaaS--Senior-Manager--Global_725589WD",
+        "Senior-Associate---Supply-Chain-Cyber-Security-Specialist--f-m-d----Cyber-Risk-Advisory_616652WD",
+        "Data-Protection-Capability-Leader_668942WD",
+        "Manager-Senior-Manager-Security-Architect_617497WD",
+        "Cybersecurity---Privacy-Senior-Associate_617031WD-1",
+        "IN-Senior-Associate-SAP-Treasury-Enterprise-Apps-SAP-Advisory-Pan-India_705785WD-1",
+        "XMLNAME--Senior--Manager-Public-Sector-Strategy---Transformation--Fokus--Digitale-Transformation-_714492WD",
+        "Manager---Senior-Manager---Cloud--Data---AI--CD-AI----Platform-Architect_636389WD",
+        "Asistente-de-Outsourcing-Contable_726688WD",
+        "IN-Senior-Associate-Oracle-fusion-SCM-Enterprise-Apps-Oracle-Advisory-Kolkata_726713WD-1",
+        "IN-Senior-Associate-Oracle-fusion-Finance-Enterprise-Apps-Oracle-Advisory-Kolkata_726711WD-2"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -15349,7 +15398,9 @@
         "7871480",
         "7871860",
         "7871398",
-        "7445240"
+        "7445240",
+        "7898718",
+        "7898547"
     ],
     "Notion": [],
     "Plaid": [],
@@ -16324,7 +16375,9 @@
         "7790438",
         "7613157",
         "7883426",
-        "7523878"
+        "7523878",
+        "7898811",
+        "7665955"
     ],
     "Datadog": [
         "7194969",
@@ -16808,7 +16861,8 @@
         "7874877",
         "7513658",
         "7873854",
-        "7888063"
+        "7888063",
+        "7898724"
     ],
     "Elastic": [
         "7505982",
@@ -17199,7 +17253,8 @@
         "7843326",
         "7821648",
         "7895275",
-        "7776344"
+        "7776344",
+        "7782965"
     ],
     "Coursera": [
         "5839408004",
@@ -17215,7 +17270,8 @@
         "5822954004",
         "5983324004",
         "5982730004",
-        "5984772004"
+        "5984772004",
+        "5977743004"
     ],
     "Udemy": [
         "5424719004",
@@ -17708,7 +17764,8 @@
         "R28304",
         "R27074",
         "R27193-1",
-        "R27420"
+        "R27420",
+        "R26835"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -18395,7 +18452,8 @@
         "R2015785-1",
         "R2016225",
         "R2017415-1",
-        "R2016961"
+        "R2016961",
+        "R2017625"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -18467,7 +18525,8 @@
         "ASIC-High-Speed-AMS-Technical-Leader_2012219",
         "Sr-Hardware-Test-and-Packaging-Engineer_2012089",
         "Software-Engineer-Technical-Leader---Tetragon_2012513",
-        "Technical-Leader--Performance-Engineering---Tetragon_2012993"
+        "Technical-Leader--Performance-Engineering---Tetragon_2012993",
+        "Hardware--Power--Engineer_2012254"
     ],
     "Intel": [
         "R0283052",
@@ -19265,7 +19324,11 @@
         "R0000436540",
         "R0000437760",
         "R0000429040",
-        "R0000437830"
+        "R0000437830",
+        "R0000435105",
+        "R0000434553",
+        "R0000437836-1",
+        "R0000437837"
     ],
     "Zoom": [
         "R18188-1",
@@ -19579,7 +19642,9 @@
         "R-105111-1",
         "R-105105-1",
         "R-104832-2",
-        "R-105457-2"
+        "R-105457-2",
+        "R-105624",
+        "R-105766-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
