@@ -3264,7 +3264,8 @@
         "7898813",
         "7541528",
         "7859539",
-        "7903258"
+        "7903258",
+        "7902476"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -7098,7 +7099,9 @@
         "c008e544-9420-4f7f-a36e-bc28c3ba891e",
         "00c71ab0-6113-4e5c-8e6d-22ccd3d13dbe",
         "1de2fc88-e203-4f1a-8046-55df700de4be",
-        "cb994052-ded4-4efe-b2c4-1ab98d708855"
+        "cb994052-ded4-4efe-b2c4-1ab98d708855",
+        "121f5416-7c57-4ecc-9f79-a9ba29284b52",
+        "1045c26d-0c4b-42e8-976b-687cebd38ae3"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -9310,7 +9313,10 @@
         "R-277135",
         "R-277599",
         "R-274910",
-        "R-2_R-276529"
+        "R-2_R-276529",
+        "R-277212",
+        "R-277213",
+        "R-277604"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11663,7 +11669,9 @@
         "R339527",
         "R340647",
         "R340028-1",
-        "R340525"
+        "R340525",
+        "R333757",
+        "R331666"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11902,7 +11910,8 @@
         "Enterprise-Sales-Manager--Remote-_J-80303",
         "Travel-Consultant-III_J-81074",
         "Java-Developer_J-80885",
-        "Database-developer_J-81329"
+        "Database-developer_J-81329",
+        "Meeting-Planner_J-81585"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12264,7 +12273,10 @@
         "R261681",
         "R263884",
         "R260710",
-        "R264106"
+        "R264106",
+        "R261484",
+        "R263267",
+        "R263665"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13015,7 +13027,8 @@
         "R-10392981",
         "R-10389880",
         "R-10373236",
-        "R-10391478"
+        "R-10391478",
+        "R-10386689"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14684,7 +14697,21 @@
         "IN-Senior-Associate-GCP-Data-Engineer-Data---Analytics-Advisory-Ahmedabad_657714WD-1",
         "IN-Senior-Manager-Global-Tax-22431GTO---SCO-TRS-Bangalore_726560WD-1",
         "Supply-Chain-Manager_727238WD",
-        "Manager---Forensics_720167WD-1"
+        "Manager---Forensics_720167WD-1",
+        "Senior-Associate-Risk-Management_727373WD",
+        "Schedule-Management-Expert-with-German---Infrastructure-Managed-Services_620979WD-1",
+        "EMFI-Transition-Lead_727365WD",
+        "Meneder-Menederka---Pomoc-Publiczna_727366WD",
+        "IN-Senior-Associate-Sailpoint-Cyber-Defense---Engineering-Advisory-Pan-India_721486WD-1",
+        "IN-Senior-Associate-SAP-PS-Enterprise-Apps-SAP-Advisory-Mumbai_717644WD-1",
+        "IN-Senior-Associate-SAP-PS-Enterprise-Apps-SAP-Advisory-Mumbai_717645WD-1",
+        "Deals---Senior-Associate-D-A-in-Deals_680284WD-1",
+        "IN-Senior-Associate--Devops-Engineer--Data---Analytics--Advisory--PAN-India_708027WD-1",
+        "IN-Senior-Associate-SAP-Fico-SAP-Advisory-Pan-India_692185WD-2",
+        "Tax---FDI--International----Manager_718656WD",
+        "Tax---FDI--International----Senior-Manager_718649WD",
+        "FDI-Tax--Senior-Manager---Dublin_210910WD-2",
+        "IN-Associate--social-Sector--Social--Advisory--Gurgaon_727275WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17128,7 +17155,8 @@
         "7898724",
         "7899164",
         "7899504",
-        "7821113"
+        "7821113",
+        "7874842"
     ],
     "Elastic": [
         "7505982",
@@ -17374,7 +17402,8 @@
         "7899271",
         "7899269",
         "7843348",
-        "7903238"
+        "7903238",
+        "7349982"
     ],
     "Asana": [
         "7120496",
@@ -17652,7 +17681,8 @@
         "R166724",
         "R168181",
         "R-55_R157937",
-        "R168526"
+        "R168526",
+        "R167699"
     ],
     "Workday": [
         "R-0106509-1",
@@ -18074,7 +18104,8 @@
         "R28668",
         "R28575",
         "R27482",
-        "R27888"
+        "R27888",
+        "R25250"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -18805,7 +18836,19 @@
         "R2017230",
         "R2017137",
         "R2017615",
-        "R2017516"
+        "R2017516",
+        "R2017167",
+        "R2017217",
+        "R2017140",
+        "R2017391",
+        "R2017303",
+        "R2017301",
+        "R2017235",
+        "R2016884",
+        "R2017517",
+        "R2012339",
+        "R2012823",
+        "R2012739"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -19739,7 +19782,10 @@
         "R0000437689",
         "R0000437889",
         "R0000437679",
-        "R0000437939"
+        "R0000437939",
+        "R0000437973",
+        "R0000437972",
+        "R0000437971"
     ],
     "Zoom": [
         "R18188-1",
