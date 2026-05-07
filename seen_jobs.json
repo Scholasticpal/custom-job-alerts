@@ -1437,7 +1437,8 @@
         "10412191",
         "10412587",
         "10412722",
-        "10413046"
+        "10413046",
+        "10413190"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -3245,7 +3246,8 @@
         "7896347",
         "7863019",
         "7898813",
-        "7541528"
+        "7541528",
+        "7859539"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -3341,7 +3343,8 @@
         "7839735",
         "7839649",
         "5650542",
-        "7436155"
+        "7436155",
+        "7902407"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -5785,7 +5788,8 @@
         "7875155",
         "7892149",
         "7883803",
-        "7887609"
+        "7887609",
+        "7736919"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -6716,7 +6720,8 @@
         "7884052",
         "7627768",
         "7821460",
-        "7895002"
+        "7895002",
+        "7761265"
     ],
     "Dropbox": [
         "7646405",
@@ -9266,7 +9271,9 @@
         "R-276310",
         "R-277262",
         "R-277162",
-        "R-275273"
+        "R-275273",
+        "R-276183",
+        "R-277091"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9693,7 +9700,8 @@
         "R-2501256",
         "R-2501696-1",
         "R-2500519",
-        "R-2501631"
+        "R-2501631",
+        "R-2502351"
     ],
     "Salesforce": [
         "R333354",
@@ -11608,7 +11616,8 @@
         "R319910",
         "R339740-1",
         "R334207",
-        "R334520"
+        "R334520",
+        "R341081"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11845,7 +11854,9 @@
         "Technical-Product-Manager_J-81918",
         "HR-Data-and-Analytics-Manager_J-82265",
         "Enterprise-Sales-Manager--Remote-_J-80303",
-        "Travel-Consultant-III_J-81074"
+        "Travel-Consultant-III_J-81074",
+        "Java-Developer_J-80885",
+        "Database-developer_J-81329"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -11882,7 +11893,8 @@
         "Officer--Markets-Support-Analyst--Equity-Trade-Support---Japan--Global-Markets-Operations_26010113",
         "Investment-Banking-Associate--Infrastructure--Global-Investment-Banking--Australia_26009953",
         "Vice-President--Markets-Support-Specialist--Collateral-Operations---Global-Markets-Operations_26015106",
-        "Vice-President--Attack-Surface-Visibility-and-Analysis-Analyst--Global-Information-Security--Sydney--Australia_26011394"
+        "Vice-President--Attack-Surface-Visibility-and-Analysis-Analyst--Global-Information-Security--Sydney--Australia_26011394",
+        "Vice-President--Vulnerability-Management-Remediation--Global-Information-Security--Sydney--Australia_26016062"
     ],
     "BlackRock": [
         "R263666",
@@ -12938,7 +12950,8 @@
         "R-10394043",
         "R-10393004",
         "R-10387541",
-        "R-10391711"
+        "R-10391711",
+        "R-10389791"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13021,7 +13034,8 @@
         "Director--Trust-Administration_867689",
         "Senior-Compliance-Analyst_867514",
         "Software-Engineer--C---Net--React--Python-_867359",
-        "Administrative-Assistant-Office-Manager---FT-Fixed-Income--Boston-_867685-1"
+        "Administrative-Assistant-Office-Manager---FT-Fixed-Income--Boston-_867685-1",
+        "Senior-HR-Shared-Services-Specialist_867873"
     ],
     "Invesco": [
         "R-13647",
@@ -13347,7 +13361,10 @@
         "R0136174-1",
         "R0135661",
         "R0136078-1",
-        "R0134015-1"
+        "R0134015-1",
+        "R0136688",
+        "R0136689",
+        "R0136690"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -14560,7 +14577,11 @@
         "Client-Risk--Senior-Associate_727084WD-1",
         "Real-Assets--Infrastructure-Project-Finance--Senior-Associate_722891WD",
         "Quality-Portfolio-Lead--Risk---Quality--Senior-Manager--Global_722816WD-3",
-        "Delivering-Deal-Value--Value-Creation--Senior-Manager_712258WD"
+        "Delivering-Deal-Value--Value-Creation--Senior-Manager_712258WD",
+        "IN-Senior-Associate---Azure-ML-Ops-Data-and-Analytics-Advisory-Pune_717684WD-1",
+        "IN--Senior-Associate-AWS-Data-Engineer--Data-Analytics--Advisory--Bangalore_717699WD-1",
+        "Firmwide-Corporate-Services---Compliance-Senior-Consultant_727174WD",
+        "AML-KYC-Associate_548849WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17928,7 +17949,8 @@
         "R28645",
         "R28647",
         "R28715",
-        "R28738"
+        "R28738",
+        "R26543"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -18645,7 +18667,10 @@
         "R2017633",
         "R2017261",
         "R2017203",
-        "R2011694-1"
+        "R2011694-1",
+        "R2012398",
+        "R2017450",
+        "R2016831-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -19548,7 +19573,11 @@
         "R0000427647",
         "R-2026-_R0000404399",
         "R0000437839",
-        "R0000437928"
+        "R0000437928",
+        "R0000423958",
+        "R0000430260-1",
+        "R-1_R0000437952",
+        "R0000437695"
     ],
     "Zoom": [
         "R18188-1",
@@ -19876,7 +19905,9 @@
         "R-105404",
         "R-101681-1",
         "R-101310",
-        "R-101805-1"
+        "R-101805-1",
+        "R-103359",
+        "R-102651-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
