@@ -1448,7 +1448,8 @@
         "10413046",
         "10413190",
         "10413245",
-        "10413349"
+        "10413349",
+        "10414309"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -4650,7 +4651,8 @@
         "8518545002",
         "8538884002",
         "8502991002",
-        "8497706002"
+        "8497706002",
+        "8540267002"
     ],
     "Rubrik": [
         "7310036",
@@ -9363,7 +9365,12 @@
         "R-277602",
         "R-277652",
         "R-265691",
-        "R-277334"
+        "R-277334",
+        "R-277531",
+        "R-276493",
+        "R-277429",
+        "R-277434",
+        "R-277430"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11736,7 +11743,11 @@
         "R338052",
         "R338717-1",
         "R329399",
-        "R340118"
+        "R340118",
+        "R328223-1",
+        "R341718-1",
+        "R341699-1",
+        "R341689"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11983,7 +11994,8 @@
         "Intern---Project--Business-Manager_J-82046",
         "Meeting-Planner_J-81581",
         "AI-Platform-Engineer-III_J-79480",
-        "Travel-Consultant--II_J-81048"
+        "Travel-Consultant--II_J-81048",
+        "Full-Stack-Developer_J-81992-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -13143,7 +13155,9 @@
         "R-10385251",
         "R-10392237",
         "R-10391864",
-        "R-10391869"
+        "R-10391869",
+        "R-10386609",
+        "R-10393235"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13228,7 +13242,9 @@
         "Software-Engineer--C---Net--React--Python-_867359",
         "Administrative-Assistant-Office-Manager---FT-Fixed-Income--Boston-_867685-1",
         "Senior-HR-Shared-Services-Specialist_867873",
-        "Financial-Analyst_867671"
+        "Financial-Analyst_867671",
+        "Executive-Assistant---FTIS_867898",
+        "Solutions-Portfolio-Manager---FTIS_867799"
     ],
     "Invesco": [
         "R-13647",
@@ -14877,7 +14893,14 @@
         "Brand-Marketing-Senior-Associate_727153WD",
         "Senior-Credit-Risk-Modelling-Consultant_727512WD",
         "AI-Security-Enablement-Sr-Associate_727453WD",
-        "Consultor-Due-Diligence-Financeiro---Senior-Associate_709043WD"
+        "Consultor-Due-Diligence-Financeiro---Senior-Associate_709043WD",
+        "Senior-Associate-Consulting_716783WD",
+        "Senior-Financial-Services-Consultant-in-Insurance_727513WD",
+        "Data-Protection-Senior-Associate_726588WD",
+        "IFRS-Manager_727517WD",
+        "Senior-IFRS-Consultant_727516WD",
+        "Experienced-Actuary-Employee-Benefits_710665WD",
+        "Senior-IAM-Consultant_712321WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -15648,7 +15671,8 @@
         "8530692002",
         "8529875002",
         "8519610002",
-        "8539729002"
+        "8539729002",
+        "8538039002"
     ],
     "Reddit": [
         "7011741",
@@ -15848,7 +15872,11 @@
         "7898547",
         "7834925",
         "7875645",
-        "7858506"
+        "7858506",
+        "7905466",
+        "7905472",
+        "7905488",
+        "7905432"
     ],
     "Notion": [],
     "Plaid": [],
@@ -17337,7 +17365,8 @@
         "7899504",
         "7821113",
         "7874842",
-        "7905006"
+        "7905006",
+        "7905494"
     ],
     "Elastic": [
         "7505982",
@@ -19080,7 +19109,12 @@
         "R2017294",
         "R2017681",
         "R2017639",
-        "R2017650-1"
+        "R2017650-1",
+        "R2017388",
+        "R2017389-1",
+        "R2017481",
+        "R2010588",
+        "R2012971"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -19158,7 +19192,9 @@
         "ASIC-Engineering-Technical-Leader_2006625",
         "ASIC-DFT-DV-Technical-Leader_2008593-1",
         "Product-Manager_2013581",
-        "Principal-Digital-Design-Lead_2013398"
+        "Principal-Digital-Design-Lead_2013398",
+        "Software-Engineer_2007184-1",
+        "Software-Engineer_2007186-1"
     ],
     "Intel": [
         "R0283052",
