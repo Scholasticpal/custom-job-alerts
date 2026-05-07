@@ -1438,7 +1438,8 @@
         "10412587",
         "10412722",
         "10413046",
-        "10413190"
+        "10413190",
+        "10413245"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -1727,7 +1728,8 @@
         "4687661005",
         "4675036005",
         "4692369005",
-        "4692785005"
+        "4692785005",
+        "4681583005"
     ],
     "Rippling": [],
     "Slice": [
@@ -2680,7 +2682,15 @@
         "44cc1678-dea7-4316-921b-fbcc56a1f435",
         "00099566-d2c0-4071-a9c0-8c09bfb5f9f3",
         "c9a4ea2d-cf69-467e-9d5b-72685c74097d",
-        "da5b0d51-ca53-4322-bf2e-d4fc9980ac11"
+        "da5b0d51-ca53-4322-bf2e-d4fc9980ac11",
+        "7376adfe-14dc-48f0-926d-e00c427992e3",
+        "c17ab038-162f-49b4-9fd9-ef129793b6d7",
+        "04e53946-323c-4916-ac78-197f11dd66ea",
+        "1c0f5139-44b2-4777-acc3-80faaf0e2f99",
+        "7c317d05-b1ff-443f-975a-5b96e2728ac5",
+        "cf8e7e47-2871-405f-8e19-aa95fa5e6996",
+        "2482f4b1-847c-4930-9da2-224494b4c4c5",
+        "82c7a74d-b77d-437c-be9a-622246d125fd"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4976,7 +4986,8 @@
         "7849713",
         "7891325",
         "7893272",
-        "7893827"
+        "7893827",
+        "7818643"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -6419,7 +6430,8 @@
         "5774342",
         "3492170",
         "4964574",
-        "7785168"
+        "7785168",
+        "6030012"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -9273,7 +9285,17 @@
         "R-277162",
         "R-275273",
         "R-276183",
-        "R-277091"
+        "R-277091",
+        "R-277196",
+        "R-275660",
+        "R-276837",
+        "R-276838-1",
+        "R-277420",
+        "R-271484",
+        "R-276238",
+        "R-276370",
+        "R-275758",
+        "R-1_R-276528-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9701,7 +9723,8 @@
         "R-2501696-1",
         "R-2500519",
         "R-2501631",
-        "R-2502351"
+        "R-2502351",
+        "R-2502353"
     ],
     "Salesforce": [
         "R333354",
@@ -11617,7 +11640,9 @@
         "R339740-1",
         "R334207",
         "R334520",
-        "R341081"
+        "R341081",
+        "R340675",
+        "R341566"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12206,7 +12231,11 @@
         "R264089",
         "R264077",
         "R255460-1",
-        "R263739"
+        "R263739",
+        "R262394",
+        "R260415",
+        "R262384",
+        "R262309"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -12951,7 +12980,9 @@
         "R-10393004",
         "R-10387541",
         "R-10391711",
-        "R-10389791"
+        "R-10389791",
+        "R-10392981",
+        "R-10389880"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13133,7 +13164,8 @@
         "R-13866",
         "R-13492-1",
         "R-10642",
-        "R-13907"
+        "R-13907",
+        "R-13912-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -14581,7 +14613,26 @@
         "IN-Senior-Associate---Azure-ML-Ops-Data-and-Analytics-Advisory-Pune_717684WD-1",
         "IN--Senior-Associate-AWS-Data-Engineer--Data-Analytics--Advisory--Bangalore_717699WD-1",
         "Firmwide-Corporate-Services---Compliance-Senior-Consultant_727174WD",
-        "AML-KYC-Associate_548849WD"
+        "AML-KYC-Associate_548849WD",
+        "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720701WD-1",
+        "IN-Manager-Gen-AI-training-Coordinator-Emerging-Businesses-Advisory-Bangalore_676846WD-1",
+        "IN-Senior-Associate-Automation-Developer--Java--Agentic-Automation-Advisory-Gurgaon_672630WD-1",
+        "IN-Senior-Associate-Data-Privacy-IRTA-Advisory-Bangalore_725952WD-1",
+        "IN-Senior-Associate-Data-Privacy-IRTA-Advisory-Bangalore_725948WD-1",
+        "IN-Senior-Associate-Data-Privacy-IRTA-Advisory-Bangalore_725951WD-2",
+        "IN-Senior-Associate-Data-Privacy-IRTA-Advisory-Bangalore_725944WD-1",
+        "IN-Senior-Associate-Data-Privacy-IRTA-Advisory-Bangalore_725943WD",
+        "IN-Senior-Associate-Data-Privacy-IRTA-Advisory-Bangalore_725941WD-1",
+        "IN-Senior-Associate-Data-Privacy-IRTA-Advisory-Bangalore_725942WD-1",
+        "IN-Senior-Associate-Java-Python-Risk-Analytics--GRC-Advisory-Gurugram_722507WD-1",
+        "IN-Senior-Associate-Data-Privacy-IRTA-Advisory-Bangalore_725940WD-1",
+        "IN-Senior-Associate-Data-Privacy-IRTA-Advisory-Bangalore_725935WD-1",
+        "IN-Senior-Associate-Data-Privacy-IRTA-Advisory-Bangalore_725934WD",
+        "IN-Senior-Associate-Internal-audit-Internal-audit-Service-Advisory-Mumbai_726758WD-2",
+        "IN-Senior-Associate-Internal--Audit-Internal-audit-services-Advisory-Mumbai_726761WD-1",
+        "IN-Senior-Associate-Internal--Audit-Internal-audit-services-Advisory-Mumbai_726762WD-1",
+        "IN-Senior-Associate-GCP-Infra-Networking-Monitoring-IDK-GCC-Advisory-Bangalore_726966WD-1",
+        "Junior-PMO-Specialist_727218WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17020,7 +17071,8 @@
         "7888063",
         "7898724",
         "7899164",
-        "7899504"
+        "7899504",
+        "7821113"
     ],
     "Elastic": [
         "7505982",
@@ -17541,7 +17593,8 @@
         "R168288",
         "R166724",
         "R168181",
-        "R-55_R157937"
+        "R-55_R157937",
+        "R168526"
     ],
     "Workday": [
         "R-0106509-1",
@@ -17793,7 +17846,9 @@
         "R-0106620",
         "R-0105265",
         "R-0106897",
-        "R-0106940-1"
+        "R-0106940-1",
+        "R-0107117",
+        "R-0106883"
     ],
     "CrowdStrike": [
         "R26911",
@@ -18670,7 +18725,11 @@
         "R2011694-1",
         "R2012398",
         "R2017450",
-        "R2016831-1"
+        "R2016831-1",
+        "R2010699",
+        "R2015259",
+        "R2015016",
+        "R2016815"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -19577,7 +19636,20 @@
         "R0000423958",
         "R0000430260-1",
         "R-1_R0000437952",
-        "R0000437695"
+        "R0000437695",
+        "R0000437937",
+        "R0000436357",
+        "R0000437807",
+        "R0000437536-1",
+        "R0000437560",
+        "R0000437940",
+        "R0000437910",
+        "R0000437592-1",
+        "R0000437394",
+        "R0000437634",
+        "R0000437728",
+        "R0000437934",
+        "R0000437664"
     ],
     "Zoom": [
         "R18188-1",
@@ -19907,7 +19979,10 @@
         "R-101310",
         "R-101805-1",
         "R-103359",
-        "R-102651-1"
+        "R-102651-1",
+        "R-104518",
+        "R-105182",
+        "R-103482-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -19958,7 +20033,8 @@
         "Sr-Manager--Customer-Success---Central_113034-JOB",
         "Sr-Manager--Customer-Success---East_113036-JOB",
         "Director--Customer-Success---West_113035-JOB",
-        "Large-Enterprise-Account-Executive_112937-JOB"
+        "Large-Enterprise-Account-Executive_112937-JOB",
+        "Sr-UX-Writer_113046-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
