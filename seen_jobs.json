@@ -1745,7 +1745,8 @@
         "4692785005",
         "4681583005",
         "4693136005",
-        "4692394005"
+        "4692394005",
+        "4690056005"
     ],
     "Rippling": [],
     "Slice": [
@@ -2714,7 +2715,8 @@
         "5cd42774-b156-4952-83de-01cb93f22714",
         "ad949dfe-9f2f-4235-8945-740a0f6b3177",
         "b2dfb94d-869b-41c0-ac6a-342e5da866fe",
-        "d90ed9a5-5ff1-4185-9780-b48dbdf5ec24"
+        "d90ed9a5-5ff1-4185-9780-b48dbdf5ec24",
+        "ec4c0c69-9fc7-421b-abf2-000a79fb64cb"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -7165,7 +7167,8 @@
         "1de2fc88-e203-4f1a-8046-55df700de4be",
         "cb994052-ded4-4efe-b2c4-1ab98d708855",
         "121f5416-7c57-4ecc-9f79-a9ba29284b52",
-        "1045c26d-0c4b-42e8-976b-687cebd38ae3"
+        "1045c26d-0c4b-42e8-976b-687cebd38ae3",
+        "d5b61412-61d5-4905-86bc-7afa4c264b61"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -9423,7 +9426,11 @@
         "R-277427",
         "R-272155",
         "R-274728-1",
-        "R-275447"
+        "R-275447",
+        "R-277529",
+        "R-276212",
+        "R-276782",
+        "R-277681-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11817,7 +11824,10 @@
         "R335221",
         "R341295",
         "R341384",
-        "R340045"
+        "R340045",
+        "R341808",
+        "R328379",
+        "R341096"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12460,7 +12470,9 @@
         "R263937",
         "R264099-1",
         "R261703",
-        "R264123"
+        "R264123",
+        "R251234",
+        "R257869"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13252,7 +13264,16 @@
         "R-10383999",
         "R-10363791",
         "R-10388709",
-        "R-10394125"
+        "R-10394125",
+        "R-10388682",
+        "R-10388663",
+        "R-10388716",
+        "R-10388718",
+        "R-10388623",
+        "R-10388621",
+        "R-10388620",
+        "R-10388622-1",
+        "R-10388646"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13345,7 +13366,9 @@
         "Administrative-Assistant---FT-Investment-Institute_867899",
         "Risk-Analyst--Putnam-_867788",
         "Senior-Quantitative-Analyst--Putnam-Investments-_867732-1",
-        "Associate--Product-Development---Client-Initiatives_867139"
+        "Associate--Product-Development---Client-Initiatives_867139",
+        "High-Yield-Research-Analyst_867726",
+        "Product-Analyst_867678"
     ],
     "Invesco": [
         "R-13647",
@@ -15062,7 +15085,11 @@
         "IN-Associate-SAP-PS-SAP-Advisory-Bangalore_727409WD-2",
         "IN-Associate--SAP-PPDS--Enterprise-APP-SAP---Advisory--Mumbai_727546WD-1",
         "IN-Senior-Associate-Snowflake-Developer-D-A-Advisory--PAN-India_727392WD-1",
-        "IN-Manager-Business-Analyst-Data---Analytics-Advisory-Bangalore_676558WD-7"
+        "IN-Manager-Business-Analyst-Data---Analytics-Advisory-Bangalore_676558WD-7",
+        "Konsultant-Konsultantka---Sales-Support-Team_727648WD",
+        "-SAP-_727242WD",
+        "IN-Senior-Associate-Java-Data---Analytics-Advisory-Bangalore_713682WD-1",
+        "IN-Associate-AI-ML-Developer-MS-Engg-Advisory-Gurgaon_720211WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -18523,7 +18550,8 @@
         "R27305",
         "R28345",
         "R26862",
-        "R28447"
+        "R28447",
+        "R28614-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -20335,7 +20363,17 @@
         "R0000438083",
         "R0000437681",
         "R0000437861-1",
-        "R0000438070"
+        "R0000438070",
+        "R0000427582",
+        "R0000438117",
+        "R0000438116",
+        "R0000438115",
+        "R0000438114-1",
+        "R0000438113",
+        "R0000438112",
+        "R0000438111",
+        "R0000438110-1",
+        "R0000438109"
     ],
     "Zoom": [
         "R18188-1",
@@ -20685,7 +20723,8 @@
         "R-104618-1",
         "R-101658",
         "R-101741",
-        "R-101735"
+        "R-101735",
+        "R-104079-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
