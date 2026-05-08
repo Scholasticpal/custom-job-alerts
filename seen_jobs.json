@@ -3288,7 +3288,8 @@
         "7904319",
         "7899044",
         "7905012",
-        "7905365"
+        "7905365",
+        "7902817"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4676,7 +4677,8 @@
         "8516236002",
         "8516237002",
         "8516238002",
-        "8516235002"
+        "8516235002",
+        "7642856002"
     ],
     "Rubrik": [
         "7310036",
@@ -6802,7 +6804,8 @@
         "7903873",
         "7520868",
         "7895238",
-        "7874688"
+        "7874688",
+        "7904291"
     ],
     "Dropbox": [
         "7646405",
@@ -9414,7 +9417,13 @@
         "R-277151",
         "R-277152-1",
         "R-270742",
-        "R-277231"
+        "R-277231",
+        "R-277242",
+        "R-275097",
+        "R-277427",
+        "R-272155",
+        "R-274728-1",
+        "R-275447"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11805,7 +11814,10 @@
         "R339247",
         "R341765",
         "R340563",
-        "R335221"
+        "R335221",
+        "R341295",
+        "R341384",
+        "R340045"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -11877,7 +11889,8 @@
         "7733886",
         "7862030",
         "7810851",
-        "7875817"
+        "7875817",
+        "7861977"
     ],
     "PayU": [],
     "American Express": [
@@ -12056,7 +12069,9 @@
         "Full-Stack-Developer_J-81992-1",
         "Senior-Travel-Consultant--Visa-_J-78911",
         "Global-Account-Manager-II_J-79474",
-        "Dedicated-Account-Representative_J-81806"
+        "Dedicated-Account-Representative_J-81806",
+        "Boomi-Engineer_J-80065",
+        "Business-Travel-Consultant_J-82305"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12442,7 +12457,10 @@
         "R264124",
         "R264093",
         "R263875",
-        "R263937"
+        "R263937",
+        "R264099-1",
+        "R261703",
+        "R264123"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13232,7 +13250,9 @@
         "R-10383996",
         "R-10383993",
         "R-10383999",
-        "R-10363791"
+        "R-10363791",
+        "R-10388709",
+        "R-10394125"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13430,7 +13450,10 @@
         "R-13863",
         "R-13835",
         "R-13212",
-        "R-13211"
+        "R-13211",
+        "R-13883",
+        "R-13419",
+        "R-13694"
     ],
     "PayPal": [
         "R0135744-1",
@@ -15021,7 +15044,25 @@
         "IN-Senior-Associate-Process-Automation---Improvement-Consultant-Agentic-Automation-Advisory-Bangalore_714978WD-2",
         "IN-Senior-Associate-Process-Automation---Improvement-Consultant-Agentic-Automation-Advisory-Bangalore_714987WD-1",
         "IN-Senior-Associate-Process-Automation---Improvement-Consultant-Agentic-Automation-Advisory-Bangalore_714965WD-1",
-        "Corporate-Tax---Manager---Senior-Manager_723756WD"
+        "Corporate-Tax---Manager---Senior-Manager_723756WD",
+        "IN-Senior-Associate-Internal-Audit-Internal-audit-services-Advisory-Bangalore_703831WD-1",
+        "Workday-Integration-Associate---ROMA--ADV-_707859WD-2",
+        "IN-Manager-Full-Stack-Lead-Data-and-Analytics-Advisory-Bangalore_727461WD-1",
+        "IN--Associate--ServiceNow-Developer---IN-IT--Services-CO-IFS-PAN-India_715187WD-1",
+        "Deals---Supervisor-Transaction-Services-SPA--Sales-and-Purchase-Agreement-_674044WD",
+        "Deals---Debt-Advisory---Restructuring-Senior-Associate_607165WD",
+        "Deals---Senior-Manager-y-Manager-Financial-Due-Diligence----Madrid-y-Barcelona_459230WD",
+        "Deals---Senior-Associate-Financial-Due-Diligence_413893WD-3",
+        "IN-Manager-SAP-BPC---SAC-Enterprise-APP-SAP-Advisory-Pan-India_727411WD-1",
+        "IN-Manager-SAP-BPC---SAC-Enterprise-APP-SAP-Advisory-Pan-India_727413WD-1",
+        "IN-Senior-Manager-SAP-EWM-SAP-Advisory-Mumbai_727547WD-1",
+        "IN-Manager-SAP-BPC---SAC-Enterprise-APP-SAP-Advisory-Pan-India_727412WD-1",
+        "IN-Manager-SAP-PPDS-SAP-Advisory-Bangalore_727424WD-1",
+        "IN-Associate-SAP-PPDS-SAP-Advisory-Bangalore_727423WD-1",
+        "IN-Associate-SAP-PS-SAP-Advisory-Bangalore_727409WD-2",
+        "IN-Associate--SAP-PPDS--Enterprise-APP-SAP---Advisory--Mumbai_727546WD-1",
+        "IN-Senior-Associate-Snowflake-Developer-D-A-Advisory--PAN-India_727392WD-1",
+        "IN-Manager-Business-Analyst-Data---Analytics-Advisory-Bangalore_676558WD-7"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17004,7 +17045,9 @@
         "7523872",
         "7904974",
         "7871387",
-        "7898902"
+        "7898902",
+        "7905517",
+        "7887608"
     ],
     "Datadog": [
         "7194969",
@@ -17907,7 +17950,8 @@
         "7902085",
         "7904869",
         "7904715",
-        "7793619"
+        "7793619",
+        "6749982"
     ],
     "Coursera": [
         "5839408004",
@@ -19271,7 +19315,9 @@
         "R2007088",
         "R2017320",
         "R2017630",
-        "R2017779"
+        "R2017779",
+        "R2016444",
+        "R2009069"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -20278,7 +20324,18 @@
         "R0000438078",
         "R0000438066",
         "R0000438087",
-        "R0000438016"
+        "R0000438016",
+        "R0000438108",
+        "R0000438107-1",
+        "R0000438103",
+        "R0000400328",
+        "R0000437993",
+        "R0000438013",
+        "R0000438023",
+        "R0000438083",
+        "R0000437681",
+        "R0000437861-1",
+        "R0000438070"
     ],
     "Zoom": [
         "R18188-1",
@@ -20626,7 +20683,9 @@
         "R-102763",
         "R-100866-1",
         "R-104618-1",
-        "R-101658"
+        "R-101658",
+        "R-101741",
+        "R-101735"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
