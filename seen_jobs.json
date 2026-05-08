@@ -1451,7 +1451,8 @@
         "10413190",
         "10413245",
         "10413349",
-        "10414309"
+        "10414309",
+        "10412297"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -9389,7 +9390,14 @@
         "R-277429",
         "R-277434",
         "R-277430",
-        "R-277705"
+        "R-277705",
+        "R-277525",
+        "R-276617",
+        "R-276706",
+        "R-275974",
+        "R-274015",
+        "R-277151",
+        "R-277152-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12024,7 +12032,9 @@
         "Meeting-Planner_J-81581",
         "AI-Platform-Engineer-III_J-79480",
         "Travel-Consultant--II_J-81048",
-        "Full-Stack-Developer_J-81992-1"
+        "Full-Stack-Developer_J-81992-1",
+        "Senior-Travel-Consultant--Visa-_J-78911",
+        "Global-Account-Manager-II_J-79474"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12406,7 +12416,8 @@
         "R263782",
         "R263831",
         "R261051",
-        "R264124"
+        "R264124",
+        "R264093"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13287,7 +13298,8 @@
         "Enterprise-Data-Specialist_867358",
         "Administrative-Assistant---FT-Investment-Institute_867899",
         "Risk-Analyst--Putnam-_867788",
-        "Senior-Quantitative-Analyst--Putnam-Investments-_867732-1"
+        "Senior-Quantitative-Analyst--Putnam-Investments-_867732-1",
+        "Associate--Product-Development---Client-Initiatives_867139"
     ],
     "Invesco": [
         "R-13647",
@@ -14950,7 +14962,22 @@
         "Consulting----Delivery-Lead_726738WD",
         "Corporate-Tax---Manager---Senior-Manager_727537WD",
         "Consulting---Solution-Lead_726737WD",
-        "Consulting---Test-Director_726730WD"
+        "Consulting---Test-Director_726730WD",
+        "Senior-Associate----Young-Professional-Programmes_677503WD",
+        "Data-Analyst---FCU-Technology-Team_684103WD",
+        "IN-Senior-Associate--AI-ML-Engineer----Data---Analytics---Advisory--Bangalore_705575WD-1",
+        "IN-Senior-Associate-DevOps-SRE-GCC-Advisory-Bangalore_709800WD-1",
+        "Veckais---konsultants--e-Vadbas-konsultciju-komand_727557WD",
+        "IN-Associate--social-Sector--Social--Advisory--Gurgaon_727346WD-1",
+        "IN-Associate--social-Sector--Social--Advisory--Gurgaon_727345WD-1",
+        "IN-Senior-Associate-Social-Sector-Social-Advisory-Gurgaon_727279WD-1",
+        "IN-Manager-Social-Sector-Social-Advisory-Gurgaon_727287WD",
+        "IN-Senior-Associate-Aws-devops-Data---Analytics-Advisory-Kolkata_727335WD",
+        "IN-Senior-Associate-AWS-Devops-Data---Analytics-Advisory-Kolkata_727336WD",
+        "IN-Senior-Associate-AWS-Devops-Data---Analytics-Advisory-Kolkata_727338WD-1",
+        "IN-Senior-Associate-AWS-Devops-Data---Analytics-Advisory-Kolkata_727342WD-1",
+        "IN-Director-Cybersecurity---Cyber-as-a-Service-Advisory-Mumbai-NXS-_723031WD",
+        "IN-Senior-Associate--CPI--Enterprise-Apps-SAP-Advisory--Kolkata_717311WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17960,7 +17987,8 @@
         "R168241",
         "R168412",
         "R168359",
-        "R168285"
+        "R168285",
+        "R-5_R168224-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -18402,7 +18430,8 @@
         "R28744",
         "R27305",
         "R28345",
-        "R26862"
+        "R26862",
+        "R28447"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -19189,7 +19218,8 @@
         "R2017214",
         "R2017857",
         "R2017247",
-        "R2017394"
+        "R2017394",
+        "R2012829"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -20174,7 +20204,12 @@
         "R0000438079",
         "R0000438075",
         "R0000438005",
-        "R0000437984-1"
+        "R0000437984-1",
+        "R0000438019",
+        "R0000438015",
+        "R0000438055",
+        "R0000437905",
+        "R0000437914"
     ],
     "Zoom": [
         "R18188-1",
@@ -20517,7 +20552,9 @@
         "R-105895-1",
         "R-105974",
         "R-104546",
-        "R-101756-1"
+        "R-101756-1",
+        "R-102763",
+        "R-100866-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
