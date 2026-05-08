@@ -1463,7 +1463,8 @@
         "10415077",
         "10415078",
         "10415075",
-        "10415074"
+        "10415074",
+        "10415263"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -3313,7 +3314,8 @@
         "7902817",
         "7907839",
         "7865724",
-        "7909190"
+        "7909190",
+        "7904127"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -9479,7 +9481,10 @@
         "R-277893",
         "R-277600",
         "R-276826-1",
-        "R-277898"
+        "R-277898",
+        "R-277309",
+        "R-277387",
+        "R-277891"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -9913,7 +9918,8 @@
         "R-2503017",
         "R-2503600",
         "R-2497059-1",
-        "R-2504231"
+        "R-2504231",
+        "R-2469891-1"
     ],
     "Salesforce": [
         "R333354",
@@ -11891,7 +11897,10 @@
         "R338147",
         "R339253",
         "R340859-1",
-        "R332295-1"
+        "R332295-1",
+        "R341706",
+        "R340165",
+        "R341190"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12553,7 +12562,8 @@
         "R263219",
         "R261448",
         "R262427",
-        "R260128"
+        "R260128",
+        "R262240"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13398,7 +13408,9 @@
         "R-10388910",
         "R-10394191",
         "R-10391789",
-        "R-10383170"
+        "R-10383170",
+        "R-10391452",
+        "R-10392807"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13497,7 +13509,8 @@
         "Senior-Audio-Visual-Technician_867355",
         "Analyst--Investor-Relations_867895",
         "Supervisor---Facilities_866899-1",
-        "Facilities-Supervisor---Administrative-Operations_867472"
+        "Facilities-Supervisor---Administrative-Operations_867472",
+        "Quantitative-Developer_867658"
     ],
     "Invesco": [
         "R-13647",
@@ -15263,7 +15276,9 @@
         "Contract-Lifecycle-Management--CLM----Canada-Client--Olivos-Barracas-_727497WD-2",
         "Technical-Specialist---Canad-Client--Olivos-Barracas-_727505WD-1",
         "IN-Specialist-2-HR-Operations-Regulatory---Business-Solutions-TRS-Hyderabad_718641WD-1",
-        "XMLNAME---Senior-Associate-2--tag01-_711957WD"
+        "XMLNAME---Senior-Associate-2--tag01-_711957WD",
+        "Workforce-Transformation-Senior-Associate_722395WD",
+        "IT-Service-Associate_727508WD-2"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -16245,7 +16260,8 @@
         "7905488",
         "7905432",
         "7908786",
-        "7902277"
+        "7902277",
+        "7616791"
     ],
     "Notion": [],
     "Plaid": [],
@@ -16465,7 +16481,8 @@
         "7719649003",
         "7724913003",
         "7724917003",
-        "7724915003"
+        "7724915003",
+        "7711654003"
     ],
     "Robinhood": [
         "7799902",
@@ -18011,7 +18028,8 @@
         "7843346",
         "7525999",
         "7904455",
-        "7781718"
+        "7781718",
+        "7909280"
     ],
     "Asana": [
         "7120496",
@@ -18578,7 +18596,8 @@
         "R-0107154",
         "R-0107135",
         "R-0106905",
-        "R-0106741"
+        "R-0106741",
+        "R-0106966"
     ],
     "CrowdStrike": [
         "R26911",
@@ -19571,7 +19590,8 @@
         "R2017556",
         "R2016406",
         "R2016870",
-        "R2017773-1"
+        "R2017773-1",
+        "R2015048"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -20620,7 +20640,16 @@
         "R0000438147",
         "R0000438062",
         "R0000438168",
-        "R0000438161"
+        "R0000438161",
+        "R0000438194",
+        "R0000438195",
+        "R0000437980",
+        "R0000437976-1",
+        "R0000438188",
+        "R0000438189",
+        "R0000438160",
+        "R0000438179",
+        "R0000438180"
     ],
     "Zoom": [
         "R18188-1",
@@ -20982,7 +21011,8 @@
         "R-99415",
         "R-105983-1",
         "R-106030",
-        "R-105577"
+        "R-105577",
+        "R-106047"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
