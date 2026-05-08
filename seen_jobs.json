@@ -2707,7 +2707,8 @@
         "7c317d05-b1ff-443f-975a-5b96e2728ac5",
         "cf8e7e47-2871-405f-8e19-aa95fa5e6996",
         "2482f4b1-847c-4930-9da2-224494b4c4c5",
-        "82c7a74d-b77d-437c-be9a-622246d125fd"
+        "82c7a74d-b77d-437c-be9a-622246d125fd",
+        "cca996fb-c2b7-46a7-8280-c793670aa81f"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4659,7 +4660,12 @@
         "8540267002",
         "8540444002",
         "8540446002",
-        "8540445002"
+        "8540445002",
+        "8540466002",
+        "8540465002",
+        "8540464002",
+        "8540463002",
+        "8540462002"
     ],
     "Rubrik": [
         "7310036",
@@ -6471,7 +6477,12 @@
         "7785168",
         "6030012",
         "7903579",
-        "7902924"
+        "7902924",
+        "7897075",
+        "7897077",
+        "7906167",
+        "7861257",
+        "7861276"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -11762,7 +11773,10 @@
         "R341623",
         "R340716",
         "R328222",
-        "R340657"
+        "R340657",
+        "R341094",
+        "R296473-1",
+        "R341759"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12389,7 +12403,10 @@
         "R263855-1",
         "R260129-1",
         "R260321",
-        "R263782"
+        "R263782",
+        "R263831",
+        "R261051",
+        "R264124"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13174,7 +13191,11 @@
         "R-10386609",
         "R-10393235",
         "R-10388845",
-        "R-10393352"
+        "R-10393352",
+        "R-10383997",
+        "R-10383996",
+        "R-10383993",
+        "R-10383999"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14923,7 +14944,13 @@
         "Senior-IFRS-Consultant_727516WD",
         "Experienced-Actuary-Employee-Benefits_710665WD",
         "Senior-IAM-Consultant_712321WD-1",
-        "Administrative_712717WD"
+        "Administrative_712717WD",
+        "IN-Senior-Associate-SAP-CPI-Enterprise-Apps-SAP-Advisory-Mumbai_721322WD-1",
+        "IN-Manager-Workday-Finance-GCC-Advisory-Gurugram_704822WD",
+        "Consulting----Delivery-Lead_726738WD",
+        "Corporate-Tax---Manager---Senior-Manager_727537WD",
+        "Consulting---Solution-Lead_726737WD",
+        "Consulting---Test-Director_726730WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -19158,7 +19185,11 @@
         "R2015523",
         "R2017843",
         "R2017746-1",
-        "R2017593"
+        "R2017593",
+        "R2017214",
+        "R2017857",
+        "R2017247",
+        "R2017394"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -20141,7 +20172,9 @@
         "R0000437750-1",
         "R0000438024",
         "R0000438079",
-        "R0000438075"
+        "R0000438075",
+        "R0000438005",
+        "R0000437984-1"
     ],
     "Zoom": [
         "R18188-1",
