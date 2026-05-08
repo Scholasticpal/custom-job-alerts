@@ -5052,7 +5052,8 @@
         "7893827",
         "7818643",
         "7891576",
-        "7901871"
+        "7901871",
+        "7875097"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -6815,7 +6816,8 @@
         "7520868",
         "7895238",
         "7874688",
-        "7904291"
+        "7904291",
+        "7904609"
     ],
     "Dropbox": [
         "7646405",
@@ -9444,7 +9446,10 @@
         "R-275765-1",
         "R-276879-1",
         "R-276687",
-        "R-277461"
+        "R-277461",
+        "R-276582",
+        "R-276583",
+        "R-277789"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11841,7 +11846,13 @@
         "R340045",
         "R341808",
         "R328379",
-        "R341096"
+        "R341096",
+        "R341841",
+        "R340927",
+        "R341380",
+        "R341182",
+        "R330698",
+        "R339956"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12098,7 +12109,9 @@
         "Business-Travel-Consultant_J-82305",
         "Senior-Analyst-Technology--Strategy-and-Optimization_J-81278",
         "Assistant-Manager---Centralized-Accounting_J-82276",
-        "Corporate-Travel-Consultant_J-79738"
+        "Corporate-Travel-Consultant_J-79738",
+        "Senior-Consulting-Manager_J-79263",
+        "Engineer-I---Java_J-80211"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12491,7 +12504,10 @@
         "R251234",
         "R257869",
         "R264004",
-        "R264080"
+        "R264080",
+        "R260560",
+        "R263219",
+        "R261448"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -12570,7 +12586,8 @@
         "Reporting---Insights--Associate---People-Analytics_40470-1",
         "Senior-Data-Analyst--VP---Data-Visualization-Team_43042-1",
         "Legal---Compliance---PWPF-Legal-Group---Attorney--VP_42812",
-        "Legal---Compliance---PWPF-Legal-Group---Attorney--SVP--BREIT-_42842-2"
+        "Legal---Compliance---PWPF-Legal-Group---Attorney--SVP--BREIT-_42842-2",
+        "BXMA-Investment-Oversight-Solutions--Analyst_41325"
     ],
     "Capital Group": [
         "R6549",
@@ -12739,7 +12756,8 @@
         "R30606",
         "R31393",
         "R31498-1",
-        "R32161"
+        "R32161",
+        "R-2026_R29420"
     ],
     "Fiserv": [
         "R-10392824",
@@ -13302,7 +13320,18 @@
         "R-10390208",
         "R-10390209",
         "R-10390210",
-        "R-10388717"
+        "R-10388717",
+        "R-10388658",
+        "R-10388643",
+        "R-10388628",
+        "R-10388721",
+        "R-10388617",
+        "R-10388670",
+        "R-10388651",
+        "R-10388650",
+        "R-10387876",
+        "R-10388404-1",
+        "R-10388733"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13397,7 +13426,8 @@
         "Senior-Quantitative-Analyst--Putnam-Investments-_867732-1",
         "Associate--Product-Development---Client-Initiatives_867139",
         "High-Yield-Research-Analyst_867726",
-        "Product-Analyst_867678"
+        "Product-Analyst_867678",
+        "Senior-Audio-Visual-Technician_867355"
     ],
     "Invesco": [
         "R-13647",
@@ -13505,7 +13535,8 @@
         "R-13211",
         "R-13883",
         "R-13419",
-        "R-13694"
+        "R-13694",
+        "R-13845"
     ],
     "PayPal": [
         "R0135744-1",
@@ -13742,7 +13773,8 @@
         "R0136074",
         "R0136613",
         "R0127002",
-        "R0135490-1"
+        "R0135490-1",
+        "R0136334-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -15124,7 +15156,13 @@
         "Senior-Business-Analyst--US-Client-_709108WD-1",
         "Senior-Data-Migration--US-Client-_709103WD-1",
         "IN-Senior-Associate--Blockchain-Developer--Emerging-Businesses--Advisory-Mumbai_713526WD-1",
-        "SAP-HR-Specialist----Managed-Services-Operations_714922WD"
+        "SAP-HR-Specialist----Managed-Services-Operations_714922WD",
+        "Accountant-FTC_709031WD",
+        "Intern--Advisory-Consulting_726355WD",
+        "IN-Senior-Associate-Python-Fullstack-Data-Analytics-Advisory-Bangalore_705987WD-1",
+        "Advisory-Intern_717705WD",
+        "Gerente---Auditora-Externa-Contable_727493WD",
+        "IN-Senior-Associate--Ignition-Developer-Application-Technology-Advisory--PAN-INDIA--immediate-joiners-_723197WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17109,7 +17147,11 @@
         "7871387",
         "7898902",
         "7905517",
-        "7887608"
+        "7887608",
+        "7904325",
+        "7662223",
+        "7904962",
+        "7872490"
     ],
     "Datadog": [
         "7194969",
@@ -17600,7 +17642,8 @@
         "7821113",
         "7874842",
         "7905006",
-        "7905494"
+        "7905494",
+        "7904615"
     ],
     "Elastic": [
         "7505982",
@@ -17853,7 +17896,8 @@
         "7874807",
         "7904545",
         "7905731",
-        "7843346"
+        "7843346",
+        "7525999"
     ],
     "Asana": [
         "7120496",
@@ -18013,7 +18057,8 @@
         "7904869",
         "7904715",
         "7793619",
-        "6749982"
+        "6749982",
+        "7867211"
     ],
     "Coursera": [
         "5839408004",
@@ -19387,7 +19432,8 @@
         "R2017697-1",
         "R2012722",
         "R2017298",
-        "R2017296-1"
+        "R2017296-1",
+        "R2014419"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -20419,7 +20465,13 @@
         "R0000438109",
         "R0000438121",
         "R0000438073-1",
-        "R0000438120"
+        "R0000438120",
+        "R0000434557-1",
+        "R0000438003",
+        "R0000438021",
+        "R0000438124",
+        "R0000400297",
+        "R0000400274-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -20537,7 +20589,10 @@
         "R18870-1",
         "R18966-1",
         "R17217",
-        "R19151-1"
+        "R19151-1",
+        "R19154-1",
+        "R19156",
+        "R19153-1"
     ],
     "Expedia": [
         "R-2_R-105040",
