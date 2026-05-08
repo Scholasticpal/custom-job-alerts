@@ -947,7 +947,8 @@
         "7325252",
         "7901987",
         "7868815",
-        "7740363"
+        "7740363",
+        "7587922"
     ],
     "Figma": [
         "5426468004",
@@ -1746,7 +1747,8 @@
         "4681583005",
         "4693136005",
         "4692394005",
-        "4690056005"
+        "4690056005",
+        "4684690005"
     ],
     "Rippling": [],
     "Slice": [
@@ -2716,7 +2718,11 @@
         "ad949dfe-9f2f-4235-8945-740a0f6b3177",
         "b2dfb94d-869b-41c0-ac6a-342e5da866fe",
         "d90ed9a5-5ff1-4185-9780-b48dbdf5ec24",
-        "ec4c0c69-9fc7-421b-abf2-000a79fb64cb"
+        "ec4c0c69-9fc7-421b-abf2-000a79fb64cb",
+        "a38487cb-b924-495a-a79c-b143b405f5b2",
+        "a39d765c-2623-4b9d-a1a4-7e62a56ec7e2",
+        "2cf26fd0-439d-4425-8d30-e1ff5d7380bf",
+        "798f4ae5-4ef7-4073-9bcc-9aa1b3abf835"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -3291,7 +3297,8 @@
         "7899044",
         "7905012",
         "7905365",
-        "7902817"
+        "7902817",
+        "7907839"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4680,7 +4687,8 @@
         "8516237002",
         "8516238002",
         "8516235002",
-        "7642856002"
+        "7642856002",
+        "8540678002"
     ],
     "Rubrik": [
         "7310036",
@@ -9430,7 +9438,13 @@
         "R-277529",
         "R-276212",
         "R-276782",
-        "R-277681-1"
+        "R-277681-1",
+        "R-275385",
+        "R-275773-1",
+        "R-275765-1",
+        "R-276879-1",
+        "R-276687",
+        "R-277461"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12081,7 +12095,10 @@
         "Global-Account-Manager-II_J-79474",
         "Dedicated-Account-Representative_J-81806",
         "Boomi-Engineer_J-80065",
-        "Business-Travel-Consultant_J-82305"
+        "Business-Travel-Consultant_J-82305",
+        "Senior-Analyst-Technology--Strategy-and-Optimization_J-81278",
+        "Assistant-Manager---Centralized-Accounting_J-82276",
+        "Corporate-Travel-Consultant_J-79738"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12472,7 +12489,9 @@
         "R261703",
         "R264123",
         "R251234",
-        "R257869"
+        "R257869",
+        "R264004",
+        "R264080"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13273,7 +13292,17 @@
         "R-10388621",
         "R-10388620",
         "R-10388622-1",
-        "R-10388646"
+        "R-10388646",
+        "R-10388683",
+        "R-10394180-1",
+        "R-10390202",
+        "R-10390201",
+        "R-10390200",
+        "R-10390188",
+        "R-10390208",
+        "R-10390209",
+        "R-10390210",
+        "R-10388717"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -15089,7 +15118,13 @@
         "Konsultant-Konsultantka---Sales-Support-Team_727648WD",
         "-SAP-_727242WD",
         "IN-Senior-Associate-Java-Data---Analytics-Advisory-Bangalore_713682WD-1",
-        "IN-Associate-AI-ML-Developer-MS-Engg-Advisory-Gurgaon_720211WD-1"
+        "IN-Associate-AI-ML-Developer-MS-Engg-Advisory-Gurgaon_720211WD-1",
+        "IN-Senior-Associate--ServiceNow-SPM-Advisory-APPTECH-Bangalore_719546WD-1",
+        "IN-Senior-Associate-Treasury-EOD-Process-GCC-Advisory-Bangalore_719347WD-2",
+        "Senior-Business-Analyst--US-Client-_709108WD-1",
+        "Senior-Data-Migration--US-Client-_709103WD-1",
+        "IN-Senior-Associate--Blockchain-Developer--Emerging-Businesses--Advisory-Mumbai_713526WD-1",
+        "SAP-HR-Specialist----Managed-Services-Operations_714922WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -18376,7 +18411,8 @@
         "R-0102943-2",
         "R-0106965",
         "R-0106077",
-        "R-0106913"
+        "R-0106913",
+        "R-0106794"
     ],
     "CrowdStrike": [
         "R26911",
@@ -18551,7 +18587,8 @@
         "R28345",
         "R26862",
         "R28447",
-        "R28614-1"
+        "R28614-1",
+        "R28139"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -19345,7 +19382,12 @@
         "R2017630",
         "R2017779",
         "R2016444",
-        "R2009069"
+        "R2009069",
+        "R2017048",
+        "R2017697-1",
+        "R2012722",
+        "R2017298",
+        "R2017296-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -19426,7 +19468,8 @@
         "Principal-Digital-Design-Lead_2013398",
         "Software-Engineer_2007184-1",
         "Software-Engineer_2007186-1",
-        "Security-Research-Engineer_2012859"
+        "Security-Research-Engineer_2012859",
+        "Manager--Early-in-Career-Sales-Talent--ASE-_2013567"
     ],
     "Intel": [
         "R0283052",
@@ -20373,7 +20416,10 @@
         "R0000438112",
         "R0000438111",
         "R0000438110-1",
-        "R0000438109"
+        "R0000438109",
+        "R0000438121",
+        "R0000438073-1",
+        "R0000438120"
     ],
     "Zoom": [
         "R18188-1",
@@ -20777,7 +20823,8 @@
         "Director--Customer-Success---West_113035-JOB",
         "Large-Enterprise-Account-Executive_112937-JOB",
         "Sr-UX-Writer_113046-JOB",
-        "Sr-Manager--Global-Compensation_113060-JOB"
+        "Sr-Manager--Global-Compensation_113060-JOB",
+        "Sr-Business-Analyst_113064-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
