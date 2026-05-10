@@ -9934,7 +9934,8 @@
         "R-2497059-1",
         "R-2504231",
         "R-2469891-1",
-        "R-2505194"
+        "R-2505194",
+        "R-2505776"
     ],
     "Salesforce": [
         "R333354",
@@ -15319,7 +15320,14 @@
         "ETIC--PMIS---Business-Analyst---Associate_726527WD",
         "ETIC--PMIS---Business-Analyst---Senior-Associate_726524WD",
         "Corporate-Accounting---Financial-Senior-Analyst---US-Client_722399WD-1",
-        "Manager---Corporate-Tax_727297WD"
+        "Manager---Corporate-Tax_727297WD",
+        "IN-Senior-Associate-Generative-AI---CoPilot-One-Cloud-Advisory-Bangalore_727728WD-1",
+        "IN-Senior-Associate-Generative-AI---CoPilot-One-Cloud-Advisory-Bangalore_727739WD-1",
+        "IN-Senior-Associate-Generative-AI---CoPilot-One-Cloud-Advisory-Bangalore_727730WD-1",
+        "IN-Senior-Associate-Generative-AI---CoPilot-One-Cloud-Advisory-Bangalore_727720WD-1",
+        "IN-Senior-Associate-Agentic-Developer-One-Cloud-Advisory-Bangalore_727719WD-1",
+        "IN-Associate-Research-iGT---Social-Advisory-Bhubaneswar_727690WD-1",
+        "IN-Senior-Associate--GCP-DataPlex---D-A--Advisory--Bangalore_713149WD-2"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
