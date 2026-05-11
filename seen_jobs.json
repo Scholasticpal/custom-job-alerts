@@ -3342,7 +3342,8 @@
         "7912654",
         "7899867",
         "7912953",
-        "7306160"
+        "7306160",
+        "7895069"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4740,7 +4741,9 @@
         "8501125002",
         "8415025002",
         "8487768002",
-        "8541319002"
+        "8541319002",
+        "8493146002",
+        "8493144002"
     ],
     "Rubrik": [
         "7310036",
@@ -6892,7 +6895,8 @@
         "7903877",
         "7906141",
         "7856029",
-        "7895188"
+        "7895188",
+        "7906081"
     ],
     "Dropbox": [
         "7646405",
@@ -9569,7 +9573,10 @@
         "R-277603",
         "R-268675",
         "R-277911",
-        "R-277524-1"
+        "R-277524-1",
+        "R-277099",
+        "R-277074",
+        "R-265851"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12047,7 +12054,11 @@
         "R341898-1",
         "R341886",
         "R341885",
-        "R339293-1"
+        "R339293-1",
+        "R341846",
+        "R338034",
+        "R342206",
+        "R341264"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12912,7 +12923,8 @@
         "R6603",
         "R5845",
         "R6638",
-        "R6596"
+        "R6596",
+        "R6420"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -15676,7 +15688,25 @@
         "Associate-Corporate-Tax_710565WD-2",
         "Directeur-rice---Services-fiscaux--PwC-Prive--Bilingue-FR-ANGL-_710818WD",
         "Senior-Analyst---Management-Consulting_656127WD-2",
-        "IN-Associate---Internal-Audit-Services-Internal-Audit-Advisory-PAN-India_726199WD-1"
+        "IN-Associate---Internal-Audit-Services-Internal-Audit-Advisory-PAN-India_726199WD-1",
+        "Senior-IT-External-Audit---US-CLIENT_687259WD-3",
+        "Finance-Operations-Assurance---Tax---Senior-Analyst_727795WD-1",
+        "Scrum-Master-Sr--AdvCon----Senior-Associate--tag01-_638469WD-1",
+        "IN-Specialist-2-IRDA-Resolutions-Advisory-Gurgaon_727745WD-1",
+        "IN-Senior-Associate-Gen-AI-AI-50-Advisory-Bangalore_727619WD-1",
+        "IN-Senior-Associate-Gen-AI-AI-50-Advisory-Bangalore_727661WD-2",
+        "IN-Senior-Manager-SAP-BPC-Enterprise-APP-SAP--Advisory-Pan-India_727548WD-1",
+        "IN-Senior-Associate--SAP-PPDS-Enterprise-APP-SAP-Advisory-Gurgaon_727460WD",
+        "IN-Senior-Associate--SAP-PPDS-Enterprise-APP-SAP-Advisory-Gurgaon_727612WD-1",
+        "IN-Senior-Associate--SAP-PPDS-Enterprise-APP-SAP-Advisory-Gurgaon_727613WD-1",
+        "IN-Senior-Associate--SAP-PPDS-Enterprise-APP-SAP-Advisory-Gurgaon_727614WD-2",
+        "IN-Senior-Associate-Azure-Devops-Data---Analytics-Advisory-PAN-India_727609WD-1",
+        "IN-Senior-Associate-Azure-Devops-Data---Analytics-Advisory-PAN-India_727398WD-1",
+        "IN-Senior-Associate-Azure-Devops-Data---Analytics-Advisory-PAN-India_727610WD-1",
+        "IN-Senior-Associate-Azure-Devops-Data---Analytics-Advisory-PAN-India_727611WD-1",
+        "IN-Senior-Associate--Skills-and-social-Sector--Social--Advisory--Gurgaon_727467WD-1",
+        "IN-Senior-Associate--Skills-and-social-Sector--Social--Advisory--Gurgaon_727320WD-1",
+        "IN-Senior-Associate--Skills-and-social-Sector--Social--Advisory--Gurgaon_727465WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -16226,7 +16256,10 @@
         "5215028008",
         "5215116008",
         "5215124008",
-        "5214810008"
+        "5214810008",
+        "5215052008",
+        "5153377008",
+        "5159146008"
     ],
     "Coinbase": [
         "7559052",
@@ -17701,7 +17734,9 @@
         "7907745",
         "7861788",
         "7891161",
-        "7906059"
+        "7906059",
+        "7799978",
+        "7523904"
     ],
     "Datadog": [
         "7194969",
@@ -19054,7 +19089,8 @@
         "R-0106903",
         "R-0107037",
         "R-0106670",
-        "R-0106754"
+        "R-0106754",
+        "R-0107167"
     ],
     "CrowdStrike": [
         "R26911",
@@ -19251,7 +19287,8 @@
         "R28736",
         "R27358",
         "R28732",
-        "R28453"
+        "R28453",
+        "R27451"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -20129,7 +20166,8 @@
         "R2015026",
         "R2017842",
         "R2017642-1",
-        "R2017357"
+        "R2017357",
+        "R2017884"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -21281,7 +21319,11 @@
         "R0000438584",
         "R0000438544",
         "R0000438575",
-        "R0000438295"
+        "R0000438295",
+        "R0000435205",
+        "R0000437631",
+        "R0000438610",
+        "R0000438520"
     ],
     "Zoom": [
         "R18188-1",
@@ -21662,7 +21704,8 @@
         "R-102815",
         "R-101665-1",
         "R-105688-1",
-        "R-105923"
+        "R-105923",
+        "R-104335"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
