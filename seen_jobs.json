@@ -959,7 +959,8 @@
         "7794729",
         "7896538",
         "7901827",
-        "7913505"
+        "7913505",
+        "7913503"
     ],
     "Figma": [
         "5426468004",
@@ -1476,7 +1477,8 @@
         "10414780",
         "10414829",
         "10414831",
-        "10415633"
+        "10415633",
+        "10416364"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -3339,7 +3341,8 @@
         "7912493",
         "7912654",
         "7899867",
-        "7912953"
+        "7912953",
+        "7306160"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -5106,7 +5109,8 @@
         "7889025",
         "7849409",
         "7849739",
-        "7908722"
+        "7908722",
+        "7909639"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -12031,7 +12035,19 @@
         "R342077",
         "R342028-1",
         "R340902",
-        "R274505"
+        "R274505",
+        "R342197",
+        "R341883",
+        "R341263",
+        "R342147",
+        "R342149-1",
+        "R341129",
+        "R341330",
+        "R342138",
+        "R341898-1",
+        "R341886",
+        "R341885",
+        "R339293-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12314,7 +12330,9 @@
         "Senior-Lead-Engineer_J-79030",
         "Senior-Engineer_J-80962-1",
         "Travel-Consultant-I-Onsite-Hawaii_J-81570",
-        "Travel-Counselor--After-Hours-English_J-82367"
+        "Travel-Counselor--After-Hours-English_J-82367",
+        "Travel-Consultant-II_J-81743",
+        "Travel-Consultant-III_J-81355"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12739,7 +12757,9 @@
         "R263866-1",
         "R263215",
         "R262416",
-        "R264113"
+        "R264113",
+        "R260685",
+        "R260770-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -12890,7 +12910,9 @@
         "R6624-1",
         "R6544",
         "R6603",
-        "R5845"
+        "R5845",
+        "R6638",
+        "R6596"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -13004,7 +13026,8 @@
         "R-2026_R29420",
         "R31854",
         "R32179-2",
-        "R32186"
+        "R32186",
+        "R30302"
     ],
     "Fiserv": [
         "R-10392824",
@@ -13628,7 +13651,12 @@
         "R-10388212",
         "R-10394339",
         "R-10392802",
-        "R-10392349"
+        "R-10392349",
+        "R-10391955",
+        "R-10385833",
+        "R-10367187",
+        "R-10385065",
+        "R-10394335"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13733,7 +13761,10 @@
         "Lead-Maintenance-Technician---Rancho-Cordova_867477",
         "Business-Solutions-Data---Reporting-Senior-Analyst_867736",
         "Manager---Facilities_866897",
-        "Product-Development-and-Implementation-Senior-Associate_867719"
+        "Product-Development-and-Implementation-Senior-Associate_867719",
+        "Global-Fund-Tax-Manager_864236-1",
+        "Senior-Technology-Project-Manager_867932-1",
+        "Wealth-Director_867714"
     ],
     "Invesco": [
         "R-13647",
@@ -15638,7 +15669,14 @@
         "Manager-PM-TECH_726338WD",
         "Manager---Compliance-Program-Analyst_726332WD",
         "Sr-associate-PM-TECH_726335WD",
-        "Sr---Project-Manager-IA_726331WD"
+        "Sr---Project-Manager-IA_726331WD",
+        "IN-Senior-Associate-SAP-SD-OC-SAP-Advisory-Noida_706326WD-2",
+        "DevOps_728115WD",
+        "Proposal-Manager_726307WD",
+        "Associate-Corporate-Tax_710565WD-2",
+        "Directeur-rice---Services-fiscaux--PwC-Prive--Bilingue-FR-ANGL-_710818WD",
+        "Senior-Analyst---Management-Consulting_656127WD-2",
+        "IN-Associate---Internal-Audit-Services-Internal-Audit-Advisory-PAN-India_726199WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -16421,7 +16459,8 @@
         "8538039002",
         "8520965002",
         "8542210002",
-        "8538797002"
+        "8538797002",
+        "8537955002"
     ],
     "Reddit": [
         "7011741",
@@ -16631,7 +16670,9 @@
         "7616791",
         "7909463",
         "7793253",
-        "7638071"
+        "7638071",
+        "7913659",
+        "7896378"
     ],
     "Notion": [],
     "Plaid": [],
@@ -19010,7 +19051,10 @@
         "R-0106224",
         "R-0106716",
         "R-0106614",
-        "R-0106903"
+        "R-0106903",
+        "R-0107037",
+        "R-0106670",
+        "R-0106754"
     ],
     "CrowdStrike": [
         "R26911",
@@ -19204,7 +19248,10 @@
         "R28183",
         "R28283",
         "R27379",
-        "R28736"
+        "R28736",
+        "R27358",
+        "R28732",
+        "R28453"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -20076,7 +20123,13 @@
         "R2016089",
         "R2014625",
         "R2017989",
-        "R2017814"
+        "R2017814",
+        "R2012841",
+        "R2004633-1",
+        "R2015026",
+        "R2017842",
+        "R2017642-1",
+        "R2017357"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -20159,7 +20212,8 @@
         "Software-Engineer_2007186-1",
         "Security-Research-Engineer_2012859",
         "Manager--Early-in-Career-Sales-Talent--ASE-_2013567",
-        "Hardware-Engineer_2008988"
+        "Hardware-Engineer_2008988",
+        "Software-Engineer--Full-Stack_2014018"
     ],
     "Intel": [
         "R0283052",
@@ -21219,7 +21273,15 @@
         "R0000438504",
         "R0000438505-1",
         "R0000438506",
-        "R0000438507"
+        "R0000438507",
+        "R0000438595",
+        "R0000438607",
+        "R0000438582-1",
+        "R0000438567-1",
+        "R0000438584",
+        "R0000438544",
+        "R0000438575",
+        "R0000438295"
     ],
     "Zoom": [
         "R18188-1",
@@ -21597,7 +21659,10 @@
         "R-103372",
         "R-101292-1",
         "R-105530",
-        "R-102815"
+        "R-102815",
+        "R-101665-1",
+        "R-105688-1",
+        "R-105923"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
