@@ -966,7 +966,8 @@
         "7912140",
         "7827184",
         "7913702",
-        "7882492"
+        "7882492",
+        "7917716"
     ],
     "Figma": [
         "5426468004",
@@ -4790,7 +4791,8 @@
         "8542188002",
         "8423289002",
         "8540569002",
-        "8535311002"
+        "8535311002",
+        "8522044002"
     ],
     "Rubrik": [
         "7310036",
@@ -9680,7 +9682,9 @@
         "R-277853",
         "R-277187",
         "R-277700",
-        "R-276000"
+        "R-276000",
+        "R-277850-1",
+        "R-276649-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12208,7 +12212,12 @@
         "R341126",
         "R340791",
         "R342224-1",
-        "R338243"
+        "R338243",
+        "R333960",
+        "R342120",
+        "R340336",
+        "R340335",
+        "R342355"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12504,7 +12513,8 @@
         "Technical-Specialist_J-82404",
         "SQL-Server-Database-Administrator_J-79397",
         "Remote-VIP-Travel-Consultant---Evenings-and-Overnights-Shifts_J-82246",
-        "Product-Support-Analyst_J-82406"
+        "Product-Support-Analyst_J-82406",
+        "Sr-DevSecOps-Engineer_J-81893-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12953,7 +12963,8 @@
         "R261624",
         "R263961",
         "R263633",
-        "R263936"
+        "R263936",
+        "R264180"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13895,7 +13906,11 @@
         "R-10377051",
         "R-10391547",
         "R-10389333",
-        "R-10394097-1"
+        "R-10394097-1",
+        "R-10387868",
+        "R-10388473",
+        "R-10387869-1",
+        "R-10382102"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14159,7 +14174,9 @@
         "R-13799",
         "R-13800",
         "R-13513-1",
-        "R-14057"
+        "R-14057",
+        "R-14013",
+        "R-13846-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -14427,7 +14444,11 @@
         "R0136599-1",
         "R0132774",
         "R0136486-1",
-        "R0136593-1"
+        "R0136593-1",
+        "R0134097-1",
+        "R0136189-1",
+        "R0136190-1",
+        "R0136757"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -16032,7 +16053,11 @@
         "IN-Senior-Associate-Azure-Data-Engineer-Digital-Integration-Advisory-Gurgaon_725755WD-1",
         "National-Corporate-Security-Manager_726653WD-3",
         "IN-Senior-Associate-Informatica-Data-and-Analytics-Advisory-Pan-India_701620WD",
-        "IN-Sr-Associate-Azure-Devops--Data---Analytics--Advisory--PAN-India_715103WD-1"
+        "IN-Sr-Associate-Azure-Devops--Data---Analytics--Advisory--PAN-India_715103WD-1",
+        "Senior---Risk-Reviewer_709342WD",
+        "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Kolkata_720957WD-1",
+        "Senior-Associate---Tech-Lead--AI---Core-Banking-_728534WD",
+        "Resourcing-and-Deployment-Senior-Manager--Assurance_727479WD-3"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -16586,7 +16611,8 @@
         "5215052008",
         "5153377008",
         "5159146008",
-        "5204401008"
+        "5204401008",
+        "5216208008"
     ],
     "Coinbase": [
         "7559052",
@@ -17264,7 +17290,9 @@
         "7713577003",
         "7713575003",
         "7728511003",
-        "7728513003"
+        "7728513003",
+        "7728591003",
+        "7728589003"
     ],
     "Robinhood": [
         "7799902",
@@ -19453,7 +19481,8 @@
         "R-0102286",
         "R-0106201",
         "R-0107010",
-        "R-0107157"
+        "R-0107157",
+        "R-0101749"
     ],
     "CrowdStrike": [
         "R26911",
@@ -20587,7 +20616,14 @@
         "R2015315",
         "R2008387",
         "R2017580",
-        "R2017487"
+        "R2017487",
+        "R2017272",
+        "R2002387-2",
+        "R2016899",
+        "R2017676",
+        "R2017741",
+        "R2003854",
+        "R2008728"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -20701,7 +20737,8 @@
         "R0283558",
         "R0283652",
         "R0283627",
-        "R0281914-1"
+        "R0281914-1",
+        "R0281148"
     ],
     "Target": [
         "R0000436219",
@@ -21836,7 +21873,22 @@
         "R0000435571",
         "R0000434389-1",
         "R0000438926",
-        "R0000438297"
+        "R0000438297",
+        "R0000438934-1",
+        "R0000438949",
+        "R0000438981",
+        "R0000438980",
+        "R0000438979",
+        "R-64--PRESS-FEEDER-_R0000398792",
+        "R0000438962",
+        "R0000438918",
+        "R0000383275",
+        "R0000416129",
+        "R0000416127",
+        "R0000416128",
+        "R0000438965",
+        "R0000416130",
+        "R0000438964"
     ],
     "Zoom": [
         "R18188-1",
@@ -21968,7 +22020,8 @@
         "R18925-1",
         "R18263-1",
         "R18460",
-        "R18854-1"
+        "R18854-1",
+        "R19163-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -22227,7 +22280,8 @@
         "R-104739",
         "R-105101",
         "R-105939",
-        "R-104609"
+        "R-104609",
+        "R-104519"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
