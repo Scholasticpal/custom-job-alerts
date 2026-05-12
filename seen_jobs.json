@@ -961,7 +961,11 @@
         "7901827",
         "7913505",
         "7913503",
-        "7914005"
+        "7914005",
+        "7913698",
+        "7912140",
+        "7827184",
+        "7913702"
     ],
     "Figma": [
         "5426468004",
@@ -1479,7 +1483,8 @@
         "10414829",
         "10414831",
         "10415633",
-        "10416364"
+        "10416364",
+        "10416652"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -6901,7 +6906,8 @@
         "7906141",
         "7856029",
         "7895188",
-        "7906081"
+        "7906081",
+        "7825091"
     ],
     "Dropbox": [
         "7646405",
@@ -9583,7 +9589,8 @@
         "R-277099",
         "R-277074",
         "R-265851",
-        "R-277592"
+        "R-277592",
+        "R-277869"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12068,7 +12075,14 @@
         "R342206",
         "R341264",
         "R341730",
-        "R339624"
+        "R339624",
+        "R341981",
+        "R341770",
+        "R326891",
+        "R339485-1",
+        "R338344",
+        "R341071-1",
+        "R341023"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12353,7 +12367,9 @@
         "Travel-Consultant-I-Onsite-Hawaii_J-81570",
         "Travel-Counselor--After-Hours-English_J-82367",
         "Travel-Consultant-II_J-81743",
-        "Travel-Consultant-III_J-81355"
+        "Travel-Consultant-III_J-81355",
+        "Travel-Consultant_J-80080",
+        "Travel-Consultant_J-80081"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12395,7 +12411,8 @@
         "Associate-Vice-President--SEA-Real-Estate-Equity-Research--Global-Research--Singapore_26016196",
         "Associate--Equity-Capital-Markets-Japan_26010010",
         "Associate--Rates---Currencies-Product-Specialist--Capital-Markets_26010011-1",
-        "Vice-President--Enterprise-Credit--Shanghai_26016350-2"
+        "Vice-President--Enterprise-Credit--Shanghai_26016350-2",
+        "Analyst--Prime-Brokerage-Account-Management--Global-Equities--Hong-Kong_26013760-1"
     ],
     "BlackRock": [
         "R263666",
@@ -12780,7 +12797,9 @@
         "R262416",
         "R264113",
         "R260685",
-        "R260770-1"
+        "R260770-1",
+        "R260896",
+        "R262358"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13788,7 +13807,9 @@
         "Product-Development-and-Implementation-Senior-Associate_867719",
         "Global-Fund-Tax-Manager_864236-1",
         "Senior-Technology-Project-Manager_867932-1",
-        "Wealth-Director_867714"
+        "Wealth-Director_867714",
+        "Relationship-Manager_867030",
+        "Senior-Relationship-Manager_867024"
     ],
     "Invesco": [
         "R-13647",
@@ -15718,7 +15739,13 @@
         "IN-Senior-Associate-Azure-Devops-Data---Analytics-Advisory-PAN-India_727611WD-1",
         "IN-Senior-Associate--Skills-and-social-Sector--Social--Advisory--Gurgaon_727467WD-1",
         "IN-Senior-Associate--Skills-and-social-Sector--Social--Advisory--Gurgaon_727320WD-1",
-        "IN-Senior-Associate--Skills-and-social-Sector--Social--Advisory--Gurgaon_727465WD-1"
+        "IN-Senior-Associate--Skills-and-social-Sector--Social--Advisory--Gurgaon_727465WD-1",
+        "Senior-Associate---Corporate-Tax_704217WD",
+        "Senior-Associate---SAP-Consulting_728277WD",
+        "External-Audit--Senior-Associate--NPO-Community_696403WD",
+        "Tax---Digital-Tax--Data-Scientist--Experienced-Associate_657786WD",
+        "Manager---Financial-Audit--Chinese-Business-Network-_728035WD",
+        "IFS---Business-Development-Associate_645206WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17224,7 +17251,8 @@
         "5979111004",
         "5980244004",
         "5691965004",
-        "5982743004"
+        "5982743004",
+        "5993753004"
     ],
     "MongoDB": [
         "7574659",
@@ -17749,7 +17777,8 @@
         "7891161",
         "7906059",
         "7799978",
-        "7523904"
+        "7523904",
+        "7757460"
     ],
     "Datadog": [
         "7194969",
@@ -18687,7 +18716,8 @@
         "5983324004",
         "5982730004",
         "5984772004",
-        "5977743004"
+        "5977743004",
+        "5992491004"
     ],
     "Udemy": [
         "5424719004",
@@ -18806,7 +18836,8 @@
         "R167409-1",
         "R168682",
         "R168579",
-        "R168683"
+        "R168683",
+        "R168256-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -19303,7 +19334,9 @@
         "R27358",
         "R28732",
         "R28453",
-        "R27451"
+        "R27451",
+        "R25873",
+        "R28214"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -20195,7 +20228,9 @@
         "R2017592",
         "R2017848",
         "R2017542",
-        "R2017502"
+        "R2017502",
+        "R2016886",
+        "R1999871"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -21371,7 +21406,10 @@
         "R0000438815",
         "R0000438816",
         "R0000438817",
-        "R0000438818"
+        "R0000438818",
+        "R0000438874",
+        "R0000438873",
+        "R0000438536"
     ],
     "Zoom": [
         "R18188-1",
@@ -21810,7 +21848,8 @@
         "Sr-Business-Analyst_113064-JOB",
         "Managed-Services-Consultant---Senior_112831-JOB",
         "Professional-Services-Intern_112802-JOB",
-        "Professional-Services-Intern_112801-JOB-1"
+        "Professional-Services-Intern_112801-JOB-1",
+        "Engagement-Manager---Professional-Services_113031-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
