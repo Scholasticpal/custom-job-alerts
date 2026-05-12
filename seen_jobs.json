@@ -1219,7 +1219,8 @@
         "5989134004",
         "5988684004",
         "5987739004",
-        "5992103004"
+        "5992103004",
+        "5991320004"
     ],
     "Amazon": [
         "3198115",
@@ -1783,7 +1784,8 @@
         "4692394005",
         "4690056005",
         "4684690005",
-        "4688605005"
+        "4688605005",
+        "4694511005"
     ],
     "Rippling": [],
     "Slice": [
@@ -6607,7 +6609,10 @@
         "7912440",
         "7907619",
         "7906154",
-        "7915377"
+        "7915377",
+        "7903512",
+        "7906165",
+        "7916530"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -7293,7 +7298,8 @@
         "58d87507-0cbb-4db7-a4eb-fd8f9ec353f4",
         "19d34992-cc3d-4066-9de4-69c17f952ba1",
         "dea44a88-b138-4ef0-87b0-ed8440b0a331",
-        "1690adaa-ec47-4246-a40e-995b859545f2"
+        "1690adaa-ec47-4246-a40e-995b859545f2",
+        "322aaf36-0d79-4190-876f-8b2e91b707bf"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -9616,7 +9622,13 @@
         "R-277337",
         "R-277541-1",
         "R-274805",
-        "R-276348"
+        "R-276348",
+        "R-273180",
+        "R-278049",
+        "R-277808",
+        "R-276549",
+        "R-277945",
+        "R-276704"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12110,7 +12122,12 @@
         "R338344",
         "R341071-1",
         "R341023",
-        "R336370"
+        "R336370",
+        "R339381-1",
+        "R341586",
+        "R340808",
+        "R340708",
+        "R339687-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12398,7 +12415,8 @@
         "Travel-Consultant-III_J-81355",
         "Travel-Consultant_J-80080",
         "Travel-Consultant_J-80081",
-        "Travel-Counselor_J-80142"
+        "Travel-Counselor_J-80142",
+        "Meeting-Planner-Events_J-80856-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12834,7 +12852,13 @@
         "R261842",
         "R263987",
         "R257650",
-        "R263249-1"
+        "R263249-1",
+        "R262217",
+        "R260820",
+        "R258100",
+        "R263907",
+        "R264079",
+        "R261517"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13739,7 +13763,13 @@
         "R-10391987",
         "R-10394304",
         "R-10394303",
-        "R-10394302"
+        "R-10394302",
+        "R-10394311",
+        "R-10394308",
+        "R-10394309",
+        "R-10394301",
+        "R-10394300",
+        "R-10393973"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -13993,7 +14023,8 @@
         "R-1_R-13678",
         "R-14045",
         "R-14044",
-        "R-13350"
+        "R-13350",
+        "R-13882"
     ],
     "PayPal": [
         "R0135744-1",
@@ -15801,7 +15832,23 @@
         "IN-Senior-Associate--Payroll-Specialist--People-and-Organization--Advisory-Kolkata_705712WD-1",
         "IN-Manager-MS-Purview--Data---Analytics--Advisory--Bangalore_717362WD-1",
         "Guidewire--Full-stack--SA2--Shanghai_705940WD",
-        "Guidewire--Full-stack--Associate--Shanghai_705950WD"
+        "Guidewire--Full-stack--Associate--Shanghai_705950WD",
+        "IN-Senior-Associate-SAP-CPI-Enterprise-Apps-SAP-Advisory-Mumbai_721328WD-1",
+        "Starszy-Konsultant---Starsza-Konsultantka---VAT_728392WD",
+        "IN-Senior-Associate-Unsecured-Risk-FST---Captives-Advisory-Gurgaon_721499WD-1",
+        "Starszy-Konsultant---Starsza-Konsultantka---Finance-of-the-Future_574570WD",
+        "Transformation-Confidence-Manager_720688WD",
+        "IN-Associate---IRDA-Debt--Debt---Advisory--Gurgaon_719687WD-1",
+        "IN-Associate---Debt-Experience-IRDA-Debt--Advisory--Mumbai_719171WD",
+        "IN-Senior-Associate-Internal-Audit-Managed-Services-Advisory-Hyderabad_708901WD-1",
+        "Senior-Associate---Corporate-Tax---Torino_408289WD",
+        "Patne-praktyki---Audyt_508224WD-3",
+        "IN-Senior-Associate--QA-Automation-GCC-Advisory-Bangalore_727997WD-1",
+        "Corporate-Tax---Associate---Torino_407789WD-2",
+        "IN-Senior-Associate--QA-Automation-GCC-Advisory-Bangalore_728059WD-1",
+        "IN-Senior-Associate--QA-Automation-GCC-Advisory-Bangalore_728060WD-1",
+        "IN-Senior-Associate--QA-Automation-GCC-Advisory-Bangalore_728061WD-1",
+        "IN-Senior-Associate--SAP-BTP-Enterprise-Apps-SAP-Advisory-Hyderabad_728152WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -18330,7 +18377,8 @@
         "7134079",
         "7899179",
         "7904634",
-        "7872382"
+        "7872382",
+        "7905276"
     ],
     "Elastic": [
         "7505982",
@@ -19194,7 +19242,8 @@
         "R-0106562",
         "R-0106717",
         "R-0107049-1",
-        "R-0106206"
+        "R-0106206",
+        "R-0105407"
     ],
     "CrowdStrike": [
         "R26911",
@@ -19394,7 +19443,12 @@
         "R28453",
         "R27451",
         "R25873",
-        "R28214"
+        "R28214",
+        "R28520-1",
+        "R28518",
+        "R28519",
+        "R28287",
+        "R25986"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -20293,7 +20347,12 @@
         "R1989467",
         "R2015276",
         "R2016970",
-        "R2017716"
+        "R2017716",
+        "R2017528",
+        "R2017952",
+        "R2017053",
+        "R2017823",
+        "R2017236"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -21491,7 +21550,24 @@
         "R0000438562-1",
         "R0000438852",
         "R0000438862",
-        "R0000438884"
+        "R0000438884",
+        "R0000431230",
+        "R0000437496",
+        "R0000429765",
+        "R0000429764",
+        "R0000429767",
+        "R0000429768",
+        "R0000437821",
+        "R0000424964-1",
+        "R0000438308",
+        "R0000436788",
+        "R0000438548",
+        "R0000437531",
+        "R0000438616",
+        "R0000438796-1",
+        "R0000438598",
+        "R0000438326",
+        "R0000438586"
     ],
     "Zoom": [
         "R18188-1",
@@ -21932,7 +22008,8 @@
         "Managed-Services-Consultant---Senior_112831-JOB",
         "Professional-Services-Intern_112802-JOB",
         "Professional-Services-Intern_112801-JOB-1",
-        "Engagement-Manager---Professional-Services_113031-JOB"
+        "Engagement-Manager---Professional-Services_113031-JOB",
+        "Associate-Product-Manager---WFM--_113071-JOB-1"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
