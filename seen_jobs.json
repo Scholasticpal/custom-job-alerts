@@ -1785,7 +1785,9 @@
         "4690056005",
         "4684690005",
         "4688605005",
-        "4694511005"
+        "4694511005",
+        "4694487005",
+        "4694513005"
     ],
     "Rippling": [],
     "Slice": [
@@ -9628,7 +9630,11 @@
         "R-277808",
         "R-276549",
         "R-277945",
-        "R-276704"
+        "R-276704",
+        "R-275453",
+        "R-277233",
+        "R-277288",
+        "R-276218"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12127,7 +12133,12 @@
         "R341586",
         "R340808",
         "R340708",
-        "R339687-1"
+        "R339687-1",
+        "R341625-1",
+        "R327399",
+        "R322979",
+        "R341576-1",
+        "R342259"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12416,7 +12427,9 @@
         "Travel-Consultant_J-80080",
         "Travel-Consultant_J-80081",
         "Travel-Counselor_J-80142",
-        "Meeting-Planner-Events_J-80856-1"
+        "Meeting-Planner-Events_J-80856-1",
+        "IAM-Governance-Analyst_J-78825-1",
+        "Client-General-Manager---Health-Sciences_J-81308"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12858,7 +12871,9 @@
         "R258100",
         "R263907",
         "R264079",
-        "R261517"
+        "R261517",
+        "R262392",
+        "R263809-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13077,7 +13092,8 @@
         "Staff-Site-Reliability-Engineer_32959-1",
         "Site-Reliability-Engineer-II_34015-1",
         "Data---Analytics-Analyst_34405",
-        "Staff-Accountant_34342"
+        "Staff-Accountant_34342",
+        "Data-Reliability-Engineer-II_34017-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -13769,7 +13785,11 @@
         "R-10394309",
         "R-10394301",
         "R-10394300",
-        "R-10393973"
+        "R-10393973",
+        "R-10394320",
+        "R-10394319",
+        "R-10394318",
+        "R-10376572"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14024,7 +14044,8 @@
         "R-14045",
         "R-14044",
         "R-13350",
-        "R-13882"
+        "R-13882",
+        "R-13902-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -14279,7 +14300,9 @@
         "R0135991-1",
         "R0136636-1",
         "R0134874-1",
-        "R0135942-1"
+        "R0135942-1",
+        "R0135676",
+        "R0133587-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -15848,7 +15871,25 @@
         "IN-Senior-Associate--QA-Automation-GCC-Advisory-Bangalore_728059WD-1",
         "IN-Senior-Associate--QA-Automation-GCC-Advisory-Bangalore_728060WD-1",
         "IN-Senior-Associate--QA-Automation-GCC-Advisory-Bangalore_728061WD-1",
-        "IN-Senior-Associate--SAP-BTP-Enterprise-Apps-SAP-Advisory-Hyderabad_728152WD-1"
+        "IN-Senior-Associate--SAP-BTP-Enterprise-Apps-SAP-Advisory-Hyderabad_728152WD-1",
+        "Advisory-Corporate-Finance---Associate---Debt-Advisory-Milano_728456WD",
+        "IN-Senior-Associate-Java-Python-Advisory-Corporate-Advisory-Bangalore_714047WD-2",
+        "IN-Sr-Associate-Azure-Devops--Data---Analytics--Advisory--PAN-India_715102WD-2",
+        "IN-Senior-Associate-Oracle-fusion-Finance-Enterprise-Apps-Oracle-Advisory-Kolkata_728385WD-1",
+        "IN-Senior-Associate-Oracle-fusion-SCM-Enterprise-Apps-Oracle-Advisory-Kolkata_728384WD-1",
+        "IN-Senior-Associate-Oracle-fusion-SCM-Enterprise-Apps-Oracle-Advisory-Gurgaon_728359WD-2",
+        "IN-Senior-Associate-Oracle-Fusion-SCM-Enterprise-Apps-Oracle-Advisory-Gurugram_728343WD-1",
+        "IN-Senior-Associate--SAP-BTP-Enterprise-Apps-SAP-Advisory-Hyderabad_728043WD",
+        "IN-Associate--SAP-MDG-Consultant-D-A-Advisory-PAN-India_728352WD-1",
+        "IN-Associate-SAP-CPI-Enterprise-Apps-SAP-Advisory-Pune_728314WD-1",
+        "IN-Associate-SAP-CPI-Enterprise-Apps-SAP-Advisory-Mumbai_728313WD-2",
+        "Audit-Analyst_728422WD",
+        "IN-Senior-Asssociate-Oracle-fusion-SCM-Oracle-Advisory-Kolkata_728303WD-2",
+        "IN-Senior-Asssociate-Oracle-fusion-SCM-Oracle-Advisory-Kolkata_728302WD-1",
+        "IN-Senior-Associate-Oracle-fusion-SCM-Enterprise-Apps-Oracle-Advisory-Gurgaon_728295WD-1",
+        "IN-Senior-Associate-Oracle-fusion-SCM-Enterprise-Apps-Oracle-Advisory-Gurgaon_728293WD-1",
+        "IN-Senior-Associate-UiPath-Developer-Platform-Engineer-GCC-Advisory-Noida_728033WD-1",
+        "IN-Senior-Associate--SAP-BTP-Enterprise-Apps-SAP-Advisory-Hyderabad_728160WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -19448,7 +19489,8 @@
         "R28518",
         "R28519",
         "R28287",
-        "R25986"
+        "R25986",
+        "R28644"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -20352,7 +20394,15 @@
         "R2017952",
         "R2017053",
         "R2017823",
-        "R2017236"
+        "R2017236",
+        "R2017260",
+        "R2015255",
+        "R2017219",
+        "R2017775",
+        "R2017800",
+        "R2001201",
+        "R2013554",
+        "R2017532-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -21567,7 +21617,11 @@
         "R0000438796-1",
         "R0000438598",
         "R0000438326",
-        "R0000438586"
+        "R0000438586",
+        "R0000438603",
+        "R0000438897",
+        "R0000438573",
+        "R0000438613"
     ],
     "Zoom": [
         "R18188-1",
@@ -21950,7 +22004,9 @@
         "R-105688-1",
         "R-105923",
         "R-104335",
-        "R-105306-1"
+        "R-105306-1",
+        "R-101473-1",
+        "R-103358-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
