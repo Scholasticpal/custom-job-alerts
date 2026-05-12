@@ -967,7 +967,8 @@
         "7827184",
         "7913702",
         "7882492",
-        "7917716"
+        "7917716",
+        "7913700"
     ],
     "Figma": [
         "5426468004",
@@ -5165,7 +5166,8 @@
         "7909639",
         "7902439",
         "7890208",
-        "7904650"
+        "7904650",
+        "7904626"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -9684,7 +9686,8 @@
         "R-277700",
         "R-276000",
         "R-277850-1",
-        "R-276649-1"
+        "R-276649-1",
+        "R-277642"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12217,7 +12220,10 @@
         "R342120",
         "R340336",
         "R340335",
-        "R342355"
+        "R342355",
+        "R342363",
+        "R330170",
+        "R341403"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12514,7 +12520,9 @@
         "SQL-Server-Database-Administrator_J-79397",
         "Remote-VIP-Travel-Consultant---Evenings-and-Overnights-Shifts_J-82246",
         "Product-Support-Analyst_J-82406",
-        "Sr-DevSecOps-Engineer_J-81893-1"
+        "Sr-DevSecOps-Engineer_J-81893-1",
+        "Meeting-Coordinator_J-79456",
+        "M-E-Sourcing-Manager_J-80866"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -13053,7 +13061,9 @@
         "Blackstone-Credit---Insurance-BXCI----Data-Operations---Senior-Vice-President_36305-1",
         "Vendor-Risk-Management--SVP---Procurement_41731",
         "Blackstone-N1--BXN1----Administrative-Assistant_43082",
-        "Valuations---Analytics--Associate---Private-Equity-Strategies_39847-2"
+        "Valuations---Analytics--Associate---Private-Equity-Strategies_39847-2",
+        "Carried-Interest---Co-Investment-Financial-Associate_40854",
+        "Compliance---Real-Estate--VP_43069"
     ],
     "Capital Group": [
         "R6549",
@@ -13125,7 +13135,8 @@
         "R6420",
         "R6155",
         "R6550",
-        "R6645"
+        "R6645",
+        "R6611"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -16612,7 +16623,9 @@
         "5153377008",
         "5159146008",
         "5204401008",
-        "5216208008"
+        "5216208008",
+        "5218181008",
+        "5218186008"
     ],
     "Coinbase": [
         "7559052",
@@ -17061,7 +17074,8 @@
         "7896378",
         "7895408",
         "7871453",
-        "7895156"
+        "7895156",
+        "7872703"
     ],
     "Notion": [],
     "Plaid": [],
@@ -17292,7 +17306,8 @@
         "7728511003",
         "7728513003",
         "7728591003",
-        "7728589003"
+        "7728589003",
+        "7533759003"
     ],
     "Robinhood": [
         "7799902",
@@ -17575,7 +17590,8 @@
         "5691965004",
         "5982743004",
         "5993753004",
-        "5993726004"
+        "5993726004",
+        "5656954004"
     ],
     "MongoDB": [
         "7574659",
@@ -18602,7 +18618,9 @@
         "7899179",
         "7904634",
         "7872382",
-        "7905276"
+        "7905276",
+        "7905762",
+        "7905764"
     ],
     "Elastic": [
         "7505982",
@@ -19482,7 +19500,9 @@
         "R-0106201",
         "R-0107010",
         "R-0107157",
-        "R-0101749"
+        "R-0101749",
+        "R-0107103",
+        "R-0105165"
     ],
     "CrowdStrike": [
         "R26911",
@@ -20623,7 +20643,11 @@
         "R2017676",
         "R2017741",
         "R2003854",
-        "R2008728"
+        "R2008728",
+        "R2017336",
+        "R2007336",
+        "R2016865",
+        "R2017653"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -21888,7 +21912,12 @@
         "R0000416128",
         "R0000438965",
         "R0000416130",
-        "R0000438964"
+        "R0000438964",
+        "R0000438951-1",
+        "R0000438618",
+        "R0000438209",
+        "R0000438983",
+        "R0000438606"
     ],
     "Zoom": [
         "R18188-1",
