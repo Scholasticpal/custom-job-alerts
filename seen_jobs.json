@@ -1221,7 +1221,8 @@
         "5988684004",
         "5987739004",
         "5992103004",
-        "5991320004"
+        "5991320004",
+        "5990353004"
     ],
     "Amazon": [
         "3198115",
@@ -1489,7 +1490,8 @@
         "10416652",
         "10416779",
         "10417371",
-        "10417446"
+        "10417446",
+        "10417493"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -4787,7 +4789,8 @@
         "8530605002",
         "8542188002",
         "8423289002",
-        "8540569002"
+        "8540569002",
+        "8535311002"
     ],
     "Rubrik": [
         "7310036",
@@ -9674,7 +9677,10 @@
         "R-277821",
         "R-277788",
         "R-274451",
-        "R-277853"
+        "R-277853",
+        "R-277187",
+        "R-277700",
+        "R-276000"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12198,7 +12204,11 @@
         "R330082",
         "R340096",
         "R342302",
-        "R340846"
+        "R340846",
+        "R341126",
+        "R340791",
+        "R342224-1",
+        "R338243"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12942,7 +12952,8 @@
         "R263725",
         "R261624",
         "R263961",
-        "R263633"
+        "R263633",
+        "R263936"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13030,7 +13041,8 @@
         "Web-Strategy--Associate---Digital-Marketing_43085-1",
         "Blackstone-Credit---Insurance-BXCI----Data-Operations---Senior-Vice-President_36305-1",
         "Vendor-Risk-Management--SVP---Procurement_41731",
-        "Blackstone-N1--BXN1----Administrative-Assistant_43082"
+        "Blackstone-N1--BXN1----Administrative-Assistant_43082",
+        "Valuations---Analytics--Associate---Private-Equity-Strategies_39847-2"
     ],
     "Capital Group": [
         "R6549",
@@ -13101,7 +13113,8 @@
         "R6596",
         "R6420",
         "R6155",
-        "R6550"
+        "R6550",
+        "R6645"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -13873,7 +13886,16 @@
         "R-10394341",
         "R-10387847-1",
         "R-10393371",
-        "R-10394048"
+        "R-10394048",
+        "R-10387858",
+        "R-10394507",
+        "R-10394506",
+        "R-10394504",
+        "R-10384954",
+        "R-10377051",
+        "R-10391547",
+        "R-10389333",
+        "R-10394097-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14136,7 +14158,8 @@
         "R-13264",
         "R-13799",
         "R-13800",
-        "R-13513-1"
+        "R-13513-1",
+        "R-14057"
     ],
     "PayPal": [
         "R0135744-1",
@@ -14403,7 +14426,8 @@
         "R0136633",
         "R0136599-1",
         "R0132774",
-        "R0136486-1"
+        "R0136486-1",
+        "R0136593-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -16006,7 +16030,9 @@
         "IN-Senior-Associate-Java-Python-Risk-Analytics---GRC-Advisory-Gurgaon_720789WD-1",
         "ETIC--Software-Developer-Intern--Custom-Development-_727030WD",
         "IN-Senior-Associate-Azure-Data-Engineer-Digital-Integration-Advisory-Gurgaon_725755WD-1",
-        "National-Corporate-Security-Manager_726653WD-3"
+        "National-Corporate-Security-Manager_726653WD-3",
+        "IN-Senior-Associate-Informatica-Data-and-Analytics-Advisory-Pan-India_701620WD",
+        "IN-Sr-Associate-Azure-Devops--Data---Analytics--Advisory--PAN-India_715103WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -16559,7 +16585,8 @@
         "5214810008",
         "5215052008",
         "5153377008",
-        "5159146008"
+        "5159146008",
+        "5204401008"
     ],
     "Coinbase": [
         "7559052",
@@ -17423,7 +17450,10 @@
         "7905675",
         "7489275",
         "7896496",
-        "7904965"
+        "7904965",
+        "7917871",
+        "7917873",
+        "7896142"
     ],
     "Vercel": [
         "5624231004",
@@ -19022,7 +19052,8 @@
         "5793513004",
         "5809885004",
         "5424789004",
-        "5784625004"
+        "5784625004",
+        "5993688004"
     ],
     "Grammarly": [],
     "Unacademy": [],
@@ -19420,7 +19451,9 @@
         "R-0105815",
         "R-0105879-1",
         "R-0102286",
-        "R-0106201"
+        "R-0106201",
+        "R-0107010",
+        "R-0107157"
     ],
     "CrowdStrike": [
         "R26911",
@@ -19632,7 +19665,8 @@
         "R26580-1",
         "R27312",
         "R24014",
-        "R25822"
+        "R25822",
+        "R26496"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -20546,7 +20580,14 @@
         "R2013554",
         "R2017532-1",
         "R2017951",
-        "R2014590"
+        "R2014590",
+        "R2008962-1",
+        "R2017647",
+        "R2018034",
+        "R2015315",
+        "R2008387",
+        "R2017580",
+        "R2017487"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -20631,7 +20672,8 @@
         "Manager--Early-in-Career-Sales-Talent--ASE-_2013567",
         "Hardware-Engineer_2008988",
         "Software-Engineer--Full-Stack_2014018",
-        "Cloud-Engineer---Infrastructure-Operations_2007467"
+        "Cloud-Engineer---Infrastructure-Operations_2007467",
+        "Product-Manager_2013579"
     ],
     "Intel": [
         "R0283052",
@@ -21792,7 +21834,9 @@
         "R0000434437",
         "R0000438917",
         "R0000435571",
-        "R0000434389-1"
+        "R0000434389-1",
+        "R0000438926",
+        "R0000438297"
     ],
     "Zoom": [
         "R18188-1",
