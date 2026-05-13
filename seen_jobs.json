@@ -1493,7 +1493,10 @@
         "10416779",
         "10417371",
         "10417446",
-        "10417493"
+        "10417493",
+        "10418099",
+        "10418098",
+        "10418097"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -4795,7 +4798,8 @@
         "8540569002",
         "8535311002",
         "8522044002",
-        "8426009002"
+        "8426009002",
+        "8546786002"
     ],
     "Rubrik": [
         "7310036",
@@ -5170,7 +5174,8 @@
         "7890208",
         "7904650",
         "7904626",
-        "7872891"
+        "7872891",
+        "7916300"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -5991,7 +5996,8 @@
         "7807913",
         "7481407",
         "7782141",
-        "7917883"
+        "7917883",
+        "7912382"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -6644,7 +6650,8 @@
         "7915377",
         "7903512",
         "7906165",
-        "7916530"
+        "7916530",
+        "7515175"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -6964,7 +6971,8 @@
         "7906081",
         "7825091",
         "7903417",
-        "7917304"
+        "7917304",
+        "7912398"
     ],
     "Dropbox": [
         "7646405",
@@ -9691,7 +9699,8 @@
         "R-276000",
         "R-277850-1",
         "R-276649-1",
-        "R-277642"
+        "R-277642",
+        "R-275829"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10136,7 +10145,8 @@
         "R-2507557",
         "R-2507749",
         "R-2508508",
-        "R-2508495"
+        "R-2508495",
+        "R-2508595"
     ],
     "Salesforce": [
         "R333354",
@@ -12230,7 +12240,8 @@
         "R342363",
         "R330170",
         "R341403",
-        "R341309"
+        "R341309",
+        "R339896"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12981,7 +12992,11 @@
         "R263936",
         "R264180",
         "R261791",
-        "R263638"
+        "R263638",
+        "R264032",
+        "R264184",
+        "R264192",
+        "R264198"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13072,7 +13087,8 @@
         "Blackstone-N1--BXN1----Administrative-Assistant_43082",
         "Valuations---Analytics--Associate---Private-Equity-Strategies_39847-2",
         "Carried-Interest---Co-Investment-Financial-Associate_40854",
-        "Compliance---Real-Estate--VP_43069"
+        "Compliance---Real-Estate--VP_43069",
+        "International-Finance---AVP_41884"
     ],
     "Capital Group": [
         "R6549",
@@ -13930,7 +13946,11 @@
         "R-10387868",
         "R-10388473",
         "R-10387869-1",
-        "R-10382102"
+        "R-10382102",
+        "R-10392510",
+        "R-10394092",
+        "R-10393723",
+        "R-10393722"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14468,7 +14488,8 @@
         "R0134097-1",
         "R0136189-1",
         "R0136190-1",
-        "R0136757"
+        "R0136757",
+        "R0136461-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -16077,7 +16098,26 @@
         "Senior---Risk-Reviewer_709342WD",
         "IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Kolkata_720957WD-1",
         "Senior-Associate---Tech-Lead--AI---Core-Banking-_728534WD",
-        "Resourcing-and-Deployment-Senior-Manager--Assurance_727479WD-3"
+        "Resourcing-and-Deployment-Senior-Manager--Assurance_727479WD-3",
+        "IN-Senior-Associate-ITRA-RC---GRC-AITH-Advisory-Noida_727700WD",
+        "IN-Senior-Associate-ITRA-RC---GRC-AITH-Advisory-Noida_727699WD-1",
+        "IN-Senior-Associate-ITRA-RC---GRC-AITH-Advisory-Noida_727698WD-1",
+        "IN-Senior-Associate-ITRA-RC---GRC-AITH-Advisory-Noida_727695WD-1",
+        "IN-Senior-Associate-ITRA-RC---GRC-AITH-Advisory-Noida_727696WD-1",
+        "IN-Senior-Associate-Power-BI-Data---Analytics-Advisory-PAN-India_712549WD-1",
+        "IN-Senior-Associate-ITRA-RC---GRC-AITH-Advisory-Noida_727692WD-1",
+        "IN-Senior-Associate-ITRA-RC---GRC-AITH-Advisory-Noida_727689WD",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_727683WD-1",
+        "IN-Senior-Associate-ITRA-RC---GRC-AITH-Advisory-Noida_727684WD-1",
+        "IN-Senior-Associate-GTM-Tax-Tech-TRS-Gurgaon_717576WD-1",
+        "IN-Associate--SAP-CPI-Enterprise-Apps-SAP-Advisory-Pune_728493WD-1",
+        "IN-Senior-Associate-SAP-CPI-SAP-Advisory-Hyderabad_728465WD-1",
+        "IN-Senior-Associate-SAP-CPI-SAP-Advisory-Kolkata_728464WD-1",
+        "IN-Senior-Associate-SAP-MDG-Consultant-D-A-Advisory-PAN-India_728538WD-1",
+        "IN-Senior-Associate-SAP-MDG-Consultant-D-A-Advisory-PAN-India_728539WD-1",
+        "IN-Manager-SAP-ABAP-MDG-SAP-Advisory-Hyderabad_718852WD-1",
+        "IN-Manager-E2E-implementation-SAP-Advisory-Bangalore_711065WD-2",
+        "IN-Senior-Associate-Data-Science-Data-and-Analytics-Advisory-Bangalore_726244WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -18133,7 +18173,8 @@
         "7912343",
         "7908586",
         "7892114",
-        "7818273"
+        "7818273",
+        "7918616"
     ],
     "Datadog": [
         "7194969",
@@ -19197,7 +19238,10 @@
         "R168682",
         "R168579",
         "R168683",
-        "R168256-1"
+        "R168256-1",
+        "R168615",
+        "R168613",
+        "R168678"
     ],
     "Workday": [
         "R-0106509-1",
@@ -19730,7 +19774,8 @@
         "R27312",
         "R24014",
         "R25822",
-        "R26496"
+        "R26496",
+        "R26171"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -20674,7 +20719,25 @@
         "R2013805-1",
         "R2017405",
         "R1968313",
-        "R1989272"
+        "R1989272",
+        "R2017059",
+        "R2017776",
+        "R2017565",
+        "R2018015",
+        "R2017885",
+        "R2017771",
+        "R2017690",
+        "R2017700",
+        "R2017886",
+        "R2018014",
+        "R2017747",
+        "R2018031",
+        "R2013261",
+        "R2017683-1",
+        "R2015608-1",
+        "R2017526",
+        "R2017715",
+        "R2017826"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -22339,7 +22402,8 @@
         "R-105101",
         "R-105939",
         "R-104609",
-        "R-104519"
+        "R-104519",
+        "R-102369"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
