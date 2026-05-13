@@ -2325,7 +2325,11 @@
         "8544881002",
         "8544757002",
         "8544882002",
-        "8545586002"
+        "8545586002",
+        "8548529002",
+        "8548491002",
+        "8548517002",
+        "8548213002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -9769,7 +9773,8 @@
         "R-278215",
         "R-278150",
         "R-273300-1",
-        "R-2_R-271827"
+        "R-2_R-271827",
+        "R-277578"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12347,7 +12352,9 @@
         "R341884-1",
         "R341265",
         "R341343",
-        "R341958"
+        "R341958",
+        "R341431",
+        "R341957"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13122,7 +13129,8 @@
         "R263222",
         "R264177",
         "R260504",
-        "R261061"
+        "R261061",
+        "R264312"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13215,7 +13223,8 @@
         "Carried-Interest---Co-Investment-Financial-Associate_40854",
         "Compliance---Real-Estate--VP_43069",
         "International-Finance---AVP_41884",
-        "BXTI---Liquid-Credit---Full-Stack-Software-Engineer--Associate_43115"
+        "BXTI---Liquid-Credit---Full-Stack-Software-Engineer--Associate_43115",
+        "Global-Fund-Finance---Investor-Reporting--Assistant-Vice-President_43125"
     ],
     "Capital Group": [
         "R6549",
@@ -14104,7 +14113,8 @@
         "R-10381410",
         "R-10381397",
         "R-10394626-1",
-        "R-10385350"
+        "R-10385350",
+        "R-10391256"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -16344,7 +16354,14 @@
         "IN-Senior-Associate-Unsecured-Risk-FST---Captives-Advisory-Gurgaon_721494WD-1",
         "Deals-Diligence-Analytics---Senior-Associate_703470WD",
         "IN-Senior-Associate--SAP-FICO-SAP-Advisory-Gurgaon_728221WD-1",
-        "Consultant-Senior-CIO-Advisory---CDI---H-F_671577WD"
+        "Consultant-Senior-CIO-Advisory---CDI---H-F_671577WD",
+        "SR-ED-Technical-Advisor--Manager_721444WD",
+        "Security-Operations-Lead---Sentinel---Automation_723937WD-3",
+        "Billing---Collections-Analyst---US-Client_722065WD-1",
+        "IN-Senior-Associate-Social-Sector-Social-Advisory-Gurgaon_716747WD-1",
+        "Financial-Crimes-Technology-Associate_672599WD",
+        "AI-Engineer---Junior_636379WD",
+        "Analista-de-Operaciones_725613WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -16902,7 +16919,9 @@
         "5216208008",
         "5218181008",
         "5218186008",
-        "5218395008"
+        "5218395008",
+        "5218047008",
+        "5189008008"
     ],
     "Coinbase": [
         "7559052",
@@ -17356,7 +17375,8 @@
         "7895156",
         "7872703",
         "7921134",
-        "7917342"
+        "7917342",
+        "7922403"
     ],
     "Notion": [],
     "Plaid": [],
@@ -17782,7 +17802,8 @@
         "7917873",
         "7896142",
         "7921699",
-        "7839509"
+        "7839509",
+        "7921265"
     ],
     "Vercel": [
         "5624231004",
@@ -18415,7 +18436,8 @@
         "7904729",
         "7895528",
         "7908293",
-        "7908785"
+        "7908785",
+        "7915330"
     ],
     "Datadog": [
         "7194969",
@@ -19494,7 +19516,8 @@
         "R168315",
         "R168662-1",
         "R168788",
-        "R167861"
+        "R167861",
+        "R168742"
     ],
     "Workday": [
         "R-0106509-1",
@@ -19825,7 +19848,9 @@
         "R-0107215",
         "R-0104851",
         "R-0107155",
-        "R-0107201"
+        "R-0107201",
+        "R-0102786",
+        "R-0104512"
     ],
     "CrowdStrike": [
         "R26911",
@@ -20048,7 +20073,14 @@
         "R28797",
         "R28749",
         "R28022-1",
-        "R28783"
+        "R28783",
+        "R27952",
+        "R28773",
+        "R28771",
+        "R28812",
+        "R28774",
+        "R28776",
+        "R26977"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -21056,7 +21088,20 @@
         "R2016619",
         "R2018040",
         "R2015142",
-        "R2017980"
+        "R2017980",
+        "R2012383",
+        "R2017911",
+        "R2017895",
+        "R2013789",
+        "R2017583",
+        "R2001675",
+        "R2017867",
+        "R2018090",
+        "R2018113",
+        "R2018153",
+        "R2017962",
+        "R2017866",
+        "R2017778-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -22374,7 +22419,12 @@
         "R0000434555",
         "R0000439002",
         "R0000439051",
-        "R0000434652"
+        "R0000434652",
+        "R0000439056",
+        "R0000428073",
+        "R0000435076",
+        "R0000432657-1",
+        "R0000439096"
     ],
     "Zoom": [
         "R18188-1",
@@ -22509,7 +22559,8 @@
         "R18854-1",
         "R19163-1",
         "R18276-1",
-        "R19164-1"
+        "R19164-1",
+        "R18582"
     ],
     "Expedia": [
         "R-2_R-105040",
