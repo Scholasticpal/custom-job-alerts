@@ -970,7 +970,8 @@
         "7917716",
         "7913700",
         "7903814",
-        "7919325"
+        "7919325",
+        "7908925"
     ],
     "Figma": [
         "5426468004",
@@ -1498,7 +1499,9 @@
         "10417493",
         "10418099",
         "10418098",
-        "10418097"
+        "10418097",
+        "10418471",
+        "10418607"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -3395,7 +3398,10 @@
         "7895161",
         "7916842",
         "7905141",
-        "7918327"
+        "7918327",
+        "7920129",
+        "7920440",
+        "7920760"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4811,7 +4817,8 @@
         "8540455002",
         "8546367002",
         "8541998002",
-        "8547108002"
+        "8547108002",
+        "8545248002"
     ],
     "Rubrik": [
         "7310036",
@@ -6009,7 +6016,9 @@
         "7481407",
         "7782141",
         "7917883",
-        "7912382"
+        "7912382",
+        "7914511",
+        "7914628"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -6989,7 +6998,9 @@
         "7825091",
         "7903417",
         "7917304",
-        "7912398"
+        "7912398",
+        "7833374",
+        "7833376"
     ],
     "Dropbox": [
         "7646405",
@@ -9736,7 +9747,16 @@
         "R-278078",
         "R-270011",
         "R-277610",
-        "R-277605"
+        "R-277605",
+        "R-277664",
+        "R-277457",
+        "R-273433",
+        "R-275595-1",
+        "R-276410-1",
+        "R-276394-1",
+        "R-276584",
+        "R-277056",
+        "R-277543"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10182,7 +10202,8 @@
         "R-2507749",
         "R-2508508",
         "R-2508495",
-        "R-2508595"
+        "R-2508595",
+        "R-2449079"
     ],
     "Salesforce": [
         "R333354",
@@ -12294,7 +12315,16 @@
         "R342421",
         "R341977",
         "R341809",
-        "R326990"
+        "R326990",
+        "R340050",
+        "R332791",
+        "R341296",
+        "R342125",
+        "R341707",
+        "R341629",
+        "R342329",
+        "R341838",
+        "R342073"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13062,7 +13092,12 @@
         "R262342",
         "R260541-1",
         "R264074",
-        "R262441-1"
+        "R262441-1",
+        "R264121",
+        "R262271",
+        "R264173",
+        "R263222",
+        "R264177"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13229,7 +13264,9 @@
         "R6550",
         "R6645",
         "R6611",
-        "R6647"
+        "R6647",
+        "R6650",
+        "R6648"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -13296,7 +13333,8 @@
         "Staff-Accountant_34342",
         "Data-Reliability-Engineer-II_34017-1",
         "Product-Data-Analytics-Intern_34340",
-        "Platform-Engineer-II---India_34334-1"
+        "Platform-Engineer-II---India_34334-1",
+        "Global-Account-Management-Intern---Year-Round_34458"
     ],
     "FactSet": [
         "R32107-1",
@@ -14031,7 +14069,14 @@
         "R-10387885",
         "R-10394608",
         "R-10393600",
-        "R-10393438"
+        "R-10393438",
+        "R-10394537",
+        "R-10393439",
+        "R-10373746",
+        "R-10374510",
+        "R-2_R-10394340",
+        "R-10381410",
+        "R-10381397"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14298,7 +14343,8 @@
         "R-13513-1",
         "R-14057",
         "R-14013",
-        "R-13846-1"
+        "R-13846-1",
+        "R-13797"
     ],
     "PayPal": [
         "R0135744-1",
@@ -14572,7 +14618,10 @@
         "R0136190-1",
         "R0136757",
         "R0136461-1",
-        "R0136480"
+        "R0136480",
+        "R0133658-1",
+        "R0136637-1",
+        "R0136653-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -16248,7 +16297,21 @@
         "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725070WD-1",
         "IN-Senior-Associate-Azure-Data-Engineer-OC-D-A-Advisory-Bhubaneswar_719257WD-1",
         "Capital-Markets-and-Accounting-Advisory-Services--CMAAS--Senior-Manager_728417WD",
-        "IN-Senior-Associate-CRM-Technical-GCC-Advisory-Bangalore_723246WD"
+        "IN-Senior-Associate-CRM-Technical-GCC-Advisory-Bangalore_723246WD",
+        "Manager--Operations-and-Procurement_711440WD",
+        "HR-analyst-Statistical-expert_728944WD",
+        "Engagement-Middle-Office-Senior-Associate_724550WD",
+        "Cross-Domain-Data-Steward_728507WD",
+        "Dlhodob-st-v-recruitmente--hadme-nadenca-pre-LinkedIn-sourcing--m--_728818WD",
+        "Data-Governance-Specialist--Senior-Associate-_711375WD",
+        "Senior-de-Auditoria_727788WD",
+        "Senior-Associate---AI-Engineering-Lead---Intelligent-Transformation_728590WD",
+        "IN-Senior-Associate-Workfront-GCC-Advisory-Bangalore_728744WD-1",
+        "Data-Protection---Microsoft-Purview-Specialist_728894WD",
+        "IN-Senior-Associate-Performance-Testing-Aplication-Technology-Advisory-Bangalore_728715WD-1",
+        "IN-Senior-Associate-Performance-Testing-Aplication-Technology-Advisory-Bangalore_728714WD-1",
+        "IN-Senior-Associate-Performance-Testing-Aplication-Technology-Advisory-Bangalore_728697WD-1",
+        "IN-Senior-Associate-Unsecured-Risk-FST---Captives-Advisory-Gurgaon_721494WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17039,7 +17102,8 @@
         "8520965002",
         "8542210002",
         "8538797002",
-        "8537955002"
+        "8537955002",
+        "8546664002"
     ],
     "Reddit": [
         "7011741",
@@ -17255,7 +17319,9 @@
         "7895408",
         "7871453",
         "7895156",
-        "7872703"
+        "7872703",
+        "7921134",
+        "7917342"
     ],
     "Notion": [],
     "Plaid": [],
@@ -18309,7 +18375,10 @@
         "7918616",
         "7898756",
         "7920855",
-        "7904729"
+        "7904729",
+        "7895528",
+        "7908293",
+        "7908785"
     ],
     "Datadog": [
         "7194969",
@@ -18809,7 +18878,9 @@
         "7905276",
         "7905762",
         "7905764",
-        "7916884"
+        "7916884",
+        "7584250",
+        "7917939"
     ],
     "Elastic": [
         "7505982",
@@ -19069,7 +19140,9 @@
         "7909280",
         "7889677",
         "7874677",
-        "7912850"
+        "7912850",
+        "6380036",
+        "7913747"
     ],
     "Asana": [
         "7120496",
@@ -19380,7 +19453,8 @@
         "R168678",
         "R168312",
         "R168315",
-        "R168662-1"
+        "R168662-1",
+        "R168788"
     ],
     "Workday": [
         "R-0106509-1",
@@ -19702,7 +19776,11 @@
         "R-0105875",
         "R-0105540",
         "R-0104688",
-        "R-0106157"
+        "R-0106157",
+        "R-0105470-1",
+        "R-0107151",
+        "R-0106303",
+        "R-0105577"
     ],
     "CrowdStrike": [
         "R26911",
@@ -19919,7 +19997,10 @@
         "R26171",
         "R25646",
         "R27401",
-        "R28799"
+        "R28799",
+        "R28779-1",
+        "R28798-1",
+        "R28797"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -20914,7 +20995,15 @@
         "R2017692",
         "R2017507",
         "R2017974",
-        "R2015920"
+        "R2015920",
+        "R2018055",
+        "R2018087",
+        "R2017470",
+        "R2012251",
+        "R2009423",
+        "R2001780",
+        "R2014682-1",
+        "R1998674"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -22215,7 +22304,16 @@
         "R0000439049-1",
         "R0000437514",
         "R0000438314",
-        "R0000398249"
+        "R0000398249",
+        "R0000436036",
+        "R0000439059",
+        "R0000438985",
+        "R0000434603",
+        "R0000433067-1",
+        "R0000439010",
+        "R0000437730",
+        "R0000438329",
+        "R0000438315"
     ],
     "Zoom": [
         "R18188-1",
@@ -22614,7 +22712,9 @@
         "R-104220",
         "R-101945-1",
         "R-101912-1",
-        "R-101715-1"
+        "R-101715-1",
+        "R-105641",
+        "R-100315"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -22673,7 +22773,8 @@
         "Professional-Services-Intern_112802-JOB",
         "Professional-Services-Intern_112801-JOB-1",
         "Engagement-Manager---Professional-Services_113031-JOB",
-        "Associate-Product-Manager---WFM--_113071-JOB-1"
+        "Associate-Product-Manager---WFM--_113071-JOB-1",
+        "Product-Manager---AI_112843-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
