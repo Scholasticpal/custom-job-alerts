@@ -969,7 +969,8 @@
         "7882492",
         "7917716",
         "7913700",
-        "7903814"
+        "7903814",
+        "7919325"
     ],
     "Figma": [
         "5426468004",
@@ -1800,7 +1801,8 @@
         "4694511005",
         "4694487005",
         "4694513005",
-        "4694532005"
+        "4694532005",
+        "4686002005"
     ],
     "Rippling": [],
     "Slice": [
@@ -3493,7 +3495,8 @@
         "7902407",
         "7912545",
         "7919845",
-        "7920820"
+        "7920820",
+        "7920883"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -4805,7 +4808,10 @@
         "8522044002",
         "8426009002",
         "8546786002",
-        "8540455002"
+        "8540455002",
+        "8546367002",
+        "8541998002",
+        "8547108002"
     ],
     "Rubrik": [
         "7310036",
@@ -9723,7 +9729,14 @@
         "R-266177-1",
         "R-274482-1",
         "R-275003",
-        "R-276770"
+        "R-276770",
+        "R-278013",
+        "R-266243-1",
+        "R-277792",
+        "R-278078",
+        "R-270011",
+        "R-277610",
+        "R-277605"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12273,7 +12286,15 @@
         "R341573",
         "R330405",
         "R340542",
-        "R342406"
+        "R342406",
+        "R336767",
+        "R341451",
+        "R342426",
+        "R342424-1",
+        "R342421",
+        "R341977",
+        "R341809",
+        "R326990"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12622,7 +12643,8 @@
         "Analyst--Prime-Brokerage-Account-Management--Global-Equities--Hong-Kong_26013760-1",
         "Assistant-Vice-President--Vice-President---Senior-Business-Control-Specialist---AML-Operations_26010121",
         "Associate---VP--APAC-Equity-Prime-Financing-Quant--Hong-Kong_26005178-1",
-        "Associate---VP---Australia-TMT---Gaming-Research_26016528"
+        "Associate---VP---Australia-TMT---Gaming-Research_26016528",
+        "Assistant-Manager_26016712"
     ],
     "BlackRock": [
         "R263666",
@@ -13132,7 +13154,8 @@
         "Valuations---Analytics--Associate---Private-Equity-Strategies_39847-2",
         "Carried-Interest---Co-Investment-Financial-Associate_40854",
         "Compliance---Real-Estate--VP_43069",
-        "International-Finance---AVP_41884"
+        "International-Finance---AVP_41884",
+        "BXTI---Liquid-Credit---Full-Stack-Software-Engineer--Associate_43115"
     ],
     "Capital Group": [
         "R6549",
@@ -13205,7 +13228,8 @@
         "R6155",
         "R6550",
         "R6645",
-        "R6611"
+        "R6611",
+        "R6647"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -13271,7 +13295,8 @@
         "Data---Analytics-Analyst_34405",
         "Staff-Accountant_34342",
         "Data-Reliability-Engineer-II_34017-1",
-        "Product-Data-Analytics-Intern_34340"
+        "Product-Data-Analytics-Intern_34340",
+        "Platform-Engineer-II---India_34334-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -14000,7 +14025,13 @@
         "R-10386736",
         "R-10392513",
         "R-10394604-1",
-        "R-10391974"
+        "R-10391974",
+        "R-10387854",
+        "R-10393440",
+        "R-10387885",
+        "R-10394608",
+        "R-10393600",
+        "R-10393438"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -16201,7 +16232,23 @@
         "IN-Senior-Associate--Tosca-Automation-GCC-Advisory-Bangalore_728213WD-2",
         "IN-Senior-Associate--Tosca-Automation-GCC-Advisory-Bangalore_728215WD-1",
         "Manager--Salesforce-Developer---Consulting_728273WD",
-        "Especialista-en-Payroll--Fiscalidad-y-Plan-de-Compensacin-Flexible_655152WD"
+        "Especialista-en-Payroll--Fiscalidad-y-Plan-de-Compensacin-Flexible_655152WD",
+        "IN-Senior-Associate-Azure-Data-Engineer-Data---Analytics-Advisory-Bhubaneswar_701903WD-1",
+        "Senior-Associate----Customer-Transformation_711985WD-1",
+        "IN-Senior-Associate-Data-Privacy-and-Trust---ITRA--Advisory---Gurugram_706442WD-1",
+        "Meneder-Menederka---Audyt_709250WD",
+        "IN-Associate-Azure-Data-Engineer-OC-D-A-Advisory-Noida_706962WD-2",
+        "IN-Associate-AI-ML-Engineer-Advisory-Mumbai_653911WD",
+        "IN-Associate-Payroll-P-O-Advisory-Kolkata_728761WD-1",
+        "IN-Manager---Net-Zero-Strategy-Supply-Chain-Decarbonization-----Decarbonization-Advisory--Bangalore_728758WD-1",
+        "Senior-Consultant-Accounting---Reporting-Advisory_727645WD-1",
+        "ETIC--Legal---Senior-Manager_728380WD",
+        "IN-Sr-Associate-Azure-Devops--Data---Analytics--Advisory--PAN-India_716951WD-1",
+        "IN-Associate--ServiceNow-Developer---IN-IT--Services-CO-IFS-PAN-India_715195WD",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_725070WD-1",
+        "IN-Senior-Associate-Azure-Data-Engineer-OC-D-A-Advisory-Bhubaneswar_719257WD-1",
+        "Capital-Markets-and-Accounting-Advisory-Services--CMAAS--Senior-Manager_728417WD",
+        "IN-Senior-Associate-CRM-Technical-GCC-Advisory-Bangalore_723246WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -18259,7 +18306,10 @@
         "7908586",
         "7892114",
         "7818273",
-        "7918616"
+        "7918616",
+        "7898756",
+        "7920855",
+        "7904729"
     ],
     "Datadog": [
         "7194969",
@@ -19329,7 +19379,8 @@
         "R168613",
         "R168678",
         "R168312",
-        "R168315"
+        "R168315",
+        "R168662-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -19650,7 +19701,8 @@
         "R-0105559-1",
         "R-0105875",
         "R-0105540",
-        "R-0104688"
+        "R-0104688",
+        "R-0106157"
     ],
     "CrowdStrike": [
         "R26911",
@@ -19865,7 +19917,9 @@
         "R25822",
         "R26496",
         "R26171",
-        "R25646"
+        "R25646",
+        "R27401",
+        "R28799"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -20849,7 +20903,18 @@
         "R2008768",
         "R2006923",
         "R1998124",
-        "R2015232"
+        "R2015232",
+        "R2016840",
+        "R2017376",
+        "R2017860",
+        "R2017740-1",
+        "R2018038",
+        "R2017770",
+        "R2017954",
+        "R2017692",
+        "R2017507",
+        "R2017974",
+        "R2015920"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -22144,7 +22209,13 @@
         "R0000438203",
         "R0000373737",
         "R0000439032-1",
-        "R0000439030"
+        "R0000439030",
+        "R0000439050",
+        "R0000439006",
+        "R0000439049-1",
+        "R0000437514",
+        "R0000438314",
+        "R0000398249"
     ],
     "Zoom": [
         "R18188-1",
@@ -22540,7 +22611,10 @@
         "R-104609",
         "R-104519",
         "R-102369",
-        "R-104220"
+        "R-104220",
+        "R-101945-1",
+        "R-101912-1",
+        "R-101715-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
