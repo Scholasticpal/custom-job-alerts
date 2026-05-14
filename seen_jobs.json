@@ -2355,7 +2355,10 @@
         "8549027002",
         "8548765002",
         "8549036002",
-        "8549073002"
+        "8549073002",
+        "8550358002",
+        "8550462002",
+        "8550468002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -3448,7 +3451,8 @@
         "7923023",
         "7759457",
         "7917687",
-        "7926527"
+        "7926527",
+        "7912589"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4878,7 +4882,8 @@
         "8499824002",
         "8537180002",
         "8536432002",
-        "8550331002"
+        "8550331002",
+        "8460873002"
     ],
     "Rubrik": [
         "7310036",
@@ -6082,7 +6087,8 @@
         "7914511",
         "7914628",
         "7896462",
-        "7907255"
+        "7907255",
+        "7921646"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -12482,7 +12488,9 @@
         "R338290",
         "R341853",
         "R340193",
-        "R289437-1"
+        "R289437-1",
+        "R342223",
+        "R341844-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12796,7 +12804,8 @@
         "Workday-Integration-Developer_J-81578-1",
         "Travel-Councelor-T4M_J-79267",
         "Manager---Global-Program-Care_J-82323",
-        "Sabre-GDS-Travel-Counselor_J-82477"
+        "Sabre-GDS-Travel-Counselor_J-82477",
+        "Pharma-Meeting-Planner_J-81961"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -14303,7 +14312,11 @@
         "R-10379071",
         "R-10393390",
         "R-10392767",
-        "R-10394705"
+        "R-10394705",
+        "R-10392780",
+        "R-10389517",
+        "R-10394121-1",
+        "R-10379192"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -16657,7 +16670,15 @@
         "Capital-Markets--Financial-Services--Consulting--Manager_710820WD",
         "IN-Senior-Associate--Senior-React-Native-Developer-AppTech-Advisory-Bangalore_718972WD-1",
         "Facilities-Senior-Associate--Bilingual-FR-EN-_710773WD",
-        "Asistente-de-Outsourcing-Contable_729036WD"
+        "Asistente-de-Outsourcing-Contable_729036WD",
+        "XMLNAME---Senior-Associate_674225WD",
+        "R-2--TAG01-_727086WD",
+        "US-Tax--Senior-Manager--Bilingual-FR-EN-_706578WD-2",
+        "Gerente-de-Impostos-Diretos---Senior-Manager_673071WD",
+        "Consultor-de-Inovao--Incentivos-Fiscais---Senior-Associate-2_727499WD",
+        "Advogado--Privacidade-e-Proteo-de-Dados--Senior-Associate---Scio-C_727116WD",
+        "Advogado-Societrio---Senior-Associate---Scio-C_727123WD",
+        "Senior---Especialista-en-Anlisis-Esttico-COBOL---JCL_727022WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17220,7 +17241,8 @@
         "5189008008",
         "5211184008",
         "5170073008",
-        "5219454008"
+        "5219454008",
+        "5219486008"
     ],
     "Coinbase": [
         "7559052",
@@ -18752,7 +18774,8 @@
         "7913892",
         "7711717",
         "7711713",
-        "7831454"
+        "7831454",
+        "7926859"
     ],
     "Datadog": [
         "7194969",
@@ -20184,7 +20207,8 @@
         "R-0105923",
         "R-0107274",
         "R-0106457",
-        "R-0106982"
+        "R-0106982",
+        "R-0105865"
     ],
     "CrowdStrike": [
         "R26911",
@@ -20439,7 +20463,8 @@
         "R28015",
         "R28808",
         "R28616",
-        "R28679"
+        "R28679",
+        "R28811"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -21488,7 +21513,11 @@
         "R2010157",
         "R2018066",
         "R2016212",
-        "R2018191"
+        "R2018191",
+        "R2008192",
+        "R2014821",
+        "R1999298",
+        "R2014693"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -22895,7 +22924,11 @@
         "R0000439239",
         "R0000439234",
         "R0000439232",
-        "R0000439228"
+        "R0000439228",
+        "R0000439273",
+        "R0000439149",
+        "R0000432947",
+        "R0000439226"
     ],
     "Zoom": [
         "R18188-1",
