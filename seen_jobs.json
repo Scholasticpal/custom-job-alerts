@@ -974,7 +974,11 @@
         "7908925",
         "7921649",
         "7913545",
-        "7923895"
+        "7923895",
+        "7925790",
+        "7925821",
+        "7893203",
+        "7925073"
     ],
     "Figma": [
         "5426468004",
@@ -4861,7 +4865,8 @@
         "8437074002",
         "8549330002",
         "8499822002",
-        "8499824002"
+        "8499824002",
+        "8537180002"
     ],
     "Rubrik": [
         "7310036",
@@ -5238,7 +5243,8 @@
         "7904626",
         "7872891",
         "7916300",
-        "7785776"
+        "7785776",
+        "7391657"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -7051,7 +7057,8 @@
         "7833376",
         "7918401",
         "7918885",
-        "7919148"
+        "7919148",
+        "7917820"
     ],
     "Dropbox": [
         "7646405",
@@ -7295,7 +7302,9 @@
         "7605206",
         "7875132",
         "7875131",
-        "7872715"
+        "7872715",
+        "7872748",
+        "7872745"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -9829,7 +9838,10 @@
         "R-276279",
         "R-277039-1",
         "R-275980",
-        "R-269035"
+        "R-269035",
+        "R-276203-1",
+        "R-276606",
+        "R-278109"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12432,7 +12444,13 @@
         "R339840-1",
         "R341579",
         "R342456",
-        "R342390"
+        "R342390",
+        "R342297",
+        "R341792",
+        "R342279-1",
+        "R342151",
+        "R341904-1",
+        "R341903"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12741,7 +12759,9 @@
         "AI-Strategy---Innovation-Intern_J-82321",
         "AI-Platform-Engineer-II_J-79498-1",
         "Client-Portfolio-Leader_J-81995",
-        "Product-Support-Analyst_J-80850"
+        "Product-Support-Analyst_J-80850",
+        "Software-Development-Engineer-I_J-78812",
+        "Workday-Integration-Developer_J-81578-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12788,7 +12808,8 @@
         "Assistant-Vice-President--Vice-President---Senior-Business-Control-Specialist---AML-Operations_26010121",
         "Associate---VP--APAC-Equity-Prime-Financing-Quant--Hong-Kong_26005178-1",
         "Associate---VP---Australia-TMT---Gaming-Research_26016528",
-        "Assistant-Manager_26016712"
+        "Assistant-Manager_26016712",
+        "Vice-President--APAC-Equity-Derivatives-Sales--Hong-Kong_26013759-2"
     ],
     "BlackRock": [
         "R263666",
@@ -13221,7 +13242,11 @@
         "R264374",
         "R260567",
         "R264133-1",
-        "R264109"
+        "R264109",
+        "R261367",
+        "R264017",
+        "R264316",
+        "R263291"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -14228,7 +14253,11 @@
         "R-10377890",
         "R-10359294-1",
         "R-10389879",
-        "R-10386859"
+        "R-10386859",
+        "R-10391838",
+        "R-10391843",
+        "R-10394699",
+        "R-10390966"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14349,7 +14378,8 @@
         "Strategic-Initiatives-Coordinator_864120",
         "Digital-Assets---Blockchain-Software-Developer_865777",
         "Senior-Specialist---Middle-Office-Client-Services_867626",
-        "Intern---International-Intermediary-Oversight_867966"
+        "Intern---International-Intermediary-Oversight_867966",
+        "Investment-Risk-Manager--Liquidity-_863225"
     ],
     "Invesco": [
         "R-13647",
@@ -14788,7 +14818,8 @@
         "R0136766",
         "R0136753-1",
         "R0136730",
-        "R0136651-1"
+        "R0136651-1",
+        "R0136460-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -16534,7 +16565,24 @@
         "IN-Senior-Associate-AI-Security-SME-Digital-Integration-Advisory-Kolkata_728838WD-1",
         "IN-Senior-Associate-AI-Security-SME-Digital-Integration-Advisory-Kolkata_728841WD",
         "IN-Manager-Payroll-P-O-Advisory-Kolkata_728771WD-1",
-        "IN-Specialist-3---Financial-Modelling-Deals-Knowledge-Hub-Gurgaon_728702WD-1"
+        "IN-Specialist-3---Financial-Modelling-Deals-Knowledge-Hub-Gurgaon_728702WD-1",
+        "Senior---Workday-HCM_723842WD",
+        "IN-Senior-Associate-Informatica-Data-and-Analytics-Advisory-Pan-India_701625WD-1",
+        "IN-Senior-Associate-IT-General-Controls-ITRA-Advisory-Gurgaon_729164WD-2",
+        "IN-Senior-Associate-IT-General-Controls-ITRA-Advisory-Gurgaon_729162WD-1",
+        "IN-Senior-Associate-IT-General-Controls-ITRA-Advisory-Gurgaon_729165WD-1",
+        "IN-Manager--IT-General-Controls-ITRA-Advisory--Gurgaon_729151WD-1",
+        "IN-Senior-Associate-Informatica-Data-and-Analytics-Advisory-Pan-India_701622WD-1",
+        "IN-Senior-Associate---SAP-ABAP---SAP--Advisory----Gurgaon_723089WD-1",
+        "IT-Internal-Audit-Manager_729238WD",
+        "IN-Associate--TOSCA-Automation-with-SAP-Testing--Application-Technology-Advisory--PAN-INDIA_710725WD-1",
+        "ACCA-Work-and-Study-Programme_728929WD",
+        "Kontroler-Finansowy---Kontrolerka-Finansowa_611159WD-1",
+        "SATIC---Contracting---Procurement-Associate_725257WD",
+        "SATIC---Product-AI-Associate_725259WD",
+        "IN-Manager-Change---transformation--Deals-Strategy-Advisory-Gurgaon_729043WD-1",
+        "IN-Senior-Associate--Relationships-with-PE---IB-Deals-Strategy-Advisory-Gurgaon_729051WD-1",
+        "XMLNAME--TechYourFuture--Program_729209WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17788,7 +17836,8 @@
         "7730668003",
         "7726819003",
         "7726627003",
-        "7726632003"
+        "7726632003",
+        "7730660003"
     ],
     "Robinhood": [
         "7799902",
@@ -18619,7 +18668,10 @@
         "7920849",
         "7921450",
         "7403891",
-        "7866330"
+        "7866330",
+        "7913892",
+        "7711717",
+        "7711713"
     ],
     "Datadog": [
         "7194969",
@@ -19123,7 +19175,9 @@
         "7584250",
         "7917939",
         "7917340",
-        "7919513"
+        "7919513",
+        "7906110",
+        "7925999"
     ],
     "Elastic": [
         "7505982",
@@ -19386,7 +19440,8 @@
         "7912850",
         "6380036",
         "7913747",
-        "7909307"
+        "7909307",
+        "7727949"
     ],
     "Asana": [
         "7120496",
@@ -21334,7 +21389,9 @@
         "R2017933",
         "R2011667",
         "R2016442",
-        "R2008582"
+        "R2008582",
+        "R2018007",
+        "R2014944"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -22713,7 +22770,12 @@
         "R0000439194",
         "R0000439192-1",
         "R0000439191",
-        "R0000439162"
+        "R0000439162",
+        "R0000438123",
+        "R0000437835",
+        "R0000437288",
+        "R0000421099",
+        "R0000439138"
     ],
     "Zoom": [
         "R18188-1",
@@ -23124,7 +23186,10 @@
         "R-101024-1",
         "R-102433-1",
         "R-105337-1",
-        "R-104915"
+        "R-104915",
+        "R-104072",
+        "R-103108-2",
+        "R-100940-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -23186,7 +23251,9 @@
         "Associate-Product-Manager---WFM--_113071-JOB-1",
         "Product-Manager---AI_112843-JOB",
         "Sr-Solutions-Consultant_112969-JOB",
-        "Sr-Implementation-Consultant---CCAAS--AMER-shift-_113089-JOB"
+        "Sr-Implementation-Consultant---CCAAS--AMER-shift-_113089-JOB",
+        "Sr-Managed-Services-Consultant--AMER-shift-_113091-JOB",
+        "Senior-Cloud-Engineer_113072-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
