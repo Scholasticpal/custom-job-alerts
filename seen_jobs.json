@@ -3564,7 +3564,8 @@
         "8503902002",
         "8499795002",
         "8516334002",
-        "8524159002"
+        "8524159002",
+        "8520252002"
     ],
     "Databricks": [
         "8437000002",
@@ -4849,7 +4850,11 @@
         "8530861002",
         "6841734002",
         "8351131002",
-        "8441877002"
+        "8441877002",
+        "8437074002",
+        "8549330002",
+        "8499822002",
+        "8499824002"
     ],
     "Rubrik": [
         "7310036",
@@ -9807,7 +9812,14 @@
         "R-278222",
         "R-276367",
         "R-277471",
-        "R-275469"
+        "R-275469",
+        "R-278131",
+        "R-277221-1",
+        "R-277339",
+        "R-273620",
+        "R-278058",
+        "R-270263",
+        "R-276279"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12407,7 +12419,9 @@
         "R341742",
         "R341277",
         "R342639-1",
-        "R339840-1"
+        "R339840-1",
+        "R341579",
+        "R342456"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12711,7 +12725,10 @@
         "Project-Manager_J-81296-1",
         "Lead-Travel-Consultant_J-81410",
         "Lead-Travel-Consultant_J-79765",
-        "Middleware-Platform-Engineer_J-80143"
+        "Middleware-Platform-Engineer_J-80143",
+        "Meeting-Planner_J-80651",
+        "AI-Strategy---Innovation-Intern_J-82321",
+        "AI-Platform-Engineer-II_J-79498-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -13188,7 +13205,8 @@
         "R263812",
         "R264046",
         "R264183-1",
-        "R264374"
+        "R264374",
+        "R260567"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13360,7 +13378,8 @@
         "R6611",
         "R6647",
         "R6650",
-        "R6648"
+        "R6648",
+        "R6649"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -14185,7 +14204,11 @@
         "R-10380897",
         "R-10383995",
         "R-10383994",
-        "R-10389796"
+        "R-10389796",
+        "R-10394689",
+        "R-10377886",
+        "R-10377890",
+        "R-10359294-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14305,7 +14328,8 @@
         "Director-of-Client-Service-and-Operations_867128",
         "Strategic-Initiatives-Coordinator_864120",
         "Digital-Assets---Blockchain-Software-Developer_865777",
-        "Senior-Specialist---Middle-Office-Client-Services_867626"
+        "Senior-Specialist---Middle-Office-Client-Services_867626",
+        "Intern---International-Intermediary-Oversight_867966"
     ],
     "Invesco": [
         "R-13647",
@@ -14461,7 +14485,8 @@
         "R-13846-1",
         "R-13797",
         "R-13718",
-        "R-12895"
+        "R-12895",
+        "R-14069"
     ],
     "PayPal": [
         "R0135744-1",
@@ -14740,7 +14765,8 @@
         "R0136637-1",
         "R0136653-1",
         "R0136740-1",
-        "R0136766"
+        "R0136766",
+        "R0136753-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -16454,7 +16480,25 @@
         "-----_716085WD",
         "IN-Senior-Associate-MSD-365-Technical-MS-Dynamics-Advisory-Bangalore_711180WD-1",
         "Reward-Architect_727989WD",
-        "IN-Sr-Associate----Digital-health-Health-Industries---Advisory----Gurgaon-_728861WD-1"
+        "IN-Sr-Associate----Digital-health-Health-Industries---Advisory----Gurgaon-_728861WD-1",
+        "IN-Senior-Associate--Business-Development-iGT---Citizen-and-Business-Services---Advisory-Jaipur_729078WD-1",
+        "IN-Senior-Associate--Business-Development-iGT---Citizen-and-Business-Services---Advisory-Jaipur_729079WD-1",
+        "IN-Senior-Associate--Business-Development-iGT---Citizen-and-Business-Services---Advisory-Jaipur_729080WD-1",
+        "IN-Senior-Associate--Business-Development-iGT---Citizen-and-Business-Services---Advisory-Jaipur_729118WD-1",
+        "IN-Senior-Associate--Business-Development-iGT---Citizen-and-Business-Services---Advisory-Jaipur_729046WD-1",
+        "IN-Senior-Associate--Business-Development-iGT---Citizen-and-Business-Services---Advisory-Jaipur_729045WD-1",
+        "IN-Senior-Associate--Business-Development-iGT---Citizen-and-Business-Services---Advisory-Jaipur_729047WD-2",
+        "IN-Senior-Associate--Business-Development-iGT---Citizen-and-Business-Services---Advisory-Jaipur_729117WD-1",
+        "IN-Specialist-2---Financial-Modelling-Deals-Knowledge-Hub-Advisory-Bangalore_728789WD-1",
+        "IN-Director-Business-Development-Digital-Engineering-Transformation-Advisory-Bangalore_728389WD",
+        "IN-Director-Ivalua--Supply-Chain-and-Operations-Advisory-Pune_729061WD",
+        "IN-Director-Ivalua--Supply-Chain-and-Operations-Advisory-Pune_729062WD",
+        "Deals---Strategic-Capital-Solution--SCS----Senior-Associate---Manager_729141WD",
+        "Advisory---Risk-Consulting---Cyber---Rahul-Aggarwal---Job--Rahul-Aggarwal-_728008WD-1",
+        "Advisory---Risk-Consulting---Cyber---Rahul-Aggarwal---Job--Rahul-Aggarwal-_728009WD-1",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_728016WD-1",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_727711WD-1",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_727703WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -18536,7 +18580,10 @@
         "7908293",
         "7908785",
         "7915330",
-        "7920849"
+        "7920849",
+        "7921450",
+        "7403891",
+        "7866330"
     ],
     "Datadog": [
         "7194969",
@@ -19622,7 +19669,8 @@
         "R168742",
         "R168691-1",
         "R168557",
-        "R168754"
+        "R168754",
+        "R168713"
     ],
     "Workday": [
         "R-0106509-1",
@@ -20198,7 +20246,14 @@
         "R28247",
         "R28246",
         "R28269",
-        "R25382"
+        "R25382",
+        "R26387-1",
+        "R28769",
+        "R28762",
+        "R28770",
+        "R28760",
+        "R28637",
+        "R28761"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -22599,7 +22654,14 @@
         "R0000439103",
         "R0000439143",
         "R0000437673",
-        "R0000439083"
+        "R0000439083",
+        "R0000439185",
+        "R0000438275",
+        "R0000439105-1",
+        "R0000439091",
+        "R0000439131",
+        "R0000438941",
+        "R0000439161"
     ],
     "Zoom": [
         "R18188-1",
@@ -23005,7 +23067,8 @@
         "R-105641",
         "R-100315",
         "R-101315-1",
-        "R-105013"
+        "R-105013",
+        "R-101024-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
