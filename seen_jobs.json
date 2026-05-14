@@ -978,7 +978,9 @@
         "7925790",
         "7925821",
         "7893203",
-        "7925073"
+        "7925073",
+        "7923653",
+        "7896519"
     ],
     "Figma": [
         "5426468004",
@@ -1821,7 +1823,8 @@
         "4694513005",
         "4694532005",
         "4686002005",
-        "4694491005"
+        "4694491005",
+        "4695111005"
     ],
     "Rippling": [],
     "Slice": [
@@ -1907,7 +1910,8 @@
         "7917055",
         "4569473",
         "7917032",
-        "7228673"
+        "7228673",
+        "7917284"
     ],
     "Upstox": [],
     "Brex": [
@@ -4866,7 +4870,8 @@
         "8549330002",
         "8499822002",
         "8499824002",
-        "8537180002"
+        "8537180002",
+        "8536432002"
     ],
     "Rubrik": [
         "7310036",
@@ -6731,7 +6736,8 @@
         "7920714",
         "7920731",
         "7916603",
-        "7923655"
+        "7923655",
+        "7925061"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -7058,7 +7064,8 @@
         "7918401",
         "7918885",
         "7919148",
-        "7917820"
+        "7917820",
+        "7923207"
     ],
     "Dropbox": [
         "7646405",
@@ -9841,7 +9848,9 @@
         "R-269035",
         "R-276203-1",
         "R-276606",
-        "R-278109"
+        "R-278109",
+        "R-275519",
+        "R-273908-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12450,7 +12459,14 @@
         "R342279-1",
         "R342151",
         "R341904-1",
-        "R341903"
+        "R341903",
+        "R341078-1",
+        "R342018",
+        "R340586",
+        "R342584",
+        "R342675",
+        "R338290",
+        "R341853"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12761,7 +12777,9 @@
         "Client-Portfolio-Leader_J-81995",
         "Product-Support-Analyst_J-80850",
         "Software-Development-Engineer-I_J-78812",
-        "Workday-Integration-Developer_J-81578-1"
+        "Workday-Integration-Developer_J-81578-1",
+        "Travel-Councelor-T4M_J-79267",
+        "Manager---Global-Program-Care_J-82323"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -13246,7 +13264,8 @@
         "R261367",
         "R264017",
         "R264316",
-        "R263291"
+        "R263291",
+        "R264305"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -14257,7 +14276,12 @@
         "R-10391838",
         "R-10391843",
         "R-10394699",
-        "R-10390966"
+        "R-10390966",
+        "R-10392992",
+        "R-10379432",
+        "R-10389200",
+        "R-10379071",
+        "R-10393390"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14819,7 +14843,8 @@
         "R0136753-1",
         "R0136730",
         "R0136651-1",
-        "R0136460-1"
+        "R0136460-1",
+        "R0136390"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -16582,7 +16607,24 @@
         "SATIC---Product-AI-Associate_725259WD",
         "IN-Manager-Change---transformation--Deals-Strategy-Advisory-Gurgaon_729043WD-1",
         "IN-Senior-Associate--Relationships-with-PE---IB-Deals-Strategy-Advisory-Gurgaon_729051WD-1",
-        "XMLNAME--TechYourFuture--Program_729209WD"
+        "XMLNAME--TechYourFuture--Program_729209WD",
+        "IN-Associate-ITGC-ITRA-Advisory-Gurgaon_729215WD-1",
+        "IN-Associate-ITGC-ITRA-Advisory-Gurgaon_729217WD-1",
+        "IN-Associate-ITGC-ITRA-Advisory-Gurgaon_729216WD-1",
+        "IN-Manager-Data-Engineer-D-A-Advisory-Bangalore_729041WD-1",
+        "IN-Manager-Data-Engineer-D-A-Advisory-Bangalore_729109WD-1",
+        "IN-Manager-Data-Engineer-D-A-Advisory-Bangalore_729039WD",
+        "IN-Manager-Data-Engineer-D-A-Advisory-Bangalore_729040WD-1",
+        "IN-Manager-Data-Engineer-D-A-Advisory-Bangalore_729106WD-2",
+        "IN-Manager-Data-Engineer-D-A-Advisory-Bangalore_729107WD-2",
+        "IN-Manager-Data-Engineer-D-A-Advisory-Bangalore_729108WD-1",
+        "Billing---Collections-Senior-Analyst---US-Client_728989WD-1",
+        "IN-Senior-Associate-ServiceNow-Developer-GCC-Advisory-Bangalore_728503WD-1",
+        "IN-Senior-Associate-ServiceNow-Developer-GCC-Advisory-Bangalore_728505WD-1",
+        "IN-Senior-Associate-ServiceNow-Developer-GCC-Advisory-Bangalore_728513WD-1",
+        "IN-Associate--SAP-FICO-SAP-Advisory-Gurgaon_728241WD-1",
+        "IN-Associate--SAP-FICO-SAP-Advisory-Gurgaon_728224WD",
+        "IN-Associate--SAP-FICO-SAP-Advisory-Gurgaon_728242WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17144,7 +17186,8 @@
         "5218047008",
         "5189008008",
         "5211184008",
-        "5170073008"
+        "5170073008",
+        "5219454008"
     ],
     "Coinbase": [
         "7559052",
@@ -17380,7 +17423,8 @@
         "8538797002",
         "8537955002",
         "8546664002",
-        "8517367002"
+        "8517367002",
+        "8485884002"
     ],
     "Reddit": [
         "7011741",
@@ -17837,7 +17881,8 @@
         "7726819003",
         "7726627003",
         "7726632003",
-        "7730660003"
+        "7730660003",
+        "7721506003"
     ],
     "Robinhood": [
         "7799902",
@@ -18030,7 +18075,8 @@
         "7921699",
         "7839509",
         "7921265",
-        "7922957"
+        "7922957",
+        "7456663"
     ],
     "Vercel": [
         "5624231004",
@@ -18671,7 +18717,8 @@
         "7866330",
         "7913892",
         "7711717",
-        "7711713"
+        "7711713",
+        "7831454"
     ],
     "Datadog": [
         "7194969",
@@ -19608,7 +19655,8 @@
         "7834367",
         "7455562",
         "7834350",
-        "7821700"
+        "7821700",
+        "7663184"
     ],
     "Coursera": [
         "5839408004",
@@ -20096,7 +20144,10 @@
         "R-0107201",
         "R-0102786",
         "R-0104512",
-        "R-0107270"
+        "R-0107270",
+        "R-0104943",
+        "R-0105923",
+        "R-0107274"
     ],
     "CrowdStrike": [
         "R26911",
@@ -20348,7 +20399,10 @@
         "R28637",
         "R28761",
         "R28768-1",
-        "R28015"
+        "R28015",
+        "R28808",
+        "R28616",
+        "R28679"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -21391,7 +21445,10 @@
         "R2016442",
         "R2008582",
         "R2018007",
-        "R2014944"
+        "R2014944",
+        "R2018089",
+        "R2012245-1",
+        "R2010157"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -21479,7 +21536,8 @@
         "Cloud-Engineer---Infrastructure-Operations_2007467",
         "Product-Manager_2013579",
         "Software-Engineering-Technical-Leader_2013662",
-        "Hardware-Engineering-Technical-Failure-Analysis-Case-Lead_2004869"
+        "Hardware-Engineering-Technical-Failure-Analysis-Case-Lead_2004869",
+        "Senior-Cloud-Engineer_2010998"
     ],
     "Intel": [
         "R0283052",
@@ -22775,7 +22833,13 @@
         "R0000437835",
         "R0000437288",
         "R0000421099",
-        "R0000439138"
+        "R0000439138",
+        "R0000439231",
+        "R0000438860-1",
+        "R0000439229",
+        "R0000437611",
+        "R0000439054",
+        "R0000439218"
     ],
     "Zoom": [
         "R18188-1",
@@ -23253,7 +23317,8 @@
         "Sr-Solutions-Consultant_112969-JOB",
         "Sr-Implementation-Consultant---CCAAS--AMER-shift-_113089-JOB",
         "Sr-Managed-Services-Consultant--AMER-shift-_113091-JOB",
-        "Senior-Cloud-Engineer_113072-JOB"
+        "Senior-Cloud-Engineer_113072-JOB",
+        "Product-Manager---Voice-Connect-_112844-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
