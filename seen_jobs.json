@@ -988,7 +988,8 @@
         "7917252",
         "7919030",
         "7521020",
-        "7913464"
+        "7913464",
+        "7769005"
     ],
     "Figma": [
         "5426468004",
@@ -3480,7 +3481,8 @@
         "7927488",
         "7919241",
         "7916146",
-        "7915333"
+        "7915333",
+        "7872758"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4913,7 +4915,9 @@
         "8550331002",
         "8460873002",
         "8551531002",
-        "8548183002"
+        "8548183002",
+        "8362737002",
+        "8550948002"
     ],
     "Rubrik": [
         "7310036",
@@ -7367,7 +7371,8 @@
         "7875131",
         "7872715",
         "7872748",
-        "7872745"
+        "7872745",
+        "7421149"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -9937,7 +9942,8 @@
         "R-277595-1",
         "R-277593",
         "R-276353-1",
-        "R-277802"
+        "R-277802",
+        "R-278216"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10394,7 +10400,9 @@
         "R-2511527",
         "R-2511513",
         "R-2511507",
-        "R-2511502"
+        "R-2511502",
+        "R-2511711",
+        "R-2511576-2"
     ],
     "Salesforce": [
         "R333354",
@@ -12598,7 +12606,12 @@
         "R339943",
         "R341947-1",
         "R341703",
-        "R336846"
+        "R336846",
+        "R252142",
+        "R331398",
+        "R341622",
+        "R342821",
+        "R342127"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12925,7 +12938,11 @@
         "Travel-Counselor_J-81977",
         "Travel-Counselor_J-81854",
         "Travel-Counselor_J-81974",
-        "Congress-Planner_J-81863"
+        "Congress-Planner_J-81863",
+        "Travel-Consultant-II-Atlanta-GA_J-82497",
+        "Travel-Consultant-II-Chicago-IL_J-82495",
+        "Travel-Consultant-II-Dallas-TX_J-82494",
+        "Experienced-Sabre-Travel-Consultant_J-79974"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -13604,7 +13621,9 @@
         "R6648",
         "R6649",
         "R6601-1",
-        "R6628"
+        "R6628",
+        "R6655",
+        "R6355-1"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -14470,7 +14489,10 @@
         "R-10394780-1",
         "R-10394779-1",
         "R-10388752",
-        "R-10394781"
+        "R-10394781",
+        "R-10387989",
+        "R-10394794-1",
+        "R-10394785-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14594,7 +14616,8 @@
         "Intern---International-Intermediary-Oversight_867966",
         "Investment-Risk-Manager--Liquidity-_863225",
         "VP--Business-Development-Liquidity-Services_864205",
-        "HR-Employee-Partner_867941"
+        "HR-Employee-Partner_867941",
+        "Facilities-Planner-and-Designer_867367"
     ],
     "Invesco": [
         "R-13647",
@@ -14760,7 +14783,12 @@
         "R-13001",
         "R-13763",
         "R-13755",
-        "R-13753"
+        "R-13753",
+        "R-13769",
+        "R-13967",
+        "R-14031",
+        "R-13699",
+        "R-13770"
     ],
     "PayPal": [
         "R0135744-1",
@@ -16911,7 +16939,20 @@
         "Assistente-de-Planejamento---Administrative-2_727506WD-1",
         "Senior---Product-Lead-Project-Manager_729561WD",
         "Senior---QA-Engineer_729562WD",
-        "Senior-Associate---Ingenieria-de-IA-Generativa_729560WD-1"
+        "Senior-Associate---Ingenieria-de-IA-Generativa_729560WD-1",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_728249WD",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_728251WD-1",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_728250WD-1",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_728252WD-1",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_728245WD-1",
+        "IN-Associate-IA-Internal-Audit-Services-Advisory-Gurgaon_729179WD-1",
+        "IN-Associate-IA-Internal-Audit-Services-Advisory-Gurgaon_729180WD-1",
+        "IN-Associate-IA-Internal-Audit-Services-Advisory-Gurgaon_729181WD-1",
+        "IN-Associate-IA-Internal-Audit-Services-Advisory-Gurgaon_729154WD-1",
+        "IN-Associate-IA-Internal-Audit-Services-Advisory-Gurgaon_729153WD-2",
+        "IN-Senior-Associate-Snowflake-Data---Analytics-Advisory-PAN-India_729252WD-1",
+        "IN-Senior-Associate-Snowflake-Data---Analytics-Advisory-PAN-India_729253WD-1",
+        "IN-Senior-Associate-Snowflake-Data---Analytics-Advisory-PAN-India_729255WD-2"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17479,7 +17520,8 @@
         "5215121008",
         "5215130008",
         "5220336008",
-        "5218458008"
+        "5218458008",
+        "5116771008"
     ],
     "Coinbase": [
         "7559052",
@@ -17716,7 +17758,8 @@
         "8537955002",
         "8546664002",
         "8517367002",
-        "8485884002"
+        "8485884002",
+        "8552176002"
     ],
     "Reddit": [
         "7011741",
@@ -17935,7 +17978,12 @@
         "7872703",
         "7921134",
         "7917342",
-        "7922403"
+        "7922403",
+        "7926627",
+        "7931010",
+        "7931049",
+        "7931007",
+        "7931000"
     ],
     "Notion": [],
     "Plaid": [],
@@ -19797,7 +19845,8 @@
         "7909307",
         "7727949",
         "7926713",
-        "7921460"
+        "7921460",
+        "7922458"
     ],
     "Asana": [
         "7120496",
@@ -20123,7 +20172,8 @@
         "R168713",
         "R168794",
         "R168267",
-        "R168271"
+        "R168271",
+        "R168879"
     ],
     "Workday": [
         "R-0106509-1",
@@ -21858,7 +21908,9 @@
         "R2017859",
         "R2017959",
         "R2018097-1",
-        "R2013010"
+        "R2013010",
+        "R2014917",
+        "R2012438"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -23321,7 +23373,9 @@
         "R0000437573",
         "R0000439369-1",
         "R0000439356",
-        "R0000439351"
+        "R0000439351",
+        "R0000439238",
+        "R0000438906"
     ],
     "Zoom": [
         "R18188-1",
