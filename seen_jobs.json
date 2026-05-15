@@ -1244,7 +1244,9 @@
         "5991320004",
         "5990353004",
         "5991176004",
-        "5994499004"
+        "5994499004",
+        "5995989004",
+        "5995992004"
     ],
     "Amazon": [
         "3198115",
@@ -1526,7 +1528,8 @@
         "10419608",
         "10420067",
         "10420062",
-        "10420599"
+        "10420599",
+        "10420851"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -2855,7 +2858,8 @@
         "611c03a7-7c21-418d-a547-16f9e598ac0a",
         "59e2040a-bcf5-4d89-90ad-7ac3c0c8ff0f",
         "1731cf7d-083a-4b58-93f7-6a1262135fb2",
-        "ea2de02e-b33d-44df-af5f-04867b4a59c6"
+        "ea2de02e-b33d-44df-af5f-04867b4a59c6",
+        "fc8d6784-c521-4ed9-a657-1ca2009b8d7b"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -6772,7 +6776,9 @@
         "7925068",
         "7925092",
         "7912162",
-        "7916614"
+        "7916614",
+        "7927962",
+        "7897106"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -7102,7 +7108,8 @@
         "7917820",
         "7923207",
         "7921401",
-        "7807900"
+        "7807900",
+        "7923205"
     ],
     "Dropbox": [
         "7646405",
@@ -7475,7 +7482,8 @@
         "1690adaa-ec47-4246-a40e-995b859545f2",
         "322aaf36-0d79-4190-876f-8b2e91b707bf",
         "d08dc910-24eb-4b92-b1de-70f6a30fcb6a",
-        "95dedda9-4dfe-4b08-896c-5b4d70b0f42f"
+        "95dedda9-4dfe-4b08-896c-5b4d70b0f42f",
+        "6d83a159-b52a-443f-a02e-85f3bc1110db"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -9906,7 +9914,14 @@
         "R-2_R-275122",
         "R-277918-1",
         "R-277505",
-        "R-277817"
+        "R-277817",
+        "R-277316-1",
+        "R-275445",
+        "R-277926",
+        "R-277101",
+        "R-275208",
+        "R-276490",
+        "R-274530-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12545,7 +12560,13 @@
         "R342303",
         "R342681",
         "R341983",
-        "R342753"
+        "R342753",
+        "R340921-1",
+        "R340280-1",
+        "R342649",
+        "R282414",
+        "R342254",
+        "R340798"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12867,7 +12888,11 @@
         "Product-Manager_J-80215-1",
         "Travel-Counselor_J-81975-1",
         "Project-Manager_J-80201",
-        "Specialty-Team-Leader_J-82267"
+        "Specialty-Team-Leader_J-82267",
+        "Travel-Counselor_J-81178",
+        "Travel-Counselor_J-81977",
+        "Travel-Counselor_J-81854",
+        "Travel-Counselor_J-81974"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -13361,7 +13386,9 @@
         "R261259",
         "R261646",
         "R261838",
-        "R264307"
+        "R264307",
+        "R263228",
+        "R258359-2"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13672,7 +13699,8 @@
         "R32186",
         "R30302",
         "R30996-1",
-        "R31292"
+        "R31292",
+        "R31108"
     ],
     "Fiserv": [
         "R-10392824",
@@ -14394,7 +14422,12 @@
         "R-10379192",
         "R-10389338-1",
         "R-10391035",
-        "R-10381752"
+        "R-10381752",
+        "R-10369414",
+        "R-10374511",
+        "R-10389988",
+        "R-10387233",
+        "R-10378065"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -16800,7 +16833,22 @@
         "Shanghai--EPM---FP-A-Consultant--A2_729417WD",
         "Shanghai-Senior-Manager-NetSuite_729400WD",
         "Shanghai--EPM---FP-A-Consultant--SA2_729384WD",
-        "Manager--w-m-d--in-der-Unternehmensberatung--Bereich-Digitalisierung-Enterprise-Architecture_681392WD-1"
+        "Manager--w-m-d--in-der-Unternehmensberatung--Bereich-Digitalisierung-Enterprise-Architecture_681392WD-1",
+        "IN-Senior-Associate-Project-Management--Strategy---Governance-Advisory--Bangalore_704648WD-1",
+        "IN-Senior-Associate-Data-Scientist--Gen-AI-Data---Analytics-Advisory-PAN-India_712812WD-1",
+        "IN-Manager-Unsecured-Risk-FST---Captives-Advisory-Gurgaon_722522WD-1",
+        "ServiceNow-Consultant--Senior-Associate-_729497WD",
+        "IN-Senior-Associate-SAP-GR-Enterprise-Apps-SAP-Advisory-Mumbai_722384WD-1",
+        "Consultant---Senior-Consultant---Debt---Capital-Advisory--Energetyka---OZE-_721231WD",
+        "IN-Associate-Asp-Net-Data-and-Analytics-Advisory-Mumbai_714740WD-1",
+        "IN-Senior-Associate-SAP-MM-SAP--Advisory--Mumbai_714262WD-1",
+        "IN-Senior-Associate-D365-SCM-MS-Dynamics-Advisory-Gurgaon_729419WD-1",
+        "IN-Associate-D365-Retail-MS-Dynamics-Advisory-Mumbai_729396WD-1",
+        "IN-Associate--ESG-sustainability--Climate---Sustainability-Strategy-Advisory-Gurgaon_729283WD-1",
+        "IN-Associate-NET-with-REACT-Angular-MS-Engg-Advisory-Gurgaon_729263WD-1",
+        "IN-Senior-Associate---D365-SCM-MS-Dynamics--Advisory--Mumbai_729379WD-1",
+        "IN-Specialist-3-ESG---Climate-risk-and-TCFD-climate---sustainability-strategy-Advisory--Mumbai_729279WD-1",
+        "IN-Senior-Associate-NET-with-REACT-MS-Engg-Advisory-Gurgaon_729258WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -18902,7 +18950,8 @@
         "7831454",
         "7926859",
         "7838287",
-        "7919314"
+        "7919314",
+        "7919311"
     ],
     "Datadog": [
         "7194969",
@@ -19412,7 +19461,8 @@
         "7916726",
         "7874990",
         "7922975",
-        "7919037"
+        "7919037",
+        "7920970"
     ],
     "Elastic": [
         "7505982",
@@ -19677,7 +19727,8 @@
         "7913747",
         "7909307",
         "7727949",
-        "7926713"
+        "7926713",
+        "7921460"
     ],
     "Asana": [
         "7120496",
@@ -20612,7 +20663,11 @@
         "R28843",
         "R28578-1",
         "R27494",
-        "R24949"
+        "R24949",
+        "R26158",
+        "R28250",
+        "R22234",
+        "R27726"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -21723,7 +21778,10 @@
         "R2018021",
         "R2017777",
         "R2017287",
-        "R2014069"
+        "R2014069",
+        "R2017868",
+        "R2017783",
+        "R2017702"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -23173,7 +23231,10 @@
         "R0000439265",
         "R0000437431",
         "R0000438001",
-        "R0000400320-1"
+        "R0000400320-1",
+        "R0000437338-1",
+        "R0000400243",
+        "R0000439303"
     ],
     "Zoom": [
         "R18188-1",
