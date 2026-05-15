@@ -2853,7 +2853,8 @@
         "8db4296d-0864-4d33-857a-41aa03759d24",
         "611c03a7-7c21-418d-a547-16f9e598ac0a",
         "59e2040a-bcf5-4d89-90ad-7ac3c0c8ff0f",
-        "1731cf7d-083a-4b58-93f7-6a1262135fb2"
+        "1731cf7d-083a-4b58-93f7-6a1262135fb2",
+        "ea2de02e-b33d-44df-af5f-04867b4a59c6"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -3464,7 +3465,8 @@
         "7921276",
         "7921357",
         "7927488",
-        "7919241"
+        "7919241",
+        "7916146"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -5273,7 +5275,8 @@
         "7872891",
         "7916300",
         "7785776",
-        "7391657"
+        "7391657",
+        "7928159"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -6763,7 +6766,9 @@
         "7920731",
         "7916603",
         "7923655",
-        "7925061"
+        "7925061",
+        "7925068",
+        "7925092"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -7092,7 +7097,8 @@
         "7919148",
         "7917820",
         "7923207",
-        "7921401"
+        "7921401",
+        "7807900"
     ],
     "Dropbox": [
         "7646405",
@@ -9887,7 +9893,14 @@
         "R-277786",
         "R-277375-1",
         "R-276619-1",
-        "R-277887"
+        "R-277887",
+        "R-261247",
+        "R-267686",
+        "R-277851",
+        "R-278102",
+        "R-276573",
+        "R-2_R-275122",
+        "R-277918-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12516,7 +12529,11 @@
         "R342135",
         "R342624",
         "R342739-1",
-        "R333752"
+        "R333752",
+        "R342690",
+        "R326381",
+        "R334118",
+        "R327146"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12589,7 +12606,8 @@
         "7862030",
         "7810851",
         "7875817",
-        "7861977"
+        "7861977",
+        "7715291"
     ],
     "PayU": [],
     "American Express": [
@@ -12831,7 +12849,8 @@
         "Travel-Councelor-T4M_J-79267",
         "Manager---Global-Program-Care_J-82323",
         "Sabre-GDS-Travel-Counselor_J-82477",
-        "Pharma-Meeting-Planner_J-81961"
+        "Pharma-Meeting-Planner_J-81961",
+        "Quality-Analyst---SDET--UI---API-Automation-_J-80047"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -12880,7 +12899,8 @@
         "Associate---VP---Australia-TMT---Gaming-Research_26016528",
         "Assistant-Manager_26016712",
         "Vice-President--APAC-Equity-Derivatives-Sales--Hong-Kong_26013759-2",
-        "Financial-Data-and-Reporting-Ops-Consultant_26016171-1"
+        "Financial-Data-and-Reporting-Ops-Consultant_26016171-1",
+        "Assistant-Vice-President-Vice-President--Business-Support-Associate-Global-Corporate-and-Investment-Banking-Technology_26017036"
     ],
     "BlackRock": [
         "R263666",
@@ -13321,7 +13341,8 @@
         "R264305",
         "R257702-1",
         "R261259",
-        "R261646"
+        "R261646",
+        "R261838"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13573,7 +13594,9 @@
         "Data---Analytics-Commercial-Strategy---IP-Analyst_34428",
         "Entry-level-Project-Coordinator---IT-Asset-Management_34369",
         "Consultant-Java-Software-Engineer_34463-2",
-        "Manager--Sell-Side-Sales_34408"
+        "Manager--Sell-Side-Sales_34408",
+        "Staff-Security-Engineer---IAM---India_33709-1",
+        "Senior-Cyber-Defense-Engineer-Data-Protection_34410"
     ],
     "FactSet": [
         "R32107-1",
@@ -14348,7 +14371,8 @@
         "R-10389517",
         "R-10394121-1",
         "R-10379192",
-        "R-10389338-1"
+        "R-10389338-1",
+        "R-10391035"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -16720,7 +16744,24 @@
         "External-Audit-Senior-Manager_729011WD-3",
         "External-Audit-Manager_729010WD",
         "Early-Careers-Talent-Manager_729347WD",
-        "Asistente-de-Service-Desk_729316WD"
+        "Asistente-de-Service-Desk_729316WD",
+        "IN-Senior-Associate-Finance-Business-Analyst-GCC-Advisory-Mumbai_729276WD-1",
+        "IN-Manager-SAP-IBP--Enterprise-APP-SAP---Advisory-Bangalore_722304WD-1",
+        "SAP-Data-Migration-Experienced-Consultant_729387WD",
+        "IN-Senior-associate-DevOps-Engineer-GCC-Advisory-Bangalore_723148WD-1",
+        "IN-Senior-Associate-Finance-Business-Analyst-GCC-Advisory-Mumbai_729274WD-1",
+        "People-Strategy---Business-Partnering---Associate---PS---G_DB_000622",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_712232WD-1",
+        "IN-Senior-associate-DevOps-Engineer-GCC-Advisory-Bangalore_723170WD-2",
+        "IN-Associate-AI-ML-Developer-MS-Engg-Advisory-Gurgaon_720245WD-2",
+        "IN-Specialist-3-Financial-Modelling-Deals-Knowledge-Hub-Advisory-Mumbai_728735WD-1",
+        "IN-Senior-Associate-Artificial-Intelligence-Test-Automation-Engineer--immediate-to-45-days-NP--AppTech-Advisory-Kolkata_729202WD-1",
+        "IN-Senior-Associate-Artificial-Intelligence-Test-Automation-Engineer--immediate-to-45-days-NP--AppTech-Advisory-Kolkata_729050WD-1",
+        "IN-Senior-Associate-Artificial-Intelligence-Test-Automation-Engineer--immediate-to-45-days-NP--AppTech-Advisory-Kolkata_729201WD",
+        "IN-Senior-Associate-Artificial-Intelligence-Test-Automation-Engineer--immediate-to-45-days-NP--AppTech-Advisory-Kolkata_729203WD-1",
+        "IN-Manager-SAP-IBP--Enterprise-APP-SAP---Advisory-Bangalore_722303WD-2",
+        "IN-Senior-Associate-SAP-ABAP-Hana-GCC-Advisory-Bangalore_712218WD-2",
+        "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Bangalore_708413WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -19328,7 +19369,8 @@
         "7906110",
         "7925999",
         "7916726",
-        "7874990"
+        "7874990",
+        "7922975"
     ],
     "Elastic": [
         "7505982",
@@ -19916,7 +19958,8 @@
         "R168557",
         "R168754",
         "R168713",
-        "R168794"
+        "R168794",
+        "R168267"
     ],
     "Workday": [
         "R-0106509-1",
@@ -20262,7 +20305,8 @@
         "R-0107164",
         "R-0107100-1",
         "R-0106975",
-        "R-0107028"
+        "R-0107028",
+        "R-0107256"
     ],
     "CrowdStrike": [
         "R26911",
@@ -20522,7 +20566,8 @@
         "R28813-1",
         "R28843",
         "R28578-1",
-        "R27494"
+        "R27494",
+        "R24949"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -21617,7 +21662,10 @@
         "R2017369",
         "R2017689",
         "R2017677",
-        "R2018025"
+        "R2018025",
+        "R2015609",
+        "R2017966",
+        "R2017485"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -23035,7 +23083,26 @@
         "R0000439285",
         "R0000439298",
         "R0000434884",
-        "R0000439305"
+        "R0000439305",
+        "R0000439116",
+        "R0000439296-1",
+        "R0000438556",
+        "R0000438196",
+        "R0000439266",
+        "R0000438956",
+        "R0000439219",
+        "R0000439259",
+        "R0000439309",
+        "R0000439269",
+        "R0000439279-1",
+        "R0000439260",
+        "R0000430050",
+        "R0000437832",
+        "R0000439308",
+        "R0000438970",
+        "R0000438190",
+        "R0000439220",
+        "R0000439164"
     ],
     "Zoom": [
         "R18188-1",
@@ -23460,7 +23527,9 @@
         "R-103108-2",
         "R-100940-1",
         "R-104614",
-        "R-106039"
+        "R-106039",
+        "R-105950",
+        "R-102711"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
