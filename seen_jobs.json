@@ -1532,7 +1532,8 @@
         "10420067",
         "10420062",
         "10420599",
-        "10420851"
+        "10420851",
+        "10421318"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -3482,7 +3483,8 @@
         "7919241",
         "7916146",
         "7915333",
-        "7872758"
+        "7872758",
+        "7927588"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4917,7 +4919,8 @@
         "8551531002",
         "8548183002",
         "8362737002",
-        "8550948002"
+        "8550948002",
+        "8552484002"
     ],
     "Rubrik": [
         "7310036",
@@ -7125,7 +7128,8 @@
         "7807900",
         "7923205",
         "7912738",
-        "7767263"
+        "7767263",
+        "7927688"
     ],
     "Dropbox": [
         "7646405",
@@ -9943,7 +9947,11 @@
         "R-277593",
         "R-276353-1",
         "R-277802",
-        "R-278216"
+        "R-278216",
+        "R-271279",
+        "R-271285-1",
+        "R-277856",
+        "R-271290-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10402,7 +10410,8 @@
         "R-2511507",
         "R-2511502",
         "R-2511711",
-        "R-2511576-2"
+        "R-2511576-2",
+        "R-2511881"
     ],
     "Salesforce": [
         "R333354",
@@ -12611,7 +12620,10 @@
         "R331398",
         "R341622",
         "R342821",
-        "R342127"
+        "R342127",
+        "R342835-1",
+        "R338508",
+        "R-9_JR342200"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -12942,7 +12954,10 @@
         "Travel-Consultant-II-Atlanta-GA_J-82497",
         "Travel-Consultant-II-Chicago-IL_J-82495",
         "Travel-Consultant-II-Dallas-TX_J-82494",
-        "Experienced-Sabre-Travel-Consultant_J-79974"
+        "Experienced-Sabre-Travel-Consultant_J-79974",
+        "Congress-Planner_J-78441",
+        "Travel-Consultant-II-Phoenix-AZ_J-82499",
+        "Travel-Consultant-II-San-Antonio-TX_J-82498"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -13443,7 +13458,9 @@
         "R263667",
         "R264081",
         "R264174",
-        "R264083"
+        "R264083",
+        "R263652",
+        "R260232"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -14492,7 +14509,8 @@
         "R-10394781",
         "R-10387989",
         "R-10394794-1",
-        "R-10394785-1"
+        "R-10394785-1",
+        "R-10390528"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14788,7 +14806,8 @@
         "R-13967",
         "R-14031",
         "R-13699",
-        "R-13770"
+        "R-13770",
+        "R-10779"
     ],
     "PayPal": [
         "R0135744-1",
@@ -16952,7 +16971,11 @@
         "IN-Associate-IA-Internal-Audit-Services-Advisory-Gurgaon_729153WD-2",
         "IN-Senior-Associate-Snowflake-Data---Analytics-Advisory-PAN-India_729252WD-1",
         "IN-Senior-Associate-Snowflake-Data---Analytics-Advisory-PAN-India_729253WD-1",
-        "IN-Senior-Associate-Snowflake-Data---Analytics-Advisory-PAN-India_729255WD-2"
+        "IN-Senior-Associate-Snowflake-Data---Analytics-Advisory-PAN-India_729255WD-2",
+        "IN-Associate--SAP-FICO-SAP-Advisory-Gurgaon_728243WD-1",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_728244WD-1",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_728247WD-1",
+        "IN-Senior-Associate-ITGC-RC---GRC-AITH-Advisory-Noida_728248WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -19067,7 +19090,8 @@
         "7838287",
         "7919314",
         "7919311",
-        "7922824"
+        "7922824",
+        "7768470"
     ],
     "Datadog": [
         "7194969",
@@ -20016,7 +20040,9 @@
         "7821700",
         "7663184",
         "7845656",
-        "5745634"
+        "5745634",
+        "7920814",
+        "7920824"
     ],
     "Coursera": [
         "5839408004",
@@ -20522,7 +20548,9 @@
         "R-0107028",
         "R-0107256",
         "R-0106280",
-        "R-0105256"
+        "R-0105256",
+        "R-0107109",
+        "R-0105806"
     ],
     "CrowdStrike": [
         "R26911",
@@ -20788,7 +20816,11 @@
         "R28250",
         "R22234",
         "R27726",
-        "R28654"
+        "R28654",
+        "R28706",
+        "R28841",
+        "R28755",
+        "R28435"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -21910,7 +21942,15 @@
         "R2018097-1",
         "R2013010",
         "R2014917",
-        "R2012438"
+        "R2012438",
+        "R2010351",
+        "R2017928-1",
+        "R2018275",
+        "R2017417",
+        "R2018262",
+        "R2015102",
+        "R2011068",
+        "R2018187"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -23375,7 +23415,12 @@
         "R0000439356",
         "R0000439351",
         "R0000439238",
-        "R0000438906"
+        "R0000438906",
+        "R0000438623-1",
+        "R0000439396",
+        "R0000439155",
+        "R0000439215",
+        "R0000439144"
     ],
     "Zoom": [
         "R18188-1",
