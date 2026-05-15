@@ -2368,7 +2368,12 @@
         "8549073002",
         "8550358002",
         "8550462002",
-        "8550468002"
+        "8550468002",
+        "8551701002",
+        "8550065002",
+        "8551691002",
+        "8551693002",
+        "8551699002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -4903,7 +4908,9 @@
         "8537180002",
         "8536432002",
         "8550331002",
-        "8460873002"
+        "8460873002",
+        "8551531002",
+        "8548183002"
     ],
     "Rubrik": [
         "7310036",
@@ -9921,7 +9928,10 @@
         "R-277101",
         "R-275208",
         "R-276490",
-        "R-274530-1"
+        "R-274530-1",
+        "R-277595-1",
+        "R-277593",
+        "R-276353-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10372,7 +10382,9 @@
         "R-2509016",
         "R-2508983",
         "R-2509629",
-        "R-2509877-1"
+        "R-2509877-1",
+        "R-2507633-1",
+        "R-2511267"
     ],
     "Salesforce": [
         "R333354",
@@ -12566,7 +12578,14 @@
         "R342649",
         "R282414",
         "R342254",
-        "R340798"
+        "R340798",
+        "R340259-1",
+        "R329766",
+        "R342805",
+        "R340242",
+        "R339749-1",
+        "R340479-1",
+        "R339943"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13388,7 +13407,10 @@
         "R261838",
         "R264307",
         "R263228",
-        "R258359-2"
+        "R258359-2",
+        "R263960-1",
+        "R263667",
+        "R264081"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -14427,7 +14449,10 @@
         "R-10374511",
         "R-10389988",
         "R-10387233",
-        "R-10378065"
+        "R-10378065",
+        "R-10394780-1",
+        "R-10394779-1",
+        "R-10388752"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -16848,7 +16873,18 @@
         "IN-Associate-NET-with-REACT-Angular-MS-Engg-Advisory-Gurgaon_729263WD-1",
         "IN-Senior-Associate---D365-SCM-MS-Dynamics--Advisory--Mumbai_729379WD-1",
         "IN-Specialist-3-ESG---Climate-risk-and-TCFD-climate---sustainability-strategy-Advisory--Mumbai_729279WD-1",
-        "IN-Senior-Associate-NET-with-REACT-MS-Engg-Advisory-Gurgaon_729258WD-1"
+        "IN-Senior-Associate-NET-with-REACT-MS-Engg-Advisory-Gurgaon_729258WD-1",
+        "Assurance---Senior-Manager---Belfast_726529WD",
+        "Client-Questionnaire-Assistant--Senior-Associate_718423WD-1",
+        "IN-Senior-Associate-GEN-AI-Data-and-Analytics-Advisory-Bangalore_722862WD-2",
+        "IN-Senior-Associate-Java-Fullstack-Emerging-Businesses-Advisory-Gurgaon_700088WD-1",
+        "Finance-Senior-Associate_729528WD",
+        "Analista-de-Compras-PL---Associate-2_712308WD",
+        "IN-Senior-Associate-ERP-Controls-ITRA-Advisory-Gurgaon_722367WD-1",
+        "IN-Manager-Unsecured-Risk-FST---Captives-Advisory-Gurgaon_722447WD-1",
+        "IN-Senior-Associate-MSD365-Retail-MS-Dynamics-Advisory-Mumbai_729395WD-1",
+        "Fiori-Developer-with-German---Managed-Services-Operations_715270WD",
+        "IN-Senior-Associate-Azure-DevOps---Digital-Integration-Advisory-Kolkata_721706WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -18400,7 +18436,8 @@
         "5982743004",
         "5993753004",
         "5993726004",
-        "5656954004"
+        "5656954004",
+        "5989803004"
     ],
     "MongoDB": [
         "7574659",
@@ -18951,7 +18988,8 @@
         "7926859",
         "7838287",
         "7919314",
-        "7919311"
+        "7919311",
+        "7922824"
     ],
     "Datadog": [
         "7194969",
@@ -20667,7 +20705,8 @@
         "R26158",
         "R28250",
         "R22234",
-        "R27726"
+        "R27726",
+        "R28654"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -21870,7 +21909,8 @@
         "Product-Manager_2013579",
         "Software-Engineering-Technical-Leader_2013662",
         "Hardware-Engineering-Technical-Failure-Analysis-Case-Lead_2004869",
-        "Senior-Cloud-Engineer_2010998"
+        "Senior-Cloud-Engineer_2010998",
+        "Hardware-Engineering-Technical-Leader_2012312"
     ],
     "Intel": [
         "R0283052",
@@ -23234,7 +23274,12 @@
         "R0000400320-1",
         "R0000437338-1",
         "R0000400243",
-        "R0000439303"
+        "R0000439303",
+        "R0000439352",
+        "R0000439349",
+        "R0000439348",
+        "R0000439347",
+        "R0000439345"
     ],
     "Zoom": [
         "R18188-1",
@@ -23661,7 +23706,9 @@
         "R-104614",
         "R-106039",
         "R-105950",
-        "R-102711"
+        "R-102711",
+        "R-106199-1",
+        "R-104883"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -23726,7 +23773,9 @@
         "Sr-Implementation-Consultant---CCAAS--AMER-shift-_113089-JOB",
         "Sr-Managed-Services-Consultant--AMER-shift-_113091-JOB",
         "Senior-Cloud-Engineer_113072-JOB",
-        "Product-Manager---Voice-Connect-_112844-JOB"
+        "Product-Manager---Voice-Connect-_112844-JOB",
+        "Implementation-Consultant---Lead_113096-JOB-1",
+        "Principal-Product-Marketing-Manager_113085-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
