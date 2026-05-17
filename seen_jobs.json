@@ -10433,7 +10433,8 @@
         "R-2512606",
         "R-2512814",
         "R-2512793",
-        "R-2513148"
+        "R-2513148",
+        "R-2513244"
     ],
     "Salesforce": [
         "R333354",
@@ -15137,7 +15138,8 @@
         "R0136490-1",
         "R0136416-1",
         "R0136234-1",
-        "R0136761"
+        "R0136761",
+        "R0136775"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -17051,7 +17053,12 @@
         "IN-Senior-Manager-Growth-and-Customer-Customer-Consulting-Advisory-Mumbai_729376WD-1",
         "IN-Senior-Associate-AEM-GCC-Advisory-Bangalore_729512WD-1",
         "IN-Senior-Associate-MERN-with-AEM-GCC-Advisory-Bangalore_729493WD-1",
-        "IN-Senior-Associate-Digital-Strategy-IT-Function-Transformation-Advisory-Mumbai_729540WD-1"
+        "IN-Senior-Associate-Digital-Strategy-IT-Function-Transformation-Advisory-Mumbai_729540WD-1",
+        "IN-Senior-Associate-NET-with-REACT-MS-Engg-Advisory-Gurgaon_729259WD-1",
+        "IN-Senior-Associate-NET-with-REACT-MS-Engg-Advisory-Gurgaon_729250WD-1",
+        "IN-Manager-Managed-Services-Lead--Agentic-Automation-Advisory-Pune_704139WD-1",
+        "IN-Senior-Associate-Azure-Devops-Data---Analytics-Advisory-PAN-India_716768WD-1",
+        "IN-Senior-Associate-Java-Python-Advisory-Corporate-Advisory-Bangalore_714053WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
