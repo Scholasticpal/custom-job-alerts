@@ -10432,7 +10432,8 @@
         "R-2512610",
         "R-2512606",
         "R-2512814",
-        "R-2512793"
+        "R-2512793",
+        "R-2513148"
     ],
     "Salesforce": [
         "R333354",
@@ -13675,7 +13676,8 @@
         "R6628",
         "R6655",
         "R6355-1",
-        "R6590"
+        "R6590",
+        "R6663"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -17025,7 +17027,20 @@
         "KYC-Associate---12-Months-Fixed-Term-Contract_706677WD-1",
         "ETIC--Cyber-Risk-Senior-Associate_708849WD",
         "Senior-Associate---Finance-Functional---Oracle---Advisory---Dhaka_729115WD",
-        "IN-Sr-Associate-Azure-Devops--Data---Analytics--Advisory--PAN-India_716723WD-1"
+        "IN-Sr-Associate-Azure-Devops--Data---Analytics--Advisory--PAN-India_716723WD-1",
+        "IN-Senior-Associate-AEM-GCC-Advisory-Bangalore_729521WD-1",
+        "IN-Senior-Associate-AEM-GCC-Advisory-Bangalore_729517WD-1",
+        "IN-Senior-Associate-AEM-GCC-Advisory-Bangalore_729511WD-1",
+        "IN-Senior-Associate-MERN-with-AEM-GCC-Advisory-Bangalore_729496WD-1",
+        "IN-Senior-Associate-D365-Finance--MS-Dynamics-Advisory-Mumbai_729364WD-2",
+        "IN-Senior-Associate-NET-with-REACT-Angular-MS-Engg-Advisory-Gurgaon_729423WD-1",
+        "IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_729236WD-2",
+        "IN-Senior-Associate-NET-with-REACT-Angular-MS-Engg-Advisory-Gurgaon_729420WD-1",
+        "IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_729232WD-1",
+        "IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_729231WD-1",
+        "IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_729234WD-1",
+        "IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_729230WD-1",
+        "IN-Associate-Valuations-Financial-Modelling-Valuations-Advisory-Hyderabad_727629WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
