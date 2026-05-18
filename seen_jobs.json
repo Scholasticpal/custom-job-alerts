@@ -1545,7 +1545,8 @@
         "10420851",
         "10421318",
         "10422138",
-        "10422118"
+        "10422118",
+        "10423051"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -7421,7 +7422,9 @@
         "7872748",
         "7872745",
         "7421149",
-        "7931206"
+        "7931206",
+        "7923162",
+        "7923159"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -10037,7 +10040,8 @@
         "R-276566",
         "R-278382",
         "R-278154-1",
-        "R-278505"
+        "R-278505",
+        "R-272190"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12775,7 +12779,10 @@
         "R343028",
         "R341918",
         "R340495",
-        "R341163"
+        "R341163",
+        "R343053",
+        "R343050",
+        "R342559"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13120,7 +13127,9 @@
         "Travel-Counselor_J-81775",
         "Junior-Projektleiter--w-m-d--Meetings---Events-sowie-Sportreisen_J-79675",
         "meeting-planner_J-81785",
-        "Sustainability-Intern_J-81354"
+        "Sustainability-Intern_J-81354",
+        "Americas-Meeting-Planner-Pharma_J-78531-1",
+        "Junior-Congress-Planner-Pharma_J-78530"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -13645,7 +13654,8 @@
         "R264419",
         "R260897-1",
         "R264122",
-        "R263957"
+        "R263957",
+        "R264485"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -14719,7 +14729,8 @@
         "R-10383234",
         "R-10391916",
         "R-10379194",
-        "R-10394869"
+        "R-10394869",
+        "R-10393603"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -14847,7 +14858,8 @@
         "Facilities-Planner-and-Designer_867367",
         "Supervisor--Investor-Services_866260",
         "Business-Systems-Analyst-FTS--SIM-corp-Dimension---Recon-Module-_867965",
-        "Quantitative-Research-Associate_867805"
+        "Quantitative-Research-Associate_867805",
+        "Head-of-Insurance-General-Account-Solutions---US_866477"
     ],
     "Invesco": [
         "R-13647",
@@ -15029,7 +15041,8 @@
         "R-13785",
         "R-13881",
         "R-14051",
-        "R-13391"
+        "R-13391",
+        "R-12939"
     ],
     "PayPal": [
         "R0135744-1",
@@ -17293,7 +17306,8 @@
         "Senior-de-Auditora-Interna_729990WD",
         "Asistente-de-Auditora-Interna_729992WD",
         "Senior-Manager-Strategy-_729899WD",
-        "XMLNAME---Senior-Associate-2--tag01-_711592WD"
+        "XMLNAME---Senior-Associate-2--tag01-_711592WD",
+        "IN-Manager-SAP-BASIS-Enterprise-Apps-SAP-Advisory-Bangalore_719059WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17870,7 +17884,8 @@
         "5218948008",
         "5222235008",
         "5221932008",
-        "5223916008"
+        "5223916008",
+        "5222289008"
     ],
     "Coinbase": [
         "7559052",
@@ -18576,7 +18591,8 @@
         "7730660003",
         "7721506003",
         "7712707003",
-        "7737155003"
+        "7737155003",
+        "7732706003"
     ],
     "Robinhood": [
         "7799902",
@@ -20216,7 +20232,8 @@
         "7922458",
         "7768040",
         "7939705",
-        "7939711"
+        "7939711",
+        "7585897"
     ],
     "Asana": [
         "7120496",
@@ -20409,7 +20426,8 @@
         "5984772004",
         "5977743004",
         "5992491004",
-        "5992267004"
+        "5992267004",
+        "5983828004"
     ],
     "Udemy": [
         "5424719004",
@@ -20915,7 +20933,9 @@
         "R-0106072",
         "R-0107166",
         "R-0106583",
-        "R-0106962"
+        "R-0106962",
+        "R-0107169",
+        "R-0107121"
     ],
     "CrowdStrike": [
         "R26911",
@@ -21196,7 +21216,8 @@
         "R27565",
         "R28262",
         "R28310",
-        "R28273"
+        "R28273",
+        "R28718"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -22394,7 +22415,10 @@
         "R2018247",
         "R2017453",
         "R2017961-1",
-        "R2018245"
+        "R2018245",
+        "R2013156",
+        "R2014905",
+        "R2018224"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -23960,7 +23984,13 @@
         "R0000439557",
         "R0000439256",
         "R0000439571",
-        "R0000438122-1"
+        "R0000438122-1",
+        "R0000439606",
+        "R0000439600",
+        "R0000439598",
+        "R0000439394",
+        "R0000439594",
+        "R0000439241"
     ],
     "Zoom": [
         "R18188-1",
@@ -24406,7 +24436,10 @@
         "R-102264-1",
         "R-104959-1",
         "R-103227",
-        "R-105469-1"
+        "R-105469-1",
+        "R-103924-2",
+        "R-104964-1",
+        "R-106052-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
