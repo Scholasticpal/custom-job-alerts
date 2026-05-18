@@ -994,7 +994,8 @@
         "7862772",
         "7882699",
         "7757554",
-        "7894387"
+        "7894387",
+        "7922532"
     ],
     "Figma": [
         "5426468004",
@@ -1256,7 +1257,8 @@
         "5995989004",
         "5995992004",
         "5992087004",
-        "5996614004"
+        "5996614004",
+        "5995850004"
     ],
     "Amazon": [
         "3198115",
@@ -3500,7 +3502,10 @@
         "7872758",
         "7927588",
         "7568067",
-        "7929555"
+        "7929555",
+        "7927170",
+        "7927169",
+        "7939328"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4941,7 +4946,9 @@
         "7295190002",
         "8548505002",
         "8554531002",
-        "6966448002"
+        "6966448002",
+        "8548984002",
+        "8554470002"
     ],
     "Rubrik": [
         "7310036",
@@ -10017,7 +10024,10 @@
         "R-278358",
         "R-274006-1",
         "R-259460",
-        "R-277645"
+        "R-277645",
+        "R-277383",
+        "R-278032",
+        "R-278449-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12738,7 +12748,14 @@
         "R337770",
         "R342720",
         "R342857",
-        "R342991-1"
+        "R342991-1",
+        "R342211-1",
+        "R342903",
+        "R343014",
+        "R342331",
+        "R342708",
+        "R340079",
+        "R342522"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13602,7 +13619,8 @@
         "R262245",
         "R261647",
         "R264313-1",
-        "R264103"
+        "R264103",
+        "R264419"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13703,7 +13721,9 @@
         "Private-Wealth---Investor-Services--Associate_41304-1",
         "Real-Estate---Asset-Management--Associate_43126",
         "Legal---Compliance---Australia-Compliance--Vice-President_43176",
-        "Assistant-Vice-President---Valuation_41559"
+        "Assistant-Vice-President---Valuation_41559",
+        "Blackstone-Multi-Asset-Investing--BXMA---Pricing-Analyst_43203",
+        "Real-Estate---Capital-Markets--Associate_43112"
     ],
     "Capital Group": [
         "R6549",
@@ -14670,7 +14690,9 @@
         "R-10388761",
         "R-10391686",
         "R-10385362",
-        "R-10383234"
+        "R-10383234",
+        "R-10391916",
+        "R-10379194"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -17239,7 +17261,11 @@
         "IN-Senior-Associate-SAP-SD-SAP-Advisory-Bangalore_729636WD",
         "Finance-Operations-Associate_729912WD",
         "IN-Manager-Unsecured-Risk-FST---Captives-Advisory-Gurgaon_722524WD-1",
-        "Senior-DevSecOps--US-Client-_709111WD-1"
+        "Senior-DevSecOps--US-Client-_709111WD-1",
+        "Resource-Management---Deployment---Senior-Associate_727405WD",
+        "Senior-de-Auditora-Interna_729990WD",
+        "Asistente-de-Auditora-Interna_729992WD",
+        "Senior-Manager-Strategy-_729899WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -17815,7 +17841,8 @@
         "5204086008",
         "5218948008",
         "5222235008",
-        "5221932008"
+        "5221932008",
+        "5223916008"
     ],
     "Coinbase": [
         "7559052",
@@ -20849,7 +20876,9 @@
         "R-0107313",
         "R-0107325",
         "R-0107253",
-        "R-0104339"
+        "R-0104339",
+        "R-0106961",
+        "R-0107182"
     ],
     "CrowdStrike": [
         "R26911",
@@ -21127,7 +21156,8 @@
         "R27110",
         "R28369",
         "R28815",
-        "R27565"
+        "R27565",
+        "R28262"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -22312,7 +22342,19 @@
         "R2018261",
         "R2005323",
         "R2015572",
-        "R2012645"
+        "R2012645",
+        "R2017790",
+        "R2018168",
+        "R2016467",
+        "R2014098",
+        "R2017906",
+        "R2018251",
+        "R2018209",
+        "R2001533",
+        "R2015267",
+        "R2018247",
+        "R2017453",
+        "R2017961-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -23856,7 +23898,15 @@
         "R0000439517",
         "R0000438966",
         "R0000439408-1",
-        "R0000439392"
+        "R0000439392",
+        "R0000439389",
+        "R0000439379",
+        "R0000431563",
+        "R0000439528",
+        "R0000438943",
+        "R0000438942",
+        "R0000439537",
+        "R0000439538"
     ],
     "Zoom": [
         "R18188-1",
@@ -24296,7 +24346,10 @@
         "R-104447-1",
         "R-106242-1",
         "R-102851-1",
-        "R-102490"
+        "R-102490",
+        "R-103173-1",
+        "R-102264-1",
+        "R-104959-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
