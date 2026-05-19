@@ -1551,7 +1551,10 @@
         "10421318",
         "10422138",
         "10422118",
-        "10423051"
+        "10423051",
+        "10423408",
+        "10423381",
+        "10423350"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -4966,7 +4969,9 @@
         "8544533002",
         "8555703002",
         "8493168002",
-        "8555864002"
+        "8555864002",
+        "8555913002",
+        "8555912002"
     ],
     "Rubrik": [
         "7310036",
@@ -10058,7 +10063,11 @@
         "R-278505",
         "R-272190",
         "R-277889",
-        "R-272949"
+        "R-272949",
+        "R-277913",
+        "R-273874-2",
+        "R-277960",
+        "R-277866"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12806,7 +12815,11 @@
         "R342749",
         "R331971",
         "R341075",
-        "R342767-1"
+        "R342767-1",
+        "R340343",
+        "R331279",
+        "R329862",
+        "R342615"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13214,7 +13227,12 @@
         "Treasury-Sales-Analyst-Associate--Corporate-Sales---Global-Payments-Solutions---New-Delhi--India_26017170",
         "Director-VP--Corporate-Sales---China-Onshore--Fixed-Income-Sales--Shanghai-Beijing_26016713-1",
         "AVP-VP--Sr-Relationship-Manager--Client-Onboarding---Global-Markets-Operations_26017126",
-        "Vice-President--Sr-Operations-Team-Lead--Equity-Transaction-Management---Japan--Global-Markets-Operations_26011650"
+        "Vice-President--Sr-Operations-Team-Lead--Equity-Transaction-Management---Japan--Global-Markets-Operations_26011650",
+        "Managing-Director--Head-of-Regional-Sales--Global-Payments-Solutions--Singapore_26017357",
+        "Vice-President--Delta-One-Single-Stock-Swaps-Trader--Prime-Financing--Global-Equities--Hong-Kong_26015336-2",
+        "Vice-President--Technology-Operations-Specialist-II--Application-Production-Services---Engineering_26017354-1",
+        "Vice-President--Production-Services-Specialist-II--Application-Production-Services---Engineering_26017353",
+        "Vice-President--Technology-Services-Lead--Application-Production-Services---Engineering_26017352"
     ],
     "BlackRock": [
         "R263666",
@@ -13685,7 +13703,13 @@
         "R264485",
         "R260944",
         "R260626",
-        "R263893"
+        "R263893",
+        "R261518-1",
+        "R264044-1",
+        "R261169",
+        "R261166",
+        "R261168",
+        "R264486"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13953,7 +13977,9 @@
         "Network-Operations-Engineer-II_34468-1",
         "OPA-DevSecOps-Engineer-II_34396-1",
         "Manager---Market-Data-Compliance---Assurance_34424",
-        "Staff-Platform-Engineer---Cloud-Engineering_34381-1"
+        "Staff-Platform-Engineer---Cloud-Engineering_34381-1",
+        "Software-Engineer-II---India_33840-1",
+        "Software-Engineer-I_34367-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -14761,7 +14787,8 @@
         "R-10379194",
         "R-10394869",
         "R-10393603",
-        "R-10390529"
+        "R-10390529",
+        "R-10392179"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -17342,7 +17369,15 @@
         "IN-Manager-SAP-BASIS-Enterprise-Apps-SAP-Advisory-Bangalore_719059WD-1",
         "T---_123132WD",
         "Senior-Associate---Deals-Strategy-and-Operations_532235WD",
-        "Cyber-Defence-Analyst_730027WD"
+        "Cyber-Defence-Analyst_730027WD",
+        "Workday-Senior-Consultant_730124WD",
+        "IN-Senior-Manager-AI-Engineer-Digital-Engineering-Transformation-Advisory-Bangalore_729845WD-1",
+        "Fraud---Forensics-Experienced-Professional_730106WD",
+        "HR-Technology-Senior-Associate--m-f-d-_712830WD",
+        "IT-Technology-Associate_692620WD",
+        "IN-Senior-Associate-CRM-Technical-GCC-Advisory-Bangalore_723245WD-1",
+        "Manager-GBS_727723WD",
+        "Risk-Services--Manager---Cybersecurity-Practice_722268WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -19483,7 +19518,8 @@
         "7504536",
         "7927395",
         "7920986",
-        "7736116"
+        "7736116",
+        "7923540"
     ],
     "Datadog": [
         "7194969",
@@ -20611,7 +20647,8 @@
         "R168814",
         "R168701",
         "R166226",
-        "R166289"
+        "R166289",
+        "R168443"
     ],
     "Workday": [
         "R-0106509-1",
@@ -20978,7 +21015,10 @@
         "R-0107121",
         "R-0105759",
         "R-0107200",
-        "R-0106412"
+        "R-0106412",
+        "R-0106585",
+        "R-0107219",
+        "R-0103355"
     ],
     "CrowdStrike": [
         "R26911",
@@ -21262,7 +21302,11 @@
         "R28273",
         "R28718",
         "R27849",
-        "R28835"
+        "R28835",
+        "R28270",
+        "R28217",
+        "R28712",
+        "R28836"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -22478,7 +22522,8 @@
         "R2018082",
         "R2018332-1",
         "R2018218",
-        "R2017705"
+        "R2017705",
+        "R2016076"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -22569,7 +22614,8 @@
         "Hardware-Engineering-Technical-Failure-Analysis-Case-Lead_2004869",
         "Senior-Cloud-Engineer_2010998",
         "Hardware-Engineering-Technical-Leader_2012312",
-        "ASIC-Engineering-Technical-Leader--STA_2013201"
+        "ASIC-Engineering-Technical-Leader--STA_2013201",
+        "Software-Engineer_2010842"
     ],
     "Intel": [
         "R0283052",
@@ -24056,7 +24102,26 @@
         "R0000438587",
         "R0000439611",
         "R0000439572",
-        "R0000439214"
+        "R0000439214",
+        "R0000439547",
+        "R0000439607",
+        "R0000439506-1",
+        "R0000439596-1",
+        "R0000439556",
+        "R0000427293",
+        "R0000439650",
+        "R0000439648-1",
+        "R0000439647",
+        "R0000439591",
+        "R0000439621",
+        "R0000439646",
+        "R0000439645",
+        "R0000439535",
+        "R0000439595",
+        "R0000439565",
+        "R0000439615",
+        "R0000439210",
+        "R0000439617"
     ],
     "Zoom": [
         "R18188-1",
@@ -24508,7 +24573,9 @@
         "R-105469-1",
         "R-103924-2",
         "R-104964-1",
-        "R-106052-1"
+        "R-106052-1",
+        "R-105039",
+        "R-101468"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
