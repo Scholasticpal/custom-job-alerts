@@ -3542,7 +3542,8 @@
         "7863016",
         "7936532",
         "7874554",
-        "7874555"
+        "7874555",
+        "7940054"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -6213,7 +6214,8 @@
         "7907255",
         "7921646",
         "7916601",
-        "7929538"
+        "7929538",
+        "7943582"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -10130,7 +10132,9 @@
         "R-278070",
         "R-278416",
         "R-277855",
-        "R-278423-1"
+        "R-278423-1",
+        "R-270614",
+        "R-278463-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12911,7 +12915,15 @@
         "R342904",
         "R342902",
         "R343157",
-        "R343141"
+        "R343141",
+        "R342543",
+        "R343227",
+        "R343177",
+        "R333937",
+        "R332579",
+        "R339957",
+        "R340120",
+        "R342570"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13817,7 +13829,8 @@
         "R263955",
         "R264082",
         "R263761",
-        "R261570"
+        "R261570",
+        "R264421"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -13921,7 +13934,8 @@
         "Assistant-Vice-President---Valuation_41559",
         "Blackstone-Multi-Asset-Investing--BXMA---Pricing-Analyst_43203",
         "Real-Estate---Capital-Markets--Associate_43112",
-        "Blackstone-Private-Wealth---Product-Specialist--BXHF---Principal_38668-2"
+        "Blackstone-Private-Wealth---Product-Specialist--BXHF---Principal_38668-2",
+        "Blackstone-Credit---Insurance--ABF-Associate_40233-4"
     ],
     "Capital Group": [
         "R6549",
@@ -14919,7 +14933,14 @@
         "R-10391561",
         "R-10394049",
         "R-10394427",
-        "R-10394609"
+        "R-10394609",
+        "R-10390331",
+        "R-10392809",
+        "R-10392810",
+        "R-10392808",
+        "R-10392805",
+        "R-10392803",
+        "R-10392804"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -15050,7 +15071,8 @@
         "Quantitative-Research-Associate_867805",
         "Head-of-Insurance-General-Account-Solutions---US_866477",
         "Intermediary-Lifecycle-Management-Consultant---Senior-Consultant_867967",
-        "Relationship-Associate---Custody_867866-1"
+        "Relationship-Associate---Custody_867866-1",
+        "Senior-Retirement-Plan-Director_867752"
     ],
     "Invesco": [
         "R-13647",
@@ -15247,7 +15269,8 @@
         "R-14026",
         "R-13983",
         "R-12914",
-        "R-14050"
+        "R-14050",
+        "R-13945"
     ],
     "PayPal": [
         "R0135744-1",
@@ -17579,7 +17602,11 @@
         "IN-Senior-Associate-Java-Python-Advisory-Corporate-Advisory-Gurgaon_729640WD-1",
         "IN-Senior-Associate-Java-Python-Advisory-Corporate-Advisory-Gurgaon_729641WD-1",
         "IN-Senior-Associate-Java-Python-Advisory-Corporate-Advisory-Gurgaon_729642WD-1",
-        "IN-Senior-Associate-Digital-led-Transformation---Capital-Project-Management-Capital-Projects---Infrastructure-Advisory-Ahmedabad_730160WD-1"
+        "IN-Senior-Associate-Digital-led-Transformation---Capital-Project-Management-Capital-Projects---Infrastructure-Advisory-Ahmedabad_730160WD-1",
+        "Cybersecurity-Senior-Associate---SIEM---SOAR---SecOps--US-Client-_727145WD-3",
+        "Senior-Associate---Vulnerability-Management--L3-_710220WD-1",
+        "Manager--Cyber-Managed-Services--Identity---Access-Management---Cybersecurity--US-Client-_690905WD",
+        "Associate---SIEM-SOAR-Engineering_689316WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -19727,7 +19754,8 @@
         "7848622",
         "6949764",
         "7939397",
-        "7939522"
+        "7939522",
+        "7665958"
     ],
     "Datadog": [
         "7194969",
@@ -20718,7 +20746,8 @@
         "5992267004",
         "5983828004",
         "5989213004",
-        "5997449004"
+        "5997449004",
+        "5995544004"
     ],
     "Udemy": [
         "5424719004",
@@ -20867,7 +20896,8 @@
         "R168443",
         "R168844",
         "R168527-1",
-        "R163144-1"
+        "R163144-1",
+        "R161947"
     ],
     "Workday": [
         "R-0106509-1",
@@ -22797,7 +22827,11 @@
         "R2014231",
         "R2018425",
         "R2018473",
-        "R2018472"
+        "R2018472",
+        "R1999876",
+        "R2008501",
+        "R2018479",
+        "R2017182"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -24441,7 +24475,15 @@
         "R0000438151",
         "R0000430296",
         "R0000439688",
-        "R0000439690"
+        "R0000439690",
+        "R0000439381",
+        "R0000439698",
+        "R0000439699",
+        "R0000437432",
+        "R0000439587",
+        "R0000439681",
+        "R0000439115",
+        "R0000439724"
     ],
     "Zoom": [
         "R18188-1",
