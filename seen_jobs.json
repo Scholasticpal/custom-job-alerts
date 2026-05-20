@@ -1005,7 +1005,8 @@
         "7559403",
         "7863714",
         "7809139",
-        "7921325"
+        "7921325",
+        "7941800"
     ],
     "Figma": [
         "5426468004",
@@ -1566,7 +1567,8 @@
         "10423381",
         "10423350",
         "10424506",
-        "10424565"
+        "10424565",
+        "10424870"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -2922,7 +2924,12 @@
         "e629e508-5674-45e8-8f04-10936dc0f45b",
         "8964e12b-1e91-4fab-8a70-aa0b55d7a74c",
         "0a81e7b7-fd81-439f-a290-53c4f8dde4b3",
-        "aa9dea83-68f4-40cc-9540-0803351909cc"
+        "aa9dea83-68f4-40cc-9540-0803351909cc",
+        "207ba100-954e-4697-8fb0-c1d3d39d8db9",
+        "0d0deb25-be58-4245-8efa-715bc2e61a7a",
+        "92b95269-60c3-45cc-ba84-7b68c61853e7",
+        "13228364-a9b8-4942-9b69-4e6a7935e53b",
+        "6b06523b-92f3-4b81-b1c8-7ee504de80a3"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -5017,7 +5024,9 @@
         "8557430002",
         "8507014002",
         "8538914002",
-        "8516116002"
+        "8516116002",
+        "8518496002",
+        "8555823002"
     ],
     "Rubrik": [
         "7310036",
@@ -6905,7 +6914,13 @@
         "7584679",
         "7379472",
         "7938486",
-        "7940297"
+        "7940297",
+        "7945939",
+        "7936964",
+        "7936783",
+        "7945795",
+        "7936791",
+        "7936849"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -10149,7 +10164,17 @@
         "R-278423-1",
         "R-270614",
         "R-278463-1",
-        "R-265550"
+        "R-265550",
+        "R-277895",
+        "R-275747",
+        "R-275061-1",
+        "R-277906-1",
+        "R-274938",
+        "R-277833-1",
+        "R-2_R-273552",
+        "R-278162",
+        "R-277921-1",
+        "R-266457"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -12951,7 +12976,11 @@
         "R343091",
         "R342268",
         "R342744",
-        "R342826"
+        "R342826",
+        "R342242",
+        "R338309",
+        "R343112",
+        "R343132"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13309,7 +13338,8 @@
         "Consulting-Manager_J-81344",
         "Travel-Experience-Counselor-II_J-81058",
         "Corporate-Sales-Manager--Remote-_J-82552",
-        "Corporate-Sales-Manager--Remote-_J-82551"
+        "Corporate-Sales-Manager--Remote-_J-82551",
+        "Middleware-Platform-Engineer_J-80141-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -13372,7 +13402,8 @@
         "Vice-President--Delta-One-Single-Stock-Swaps-Trader--Prime-Financing--Global-Equities--Hong-Kong_26015336-2",
         "Vice-President--Technology-Operations-Specialist-II--Application-Production-Services---Engineering_26017354-1",
         "Vice-President--Production-Services-Specialist-II--Application-Production-Services---Engineering_26017353",
-        "Vice-President--Technology-Services-Lead--Application-Production-Services---Engineering_26017352"
+        "Vice-President--Technology-Services-Lead--Application-Production-Services---Engineering_26017352",
+        "Vice-President--Production-Services-Specialist-II--Application-Production-Services---Engineering_26017567"
     ],
     "BlackRock": [
         "R263666",
@@ -13861,7 +13892,8 @@
         "R263761",
         "R261570",
         "R264421",
-        "R263300"
+        "R263300",
+        "R264463"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -14138,7 +14170,8 @@
         "Manager---Market-Data-Compliance---Assurance_34424",
         "Staff-Platform-Engineer---Cloud-Engineering_34381-1",
         "Software-Engineer-II---India_33840-1",
-        "Software-Engineer-I_34367-1"
+        "Software-Engineer-I_34367-1",
+        "Security-Engineer-III---Operations---India_34391-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -14199,7 +14232,8 @@
         "R31906",
         "R32136",
         "R31945",
-        "R30908"
+        "R30908",
+        "R31852"
     ],
     "Fiserv": [
         "R-10392824",
@@ -17640,7 +17674,22 @@
         "Senior-Associate---Vulnerability-Management--L3-_710220WD-1",
         "Manager--Cyber-Managed-Services--Identity---Access-Management---Cybersecurity--US-Client-_690905WD",
         "Associate---SIEM-SOAR-Engineering_689316WD-1",
-        "Technical-Solution-Designer---Ping---ForgeRock-CIAM---Authorization_721158WD-2"
+        "Technical-Solution-Designer---Ping---ForgeRock-CIAM---Authorization_721158WD-2",
+        "IN-Senior-Associate-Databricks--Data---Analytics--Advisory--Kolkata_716976WD-1",
+        "IN-Senior-Associate--Java-fullstack-developer--EU-R--Advisory--Mumbai_730383WD",
+        "----Learning---Development_712395WD",
+        "IN-Senior-Associate---Cloud-Security---Cloud-Security--Advisory---Bangalore_730053WD-1",
+        "IN-Senior-Associate---Cloud-Security---Cloud-Security--Advisory---Bangalore_730051WD-1",
+        "IN-Senior-Associate---Cloud-Security---Cloud-Security--Advisory---Bangalore_730052WD-1",
+        "IN-Senior-Associate---Cloud-Security---Cloud-Security--Advisory---Bangalore_730048WD-1",
+        "IN-Senior-Associate---Cloud-Security---Cloud-Security--Advisory---Bangalore_730047WD-1",
+        "IN-Senior-Associate---Cloud-Security---Cloud-Security--Advisory--Bangalore_729803WD-1",
+        "IN-Senior-Associate---Cloud-Security---Cloud-Security--Advisory---Bangalore_729801WD",
+        "IN-Senior-Associate---Cloud-Security---Cloud-Security--Advisory---Bangalore_729799WD-1",
+        "IN-Senior-Associate---Cloud-Security---Cloud-Security--Advisory---Bangalore_729797WD-1",
+        "IN-Senior-Associate--ESG-sustainability--Climate---Energy-Advisory-Chennai_729242WD-1",
+        "IN-Senior-Associate--Agentic---Gen-AI--AI-50--Advisory--Bangalore_727550WD-1",
+        "IN-Senior-Associate--Agentic---Gen-AI--AI-50--Advisory--Bangalore_727552WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -21326,7 +21375,8 @@
         "R-0107263",
         "R-0107178",
         "R-0106648-1",
-        "R-0106984-1"
+        "R-0106984-1",
+        "R-0104525"
     ],
     "CrowdStrike": [
         "R26911",
@@ -22899,7 +22949,9 @@
         "R2016909",
         "R2018282",
         "R2018329",
-        "R2014591"
+        "R2014591",
+        "R1996042",
+        "R2014664-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -24559,7 +24611,22 @@
         "R0000439696",
         "R0000439756",
         "R0000439636",
-        "R0000439749"
+        "R0000439749",
+        "R0000439180",
+        "R0000437521-1",
+        "R0000434343",
+        "R0000439725",
+        "R0000438455",
+        "R0000439787-1",
+        "R0000439786",
+        "R0000439784",
+        "R0000438904",
+        "R0000439714",
+        "R0000439704",
+        "R0000439768",
+        "R0000439778",
+        "R0000434690",
+        "R0000438272"
     ],
     "Zoom": [
         "R18188-1",
