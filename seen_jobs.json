@@ -1025,7 +1025,10 @@
         "7943909",
         "7950735",
         "7767706",
-        "7863509"
+        "7863509",
+        "7951146",
+        "7942736",
+        "7918088"
     ],
     "Figma": [
         "5426468004",
@@ -10342,7 +10345,9 @@
         "R-277572",
         "R-277982",
         "R-278671",
-        "R-271952"
+        "R-271952",
+        "R-278840",
+        "R-278838"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -13220,7 +13225,11 @@
         "R343351",
         "R343021",
         "R343324",
-        "R341142-1"
+        "R341142-1",
+        "R342882",
+        "R342807",
+        "R342886",
+        "R342043"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14190,7 +14199,8 @@
         "R264302-1",
         "R264329",
         "R264557-1",
-        "R264172"
+        "R264172",
+        "R264477"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -15354,7 +15364,10 @@
         "R-10385977",
         "R-10395095",
         "R-10395094-1",
-        "R-10391461-1"
+        "R-10391461-1",
+        "R-10395100",
+        "R-10387870-1",
+        "R-10392782-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -18750,7 +18763,8 @@
         "5226862008",
         "5227411008",
         "5227415008",
-        "5227413008"
+        "5227413008",
+        "5184585008"
     ],
     "Coinbase": [
         "7559052",
@@ -19692,7 +19706,8 @@
         "7490048",
         "7943216",
         "7804654",
-        "7264931"
+        "7264931",
+        "7940165"
     ],
     "Vercel": [
         "5624231004",
@@ -21545,7 +21560,9 @@
         "R168987-1",
         "R168888-1",
         "R169097",
-        "R168733-1"
+        "R168733-1",
+        "R168656",
+        "R169081"
     ],
     "Workday": [
         "R-0106509-1",
@@ -21953,7 +21970,9 @@
         "R-0102689",
         "R-0107491",
         "R-0107171",
-        "R-0107308"
+        "R-0107308",
+        "R-0107127",
+        "R-0102191"
     ],
     "CrowdStrike": [
         "R26911",
@@ -22286,7 +22305,9 @@
         "R28764",
         "R27316-1",
         "R28640-1",
-        "R27569"
+        "R27569",
+        "R28851",
+        "R27913"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -25390,7 +25411,12 @@
         "R0000439295",
         "R0000439963",
         "R0000439983",
-        "R0000439981"
+        "R0000439981",
+        "R0000440022",
+        "R0000436364",
+        "R0000439860-1",
+        "R0000439684",
+        "R0000439968"
     ],
     "Zoom": [
         "R18188-1",
@@ -27321,7 +27347,10 @@
         "Sr-Contracts-Analyst_REF082501W",
         "Director_REF082474W",
         "Director--US-Client-Marketing-Partnerships_REF080731W",
-        "Consultant--Operations-Business-Integration_REF080775W"
+        "Consultant--Operations-Business-Integration_REF080775W",
+        "Director--Software-Engineering-HR-Technology-_REF082097W",
+        "Associate-SW-Engineer_REF081716W",
+        "Director--Global-Market-Operations_REF082542W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -27359,7 +27388,8 @@
         "Machine-Learning-Engineer_26WD97131-1",
         "Senior-Experience-Designer--Montreal-_26WD98373",
         "Emerging-Solutions-Sales-Specialist_26WD96968",
-        "Senior-Software-Developer_26WD95723-1"
+        "Senior-Software-Developer_26WD95723-1",
+        "Cross-Functional-Internal-Comms-Business-Partner_26WD98340-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -27409,7 +27439,12 @@
         "Seasonal-Production-Assistant_10151194",
         "Sr-Product-Software-Engineer_10150772",
         "Manager--Data-Analytics---Engagement_10151332",
-        "Senior--Software-Engineer--Machine-Learning-_10147008"
+        "Senior--Software-Engineer--Machine-Learning-_10147008",
+        "Senior-Manager--Integrated-Audit_10151413-1",
+        "Production-Coordinator_10150574",
+        "Senior-Machine-Learning-Engineer_10151720",
+        "Analyst--Content-Planning---Analysis_10150516-1",
+        "Manager--FX-Risk-Management_10151201"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
