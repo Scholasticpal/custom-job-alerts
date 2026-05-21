@@ -126,7 +126,7 @@ TARGETS = [
     # Custom API
     {"name": "Amazon", "ats": "amazon", "country": "IND", "keywords": SWE_KEYWORDS},
     
-    # Existing Greenhouse Configurations
+    # GREENHOUSE
     {"name": "Stripe", "ats": "greenhouse", "id": "stripe", "keywords": SWE_KEYWORDS},
     {"name": "Checkout.com", "ats": "greenhouse", "id": "checkoutcom", "keywords": SWE_KEYWORDS},
     {"name": "CRED", "ats": "greenhouse", "id": "cred", "keywords": SWE_KEYWORDS},
@@ -182,6 +182,46 @@ TARGETS = [
     {"name": "Coursera", "ats": "greenhouse", "id": "coursera", "keywords": SWE_KEYWORDS},
     {"name": "Udemy", "ats": "greenhouse", "id": "udemy", "keywords": SWE_KEYWORDS},
     {"name": "Grammarly", "ats": "greenhouse", "id": "grammarly", "keywords": SWE_KEYWORDS},
+    {"name": "Supabase", "ats": "greenhouse", "id": "supabase", "keywords": SWE_KEYWORDS},
+    {"name": "Hasura", "ats": "greenhouse", "id": "hasura", "keywords": SWE_KEYWORDS},
+    {"name": "Netlify", "ats": "greenhouse", "id": "netlify", "keywords": SWE_KEYWORDS},
+    {"name": "PostHog", "ats": "greenhouse", "id": "posthog", "keywords": SWE_KEYWORDS},
+    {"name": "HashiCorp", "ats": "greenhouse", "id": "hashicorp", "keywords": SWE_KEYWORDS},
+    {"name": "DigitalOcean", "ats": "greenhouse", "id": "digitalocean", "keywords": SWE_KEYWORDS},
+    {"name": "Apollo GraphQL", "ats": "greenhouse", "id": "apollographql", "keywords": SWE_KEYWORDS},
+    {"name": "Miro", "ats": "greenhouse", "id": "miro", "keywords": SWE_KEYWORDS},
+    {"name": "Airtable", "ats": "greenhouse", "id": "airtable", "keywords": SWE_KEYWORDS},
+    
+    # --- AI & MACHINE LEARNING LEADERS (Greenhouse) ---
+    {"name": "Scale AI", "ats": "greenhouse", "id": "scaleai", "keywords": SWE_KEYWORDS},
+    {"name": "Cohere", "ats": "greenhouse", "id": "cohere", "keywords": SWE_KEYWORDS},
+    {"name": "Hugging Face", "ats": "greenhouse", "id": "huggingface", "keywords": SWE_KEYWORDS},
+
+    # --- GLOBAL FINTECH & CRYPTO (Greenhouse) ---
+    {"name": "Ramp", "ats": "greenhouse", "id": "ramp", "keywords": SWE_KEYWORDS},
+    {"name": "Deel", "ats": "greenhouse", "id": "deel", "keywords": SWE_KEYWORDS},
+    {"name": "Polygon", "ats": "greenhouse", "id": "polygon", "keywords": SWE_KEYWORDS},
+
+    # --- INDIA HIGH-GROWTH HEALTH & TECH (Greenhouse) ---
+    {"name": "Innovaccer", "ats": "greenhouse", "id": "innovaccer", "keywords": SWE_KEYWORDS},
+    {"name": "Deliveroo", "ats": "greenhouse", "id": "deliveroo", "keywords": SWE_KEYWORDS},
+    
+    # Netskope and Samsara have massive engineering hubs in India and use React/Node/AWS extensively.
+    {"name": "Netskope", "ats": "greenhouse", "id": "netskope", "keywords": SWE_KEYWORDS},
+    {"name": "Samsara", "ats": "greenhouse", "id": "samsara", "keywords": SWE_KEYWORDS},
+
+    # --- AI & DATA INTELLIGENCE ---
+    # Palantir and Gong are leaders in big data and AI revenue intelligence.
+    {"name": "Palantir", "ats": "lever", "id": "palantir", "keywords": SWE_KEYWORDS},
+    {"name": "Gong", "ats": "greenhouse", "id": "gong", "keywords": SWE_KEYWORDS},
+
+    # --- CONSUMER TECH & EDTECH ---
+    # Top-tier engineering cultures with incredibly high bars for frontend/fullstack performance.
+    {"name": "Duolingo", "ats": "greenhouse", "id": "duolingo", "keywords": SWE_KEYWORDS},
+    {"name": "Pinterest", "ats": "greenhouse", "id": "pinterest", "keywords": SWE_KEYWORDS},
+    {"name": "Twitch", "ats": "greenhouse", "id": "twitch", "keywords": SWE_KEYWORDS},
+    {"name": "Yelp", "ats": "greenhouse", "id": "yelp", "keywords": SWE_KEYWORDS},
+
 
     # NEW: HFT & Finance on Greenhouse
     {"name": "Optiver", "ats": "greenhouse", "id": "optiver", "keywords": SWE_KEYWORDS},
@@ -190,7 +230,7 @@ TARGETS = [
     {"name": "Jump Trading", "ats": "greenhouse", "id": "jumptrading", "keywords": SWE_KEYWORDS},
     {"name": "PayU", "ats": "greenhouse", "id": "payu", "keywords": SWE_KEYWORDS},
 
-    # Existing Lever Configurations
+    # LEVER
     {"name": "Revolut", "ats": "lever", "id": "revolut", "keywords": SWE_KEYWORDS},
     {"name": "Paytm", "ats": "lever", "id": "paytm", "keywords": SWE_KEYWORDS},
     {"name": "Perfios", "ats": "lever", "id": "perfios", "keywords": SWE_KEYWORDS},
@@ -218,8 +258,39 @@ TARGETS = [
     {"name": "Khatabook", "ats": "lever", "id": "khatabook", "keywords": SWE_KEYWORDS},
     {"name": "UpGrad", "ats": "lever", "id": "upgrad", "keywords": SWE_KEYWORDS},
     {"name": "Whatfix", "ats": "lever", "id": "whatfix", "keywords": SWE_KEYWORDS},
+    
+    
+    # --- INDIA FINTECH UNICORNS (Lever) ---
+    {"name": "Jupiter Money", "ats": "lever", "id": "jupiter", "keywords": SWE_KEYWORDS},
+    {"name": "Fi Money", "ats": "lever", "id": "fi", "keywords": SWE_KEYWORDS},
+    {"name": "Smallcase", "ats": "lever", "id": "smallcase", "keywords": SWE_KEYWORDS},
+    {"name": "KreditBee", "ats": "lever", "id": "kreditbee", "keywords": SWE_KEYWORDS},
+    {"name": "Cashfree", "ats": "lever", "id": "cashfree", "keywords": SWE_KEYWORDS},
+    {"name": "Instamojo", "ats": "lever", "id": "instamojo", "keywords": SWE_KEYWORDS},
+    {"name": "Zeta", "ats": "lever", "id": "zeta", "keywords": SWE_KEYWORDS},
+    {"name": "Open Financial Technologies", "ats": "lever", "id": "open", "keywords": SWE_KEYWORDS},
+    {"name": "Signzy", "ats": "lever", "id": "signzy", "keywords": SWE_KEYWORDS},
 
-    # Existing Workday Configurations
+    # --- INDIA SAAS, ADTECH & B2B (Lever) ---
+    {"name": "InMobi", "ats": "lever", "id": "inmobi", "keywords": SWE_KEYWORDS},
+    {"name": "Glance", "ats": "lever", "id": "glance", "keywords": SWE_KEYWORDS},
+    {"name": "MoEngage", "ats": "lever", "id": "moengage", "keywords": SWE_KEYWORDS},
+    {"name": "CleverTap", "ats": "lever", "id": "clevertap", "keywords": SWE_KEYWORDS},
+    {"name": "LeadSquared", "ats": "lever", "id": "leadsquared", "keywords": SWE_KEYWORDS},
+    {"name": "Amagi", "ats": "lever", "id": "amagi", "keywords": SWE_KEYWORDS},
+
+    # --- INDIA LOGISTICS, CONSUMER & EDTECH (Lever) ---
+    {"name": "Shiprocket", "ats": "lever", "id": "shiprocket", "keywords": SWE_KEYWORDS},
+    {"name": "Locus", "ats": "lever", "id": "locus", "keywords": SWE_KEYWORDS},
+    {"name": "GreyOrange", "ats": "lever", "id": "greyorange", "keywords": SWE_KEYWORDS},
+    {"name": "Urban Company", "ats": "lever", "id": "urbancompany", "keywords": SWE_KEYWORDS},
+    {"name": "Practo", "ats": "lever", "id": "practo", "keywords": SWE_KEYWORDS},
+    {"name": "HealthifyMe", "ats": "lever", "id": "healthifyme", "keywords": SWE_KEYWORDS},
+    {"name": "Licious", "ats": "lever", "id": "licious", "keywords": SWE_KEYWORDS},
+    {"name": "Vedantu", "ats": "lever", "id": "vedantu", "keywords": SWE_KEYWORDS},
+    {"name": "Apna", "ats": "lever", "id": "apna", "keywords": SWE_KEYWORDS},
+
+    # WORKDAY 
     {"name": "Mastercard", "ats": "workday", "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers", "keywords": SWE_KEYWORDS},
     {"name": "Walmart Global Tech", "ats": "workday", "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal", "keywords": SWE_KEYWORDS},
     {"name": "Salesforce", "ats": "workday", "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site", "keywords": SWE_KEYWORDS},
@@ -244,8 +315,15 @@ TARGETS = [
     {"name": "Zoom", "ats": "workday", "url": "https://zoom.wd5.myworkdayjobs.com/Zoom", "keywords": SWE_KEYWORDS},
     {"name": "Expedia", "ats": "workday", "url": "https://expedia.wd108.myworkdayjobs.com/search", "keywords": SWE_KEYWORDS},
     {"name": "Sprinklr", "ats": "workday", "url": "https://sprinklr.wd1.myworkdayjobs.com/careers", "keywords": SWE_KEYWORDS},
+    {"name": "Zendesk", "ats": "workday", "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk", "keywords": SWE_KEYWORDS},
+    {"name": "Visa", "ats": "workday", "url": "https://visa.wd5.myworkdayjobs.com/Visa", "keywords": SWE_KEYWORDS},
+    {"name": "Autodesk", "ats": "workday", "url": "https://autodesk.wd1.myworkdayjobs.com/Ext", "keywords": SWE_KEYWORDS},
+    {"name": "Disney", "ats": "workday", "url": "https://disney.wd5.myworkdayjobs.com/disneycareer", "keywords": SWE_KEYWORDS},
+    {"name": "Warner Bros. Discovery", "ats": "workday", "url": "https://warnerbros.wd5.myworkdayjobs.com/global", "keywords": SWE_KEYWORDS},
+    {"name": "Zoom", "ats": "workday", "url": "https://zoom.wd5.myworkdayjobs.com/Zoom", "keywords": SWE_KEYWORDS},
+    {"name": "Kyndryl", "ats": "workday", "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers", "keywords": SWE_KEYWORDS},
 
-   # Eightfold Configurations
+   # Eightfold
     {"name": "BNY Mellon", "ats": "eightfold", "url": "https://bnymellon.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
     {"name": "Morgan Stanley", "ats": "eightfold", "url": "https://morganstanley.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
     {"name": "American Express", "ats": "eightfold", "url": "https://aexp.eightfold.ai/careers", "keywords": SWE_KEYWORDS},
