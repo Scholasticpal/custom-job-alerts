@@ -1018,7 +1018,8 @@
         "7947510",
         "7930151",
         "7947546",
-        "7915144"
+        "7915144",
+        "7945056"
     ],
     "Figma": [
         "5426468004",
@@ -1287,7 +1288,8 @@
         "5998049004",
         "5998147004",
         "5998604004",
-        "5996930004"
+        "5996930004",
+        "5995987004"
     ],
     "Amazon": [
         "3198115",
@@ -1726,7 +1728,16 @@
         "7720531003",
         "7739170003",
         "7735136003",
-        "7731736003"
+        "7731736003",
+        "7735150003",
+        "7737479003",
+        "7737353003",
+        "7737342003",
+        "7737484003",
+        "7738990003",
+        "7737477003",
+        "7737488003",
+        "7735148003"
     ],
     "Razorpay": [
         "4665089005",
@@ -1907,7 +1918,8 @@
         "4696845005",
         "4696274005",
         "4695252005",
-        "4696847005"
+        "4696847005",
+        "4696862005"
     ],
     "Rippling": [],
     "Slice": [
@@ -1997,7 +2009,8 @@
         "7917284",
         "7925858",
         "7942313",
-        "7916881"
+        "7916881",
+        "7925845"
     ],
     "Upstox": [],
     "Brex": [
@@ -3728,7 +3741,8 @@
         "8499795002",
         "8516334002",
         "8524159002",
-        "8520252002"
+        "8520252002",
+        "7618038002"
     ],
     "Databricks": [
         "8437000002",
@@ -6962,7 +6976,8 @@
         "7936783",
         "7945795",
         "7936791",
-        "7936849"
+        "7936849",
+        "7949759"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -10255,7 +10270,15 @@
         "R-278137-1",
         "R-277371",
         "R-278529-1",
-        "R-265638"
+        "R-265638",
+        "R-278440",
+        "R-277728",
+        "R-277727",
+        "R-270336",
+        "R-278439",
+        "R-278668",
+        "R-275776",
+        "R-275538"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -13099,7 +13122,9 @@
         "R342860",
         "R318491",
         "R343262",
-        "R340853"
+        "R340853",
+        "R292070",
+        "R341049"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13532,7 +13557,9 @@
         "Vice-President--Production-Services-Specialist-II--Application-Production-Services---Engineering_26017353",
         "Vice-President--Technology-Services-Lead--Application-Production-Services---Engineering_26017352",
         "Vice-President--Production-Services-Specialist-II--Application-Production-Services---Engineering_26017567",
-        "Officer--Markets-Support-Analyst--Client-Data-Services---Japan--Global-Markets-Operations_26017574"
+        "Officer--Markets-Support-Analyst--Client-Data-Services---Japan--Global-Markets-Operations_26017574",
+        "Vice-President--Application-Support---Engineering--Market-Risk-Technology--Sydney--Australia_26017356",
+        "Vice-President--Site-Reliability-Engineer-Lead--Application-Production-Services---Engineering_26017742-2"
     ],
     "BlackRock": [
         "R263666",
@@ -14044,7 +14071,10 @@
         "R260803",
         "R263763",
         "R264552-1",
-        "R264467"
+        "R264467",
+        "R263664",
+        "R264533",
+        "R264537"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -14152,7 +14182,8 @@
         "Blackstone-Credit---Insurance--ABF-Associate_40233-4",
         "Real-Estate-Communications--SVP---Corporate-Affairs_43053-1",
         "Blackstone-Private-Wealth---Client-Services--Analyst_41826",
-        "Expense-Accounting-Analyst_43263"
+        "Expense-Accounting-Analyst_43263",
+        "Private-Wealth---Sales---Promotions--Vice-President-Principal_41835-1"
     ],
     "Capital Group": [
         "R6549",
@@ -14329,7 +14360,9 @@
         "Software-Engineer-I_34367-1",
         "Security-Engineer-III---Operations---India_34391-1",
         "Staff-Network-Ops-Engineer_34018",
-        "Desktop-Support-Engineer-I_34456"
+        "Desktop-Support-Engineer-I_34456",
+        "Site-Reliability-Engineer-I_33940-1",
+        "Clearing-Deliveries---Risk-Analyst_34460"
     ],
     "FactSet": [
         "R32107-1",
@@ -17952,7 +17985,25 @@
         "Business-Application-Consulting---Salesforce-Consulting-Generalist---Senior-Associate---CS---G_708715WD-1",
         "Payroll---Associate_678968WD",
         "OneStream-Consultant--Senior-Manager-_730852WD",
-        "Experienced-Associate---Tax-Compliance--CSG-MY-_730849WD"
+        "Experienced-Associate---Tax-Compliance--CSG-MY-_730849WD",
+        "Manager-Tax-Function-Consulting_702041WD",
+        "IN-Director-Business-Development-Digital-Engineering-Transformation-Advisory-Bangalore_728175WD",
+        "ETIC--Full-Stack-Developer---Python--Node--React---NET---Senior-Associate_729622WD",
+        "ETIC--Full-Stack-Developer--Python---Manager_729621WD",
+        "Senior-Manager_729228WD",
+        "IN-Manager-Java-GCC-Advisroy-Bangalore_730654WD-2",
+        "IN-Manager-Java-GCC-Advisroy-Bangalore_730652WD-1",
+        "Senior-Consultant-Capital-Markets---Deals---Financial-Reporting_730922WD",
+        "IN-Senior-Associate-Golang-Developer--GCC-Advisory-Bangalore_730634WD-1",
+        "IN-Senior-Associate-DevOps-SRE-GCC-Advisory-Hyderabad_730636WD-1",
+        "IN-Senior-Associate--Pega-Developer-GCC-Advisory-Bangalore_730726WD",
+        "IN-Senior-Associate--Pega-Developer-GCC-Advisory-Bangalore_730757WD-1",
+        "IN-Senior-Associate--Pega-Developer-GCC-Advisory-Bangalore_730766WD-1",
+        "IN-Senior-Associate--Pega-Developer-GCC-Advisory-Bangalore_730760WD-1",
+        "IN-Associate-BUHC--Advisory-Consulting-Tech-IFS-Bengaluru_708072WD-2",
+        "IN-Associate-Robotic-Process-Automation--RPA--GCC-Advisory-Bangalore_715719WD-1",
+        "IN-Senior-Associate--Pega-Developer-GCC-Advisory-Bangalore_730746WD-1",
+        "IN-Senior-Associate--Pega-Developer-GCC-Advisory-Bangalore_730730WD-1"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -21301,7 +21352,8 @@
         "R168139-1",
         "R-4_R168142-1",
         "R166236-1",
-        "R168987-1"
+        "R168987-1",
+        "R168888-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -21699,7 +21751,8 @@
         "R-0105803-1",
         "R-0107438",
         "R-0106985",
-        "R-0107316"
+        "R-0107316",
+        "R-0107277"
     ],
     "CrowdStrike": [
         "R26911",
@@ -22021,7 +22074,11 @@
         "R28810",
         "R28866",
         "R28666",
-        "R28655-1"
+        "R28655-1",
+        "R27470",
+        "R27517",
+        "R28268",
+        "R28803"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -23342,7 +23399,13 @@
         "R2018096",
         "R2018093",
         "R2017926",
-        "R1997852-1"
+        "R1997852-1",
+        "R2018399",
+        "R2018591",
+        "R2018110",
+        "R2018567",
+        "R2018319",
+        "R1998048"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -25061,7 +25124,27 @@
         "R0000439881",
         "R0000438868",
         "R0000438944",
-        "R0000439872"
+        "R0000439872",
+        "R0000400276",
+        "R0000439851",
+        "R0000439751",
+        "R0000439272",
+        "R0000439903",
+        "R0000439898",
+        "R0000439868",
+        "R0000439908",
+        "R0000439428",
+        "R0000439828",
+        "R0000439738",
+        "R0000439897",
+        "R0000439687-1",
+        "R0000439755",
+        "R0000439750",
+        "R0000439495",
+        "R0000439834",
+        "R0000439544",
+        "R0000439765",
+        "R0000439494-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -25534,7 +25617,8 @@
         "R-106139",
         "R-106032-1",
         "R-101327-1",
-        "R-105627"
+        "R-105627",
+        "R-105692-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
