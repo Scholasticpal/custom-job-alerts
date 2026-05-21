@@ -53,14 +53,20 @@ EXCLUDED_KEYWORDS = [
     "vp", 
     "head", 
     "president",
-    "lead"
+    "lead",
+    "iii",
+    "talent",
+    "Recruiter"
 ]
 
 def is_india(location_str):
-    """Ensures the job is located in an Indian tech hub."""
+    """Ensures the job is located in an Indian tech hub or is generically Remote."""
     if not location_str:
         return False
-    loc = location_str.lower()
+    
+    loc = location_str.lower().strip()
+    
+    # 1. Check for explicitly Indian locations and Indian Remote variations (Substring Match)
     indian_hubs = [
         "india",
         "ind",
@@ -81,20 +87,40 @@ def is_india(location_str):
         "madras",
         "kolkata",
         "ahmedabad",
-        "remote - in",
-        "remote-in",
         "del",
         "mum",
         "hyd",
         "chen",
         "kolk",
         "ahmd",
+        "remote - in",
+        "remote-in",
         "remote (india)",
         "remote (in)",
         "remote india",
-        "remote",
     ]
-    return any(hub in loc for hub in indian_hubs)
+    
+    if any(hub in loc for hub in indian_hubs):
+        return True
+        
+    # 2. Check for purely generic remote (Exact matches)
+    # By removing "remote" from the substring list above and putting it here,
+    # we prevent "Remote - US" or "Remote, Canada" from falsely triggering.
+    pure_remote_strings = [
+        "remote",
+        "remote/unspecified",
+        "remote / unspecified",
+        "fully remote",
+        "remote - global",
+        "remote (global)",
+        "anywhere",
+        "wfh",
+    ]
+    
+    if loc in pure_remote_strings:
+        return True
+        
+    return False
 
 TARGETS = [
     # Custom API
@@ -208,7 +234,6 @@ TARGETS = [
     {"name": "Franklin Templeton", "ats": "workday", "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1", "keywords": SWE_KEYWORDS},
     {"name": "Invesco", "ats": "workday", "url": "https://invesco.wd1.myworkdayjobs.com/IVZ", "keywords": SWE_KEYWORDS},
     {"name": "PayPal", "ats": "workday", "url": "https://paypal.wd1.myworkdayjobs.com/jobs", "keywords": SWE_KEYWORDS},
-    {"name": "PwC", "ats": "workday", "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers", "keywords": SWE_KEYWORDS},
     {"name": "Adobe", "ats": "workday", "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced", "keywords": SWE_KEYWORDS},
     {"name": "Workday", "ats": "workday", "url": "https://workday.wd5.myworkdayjobs.com/Workday", "keywords": SWE_KEYWORDS},
     {"name": "CrowdStrike", "ats": "workday", "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers", "keywords": SWE_KEYWORDS},
