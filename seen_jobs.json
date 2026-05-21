@@ -1017,7 +1017,8 @@
         "7947422",
         "7947510",
         "7930151",
-        "7947546"
+        "7947546",
+        "7915144"
     ],
     "Figma": [
         "5426468004",
@@ -5063,7 +5064,9 @@
         "8557780002",
         "8543937002",
         "8486165002",
-        "8548982002"
+        "8548982002",
+        "8559315002",
+        "8440917002"
     ],
     "Rubrik": [
         "7310036",
@@ -10251,7 +10254,8 @@
         "R-278376-1",
         "R-278137-1",
         "R-277371",
-        "R-278529-1"
+        "R-278529-1",
+        "R-265638"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -13090,7 +13094,12 @@
         "R342669-1",
         "R343226",
         "R343379",
-        "R341982"
+        "R341982",
+        "R343328",
+        "R342860",
+        "R318491",
+        "R343262",
+        "R340853"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14032,7 +14041,10 @@
         "R261477",
         "R264517",
         "R261611",
-        "R260803"
+        "R260803",
+        "R263763",
+        "R264552-1",
+        "R264467"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -14316,7 +14328,8 @@
         "Software-Engineer-II---India_33840-1",
         "Software-Engineer-I_34367-1",
         "Security-Engineer-III---Operations---India_34391-1",
-        "Staff-Network-Ops-Engineer_34018"
+        "Staff-Network-Ops-Engineer_34018",
+        "Desktop-Support-Engineer-I_34456"
     ],
     "FactSet": [
         "R32107-1",
@@ -15169,7 +15182,8 @@
         "R-10370078-1",
         "R-10394995-1",
         "R-10394991-1",
-        "R-10388992"
+        "R-10388992",
+        "R-10390965"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -15508,7 +15522,8 @@
         "R-13767",
         "R-13722",
         "R-14025-1",
-        "R-14153"
+        "R-14153",
+        "R-13396"
     ],
     "PayPal": [
         "R0135744-1",
@@ -17934,7 +17949,10 @@
         "IN-Senior-Associate-Oracle-APEX-Developer--OC---Oracle-AITH-Advisory-Noida_729970WD-1",
         "IN-Senior-Associate-Oracle-APEX-Developer--OC---Oracle-AITH-Advisory-Noida_729983WD-1",
         "Functional-Analyst_730824WD",
-        "Business-Application-Consulting---Salesforce-Consulting-Generalist---Senior-Associate---CS---G_708715WD-1"
+        "Business-Application-Consulting---Salesforce-Consulting-Generalist---Senior-Associate---CS---G_708715WD-1",
+        "Payroll---Associate_678968WD",
+        "OneStream-Consultant--Senior-Manager-_730852WD",
+        "Experienced-Associate---Tax-Compliance--CSG-MY-_730849WD"
     ],
     "BNY Mellon": [],
     "OpenAI": [],
@@ -19003,7 +19021,8 @@
         "7768983",
         "7863304",
         "7947049",
-        "7947591"
+        "7947591",
+        "7867308"
     ],
     "Notion": [],
     "Plaid": [],
@@ -20643,7 +20662,9 @@
         "7947504",
         "7947742",
         "7947732",
-        "7923520"
+        "7923520",
+        "7939294",
+        "7906615"
     ],
     "Elastic": [
         "7505982",
@@ -21675,7 +21696,10 @@
         "R-0107282",
         "R-0107284",
         "R-0107330",
-        "R-0105803-1"
+        "R-0105803-1",
+        "R-0107438",
+        "R-0106985",
+        "R-0107316"
     ],
     "CrowdStrike": [
         "R26911",
@@ -21994,7 +22018,10 @@
         "R28327",
         "R28791",
         "R27456",
-        "R28810"
+        "R28810",
+        "R28866",
+        "R28666",
+        "R28655-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -23310,7 +23337,12 @@
         "R2018493",
         "R2011805",
         "R2015648",
-        "R2011971"
+        "R2011971",
+        "R2018213",
+        "R2018096",
+        "R2018093",
+        "R2017926",
+        "R1997852-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -25183,7 +25215,8 @@
         "R19180",
         "R19178",
         "R19181-1",
-        "R18699-1"
+        "R18699-1",
+        "R19191-1"
     ],
     "Expedia": [
         "R-2_R-105040",
