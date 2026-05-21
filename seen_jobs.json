@@ -7369,7 +7369,8 @@
         "7918845",
         "7938645",
         "7926883",
-        "7942300"
+        "7942300",
+        "7951985"
     ],
     "Dropbox": [
         "7646405",
@@ -10830,7 +10831,8 @@
         "R-2516175",
         "R-2515318",
         "R-2507738",
-        "R-2321299"
+        "R-2321299",
+        "R-2518071"
     ],
     "Salesforce": [
         "R333354",
@@ -13229,7 +13231,17 @@
         "R342882",
         "R342807",
         "R342886",
-        "R342043"
+        "R342043",
+        "R342802",
+        "R342840",
+        "R342888",
+        "R342896-1",
+        "R342893",
+        "R342838",
+        "R342800",
+        "R342895-1",
+        "R342810",
+        "R342790"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13604,7 +13616,8 @@
         "Strategic-Client-General-Manager_J-79116",
         "Meeting-Planner_J-80274-1",
         "Enterprise-Sales-Manager_J-82127",
-        "Event-Planner_J-81046"
+        "Event-Planner_J-81046",
+        "Travel-Experience-Counselor-III_J-82118"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -14406,7 +14419,9 @@
         "R6547",
         "R6633",
         "R6296",
-        "R6677-1"
+        "R6677-1",
+        "R6660",
+        "R6678"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -15501,7 +15516,8 @@
         "Relationship-Associate---Custody_867866-1",
         "Senior-Retirement-Plan-Director_867752",
         "Research-Analyst_867937-2",
-        "Investment-Management-Oversight---Senior-Consultant_867905"
+        "Investment-Management-Oversight---Senior-Consultant_867905",
+        "Associate-Benefits-Consultant--HR-_867961-1"
     ],
     "Invesco": [
         "R-13647",
@@ -26686,7 +26702,11 @@
         "7386042",
         "7868172",
         "7347102",
-        "5868606"
+        "5868606",
+        "7349219",
+        "7558088",
+        "7356410",
+        "7922805"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -27350,7 +27370,8 @@
         "Consultant--Operations-Business-Integration_REF080775W",
         "Director--Software-Engineering-HR-Technology-_REF082097W",
         "Associate-SW-Engineer_REF081716W",
-        "Director--Global-Market-Operations_REF082542W"
+        "Director--Global-Market-Operations_REF082542W",
+        "Banking-Product-Director--US-Market-_REF078076W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -27444,7 +27465,13 @@
         "Production-Coordinator_10150574",
         "Senior-Machine-Learning-Engineer_10151720",
         "Analyst--Content-Planning---Analysis_10150516-1",
-        "Manager--FX-Risk-Management_10151201"
+        "Manager--FX-Risk-Management_10151201",
+        "Senior-Analyst--Tactical-Opportunities---Product_10151424",
+        "Security-Engineer---Security-Architecture-and-Engineering_10137015",
+        "Manager---Applied-AI_10150905",
+        "Manager---Global-Networking-Engineering---Telecom-Operations_10144149-2",
+        "Executive-Assistant--Drama-Development--ABC-_10151322",
+        "Senior-Front-Office-Manager_10150262"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -27486,7 +27513,8 @@
         "R000105611",
         "R000105406",
         "R000103112",
-        "R000105656"
+        "R000105656",
+        "R000105528"
     ],
     "Kyndryl": [
         "R-61530",
