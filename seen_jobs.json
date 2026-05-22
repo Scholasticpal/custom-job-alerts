@@ -1034,7 +1034,8 @@
         "7947074",
         "7912407",
         "7953691",
-        "7938661"
+        "7938661",
+        "7940059"
     ],
     "Figma": [
         "5426468004",
@@ -1608,7 +1609,12 @@
         "10426400",
         "10427781",
         "10427785",
-        "10427943"
+        "10427943",
+        "10428414",
+        "10428417",
+        "10428411",
+        "10428413",
+        "10428410"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -10420,7 +10426,9 @@
         "R-278728",
         "R-275063",
         "R-278566-1",
-        "R-278612"
+        "R-278612",
+        "R-278462",
+        "R-278461"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -13330,7 +13338,11 @@
         "R343059-1",
         "R343623",
         "R342878",
-        "R343618"
+        "R343618",
+        "R341055-1",
+        "R343243-1",
+        "R341916",
+        "R343065-2"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14342,7 +14354,10 @@
         "R264018",
         "R263964",
         "R264505",
-        "R257243"
+        "R257243",
+        "R264503",
+        "R264571-1",
+        "R264504"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -14554,7 +14569,8 @@
         "R6678",
         "R6137",
         "R6675-1",
-        "R6646"
+        "R6646",
+        "R6664"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -14712,7 +14728,10 @@
         "R32257",
         "R-2026-_R29707",
         "R-2026-_R29715",
-        "R32254"
+        "R32254",
+        "R29414",
+        "R32291",
+        "R32299"
     ],
     "Fiserv": [
         "R-10392824",
@@ -15538,7 +15557,10 @@
         "R-10395176",
         "R-10395179-1",
         "R-10377044",
-        "R-10392785"
+        "R-10392785",
+        "R-10377164",
+        "R-10394864",
+        "R-10387069"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -15682,7 +15704,8 @@
         "Director-Investment-Operations_867972",
         "Investment-Risk-Analyst_867995",
         "Apera---Finance-Analyst_867405",
-        "Investor-Relations-Roadshow-Coordinator_867721"
+        "Investor-Relations-Roadshow-Coordinator_867721",
+        "Relationship-Associate_867058"
     ],
     "Invesco": [
         "R-13647",
@@ -19446,7 +19469,8 @@
         "7950532",
         "7950535",
         "7895468",
-        "7954001"
+        "7954001",
+        "7954598"
     ],
     "Notion": [],
     "Plaid": [],
@@ -22184,7 +22208,8 @@
         "R-0107171",
         "R-0107308",
         "R-0107127",
-        "R-0102191"
+        "R-0102191",
+        "R-0106921"
     ],
     "CrowdStrike": [
         "R26911",
@@ -23899,7 +23924,17 @@
         "R2011757",
         "R2014017",
         "R2018084",
-        "R2018477"
+        "R2018477",
+        "R2018074",
+        "R2018426",
+        "R2018594",
+        "R2017807",
+        "R2018189",
+        "R2018641",
+        "R2017195-1",
+        "R2015529",
+        "R2018622",
+        "R2012266"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -23995,7 +24030,9 @@
         "Software-Engineering-Technical-Leader--Backend-Data-Engineer_2005167",
         "ASIC-Physical-Design-Engineer_2011519",
         "Software-Engineer---Hardware-Diagnostics-_2007387",
-        "Software-Engineer--Simulation-_2007048"
+        "Software-Engineer--Simulation-_2007048",
+        "Security-Research-Engineering-Technical-Leader_2012857-1",
+        "Lead-Design-Researcher_2014070"
     ],
     "Intel": [
         "R0283052",
@@ -25711,7 +25748,9 @@
         "R0000440096",
         "R0000439821",
         "R0000438798",
-        "R0000439855"
+        "R0000439855",
+        "R0000439816",
+        "R0000439854"
     ],
     "Zoom": [
         "R18188-1",
@@ -26526,7 +26565,8 @@
         "4633072005",
         "4691908005",
         "4663997005",
-        "4623913005"
+        "4623913005",
+        "4481921005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -27492,7 +27532,11 @@
         "7678170",
         "7678359",
         "7853059",
-        "7874642"
+        "7874642",
+        "7947231",
+        "7920962",
+        "7901910",
+        "7920960"
     ],
     "Twitch": [
         "8334413002",
@@ -27668,7 +27712,9 @@
         "R34827",
         "R34143",
         "R34109",
-        "R34642"
+        "R34642",
+        "R34900-1",
+        "R34901"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -27748,7 +27794,13 @@
         "Sr-Finance-Analyst--Finance-Operations_REF082156W",
         "Consultant--Client-Success_REF081722W",
         "VIS-Delivery---Business-Analyst_REF082094W-1",
-        "Sr-SW-Engineer_REF079257W"
+        "Sr-SW-Engineer_REF079257W",
+        "Senior-Data-Engineer_REF081492W",
+        "Software-Engineer--New-College-Grad---2026--Austin_REF082567W-1",
+        "Software-Engineer--New-College-Grad---2026--Foster-City_REF082568W-1",
+        "Sr-Contracts-Manager_REF082545W",
+        "Manager--Product-Decision-Analytics_REF082207W",
+        "Work-Force-Planning-Consultant_REF080048W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -27806,7 +27858,8 @@
         "Software-QA-Engineer---Civil-Engineer---Civil3D_26WD98583-1",
         "Sr-Finance-Business-Partner--Tech-Advisory-_26WD98354-1",
         "Senior-Accounts-Receivable-Accountant_26WD98452-1",
-        "Vendor-Services-Manager_26WD98502-1"
+        "Vendor-Services-Manager_26WD98502-1",
+        "Experience-Architect--Transportation--Canada---Remote-_26WD94765-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -27888,7 +27941,19 @@
         "Lead-Counsel_10151125",
         "Product-Owner-IT-F-H-NB---CDD_10150805",
         "International-Casting-Intern--Fall-2026_10151454-2",
-        "Sr-Software-Engineer_10150849"
+        "Sr-Software-Engineer_10150849",
+        "Paralegal_10150103",
+        "CDD---Responsable-Studio-Marketing-H-F_10150800",
+        "Alternance---Assistant-e--de-projets-Rhabilitation-et-Innovation--F-H-NB-_10149781",
+        "Recurring---Remote-Part-Time-Production-Support---Editor_10150920",
+        "Senior-Safety-Professional_10150742-1",
+        "Alternance---Assistant-e--de-Projet-Htel_10148990",
+        "Operations-Training-Manager_10151234-1",
+        "Sr-Product-Software-Engineer_10151328-2",
+        "Security-Officer_10149392-1",
+        "Sr-Executive-Assistant---Corporate-Strategy-and-Investor-Relations_10146689",
+        "Software-Engineer-II---Data-Ingestion---Data-Store_10141160-1",
+        "Senior-Effects-Technical-Director---Expression-of-Interest_10140733-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -27941,7 +28006,8 @@
         "R000105707",
         "R000105774-1",
         "R000105159",
-        "R000105698"
+        "R000105698",
+        "R000105693"
     ],
     "Kyndryl": [
         "R-61530",
