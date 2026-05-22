@@ -10433,7 +10433,9 @@
         "R-278461",
         "R-277730-1",
         "R-277554",
-        "R-276834-1"
+        "R-276834-1",
+        "R-278940",
+        "R-278936"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -13349,7 +13351,11 @@
         "R341916",
         "R343065-2",
         "R342582",
-        "R343474-1"
+        "R343474-1",
+        "R343654-1",
+        "R329338",
+        "R328814-1",
+        "R341682"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14366,7 +14372,8 @@
         "R264503",
         "R264571-1",
         "R264504",
-        "R264406"
+        "R264406",
+        "R261658"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -18992,7 +18999,8 @@
         "5184585008",
         "5221914008",
         "5226954008",
-        "5117296008"
+        "5117296008",
+        "5223093008"
     ],
     "Coinbase": [
         "7559052",
@@ -19488,7 +19496,10 @@
         "7950535",
         "7895468",
         "7954001",
-        "7954598"
+        "7954598",
+        "7954950",
+        "7954949",
+        "7954945"
     ],
     "Notion": [],
     "Plaid": [],
@@ -21165,7 +21176,9 @@
         "7948503",
         "7948505",
         "7930201",
-        "7950433"
+        "7950433",
+        "7943824",
+        "7954958"
     ],
     "Elastic": [
         "7505982",
@@ -21636,7 +21649,10 @@
         "7170100",
         "7776312",
         "7392983",
-        "7918056"
+        "7918056",
+        "7955044",
+        "7923274",
+        "7955041"
     ],
     "Coursera": [
         "5839408004",
@@ -21660,7 +21676,8 @@
         "5989213004",
         "5997449004",
         "5995544004",
-        "4194757004"
+        "4194757004",
+        "6002760004"
     ],
     "Udemy": [
         "5424719004",
@@ -22575,7 +22592,10 @@
         "R28825",
         "R28824",
         "R28852",
-        "R25288"
+        "R25288",
+        "R26450",
+        "R27449",
+        "R28860"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -23962,7 +23982,11 @@
         "R2013295",
         "R2018686",
         "R2013354",
-        "R2018385"
+        "R2018385",
+        "R2018580",
+        "R2013607",
+        "R2018584-1",
+        "R2017899"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -25786,7 +25810,8 @@
         "R0000439814",
         "R0000440122-1",
         "R0000439216-1",
-        "R0000440053"
+        "R0000440053",
+        "R0000440147"
     ],
     "Zoom": [
         "R18188-1",
@@ -27579,7 +27604,8 @@
         "7920962",
         "7901910",
         "7920960",
-        "7902034"
+        "7902034",
+        "7919043"
     ],
     "Twitch": [
         "8334413002",
@@ -27643,7 +27669,8 @@
         "8419220002",
         "8507116002",
         "8559215002",
-        "8561592002"
+        "8561592002",
+        "8527485002"
     ],
     "Yelp": [],
     "Jupiter Money": [],
@@ -27757,7 +27784,8 @@
         "R34109",
         "R34642",
         "R34900-1",
-        "R34901"
+        "R34901",
+        "R34904"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -27849,7 +27877,8 @@
         "Sr-Product-Manager_REF080441W",
         "Consultant--Client-Success--Merchant-Experience-_REF082286W",
         "Senior-Director--Corporate-FP-A_REF082209W",
-        "Analyst--Applied-AI-Solutions_REF080785W"
+        "Analyst--Applied-AI-Solutions_REF080785W",
+        "Director--Commercial-Sales-Executive_REF079661W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -27911,7 +27940,9 @@
         "Experience-Architect--Transportation--Canada---Remote-_26WD94765-1",
         "Senior-Experience-Designer--Platform-Data--US--Remote-_26WD98396-1",
         "User-Experience-Designer--Platform-Data--Canada--Remote-_26WD98406-2",
-        "Software-Engineer_26WD98019-1"
+        "Software-Engineer_26WD98019-1",
+        "Senior-Customer-Support-Associate_26WD97997",
+        "Senior-Customer-Support-Associate_26WD97996"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -28014,7 +28045,9 @@
         "ABC-News-Talent-Strategy---Development-Intern--Fall-2026_10149591-1",
         "Technical-Designer--Project-Hire-Internal-Assignment-_10149855",
         "Recurring-Remote-Makeup-Artist_10151785",
-        "Senior-Safety-Professional--Project-Hire-Internal-Assignment-_10152324-2"
+        "Senior-Safety-Professional--Project-Hire-Internal-Assignment-_10152324-2",
+        "Senior-Software-Engineer_10145076",
+        "Employee-Relations-Coordinator_10151123"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -28070,7 +28103,8 @@
         "R000105698",
         "R000105693",
         "R000103145",
-        "R000104294"
+        "R000104294",
+        "R000105807"
     ],
     "Kyndryl": [
         "R-61530",
@@ -28146,6 +28180,7 @@
         "R-58639-1",
         "R-61886",
         "R-51714-1",
-        "R-62088"
+        "R-62088",
+        "R-61845"
     ]
 }
