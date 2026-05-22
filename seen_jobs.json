@@ -1028,7 +1028,9 @@
         "7863509",
         "7951146",
         "7942736",
-        "7918088"
+        "7918088",
+        "7926587",
+        "7926966"
     ],
     "Figma": [
         "5426468004",
@@ -5115,7 +5117,8 @@
         "8560401002",
         "8551533002",
         "8560407002",
-        "8560319002"
+        "8560319002",
+        "8559342002"
     ],
     "Rubrik": [
         "7310036",
@@ -10348,7 +10351,9 @@
         "R-278671",
         "R-271952",
         "R-278840",
-        "R-278838"
+        "R-278838",
+        "R-275498",
+        "R-275499"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -13617,7 +13622,9 @@
         "Meeting-Planner_J-80274-1",
         "Enterprise-Sales-Manager_J-82127",
         "Event-Planner_J-81046",
-        "Travel-Experience-Counselor-III_J-82118"
+        "Travel-Experience-Counselor-III_J-82118",
+        "Travel-Consultant-II_J-82605",
+        "Travel-Consultant-II-DC_J-82604"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -14421,7 +14428,8 @@
         "R6296",
         "R6677-1",
         "R6660",
-        "R6678"
+        "R6678",
+        "R6137"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -19273,7 +19281,8 @@
         "7950520",
         "7950533",
         "7950532",
-        "7950535"
+        "7950535",
+        "7895468"
     ],
     "Notion": [],
     "Plaid": [],
@@ -19723,7 +19732,8 @@
         "7943216",
         "7804654",
         "7264931",
-        "7940165"
+        "7940165",
+        "7918258"
     ],
     "Vercel": [
         "5624231004",
@@ -22323,7 +22333,8 @@
         "R28640-1",
         "R27569",
         "R28851",
-        "R27913"
+        "R27913",
+        "R26880-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -23659,7 +23670,17 @@
         "R2018490",
         "R2018317",
         "R2014462",
-        "R2018628"
+        "R2018628",
+        "R2014051",
+        "R2010884",
+        "R2018491",
+        "R2012765",
+        "R2018465",
+        "R2018246",
+        "R2018071",
+        "R2018617",
+        "R2017652",
+        "R2018386"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -25432,7 +25453,15 @@
         "R0000436364",
         "R0000439860-1",
         "R0000439684",
-        "R0000439968"
+        "R0000439968",
+        "R0000440048",
+        "R0000432580",
+        "R0000438938",
+        "R0000439121",
+        "R0000440030",
+        "R0000440032",
+        "R-2026---REGIONAL-DISTRIBUTION-CENTER--PUEBLO--CO_R0000440031",
+        "R0000439838-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -26364,7 +26393,8 @@
         "7457660",
         "7839017",
         "7457662",
-        "7740024"
+        "7740024",
+        "7946991"
     ],
     "Samsara": [
         "5747183",
@@ -27371,7 +27401,8 @@
         "Director--Software-Engineering-HR-Technology-_REF082097W",
         "Associate-SW-Engineer_REF081716W",
         "Director--Global-Market-Operations_REF082542W",
-        "Banking-Product-Director--US-Market-_REF078076W"
+        "Banking-Product-Director--US-Market-_REF078076W",
+        "Senior-Software-Engineer-Bigdata---Hadoop-Engineer-with-Development-experience_REF081788W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -27410,7 +27441,10 @@
         "Senior-Experience-Designer--Montreal-_26WD98373",
         "Emerging-Solutions-Sales-Specialist_26WD96968",
         "Senior-Software-Developer_26WD95723-1",
-        "Cross-Functional-Internal-Comms-Business-Partner_26WD98340-1"
+        "Cross-Functional-Internal-Comms-Business-Partner_26WD98340-1",
+        "Data-Analytics_26WD98530-1",
+        "Principal-Trust-Governance-Lead_26WD97909-1",
+        "Senior-Manager--Software-Development_26WD98474-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -27471,7 +27505,11 @@
         "Manager---Applied-AI_10150905",
         "Manager---Global-Networking-Engineering---Telecom-Operations_10144149-2",
         "Executive-Assistant--Drama-Development--ABC-_10151322",
-        "Senior-Front-Office-Manager_10150262"
+        "Senior-Front-Office-Manager_10150262",
+        "Sr-Product-Mgr-II_10150028",
+        "Executive-Assistant--Casting--Disney-Entertainment-Television-_10151124-1",
+        "Coordinator--Digital-Marketing--FX-_10150970",
+        "Sr-Sourcing-Specialist--Marketing-and-Graphic-Communications_10151276"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
