@@ -7023,7 +7023,9 @@
         "7949759",
         "7950009",
         "7950022",
-        "7950007"
+        "7950007",
+        "7946184",
+        "7949833"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -10353,7 +10355,9 @@
         "R-278840",
         "R-278838",
         "R-275498",
-        "R-275499"
+        "R-275499",
+        "R-277421",
+        "R-278754"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -13624,7 +13628,8 @@
         "Event-Planner_J-81046",
         "Travel-Experience-Counselor-III_J-82118",
         "Travel-Consultant-II_J-82605",
-        "Travel-Consultant-II-DC_J-82604"
+        "Travel-Consultant-II-DC_J-82604",
+        "Data-Analytics---Insights-Intern_J-82280"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -13692,7 +13697,8 @@
         "Officer--Markets-Support-Analyst--Client-Data-Services---Japan--Global-Markets-Operations_26017574",
         "Vice-President--Application-Support---Engineering--Market-Risk-Technology--Sydney--Australia_26017356",
         "Vice-President--Site-Reliability-Engineer-Lead--Application-Production-Services---Engineering_26017742-2",
-        "Associate--ECM--Global-Capital-Markets--Hong-Kong_26003575"
+        "Associate--ECM--Global-Capital-Markets--Hong-Kong_26003575",
+        "Assistant-Vice-President-Vice-President--Senior-Business-Control-Specialist---Technology--ITGPST_26017901"
     ],
     "BlackRock": [
         "R263666",
@@ -14220,7 +14226,9 @@
         "R264329",
         "R264557-1",
         "R264172",
-        "R264477"
+        "R264477",
+        "R264508-1",
+        "R264301"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -16043,7 +16051,8 @@
         "R0136797",
         "R0135018-1",
         "R0136383-1",
-        "R0136649-1"
+        "R0136649-1",
+        "R0136756-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -20938,7 +20947,10 @@
         "7921854",
         "7950090",
         "7927096",
-        "7947683"
+        "7947683",
+        "7948501",
+        "7948503",
+        "7948505"
     ],
     "Elastic": [
         "7505982",
@@ -21219,7 +21231,9 @@
         "7940246",
         "7950454",
         "7950453",
-        "7831592"
+        "7831592",
+        "7952164",
+        "7843350"
     ],
     "Asana": [
         "7120496",
@@ -25461,7 +25475,10 @@
         "R0000440030",
         "R0000440032",
         "R-2026---REGIONAL-DISTRIBUTION-CENTER--PUEBLO--CO_R0000440031",
-        "R0000439838-1"
+        "R0000439838-1",
+        "R0000440063",
+        "R0000440060",
+        "R0000439733"
     ],
     "Zoom": [
         "R18188-1",
@@ -25954,7 +25971,10 @@
         "R-106002-1",
         "R-106160-1",
         "R-105524",
-        "R-104200-1"
+        "R-104200-1",
+        "R-106365",
+        "R-105902",
+        "R-105809"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -26031,7 +26051,8 @@
         "Principal-Program-Manager---CCaaS---SaaS--Account-Based-_113104-JOB",
         "Security-GRC-Lead_113100-JOB",
         "Sales-Development-Representative_112034-JOB",
-        "Senior-Salesforce-Developer_113101-JOB-1"
+        "Senior-Salesforce-Developer_113101-JOB-1",
+        "Indirect-Procurement-Administrator_113112-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -26079,7 +26100,8 @@
         "8442397002",
         "8124953002",
         "8400373002",
-        "8397618002"
+        "8397618002",
+        "8551939002"
     ],
     "Scale AI": [
         "4654510005",
@@ -27214,7 +27236,8 @@
         "7494562",
         "7774042",
         "7562128",
-        "7494921"
+        "7494921",
+        "7946155"
     ],
     "Twitch": [
         "8334413002",
@@ -27271,7 +27294,14 @@
         "8458009002",
         "8458011002",
         "8456283002",
-        "8327905002"
+        "8327905002",
+        "8561629002",
+        "8561321002",
+        "8561628002",
+        "8419220002",
+        "8507116002",
+        "8559215002",
+        "8561592002"
     ],
     "Yelp": [],
     "Jupiter Money": [],
@@ -27356,7 +27386,8 @@
         "R34150",
         "R34451-1",
         "R34786",
-        "R34041"
+        "R34041",
+        "R34854"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -27402,7 +27433,9 @@
         "Associate-SW-Engineer_REF081716W",
         "Director--Global-Market-Operations_REF082542W",
         "Banking-Product-Director--US-Market-_REF078076W",
-        "Senior-Software-Engineer-Bigdata---Hadoop-Engineer-with-Development-experience_REF081788W"
+        "Senior-Software-Engineer-Bigdata---Hadoop-Engineer-with-Development-experience_REF081788W",
+        "Sr-Director_REF082166W",
+        "Analyst--Account-Executive_REF082352W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -27509,7 +27542,9 @@
         "Sr-Product-Mgr-II_10150028",
         "Executive-Assistant--Casting--Disney-Entertainment-Television-_10151124-1",
         "Coordinator--Digital-Marketing--FX-_10150970",
-        "Sr-Sourcing-Specialist--Marketing-and-Graphic-Communications_10151276"
+        "Sr-Sourcing-Specialist--Marketing-and-Graphic-Communications_10151276",
+        "Associate-Manager--Business-Partner--People---Culture_10151497",
+        "Operating-Participants-Project-Manager_10151156-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -27552,7 +27587,9 @@
         "R000105406",
         "R000103112",
         "R000105656",
-        "R000105528"
+        "R000105528",
+        "R000105716",
+        "R000105247-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -27578,6 +27615,25 @@
         "R-61540",
         "R-61874",
         "R-61888-1",
-        "R-61432"
+        "R-61432",
+        "R-59588-1",
+        "R-60883",
+        "R-60793",
+        "R-58513",
+        "R-61818",
+        "R-61819",
+        "R-61473",
+        "R-61762",
+        "R-61483",
+        "R-61486-1",
+        "R-61816-1",
+        "R-59606",
+        "R-59607",
+        "R-54617",
+        "R-53476",
+        "R-59603",
+        "R-59605",
+        "R-61125-1",
+        "R-59462-2"
     ]
 }
