@@ -7448,7 +7448,8 @@
         "7926883",
         "7942300",
         "7951985",
-        "7939096"
+        "7939096",
+        "7946608"
     ],
     "Dropbox": [
         "7646405",
@@ -10475,7 +10476,10 @@
         "R-275100",
         "R-278648-1",
         "R-277622",
-        "R-269386"
+        "R-269386",
+        "R-271676",
+        "R-265963",
+        "R-278444"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10966,7 +10970,9 @@
         "R-2519871",
         "R-2520830",
         "R-2520940",
-        "R-2520616"
+        "R-2520616",
+        "R-2521387",
+        "R-2520194-1"
     ],
     "Salesforce": [
         "R333354",
@@ -13417,7 +13423,9 @@
         "R335794-1",
         "R335793-1",
         "R338751-1",
-        "R343702"
+        "R343702",
+        "R343726",
+        "R343722"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13808,7 +13816,8 @@
         "Senior-Meeting-Planner_J-82027",
         "Senior-Travel-Consultant_J-82057",
         "German-Speaking-Recruiter_J-79781",
-        "Meeting-Planner_J-79469"
+        "Meeting-Planner_J-79469",
+        "Specialized-Travel-Counselor--Galileo-GDS_J-82637"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -15660,7 +15669,8 @@
         "R-10395200",
         "R-10395199",
         "R-10392775",
-        "R-10382342"
+        "R-10382342",
+        "R-10370183-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -16343,7 +16353,8 @@
         "R0134124-1",
         "R0134125-1",
         "R0136776-1",
-        "R0136746-1"
+        "R0136746-1",
+        "R0134041-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -19595,7 +19606,8 @@
         "7954598",
         "7954950",
         "7954949",
-        "7954945"
+        "7954945",
+        "7956443"
     ],
     "Notion": [],
     "Plaid": [],
@@ -19840,7 +19852,9 @@
         "7732706003",
         "7740654003",
         "7730666003",
-        "7730664003"
+        "7730664003",
+        "7719651003",
+        "7719653003"
     ],
     "Robinhood": [
         "7799902",
@@ -21563,7 +21577,8 @@
         "7831592",
         "7952164",
         "7843350",
-        "6450040"
+        "6450040",
+        "7956403"
     ],
     "Asana": [
         "7120496",
@@ -24122,7 +24137,8 @@
         "R2004601",
         "R2012644-1",
         "R2018568",
-        "R2015699"
+        "R2015699",
+        "R2018279"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -25988,7 +26004,13 @@
         "R0000440108",
         "R0000440120",
         "R0000431237",
-        "R0000434324"
+        "R0000434324",
+        "R0000440150",
+        "R0000440148",
+        "R0000435820",
+        "R0000440151",
+        "R0000440146",
+        "R0000440143"
     ],
     "Zoom": [
         "R18188-1",
@@ -28093,7 +28115,8 @@
         "SW-Engineer_REF082368W",
         "Staff-SW-Engineer-Java-and-GenAI_REF078433W-1",
         "Event-Operations-Specialist_REF082392W",
-        "Country-Manager-Mauritius_REF082557W"
+        "Country-Manager-Mauritius_REF082557W",
+        "Product-Manager--Agentic-Solutioning_REF080431W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -28346,7 +28369,8 @@
         "R000104200",
         "R000104025",
         "R000105259",
-        "R000105762"
+        "R000105762",
+        "R000105221"
     ],
     "Kyndryl": [
         "R-61530",
@@ -28452,6 +28476,7 @@
         "R-58106",
         "R-62013",
         "R-62012",
-        "R-62014"
+        "R-62014",
+        "R-62083-1"
     ]
 }
