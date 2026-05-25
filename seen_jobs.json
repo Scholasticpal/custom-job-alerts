@@ -1040,7 +1040,8 @@
         "7858716",
         "7946230",
         "7941890",
-        "7717676"
+        "7717676",
+        "7953511"
     ],
     "Figma": [
         "5426468004",
@@ -5174,7 +5175,8 @@
         "8450157002",
         "8417673002",
         "8554477002",
-        "8554463002"
+        "8554463002",
+        "8516307002"
     ],
     "Rubrik": [
         "7310036",
@@ -7086,7 +7088,9 @@
         "7953533",
         "7953529",
         "7953528",
-        "7938190"
+        "7938190",
+        "7955976",
+        "7953600"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -7822,7 +7826,8 @@
         "3a60c7e0-bf65-4695-bddc-9f21e68d235d",
         "eb8442a3-3fc5-401c-b67c-36cd7edd4e64",
         "22c4a7a0-43be-439e-9473-2f8074b3e8d5",
-        "faa58bae-97ec-48f4-bb92-e19c9a9ce89a"
+        "faa58bae-97ec-48f4-bb92-e19c9a9ce89a",
+        "814d0728-bb6f-49ac-8ef2-0801366f10b2"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -10447,7 +10452,11 @@
         "R-276834-1",
         "R-278940",
         "R-278936",
-        "R-278400"
+        "R-278400",
+        "R-278704",
+        "R-278759",
+        "R-278591",
+        "R-278401-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -10936,7 +10945,8 @@
         "R-2519540",
         "R-2520271",
         "R-2519871",
-        "R-2520830"
+        "R-2520830",
+        "R-2520940"
     ],
     "Salesforce": [
         "R333354",
@@ -13379,7 +13389,8 @@
         "R342269",
         "R343449",
         "R342912-1",
-        "R343107"
+        "R343107",
+        "R343113"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13844,7 +13855,8 @@
         "Assistant-Vice-President--Vice-President--Software-Engineer--Global-Markets-Technology_26017917",
         "Managing-Director--Head-of-Large-Corporate-Treasury-Sales--Global-Payments-Solutions-Japan_26017915",
         "Officer--Markets-Support-Analyst--Global-Markets-Operations_26017759",
-        "Officer--Markets-Support-Analyst--Japan--Global-Markets-Operations_26017785"
+        "Officer--Markets-Support-Analyst--Japan--Global-Markets-Operations_26017785",
+        "Vice-President---Senior-Operations-Consultant---Insurance-Reviews---Global-Credit-Operations_26017575-1"
     ],
     "BlackRock": [
         "R263666",
@@ -14399,7 +14411,8 @@
         "R264504",
         "R264406",
         "R261658",
-        "R264398"
+        "R264398",
+        "R260090"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -22284,7 +22297,8 @@
         "R-0107308",
         "R-0107127",
         "R-0102191",
-        "R-0106921"
+        "R-0106921",
+        "R-0104817"
     ],
     "CrowdStrike": [
         "R26911",
@@ -24030,7 +24044,18 @@
         "R2012608",
         "R2010144",
         "R2015046",
-        "R2016506"
+        "R2016506",
+        "R2014610",
+        "R2018679",
+        "R2018333",
+        "R2018651",
+        "R2018642",
+        "R2018427",
+        "R2018133",
+        "R2018606",
+        "R2018629",
+        "R2018610",
+        "R2017903"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -24128,7 +24153,8 @@
         "Software-Engineer---Hardware-Diagnostics-_2007387",
         "Software-Engineer--Simulation-_2007048",
         "Security-Research-Engineering-Technical-Leader_2012857-1",
-        "Lead-Design-Researcher_2014070"
+        "Lead-Design-Researcher_2014070",
+        "Software-Engineering-Technical-Leader_2010516"
     ],
     "Intel": [
         "R0283052",
@@ -25858,7 +25884,21 @@
         "R0000440147",
         "R0000433577",
         "R0000440142",
-        "R0000439884"
+        "R0000439884",
+        "R0000440089",
+        "R0000440099",
+        "R0000440149",
+        "R0000440159",
+        "R0000440129",
+        "R0000440189",
+        "R0000440199",
+        "R0000440165",
+        "R0000440155-1",
+        "R0000440115",
+        "R0000440175",
+        "R0000440185",
+        "R0000440195-1",
+        "R0000439932"
     ],
     "Zoom": [
         "R18188-1",
@@ -26367,7 +26407,9 @@
         "R-105570",
         "R-102785-1",
         "R-104624",
-        "R-106237-1"
+        "R-106237-1",
+        "R-106088",
+        "R-100714"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -26815,7 +26857,8 @@
         "7946991",
         "7950415",
         "7709569",
-        "7842974"
+        "7842974",
+        "7861713"
     ],
     "Samsara": [
         "5747183",
@@ -27936,7 +27979,15 @@
         "Staff-Software-Engineer_REF079312W",
         "Senior-Director--Head-of-Pricing_REF078468W",
         "Senior-Manager--B2B-Agentic-Commerce-Partnerships_REF080209W",
-        "Senior-Manager--External-Data-Products_REF079643W"
+        "Senior-Manager--External-Data-Products_REF079643W",
+        "Software-Engineer---Senior-Consultant-level_REF080698W",
+        "Senior-Consultant---Software-Engineer_REF078078W",
+        "Marketing-Manager--Vietnam---Laos_REF078349W",
+        "Sr-Software-Engineer_REF082485W-1",
+        "Regional-Onboarding-Operations-Manager--AP-CEMEA-_REF081038W",
+        "Manager--Sales-Enablement---RFP--Pismo_REF081575W-1",
+        "Sr-Client-Consulting-Manager_REF081864W-1",
+        "Risk-Management_REF082562W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -28116,7 +28167,10 @@
         "Alternance---Assistante-Digital-Marketing-Content--F-H-_10148350",
         "Alternance---Assistante-Mdia-Digital--F-H-_10148349",
         "Campaign-Executive--Marvel_10152354",
-        "Lead-Software-Engineer_10149370"
+        "Lead-Software-Engineer_10149370",
+        "Generalist-Artist-Mid-Senior--DMP-Specialized-_10152359",
+        "Lighting-Technical-Director--Mid---Senior-_10152358",
+        "Intern--Brand---Content-Marketing--Disney--Hotstar---Jun-to-Dec-2026_10144277-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -28173,7 +28227,8 @@
         "R000105693",
         "R000103145",
         "R000104294",
-        "R000105807"
+        "R000105807",
+        "R000105132"
     ],
     "Kyndryl": [
         "R-61530",
@@ -28254,6 +28309,18 @@
         "R-60797",
         "R-61077",
         "R-61601",
-        "R-61258"
+        "R-61258",
+        "R-62082",
+        "R-61290-1",
+        "R-61291-1",
+        "R-61296-1",
+        "R-61286-1",
+        "R-61287-1",
+        "R-61289-1",
+        "R-61292-1",
+        "R-61294-1",
+        "R-61288-1",
+        "R-61295-1",
+        "R-61934"
     ]
 }
