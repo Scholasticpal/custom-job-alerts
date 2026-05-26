@@ -1980,7 +1980,8 @@
         "4696862005",
         "4696281005",
         "4684256005",
-        "4698731005"
+        "4698731005",
+        "4694070005"
     ],
     "Rippling": [],
     "Slice": [
@@ -3689,7 +3690,8 @@
         "7926614",
         "7947456",
         "7955573",
-        "7955579"
+        "7955579",
+        "7956004"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -10979,7 +10981,8 @@
         "R-2520194-1",
         "R-2521471",
         "R-2521315",
-        "R-2521289"
+        "R-2521289",
+        "R-2521898"
     ],
     "Salesforce": [
         "R333354",
@@ -13433,7 +13436,12 @@
         "R343702",
         "R343726",
         "R343722",
-        "R343136"
+        "R343136",
+        "R343743",
+        "R323416-1",
+        "R343109",
+        "R343742",
+        "R341936"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -13905,7 +13913,8 @@
         "Officer--Markets-Support-Analyst--Global-Markets-Operations_26017759",
         "Officer--Markets-Support-Analyst--Japan--Global-Markets-Operations_26017785",
         "Vice-President---Senior-Operations-Consultant---Insurance-Reviews---Global-Credit-Operations_26017575-1",
-        "Associate--Investment-Banker--TMT-coverage---Japan-IBK_26017741"
+        "Associate--Investment-Banker--TMT-coverage---Japan-IBK_26017741",
+        "Vice-President--Senior-Trade-Voice-Engineer--Employee-Experience-Technology_26018107-1"
     ],
     "BlackRock": [
         "R263666",
@@ -15679,7 +15688,8 @@
         "R-10392775",
         "R-10382342",
         "R-10370183-1",
-        "R-10370934"
+        "R-10370934",
+        "R-10383086"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -16050,7 +16060,8 @@
         "R-13360",
         "R-13553-1",
         "R-13713",
-        "R-9713-1"
+        "R-9713-1",
+        "R-13838"
     ],
     "PayPal": [
         "R0135744-1",
@@ -22383,7 +22394,8 @@
         "R-0106921",
         "R-0104817",
         "R-0107147",
-        "R-0101654"
+        "R-0101654",
+        "R-0105405"
     ],
     "CrowdStrike": [
         "R26911",
@@ -22733,7 +22745,10 @@
         "R28860",
         "R27234",
         "R28205-1",
-        "R27564"
+        "R27564",
+        "R28846",
+        "R28833-1",
+        "R28867"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -24148,7 +24163,12 @@
         "R2012644-1",
         "R2018568",
         "R2015699",
-        "R2018279"
+        "R2018279",
+        "R2017617",
+        "R2018013",
+        "R2018613",
+        "R2017969",
+        "R2001755-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -26535,7 +26555,8 @@
         "R-106237-1",
         "R-106088",
         "R-100714",
-        "R-103121-1"
+        "R-103121-1",
+        "R-105501"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -28131,7 +28152,8 @@
         "Staff-SW-Engineer-Java-and-GenAI_REF078433W-1",
         "Event-Operations-Specialist_REF082392W",
         "Country-Manager-Mauritius_REF082557W",
-        "Product-Manager--Agentic-Solutioning_REF080431W"
+        "Product-Manager--Agentic-Solutioning_REF080431W",
+        "Senior-Manager---GTM---Commercialization_REF080369W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -28322,7 +28344,8 @@
         "Generalist-Artist-Mid-Senior--DMP-Specialized-_10152359",
         "Lighting-Technical-Director--Mid---Senior-_10152358",
         "Intern--Brand---Content-Marketing--Disney--Hotstar---Jun-to-Dec-2026_10144277-1",
-        "CG-Supervisor_10146744-1"
+        "CG-Supervisor_10146744-1",
+        "Supervisor--Marketing-Sports_10150226"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -28389,7 +28412,8 @@
         "R000105221",
         "R000105654",
         "R000105400",
-        "R000105401"
+        "R000105401",
+        "R000105626"
     ],
     "Kyndryl": [
         "R-61530",
@@ -28500,6 +28524,9 @@
         "R-61161",
         "R-62614-1",
         "R-62613",
-        "R-62615"
+        "R-62615",
+        "R-61581",
+        "R-60922-1",
+        "R-34299-1"
     ]
 }
