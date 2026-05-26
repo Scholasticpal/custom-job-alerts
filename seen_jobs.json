@@ -5225,7 +5225,8 @@
         "8476582002",
         "8564394002",
         "8120176002",
-        "8517068002"
+        "8517068002",
+        "8548502002"
     ],
     "Rubrik": [
         "7310036",
@@ -10559,7 +10560,9 @@
         "R-278176-1",
         "R-277601-1",
         "R-276416",
-        "R-278250"
+        "R-278250",
+        "R-278737",
+        "R-278015-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15858,7 +15861,8 @@
         "R-10388356",
         "R-10394964",
         "R-10367156",
-        "R-10394965"
+        "R-10394965",
+        "R-10395205"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -16017,7 +16021,8 @@
         "Investment-Risk-Analyst--CFA-FRM--SQL--Power-BI--Python-_867931",
         "Procurement-Analyst_867583",
         "Investment-Associate_868103",
-        "Strategic-Relationship-Marketing-Director_868010"
+        "Strategic-Relationship-Marketing-Director_868010",
+        "Relationship-Associate--Wealth-Management-_867709"
     ],
     "Invesco": [
         "R-13647",
@@ -19318,7 +19323,8 @@
         "5013743008",
         "5081338008",
         "5116820008",
-        "5229976008"
+        "5229976008",
+        "5164551008"
     ],
     "Coinbase": [
         "7559052",
@@ -20294,7 +20300,8 @@
         "7958747",
         "7958750",
         "7871254",
-        "7871249"
+        "7871249",
+        "7770004"
     ],
     "Vercel": [
         "5624231004",
@@ -20394,7 +20401,8 @@
         "5999792004",
         "5039945004",
         "5995789004",
-        "6004679004"
+        "6004679004",
+        "6003058004"
     ],
     "MongoDB": [
         "7574659",
@@ -22047,7 +22055,8 @@
         "6002760004",
         "5993743004",
         "5681996004",
-        "6000017004"
+        "6000017004",
+        "5999885004"
     ],
     "Udemy": [
         "5424719004",
@@ -24457,7 +24466,12 @@
         "R2017109",
         "R2018626",
         "R2015957",
-        "R1981294"
+        "R1981294",
+        "R2018165",
+        "R2017858",
+        "R2018272",
+        "R2018315",
+        "R2018596"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -26398,7 +26412,8 @@
         "R0000440381",
         "R0000440380",
         "R0000440166",
-        "R0000439747-1"
+        "R0000439747-1",
+        "R0000440391"
     ],
     "Zoom": [
         "R18188-1",
@@ -26927,7 +26942,8 @@
         "R-106345",
         "R-100050-1",
         "R-106162",
-        "R-104610"
+        "R-104610",
+        "R-101767"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -28235,7 +28251,8 @@
         "7954753",
         "7908460",
         "7895567",
-        "7954600"
+        "7954600",
+        "7747067"
     ],
     "Twitch": [
         "8334413002",
@@ -28588,7 +28605,9 @@
         "Software-Engineer_REF080620W",
         "Manager---Global-Affluent-and-Benefits_REF082348W",
         "Sr-SW-Engineer_REF079409W",
-        "Client-Consulting-Manager--VCA_REF082274W"
+        "Client-Consulting-Manager--VCA_REF082274W",
+        "Client-Care-Analyst_REF081263W",
+        "Director--Executive-Talent-Acquisition--Central-Europe--Middle-East---Africa--CEMEA-_REF082577W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -28681,7 +28700,9 @@
         "Principal-AI-Research-Scientist-Post-Training--Alignment--Reinforcement-Learning-Autodesk-AI-Lab--London--San-Francisco--Toronto--Remote--US-CA-EU_26WD98667",
         "Machine-Learning-Ops-Developer_26WD98590",
         "Senior-Software-Developer_26WD98132",
-        "Software-Developer--Agentic-Evaluation-_26WD96920-1"
+        "Software-Developer--Agentic-Evaluation-_26WD96920-1",
+        "Senior-Development-Manager--AI-ML-Platform-Toronto--CA_26WD97226-1",
+        "Senior-Principal-Engineer_26WD97683"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -28832,7 +28853,8 @@
         "Product-Strategy---Planning-Manager--IA-Project-Hire-_10151379",
         "Executive-Assistant--DET-_10150576",
         "Technical-Director-I--Studio-Ops_10149546",
-        "Senior-Ride-Control-Systems-Engineer_10152453"
+        "Senior-Ride-Control-Systems-Engineer_10152453",
+        "Talent---Growth-Consultant_10151417"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -28919,7 +28941,9 @@
         "R000101923",
         "R000105174-1",
         "R000105078",
-        "R000102936"
+        "R000102936",
+        "R000104758-1",
+        "R000088083-1"
     ],
     "Kyndryl": [
         "R-61530",
