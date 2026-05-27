@@ -1050,7 +1050,9 @@
         "7950824",
         "7913410",
         "7913406",
-        "7927089"
+        "7927089",
+        "7680548",
+        "7941741"
     ],
     "Figma": [
         "5426468004",
@@ -1324,7 +1326,8 @@
         "6000002004",
         "6000248004",
         "6002024004",
-        "6004746004"
+        "6004746004",
+        "6003308004"
     ],
     "Amazon": [
         "3198115",
@@ -1634,7 +1637,10 @@
         "10428410",
         "10429013",
         "10430233",
-        "10430071"
+        "10430071",
+        "10429802",
+        "10431195",
+        "10431194"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -1996,7 +2002,8 @@
         "4698731005",
         "4694070005",
         "4698735005",
-        "4699228005"
+        "4699228005",
+        "4699204005"
     ],
     "Rippling": [],
     "Slice": [
@@ -7147,7 +7154,8 @@
         "7956994",
         "7956993",
         "7916608",
-        "7955942"
+        "7955942",
+        "7959566"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -10564,7 +10572,10 @@
         "R-278737",
         "R-278015-1",
         "R-278736",
-        "R-277944"
+        "R-277944",
+        "R-277694",
+        "R-278777",
+        "R-278885"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -13564,7 +13575,10 @@
         "R343861",
         "R341563",
         "R342367-1",
-        "R343516"
+        "R343516",
+        "R333491",
+        "R328408",
+        "R342743"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -19335,7 +19349,8 @@
         "5116820008",
         "5229976008",
         "5164551008",
-        "5230755008"
+        "5230755008",
+        "5222908008"
     ],
     "Coinbase": [
         "7559052",
@@ -22231,7 +22246,9 @@
         "R-55_R168185-1",
         "R166157",
         "R167217-1",
-        "R167716-1"
+        "R167716-1",
+        "R168840-1",
+        "R167028"
     ],
     "Workday": [
         "R-0106509-1",
@@ -24488,7 +24505,13 @@
         "R2018704-1",
         "R2018080",
         "R2018662",
-        "R2018099"
+        "R2018099",
+        "R2012877",
+        "R2017882-1",
+        "R2010273",
+        "R2018806",
+        "R2018699",
+        "R2018438"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -26433,7 +26456,18 @@
         "R0000440391",
         "R0000440406",
         "R0000440404",
-        "R0000440318-1"
+        "R0000440318-1",
+        "R0000440407",
+        "R0000438037",
+        "R0000440311",
+        "R0000440378",
+        "R0000433209",
+        "R0000440349",
+        "R0000440249",
+        "R0000440399",
+        "R0000435089",
+        "R0000440317",
+        "R0000440316"
     ],
     "Zoom": [
         "R18188-1",
@@ -28630,7 +28664,10 @@
         "Sr-SW-Engineer_REF079409W",
         "Client-Consulting-Manager--VCA_REF082274W",
         "Client-Care-Analyst_REF081263W",
-        "Director--Executive-Talent-Acquisition--Central-Europe--Middle-East---Africa--CEMEA-_REF082577W"
+        "Director--Executive-Talent-Acquisition--Central-Europe--Middle-East---Africa--CEMEA-_REF082577W",
+        "Product-Analyst--Contract-Lifecycle-Management--Stakeholder-Management--Agile-Execution--Jira--AI-assisted-Product-Support---3-5-years-experience-_REF081797W",
+        "Software-Test-Engineer--Database--DWH-and-ETL-Testing-_REF072610W",
+        "Senior-Manager_REF076560W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -28725,7 +28762,8 @@
         "Senior-Software-Developer_26WD98132",
         "Software-Developer--Agentic-Evaluation-_26WD96920-1",
         "Senior-Development-Manager--AI-ML-Platform-Toronto--CA_26WD97226-1",
-        "Senior-Principal-Engineer_26WD97683"
+        "Senior-Principal-Engineer_26WD97683",
+        "Principal-Engineer---Integration-Architect_26WD98081-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -29112,6 +29150,10 @@
         "R-53872-2",
         "R-53205-1",
         "R-61428",
-        "R-61980"
+        "R-61980",
+        "R-61163-1",
+        "R-34309-1",
+        "R-34303-1",
+        "R-34304-1"
     ]
 }
