@@ -1053,7 +1053,8 @@
         "7927089",
         "7680548",
         "7941741",
-        "7919064"
+        "7919064",
+        "7948198"
     ],
     "Figma": [
         "5426468004",
@@ -5255,7 +5256,8 @@
         "8564394002",
         "8120176002",
         "8517068002",
-        "8548502002"
+        "8548502002",
+        "8565280002"
     ],
     "Rubrik": [
         "7310036",
@@ -10620,7 +10622,11 @@
         "R-275520",
         "R-278889",
         "R-278103-1",
-        "R-278446-1"
+        "R-278446-1",
+        "R-278692",
+        "R-279056",
+        "R-278900-1",
+        "R-276103"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11124,7 +11130,9 @@
         "R-2519188",
         "R-2519320",
         "R-2519176",
-        "R-2428674"
+        "R-2428674",
+        "R-2524134",
+        "R-2524122"
     ],
     "Salesforce": [
         "R333354",
@@ -13653,7 +13661,15 @@
         "R341251",
         "R343767",
         "R343816",
-        "R343412"
+        "R343412",
+        "R343498",
+        "R343941",
+        "R339425",
+        "R341442-1",
+        "R343933",
+        "R343794",
+        "R343943",
+        "R343942"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14058,7 +14074,9 @@
         "Regional-Client-Management-Executive_J-82409-1",
         "SENIOR-PROJEKTMANAGER-SPORTREISEN--INCENTIVES---EVENTS--M-W-D-_J-80524",
         "Travel-Counselor_J-82308",
-        "Junior-Meeting-Coordinator_J-82045"
+        "Junior-Meeting-Coordinator_J-82045",
+        "Entry-level-Travel-Service-Representative_J-82682",
+        "Meeting-Coordinator_J-82121"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -14857,7 +14875,8 @@
         "Global-Social-Media--AVP---Corporate-Affairs_41586",
         "Social-Media--AVP---Corporate-Affairs_43365",
         "Blackstone-Credit---Insurance----FP-A--Associate_41787",
-        "BDC-Finance-Associate_42624-2"
+        "BDC-Finance-Associate_42624-2",
+        "BXMA--Direct-Trading-Operations--Analyst_43372"
     ],
     "Capital Group": [
         "R6549",
@@ -14958,7 +14977,8 @@
         "R6664",
         "R6629",
         "R6077",
-        "R6319-1"
+        "R6319-1",
+        "R5676-1"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -15995,7 +16015,11 @@
         "R-10390795",
         "R-10395149",
         "R-10394966",
-        "R-10363812"
+        "R-10363812",
+        "R-10394854",
+        "R-10395492",
+        "R-10389109",
+        "R-10392996"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -20228,7 +20252,8 @@
         "7746922003",
         "7740918003",
         "7732927003",
-        "7748356003"
+        "7748356003",
+        "7747115003"
     ],
     "Robinhood": [
         "7799902",
@@ -20447,7 +20472,8 @@
         "7958750",
         "7871254",
         "7871249",
-        "7770004"
+        "7770004",
+        "7958748"
     ],
     "Vercel": [
         "5624231004",
@@ -21152,7 +21178,9 @@
         "7950458",
         "7960501",
         "7942539",
-        "7960356"
+        "7960356",
+        "7948530",
+        "7955362"
     ],
     "Datadog": [
         "7194969",
@@ -21704,7 +21732,8 @@
         "7959962",
         "7959967",
         "7959966",
-        "7868711"
+        "7868711",
+        "7958756"
     ],
     "Elastic": [
         "7505982",
@@ -22195,7 +22224,8 @@
         "7920795",
         "7958710",
         "7914042",
-        "5677728"
+        "5677728",
+        "5694272"
     ],
     "Coursera": [
         "5839408004",
@@ -22827,7 +22857,9 @@
         "R-0107391",
         "R-0107576",
         "R-0105418",
-        "R-0106914"
+        "R-0106914",
+        "R-0107409",
+        "R-0107353"
     ],
     "CrowdStrike": [
         "R26911",
@@ -23189,7 +23221,9 @@
         "R27447",
         "R28420",
         "R28842",
-        "R26834"
+        "R26834",
+        "R27957",
+        "R27212"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -24682,7 +24716,13 @@
         "R2018676",
         "R2018444",
         "R2018830",
-        "R2017887-1"
+        "R2017887-1",
+        "R2011064",
+        "R2018707",
+        "R2014527",
+        "R2018802",
+        "R2005910",
+        "R2018785"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -24784,7 +24824,8 @@
         "Software-Engineering-Technical-Leader_2010516",
         "ASIC-Engineer_2015280-1",
         "ASIC-Design-Verification-Engineering-Technical-Leader_2007959",
-        "ASIC-Engineering-Technical-Leader_2007958"
+        "ASIC-Engineering-Technical-Leader_2007958",
+        "Customer-Reliability-Engineer--Hypershield--remote-_2010720"
     ],
     "Intel": [
         "R0283052",
@@ -24825,7 +24866,8 @@
         "R0281516",
         "R0284076",
         "R0283670",
-        "R0283671"
+        "R0283671",
+        "R0281512"
     ],
     "Target": [
         "R0000436219",
@@ -26662,7 +26704,10 @@
         "R0000440444",
         "R0000439313",
         "R0000435624",
-        "R0000440446"
+        "R0000440446",
+        "R0000439955",
+        "R0000440480-1",
+        "R0000440470-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -27194,7 +27239,12 @@
         "R-100050-1",
         "R-106162",
         "R-104610",
-        "R-101767"
+        "R-101767",
+        "R-106166-1",
+        "R-106111",
+        "R-106322-1",
+        "R-102747-1",
+        "R-102692"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -27513,7 +27563,8 @@
         "4481921005",
         "4699033005",
         "4699458005",
-        "4699779005"
+        "4699779005",
+        "4699572005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -28002,7 +28053,8 @@
         "7618022",
         "7617968",
         "7939301",
-        "7752678"
+        "7752678",
+        "7926630"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -28705,7 +28757,8 @@
         "R34789",
         "R34808",
         "R34853",
-        "R34033"
+        "R34033",
+        "R33806"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -28890,7 +28943,12 @@
         "Backend-Staff-Software-Engineer_REF081757W-1",
         "Staff-SW-Engineer_REF059128W",
         "Director--Strategic-Initiaves-Lead--North-America-Executive-Office_REF082627W",
-        "Manager--Token-and-Chip-Business-Analytics_REF082355W"
+        "Manager--Token-and-Chip-Business-Analytics_REF082355W",
+        "Client-Care-Associate_REF080005W",
+        "Consultant--Technical-Solutions_REF080780W",
+        "Sr-Manager-Software-Engineering-2_REF081504W-1",
+        "Director--Financial-Analysis_REF082604W",
+        "Senior-Analyst--Global-Pricing-Strategy_REF082599W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -29171,7 +29229,12 @@
         "Alternance---Assistant-e--Charg-e--d-analyse-et-de-Projet-Exprience-Client--F-H-NB-_10149340",
         "Marine---Technical-Machinery-Systems-Spec_10149204",
         "Alternance---FinOps-Analyste_10152503",
-        "Sr-Executive-Assistant--Disney-Entertainment--Corporate-Planning---Transformation_10151723-2"
+        "Sr-Executive-Assistant--Disney-Entertainment--Corporate-Planning---Transformation_10151723-2",
+        "Senior-Compositor---ILM-Vancouver_10152553-1",
+        "Compositor---ILM-Vancouver_10152559",
+        "Asset-Protection-Specialist-Part-Time_10146554",
+        "Manager-Programming_10151428",
+        "Casting-Associate_10150723"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -29452,6 +29515,9 @@
         "R-62705",
         "R-62706",
         "R-62068",
-        "R-61851"
+        "R-61851",
+        "R-60301",
+        "R-61015",
+        "R-61260"
     ]
 }
