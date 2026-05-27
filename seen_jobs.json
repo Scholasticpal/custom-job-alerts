@@ -1333,7 +1333,8 @@
         "6004746004",
         "6003308004",
         "6004606004",
-        "6002655004"
+        "6002655004",
+        "5998224004"
     ],
     "Amazon": [
         "3198115",
@@ -10637,7 +10638,8 @@
         "R-276103",
         "R-278022",
         "R-278974",
-        "R-277446-1"
+        "R-277446-1",
+        "R-278005"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11144,7 +11146,8 @@
         "R-2428674",
         "R-2524134",
         "R-2524122",
-        "R-2524351"
+        "R-2524351",
+        "R-2524518"
     ],
     "Salesforce": [
         "R333354",
@@ -13688,7 +13691,8 @@
         "R343849",
         "R342221",
         "R339427",
-        "R321396"
+        "R321396",
+        "R339009"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14099,7 +14103,8 @@
         "Travel-Account-Leader_J-82536",
         "Meetings---Events-Coordinator---Air-Travel---Attendee-Logistics_J-82537-1",
         "Pharma-Congress-Planner_J-82686",
-        "Pharma-Meeting-Planner_J-82685"
+        "Pharma-Meeting-Planner_J-82685",
+        "Travel-Consultant--II_J-81364"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -21772,7 +21777,8 @@
         "7959966",
         "7868711",
         "7958756",
-        "7961297"
+        "7961297",
+        "7946478"
     ],
     "Elastic": [
         "7505982",
@@ -22462,7 +22468,8 @@
         "R168840-1",
         "R167028",
         "R168763",
-        "R168700"
+        "R168700",
+        "R169154-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -22899,7 +22906,8 @@
         "R-0105418",
         "R-0106914",
         "R-0107409",
-        "R-0107353"
+        "R-0107353",
+        "R-0107305"
     ],
     "CrowdStrike": [
         "R26911",
@@ -24776,7 +24784,10 @@
         "R2002026",
         "R2018817",
         "R2015176",
-        "R2018652"
+        "R2018652",
+        "R2018697",
+        "R2018796",
+        "R2013758"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -26770,7 +26781,10 @@
         "R0000439958",
         "R0000440496",
         "R0000434669",
-        "R0000440138"
+        "R0000440138",
+        "R0000440512",
+        "R0000440377",
+        "R0000440104"
     ],
     "Zoom": [
         "R18188-1",
@@ -26937,7 +26951,9 @@
         "R19195-1",
         "R19194-1",
         "R19203-1",
-        "R19196"
+        "R19196",
+        "R19208-1",
+        "R19206-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -28636,7 +28652,8 @@
         "7954600",
         "7747067",
         "7959938",
-        "7957799"
+        "7957799",
+        "7865586"
     ],
     "Twitch": [
         "8334413002",
@@ -29028,7 +29045,9 @@
         "Senior-Analyst--Global-Pricing-Strategy_REF082599W",
         "Marketing-Manager--Business-Development_REF082411W",
         "Senior-Software-Engineer_REF078728W",
-        "Manager--Pricing_REF077777W"
+        "Manager--Pricing_REF077777W",
+        "Staff-SW-Engineer--AI-Solutions_REF080359W",
+        "Director--Working-Capital-Marketing_REF082612W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -29136,7 +29155,10 @@
         "Senior-Software-Developer--PreCon-_26WD98045-1",
         "Senior-Machine-Learning-Operations-Developer--AI-ML-Platform-_26WD98671-1",
         "Principal-AI-Research-Scientist-Post-Training-Alignment_26WD98722-1",
-        "Research-Engineer_26WD97951-1"
+        "Research-Engineer_26WD97951-1",
+        "M-A-Finance--Senior-Program-Manager_26WD96554-1",
+        "Senior-M-A-Finance-Manager_26WD98730",
+        "Product-Manager---Machine-Simulation--Post-Processing---Manufacturing-Libraries_26WD98437"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -29323,7 +29345,9 @@
         "Senior-Systems-Engineer_10149439-1",
         "Vice-President--Animal--Science---Environment_10152555",
         "Sr-Product-Software-Engineer_10150867-2",
-        "Lead-Software-Engineer_10142947"
+        "Lead-Software-Engineer_10142947",
+        "Sr-Mgr--Product-Management_10150246",
+        "Senior-Executive-Assistant_10148321"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -29428,7 +29452,8 @@
         "R000105779",
         "R000104842",
         "R000105798",
-        "R000105544"
+        "R000105544",
+        "R000105068"
     ],
     "Kyndryl": [
         "R-61530",
@@ -29607,6 +29632,9 @@
         "R-61851",
         "R-60301",
         "R-61015",
-        "R-61260"
+        "R-61260",
+        "R-61631",
+        "R-61431",
+        "R-60811"
     ]
 }
