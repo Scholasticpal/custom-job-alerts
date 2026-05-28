@@ -3780,7 +3780,8 @@
         "7962943",
         "7962938",
         "7956741",
-        "7962101"
+        "7962101",
+        "7960519"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -7589,7 +7590,8 @@
         "7960217",
         "7962686",
         "7956357",
-        "7963689"
+        "7963689",
+        "7963691"
     ],
     "Dropbox": [
         "7646405",
@@ -13807,7 +13809,8 @@
         "R172962-RESPONSABLE-DE-COMPTE-DE-RGION--AFFAIRES-DES-PETITES-ENTREPRISES---GROWTH-BUSINESS-ACCOUNT-EXECUTIVE---BILINGUAL--ENGLISH-FRENCH--MONTREAL_JR237841",
         "R343006",
         "R343807-1",
-        "R343958"
+        "R343958",
+        "R339261"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14925,7 +14928,9 @@
         "R260764-1",
         "R264542-1",
         "R264617",
-        "R263261"
+        "R263261",
+        "R261637",
+        "R261638"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -16242,7 +16247,8 @@
         "R-10395612",
         "R-10394438",
         "R-10394858-1",
-        "R-10394986"
+        "R-10394986",
+        "R-10394272-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -19731,7 +19737,8 @@
         "5225003008",
         "5218573008",
         "5218536008",
-        "5218550008"
+        "5218550008",
+        "5206492008"
     ],
     "Coinbase": [
         "7559052",
@@ -20243,7 +20250,8 @@
         "7958403",
         "7947897",
         "7964164",
-        "7964461"
+        "7964461",
+        "7955200"
     ],
     "Notion": [],
     "Plaid": [],
@@ -20498,7 +20506,8 @@
         "7747115003",
         "7749582003",
         "7749580003",
-        "7738010003"
+        "7738010003",
+        "7485068003"
     ],
     "Robinhood": [
         "7799902",
@@ -22494,7 +22503,9 @@
         "5677728",
         "5694272",
         "7696209",
-        "7964363"
+        "7964363",
+        "6705969",
+        "7106554"
     ],
     "Coursera": [
         "5839408004",
@@ -25091,7 +25102,8 @@
         "R2003866",
         "R2018911-1",
         "R2014734",
-        "R2018056"
+        "R2018056",
+        "R2009899-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -27114,7 +27126,8 @@
         "R0000440589",
         "R0000440633",
         "R0000440310-1",
-        "R0000432249"
+        "R0000432249",
+        "R0000440598"
     ],
     "Zoom": [
         "R18188-1",
@@ -27290,7 +27303,8 @@
         "R19199",
         "R19209",
         "R17895-1",
-        "R18525-1"
+        "R18525-1",
+        "R18602-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -27808,7 +27822,8 @@
         "8397618002",
         "8551939002",
         "8563194002",
-        "8400388002"
+        "8400388002",
+        "8565121002"
     ],
     "Scale AI": [
         "4654510005",
@@ -27994,7 +28009,8 @@
         "4699458005",
         "4699779005",
         "4699572005",
-        "4696072005"
+        "4696072005",
+        "4609494005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -29016,7 +29032,8 @@
         "7891517",
         "7782546",
         "7540398",
-        "7903916"
+        "7903916",
+        "7952061"
     ],
     "Twitch": [
         "8334413002",
@@ -29452,7 +29469,13 @@
         "Analyst_REF080559W",
         "Senior-Software-Engineer---AI-Agents_REF082452W-1",
         "Director--Business-Lead--Social-Studio_REF080978W",
-        "Global-Interchange-Compliance-Analyst_REF082262W"
+        "Global-Interchange-Compliance-Analyst_REF082262W",
+        "Sr-Network-Engineer---Network-Platforms-and-Automation_REF077248W",
+        "Senior-Systems-Engineer_REF080767W",
+        "Sr-Site-Reliability-Engineer--Product-Reliability-Engineering_REF082311W-1",
+        "Senior-Network-Engineer---WAN---SD-WAN_REF077498W",
+        "Staff-Software-Engineer--AI---Middleware-Automation_REF082408W",
+        "Senior-Database-Engineer_REF080182W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -29788,7 +29811,12 @@
         "Alternance---Assistant-e--de-recherche-Produits-et-Dveloppement-culinaire--H-F-NB-_10149062",
         "Executive-Assistant--Unscripted-Casting--Disney-Entertainment-Television-_10151482",
         "Sr-Business-Affairs-Manager_10151663",
-        "Costumer--CT-_10151210"
+        "Costumer--CT-_10151210",
+        "Mgr-Human-Resources-Business-Partner_10151161",
+        "Sr-Software-Engineer_10149629",
+        "Sr-Product-Software-Engineer_10151427",
+        "Sr-Executive-Assistant_10151601-1",
+        "Manager--Contract-Administration--20th-Television-_10152330"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -29915,7 +29943,11 @@
         "R000105967",
         "R000100269-1",
         "R000105850",
-        "R000105166"
+        "R000105166",
+        "R000105968",
+        "R000105808",
+        "R000105809-1",
+        "R000105851"
     ],
     "Kyndryl": [
         "R-61530",
