@@ -7231,7 +7231,8 @@
         "7962423",
         "7962427",
         "7962426",
-        "7946210"
+        "7946210",
+        "7964930"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -13810,7 +13811,11 @@
         "R343006",
         "R343807-1",
         "R343958",
-        "R339261"
+        "R339261",
+        "R337185",
+        "R342746-1",
+        "R342997",
+        "R242535"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14231,7 +14236,8 @@
         "Consulting-Associate_J-81546",
         "Communications-intern_J-82394-1",
         "Software-Developer-Internship_J-78915",
-        "Software-Development-Intern_J-82440"
+        "Software-Development-Intern_J-82440",
+        "Strategic-Sr-Business-Development-Manager--T4M_J-81927"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -14930,7 +14936,8 @@
         "R264617",
         "R263261",
         "R261637",
-        "R261638"
+        "R261638",
+        "R264659"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -21443,7 +21450,8 @@
         "7387191",
         "7963328",
         "7555398",
-        "7956670"
+        "7956670",
+        "7952245"
     ],
     "Datadog": [
         "7194969",
@@ -22707,7 +22715,9 @@
         "R168860",
         "R169237",
         "R168892",
-        "R166072"
+        "R166072",
+        "R168955",
+        "R169109"
     ],
     "Workday": [
         "R-0106509-1",
@@ -23156,7 +23166,8 @@
         "R-0107317",
         "R-0107500",
         "R-0106428-1",
-        "R-0104850"
+        "R-0104850",
+        "R-0107607"
     ],
     "CrowdStrike": [
         "R26911",
@@ -23545,7 +23556,11 @@
         "R28689",
         "R28888",
         "R28449",
-        "R28391"
+        "R28391",
+        "R28503",
+        "R28300",
+        "R28788",
+        "R28930"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -25103,7 +25118,12 @@
         "R2018911-1",
         "R2014734",
         "R2018056",
-        "R2009899-1"
+        "R2009899-1",
+        "R2014351",
+        "R2013687",
+        "R2017635",
+        "R2018875",
+        "R2018760"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -25254,7 +25274,8 @@
         "R0283671",
         "R0281512",
         "R0284351",
-        "R0284350-1"
+        "R0284350-1",
+        "R0284360"
     ],
     "Target": [
         "R0000436219",
@@ -27127,7 +27148,8 @@
         "R0000440633",
         "R0000440310-1",
         "R0000432249",
-        "R0000440598"
+        "R0000440598",
+        "R0000440655"
     ],
     "Zoom": [
         "R18188-1",
@@ -27686,7 +27708,9 @@
         "R-106300-1",
         "R-101843-1",
         "R-105812",
-        "R-105686-1"
+        "R-105686-1",
+        "R-105618-1",
+        "R-106503-2"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -29475,7 +29499,8 @@
         "Sr-Site-Reliability-Engineer--Product-Reliability-Engineering_REF082311W-1",
         "Senior-Network-Engineer---WAN---SD-WAN_REF077498W",
         "Staff-Software-Engineer--AI---Middleware-Automation_REF082408W",
-        "Senior-Database-Engineer_REF080182W"
+        "Senior-Database-Engineer_REF080182W",
+        "Fullstack-Staff-Software-Engineer_REF081847W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -30153,6 +30178,7 @@
         "R-61849-1",
         "R-61963-1",
         "R-61108",
-        "R-62699"
+        "R-62699",
+        "R-62754"
     ]
 }
