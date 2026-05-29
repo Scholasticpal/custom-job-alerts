@@ -1060,7 +1060,8 @@
         "7589234",
         "7954118",
         "7930153",
-        "7858723"
+        "7858723",
+        "7962089"
     ],
     "Figma": [
         "5426468004",
@@ -3781,7 +3782,8 @@
         "7962938",
         "7956741",
         "7962101",
-        "7960519"
+        "7960519",
+        "7964996"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -5295,7 +5297,8 @@
         "8568151002",
         "8567602002",
         "8208109002",
-        "8567322002"
+        "8567322002",
+        "8565278002"
     ],
     "Rubrik": [
         "7310036",
@@ -5678,7 +5681,8 @@
         "7925548",
         "7949896",
         "7944755",
-        "7963037"
+        "7963037",
+        "7844668"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -10711,7 +10715,13 @@
         "R-279191",
         "R-278057",
         "R-274783",
-        "R-273830"
+        "R-273830",
+        "R-263464",
+        "R-278941",
+        "R-278020",
+        "R-279025",
+        "R-279023",
+        "R-279024"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11227,7 +11237,8 @@
         "R-2524971",
         "R-2524822",
         "R-2525218",
-        "R-2354079"
+        "R-2354079",
+        "R-2503177-1"
     ],
     "Salesforce": [
         "R333354",
@@ -14320,7 +14331,8 @@
         "Associate--Investment-Banker--TMT-coverage---Japan-IBK_26017741",
         "Vice-President--Senior-Trade-Voice-Engineer--Employee-Experience-Technology_26018107-1",
         "Vice-President--Senior-Business-Control-Specialist--Risk-and-Control---Global-Markets-Technology--Sydney--Australia_26018143",
-        "Vice-President--Global-Mkts-Risk-Manager_26018308"
+        "Vice-President--Global-Mkts-Risk-Manager_26018308",
+        "Business-Analyst_26018632-1"
     ],
     "BlackRock": [
         "R263666",
@@ -14937,7 +14949,9 @@
         "R263261",
         "R261637",
         "R261638",
-        "R264659"
+        "R264659",
+        "R264602",
+        "R264495"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -16255,7 +16269,9 @@
         "R-10394438",
         "R-10394858-1",
         "R-10394986",
-        "R-10394272-1"
+        "R-10394272-1",
+        "R-10395623",
+        "R-10393131"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -20258,7 +20274,10 @@
         "7947897",
         "7964164",
         "7964461",
-        "7955200"
+        "7955200",
+        "7962471",
+        "7965011",
+        "7965014"
     ],
     "Notion": [],
     "Plaid": [],
@@ -20736,7 +20755,8 @@
         "7770004",
         "7958748",
         "7318478",
-        "7942758"
+        "7942758",
+        "7965000"
     ],
     "Vercel": [
         "5624231004",
@@ -23560,7 +23580,13 @@
         "R28503",
         "R28300",
         "R28788",
-        "R28930"
+        "R28930",
+        "R28887",
+        "R28566",
+        "R28792",
+        "R28863",
+        "R28845",
+        "R28923"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -27149,7 +27175,18 @@
         "R0000440310-1",
         "R0000432249",
         "R0000440598",
-        "R0000440655"
+        "R0000440655",
+        "R0000440669",
+        "R0000440002",
+        "R0000440462",
+        "R0000439402",
+        "R0000440552",
+        "R0000440622",
+        "R0000387032",
+        "R0000437725-1",
+        "R0000440676",
+        "R0000440674",
+        "R0000440675"
     ],
     "Zoom": [
         "R18188-1",
@@ -29500,7 +29537,12 @@
         "Senior-Network-Engineer---WAN---SD-WAN_REF077498W",
         "Staff-Software-Engineer--AI---Middleware-Automation_REF082408W",
         "Senior-Database-Engineer_REF080182W",
-        "Fullstack-Staff-Software-Engineer_REF081847W"
+        "Fullstack-Staff-Software-Engineer_REF081847W",
+        "XMLNAME--Client-Consulting-Manager_REF081992W",
+        "XMLNAME--SrClient-Consulting-Manager_REF081929W-1",
+        "Sr-Database-Engineer_REF082465W",
+        "Fullstack-Staff-Software-Engineer_REF081849W",
+        "Backend-Staff-Software-Engineer_REF081850W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -29624,7 +29666,8 @@
         "Senior-Machine-Learning-and-AI-Engineer_26WD96898-2",
         "Digital-Business-Representative--EMEA_26WD96534-2",
         "Senior-Director--Sales-Enablement_26WD98424",
-        "Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2"
+        "Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2",
+        "Customer-Success-Manager--Enterprise_26WD95854"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -29972,7 +30015,8 @@
         "R000105968",
         "R000105808",
         "R000105809-1",
-        "R000105851"
+        "R000105851",
+        "R000105130"
     ],
     "Kyndryl": [
         "R-61530",
