@@ -1062,7 +1062,8 @@
         "7930153",
         "7858723",
         "7962089",
-        "7964956"
+        "7964956",
+        "7965498"
     ],
     "Figma": [
         "5426468004",
@@ -1663,7 +1664,8 @@
         "10431721",
         "10431753",
         "10432925",
-        "10432823"
+        "10432823",
+        "10434126"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -1846,7 +1848,8 @@
         "7750814003",
         "7752457003",
         "7750808003",
-        "7752501003"
+        "7752501003",
+        "7737340003"
     ],
     "Razorpay": [
         "4665089005",
@@ -2136,7 +2139,8 @@
         "7950826",
         "7900571",
         "7194551",
-        "6731440"
+        "6731440",
+        "7958571"
     ],
     "Upstox": [],
     "Brex": [
@@ -5305,7 +5309,9 @@
         "8567602002",
         "8208109002",
         "8567322002",
-        "8565278002"
+        "8565278002",
+        "8570587002",
+        "8570586002"
     ],
     "Rubrik": [
         "7310036",
@@ -7245,7 +7251,9 @@
         "7946210",
         "7964930",
         "7965124",
-        "7965123"
+        "7965123",
+        "7962493",
+        "7966460"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -7605,7 +7613,8 @@
         "7962686",
         "7956357",
         "7963689",
-        "7963691"
+        "7963691",
+        "7894914"
     ],
     "Dropbox": [
         "7646405",
@@ -10735,7 +10744,13 @@
         "R-277704",
         "R-278887",
         "R-278305-1",
-        "R-278234"
+        "R-278234",
+        "R-278908",
+        "R-278697",
+        "R-278204",
+        "R-279104",
+        "R-278782",
+        "R-276488"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -13847,7 +13862,16 @@
         "R344099",
         "R327538-1",
         "R342308",
-        "R307857"
+        "R307857",
+        "R342512",
+        "R342995",
+        "R342517",
+        "R344228",
+        "R344226",
+        "R343267",
+        "R343266",
+        "R342947",
+        "R343179"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14269,7 +14293,9 @@
         "Communications-intern_J-82394-1",
         "Software-Developer-Internship_J-78915",
         "Software-Development-Intern_J-82440",
-        "Strategic-Sr-Business-Development-Manager--T4M_J-81927"
+        "Strategic-Sr-Business-Development-Manager--T4M_J-81927",
+        "Quality-Assurance_J-80463",
+        "Team-Coach_J-81089"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -14976,7 +15002,10 @@
         "R264602",
         "R264495",
         "R264674-1",
-        "R264556"
+        "R264556",
+        "R264641",
+        "R261286",
+        "R264605-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -15105,7 +15134,8 @@
         "BXMA--Direct-Trading-Operations--Analyst_43372",
         "Senior-Cloud-Security-Engineer--AVP---BXTI-Cybersecurity_40887-1",
         "XMLNAME-2027-Blackstone-Private-Equity-Associate--San-Francisco-_37610-1",
-        "Blackstone-Credit---Insurance---Coordinator_43388"
+        "Blackstone-Credit---Insurance---Coordinator_43388",
+        "Real-Estate---Asset-Management--Analyst_43208"
     ],
     "Capital Group": [
         "R6549",
@@ -15302,7 +15332,8 @@
         "Network-Ops-Engineer-III--India_34192-1",
         "Staff-Network-Engineer---India_34183-1",
         "Lead-2-GCC-Tech-Analyst_34474",
-        "Sr-GCC-Tech-Analyst_34471-1"
+        "Sr-GCC-Tech-Analyst_34471-1",
+        "Data-Reliability-Engineer-I--dRE-1-_34504-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -16297,7 +16328,11 @@
         "R-10394986",
         "R-10394272-1",
         "R-10395623",
-        "R-10393131"
+        "R-10393131",
+        "R-10391465",
+        "R-10388655",
+        "R-10394307",
+        "R-10391048"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -16700,7 +16735,8 @@
         "R-14104",
         "R-10590",
         "R-14191",
-        "R-14192"
+        "R-14192",
+        "R-14070"
     ],
     "PayPal": [
         "R0135744-1",
@@ -19792,7 +19828,8 @@
         "5218573008",
         "5218536008",
         "5218550008",
-        "5206492008"
+        "5206492008",
+        "5233951008"
     ],
     "Coinbase": [
         "7559052",
@@ -21502,7 +21539,8 @@
         "7963328",
         "7555398",
         "7956670",
-        "7952245"
+        "7952245",
+        "7761258"
     ],
     "Datadog": [
         "7194969",
@@ -22362,7 +22400,8 @@
         "7866561",
         "7957853",
         "7957677",
-        "7960593"
+        "7960593",
+        "7961113"
     ],
     "Asana": [
         "7120496",
@@ -23224,7 +23263,8 @@
         "R-0107607",
         "R-0107623-1",
         "R-0107441",
-        "R-0107620"
+        "R-0107620",
+        "R-0107502"
     ],
     "CrowdStrike": [
         "R26911",
@@ -23626,7 +23666,10 @@
         "R28923",
         "R28981",
         "R28861",
-        "R28922"
+        "R28922",
+        "R28772-1",
+        "R28425",
+        "R28476"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -25193,7 +25236,12 @@
         "R2018963",
         "R2018859",
         "R2018837",
-        "R2018929"
+        "R2018929",
+        "R2007200",
+        "R2012396",
+        "R2011363-1",
+        "R1990716-1",
+        "R2012499"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -27247,7 +27295,21 @@
         "R0000440511",
         "R0000440541",
         "R0000440471",
-        "R0000440445"
+        "R0000440445",
+        "R0000440718-1",
+        "R0000440436-1",
+        "R0000440716-1",
+        "R0000431066",
+        "R0000430856",
+        "R0000440715",
+        "R0000440714",
+        "R0000440713",
+        "R0000440712",
+        "R0000440711",
+        "R0000440710",
+        "R0000440709",
+        "R0000440708",
+        "R0000436936"
     ],
     "Zoom": [
         "R18188-1",
@@ -27424,7 +27486,9 @@
         "R19209",
         "R17895-1",
         "R18525-1",
-        "R18602-1"
+        "R18602-1",
+        "R19213",
+        "R19214"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -27945,7 +28009,8 @@
         "8551939002",
         "8563194002",
         "8400388002",
-        "8565121002"
+        "8565121002",
+        "8569695002"
     ],
     "Scale AI": [
         "4654510005",
@@ -28274,7 +28339,8 @@
         "7709569",
         "7842974",
         "7861713",
-        "7925095"
+        "7925095",
+        "7417615"
     ],
     "Samsara": [
         "5747183",
@@ -28878,7 +28944,8 @@
         "7dc7e7c3-39bf-4f4e-a8eb-e38a4a0af238",
         "144f32bc-21e5-42bd-9710-7165a22d51e1",
         "146aba99-2a9a-44ee-9fb3-42dd1e211221",
-        "bb7af139-064c-4a59-a784-9ba8c4324d21"
+        "bb7af139-064c-4a59-a784-9ba8c4324d21",
+        "395a4483-fc3d-4b77-a500-501923fd0976"
     ],
     "Gong": [],
     "Duolingo": [
@@ -29274,7 +29341,8 @@
         "a46bedff-8db9-4859-9ec8-d81717fe5c36",
         "cac1b9e2-b9fd-4450-8d20-16d3c4f37a10",
         "570f6cf7-5525-4357-81c4-658534458043",
-        "6768f225-3c6f-4a15-a5e2-a41b254a676f"
+        "6768f225-3c6f-4a15-a5e2-a41b254a676f",
+        "7c0e0301-f6e0-4092-980d-7e7ec3b566f1"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -29365,7 +29433,8 @@
         "R34921-1",
         "R32550",
         "R34785",
-        "R34927"
+        "R34927",
+        "R34942"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -29612,7 +29681,12 @@
         "Director-SW-Engineer_REF081588W",
         "Sr-Manager---Solution-Architect---NALP-Lead_REF080161W",
         "Sr-Manager----Solution-Architect---GCC-Lead_REF080159W",
-        "Senior-Data-Scientist_REF080919W"
+        "Senior-Data-Scientist_REF080919W",
+        "Product-Manager-Go-to-Market-Germany_REF078435W",
+        "Senior-Treasury-Analyst_REF082296W",
+        "Director--Product-Strategy-and-Operations--FBL_REF078265W",
+        "Manager--Grants_REF081707W",
+        "Director--Finance-Operations_REF082629W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -29739,7 +29813,17 @@
         "Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2",
         "Customer-Success-Manager--Enterprise_26WD95854",
         "Senior-Product-Manager---Product-Design-Simulation-in-Fusion_26WD98192",
-        "Senior-Product-Manager_26WD98021-2"
+        "Senior-Product-Manager_26WD98021-2",
+        "Technical-Success-Manager---Autodesk-Forma--Construction-Specialist-_26WD95649-2",
+        "Business-Development-Representative_26WD98476-2",
+        "Business-Development-Representative_26WD98477-1",
+        "Senior-Financial-Analyst--AEC-Finance_26WD96101",
+        "Research-Engineer_26WD97948",
+        "Technical-Specialist--Fusion_26WD98546-1",
+        "Customer-Success-Advisor---ASEAN_26WD95701-1",
+        "Customer-Success-Advisor---ASEAN_26WD95724-1",
+        "Customer-Success-Advisor--ASEAN_26WD95722",
+        "Customer-Success-Advisor---ASEAN_26WD95702"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -29960,7 +30044,13 @@
         "Senior-Finance-Analyst_10143039",
         "Senior-Web-Developer_10151651-1",
         "Alternance---Assistant-e--Acheteur-se--Sourcing--F-H-NB-_10147423",
-        "Executive-Assistant_10152700"
+        "Executive-Assistant_10152700",
+        "Principal-Enterprise-Architect_10117326-1",
+        "Lead-Cast-Member_10152718-1",
+        "Assistant-Store-Manager--Dublin_10150724",
+        "Intern-Retail---Franchise-Marketing-DCP_10150457",
+        "Alternance---Peintre-Dcorateur-rice---Scnographe-F-H-NB_10148231",
+        "Alternant-e--Talent-Acquisition---Processus---Outils-de-Recrutement--H-F-NB-_10149899-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -30101,7 +30191,12 @@
         "R000102247",
         "R000105696",
         "R000105695",
-        "R000104725"
+        "R000104725",
+        "R000105148",
+        "R000102844",
+        "R000105542",
+        "R000105023",
+        "R000104876"
     ],
     "Kyndryl": [
         "R-61530",
@@ -30312,6 +30407,9 @@
         "R-62685",
         "R-62684",
         "R-62682",
-        "R-62679"
+        "R-62679",
+        "R-59269",
+        "R-59151",
+        "R-60903"
     ]
 }
