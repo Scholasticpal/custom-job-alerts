@@ -13958,7 +13958,12 @@
         "R343414",
         "R343769",
         "R344205",
-        "R343915"
+        "R343915",
+        "R343094",
+        "R340515-1",
+        "R343093",
+        "R343072",
+        "R343770"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16449,7 +16454,9 @@
         "R-10379206-1",
         "R-10393967",
         "R-10362722",
-        "R-10394344"
+        "R-10394344",
+        "R-10394903",
+        "R-10394904"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -20735,7 +20742,9 @@
         "7738010003",
         "7485068003",
         "7742412003",
-        "7637067003"
+        "7637067003",
+        "7741868003",
+        "7741870003"
     ],
     "Robinhood": [
         "7799902",
@@ -20960,7 +20969,8 @@
         "7942758",
         "7965000",
         "7942764",
-        "7490017"
+        "7490017",
+        "7684760"
     ],
     "Vercel": [
         "5624231004",
@@ -22547,7 +22557,8 @@
         "7961113",
         "7967126",
         "7960714",
-        "7848679"
+        "7848679",
+        "7968189"
     ],
     "Asana": [
         "7120496",
@@ -22757,7 +22768,14 @@
         "7963121",
         "7908794",
         "7920831",
-        "7962239"
+        "7962239",
+        "7962348",
+        "7968157",
+        "7968145",
+        "7968149",
+        "7968154",
+        "7968162",
+        "7961454"
     ],
     "Coursera": [
         "5839408004",
@@ -28106,7 +28124,8 @@
         "R-105618-1",
         "R-106503-2",
         "R-101652-2",
-        "R-106438"
+        "R-106438",
+        "R-105725"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -29948,7 +29967,8 @@
         "Data-Scientist--AI-ML---Visa-Consulting-and-Analytics_REF080319W",
         "Sr-Consultant-Network-Engineer_REF082480W",
         "Security-Administration-Program-Coordinator_REF082051W",
-        "Marketing-Manager_REF082546W"
+        "Marketing-Manager_REF082546W",
+        "Sr-Manager--Visa-Crypto-Account-Management_REF076856W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -30093,7 +30113,8 @@
         "Media---Entertainment-Product-Marketing-Manager_26WD98602-1",
         "Unified-Feedback-Hub-Product-Manager_26WD98047",
         "Director--Operations-Business-Partner--Renewals_26WD98435",
-        "Director--Product---Platform-Central-Finance_26WD98563"
+        "Director--Product---Platform-Central-Finance_26WD98563",
+        "Senior-Manager--Legal-Operations_26WD98306-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -30344,7 +30365,9 @@
         "Director--ESPN-Paid-Media_10152582",
         "Sales-Manager--Disney-Vacation-Club_10151323",
         "Director--Decision-Science-AI-ML-Engineering---Ops_10151158",
-        "Manager-of-Learning---Talent---Aulani--A-Disney-Resort---Spa---126-800----154-800-_10151498-1"
+        "Manager-of-Learning---Talent---Aulani--A-Disney-Resort---Spa---126-800----154-800-_10151498-1",
+        "Senior-Game-Designer_10152543",
+        "HR-Business-Partner--Project-Hire-Lucasfilm-ILM-_10151598"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -30493,7 +30516,8 @@
         "R000104876",
         "R000100418",
         "R000104598-1",
-        "R000105841"
+        "R000105841",
+        "R000104684"
     ],
     "Kyndryl": [
         "R-61530",
@@ -30710,6 +30734,7 @@
         "R-60903",
         "R-59119",
         "R-62787-1",
-        "R-61109"
+        "R-61109",
+        "R-61882"
     ]
 }
