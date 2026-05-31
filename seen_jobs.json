@@ -25466,7 +25466,9 @@
         "R2018693",
         "R2018460",
         "R2014205",
-        "R2018930"
+        "R2018930",
+        "R2018826-1",
+        "R2018789"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -30396,7 +30398,8 @@
         "HR-Business-Partner--Project-Hire-Lucasfilm-ILM-_10151598",
         "Executive-Director--Info-Security_10152675-2",
         "Lead-Software-Engineer---Adobe-Experience-Manager--AEM-_10146000-2",
-        "Programming-Planning-Supervisor-Fixed-Term-Contract_10149469-2"
+        "Programming-Planning-Supervisor-Fixed-Term-Contract_10149469-2",
+        "Project-Management---Strategy-Intern--Fall-2026_10150419"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -30546,7 +30549,8 @@
         "R000100418",
         "R000104598-1",
         "R000105841",
-        "R000104684"
+        "R000104684",
+        "R000105543"
     ],
     "Kyndryl": [
         "R-61530",
@@ -30768,6 +30772,7 @@
         "R-58876",
         "R-60675",
         "R-61720-1",
-        "R-55736"
+        "R-55736",
+        "R-62779"
     ]
 }
