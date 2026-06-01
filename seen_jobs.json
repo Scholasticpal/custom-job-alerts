@@ -1068,7 +1068,9 @@
         "7954207",
         "7953987",
         "7966641",
-        "7964759"
+        "7964759",
+        "7967656",
+        "7922832"
     ],
     "Figma": [
         "5426468004",
@@ -1351,7 +1353,8 @@
         "6006175004",
         "6007221004",
         "6007619004",
-        "6009197004"
+        "6009197004",
+        "6009613004"
     ],
     "Amazon": [
         "3198115",
@@ -2639,7 +2642,11 @@
         "8567817002",
         "8571984002",
         "8571969002",
-        "8571980002"
+        "8571980002",
+        "8571745002",
+        "8571744002",
+        "8574099002",
+        "8573788002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -7684,7 +7691,8 @@
         "7957574",
         "7968031",
         "7954715",
-        "7967685"
+        "7967685",
+        "7960343"
     ],
     "Dropbox": [
         "7646405",
@@ -10865,7 +10873,8 @@
         "R-277759-1",
         "R-263574",
         "R-278931",
-        "R-273084-1"
+        "R-273084-1",
+        "R-277159"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11398,7 +11407,8 @@
         "R-2527862",
         "R-2528205",
         "R-2528408",
-        "R-2521370-1"
+        "R-2521370-1",
+        "R-2529603"
     ],
     "Salesforce": [
         "R333354",
@@ -14052,7 +14062,15 @@
         "R344027",
         "R344412",
         "R344112",
-        "R344258-1"
+        "R344258-1",
+        "R344134",
+        "R341047",
+        "R344168",
+        "R344145",
+        "R343193",
+        "R344427",
+        "R343010",
+        "R344426"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -15240,7 +15258,8 @@
         "R256088",
         "R264623",
         "R264706",
-        "R260234-1"
+        "R260234-1",
+        "R260667"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -16613,7 +16632,10 @@
         "R-10395877",
         "R-10395191",
         "R-10377202",
-        "R-10395882-1"
+        "R-10395882-1",
+        "R-10395888",
+        "R-10391373",
+        "R-10389002"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -20664,7 +20686,8 @@
         "7974507",
         "7974504",
         "7974605",
-        "7974647"
+        "7974647",
+        "7966985"
     ],
     "Notion": [],
     "Plaid": [],
@@ -21153,7 +21176,8 @@
         "7490017",
         "7684760",
         "7939813",
-        "7943204"
+        "7943204",
+        "6535807"
     ],
     "Vercel": [
         "5624231004",
@@ -23638,7 +23662,10 @@
         "R-0107511",
         "R-0107560",
         "R-0105555",
-        "R-0107565"
+        "R-0107565",
+        "R-0107548-1",
+        "R-0107547",
+        "R-0106528"
     ],
     "CrowdStrike": [
         "R26911",
@@ -25727,7 +25754,10 @@
         "R2018985",
         "R2018611",
         "R2018349",
-        "R2018480"
+        "R2018480",
+        "R2019004",
+        "R2019164-1",
+        "R2012242"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -27893,7 +27923,16 @@
         "R0000440959",
         "R0000440926",
         "R0000440944",
-        "R0000440942"
+        "R0000440942",
+        "R0000429670",
+        "R0000440732",
+        "R0000441011",
+        "R0000434985",
+        "R0000440822",
+        "R0000441007",
+        "R0000440999-1",
+        "R0000440994",
+        "R0000440832"
     ],
     "Zoom": [
         "R18188-1",
@@ -28081,7 +28120,11 @@
         "R19222-1",
         "R19221-1",
         "R18949-2",
-        "R18942"
+        "R18942",
+        "R19219",
+        "R19218",
+        "R19224",
+        "R19220"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -28483,7 +28526,8 @@
         "R-106472",
         "R-104127",
         "R-106599-1",
-        "R-106385"
+        "R-106385",
+        "R-106514"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -28815,7 +28859,8 @@
         "4696072005",
         "4609494005",
         "4630032005",
-        "4536653005"
+        "4536653005",
+        "4701543005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -29869,7 +29914,9 @@
         "7954915",
         "7886587",
         "7786302",
-        "7811779"
+        "7811779",
+        "7761619",
+        "7908593"
     ],
     "Twitch": [
         "8334413002",
@@ -30096,7 +30143,9 @@
         "R34750",
         "R34717-1",
         "R34973",
-        "R34969"
+        "R34969",
+        "R34562",
+        "R34990"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -30392,7 +30441,9 @@
         "Product-Manager---Service---Process-Designer_REF081762W-1",
         "Analyst--Visa-Direct-Sales_REF081647W-1",
         "Senior-Accountant---Comp---Benefits_REF082717W",
-        "Senior-Site-Reliability-Engineer_REF082088W-1"
+        "Senior-Site-Reliability-Engineer_REF082088W-1",
+        "Senior-Director--NA-VAS-Issuing-Solutions_REF080686W",
+        "Manager--Risk-Management_REF082727W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -30550,7 +30601,10 @@
         "Chief-of-Staff---Fusion-Sales_26WD98779-1",
         "Senior-Software-Developer--Observability--Remote-_26WD98106-1",
         "Senior-Machine-Engineer--ML-Systems-and-Infrastructure_26WD98118",
-        "Senior-Manager--Experience-Design_26WD97791-1"
+        "Senior-Manager--Experience-Design_26WD97791-1",
+        "Senior-Manager---Platform-Engineering-and-Operations_26WD98491-1",
+        "Event-Project-Manager_26WD98665",
+        "Search-Intelligence-Manager_26WD98619"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -30831,7 +30885,12 @@
         "Senior-Manager--Exhibitions---Loans_10151540",
         "KABC-Newswriter-Newscast-Producer_10142425",
         "Sr-Data-Engineer_10147075",
-        "Software-Engineer-II_10143787-2"
+        "Software-Engineer-II_10143787-2",
+        "Senior-Product-Software-Engineer---Ad-Platform--Audience-Team-_10151600-1",
+        "Software-Engineer-II---Ad-Platform--Integrating-Engineering_10151597",
+        "Ride-Engineering---Principal-Engineer--Design-Assurance_10134485",
+        "KFSN-News-Photographer_10152449",
+        "Senior-Paralegal_10151603"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -30993,7 +31052,10 @@
         "R000104702",
         "R000105838",
         "R000101204-1",
-        "R000105792"
+        "R000105792",
+        "R000103124",
+        "R000105555",
+        "R000106020"
     ],
     "Kyndryl": [
         "R-61530",
