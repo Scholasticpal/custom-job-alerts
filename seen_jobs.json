@@ -1079,7 +1079,10 @@
         "7923047",
         "7923209",
         "7923191",
-        "7977176"
+        "7977176",
+        "7376419",
+        "7944515",
+        "7977719"
     ],
     "Figma": [
         "5426468004",
@@ -3875,7 +3878,8 @@
         "7964249",
         "7964205",
         "7975517",
-        "7975447"
+        "7975447",
+        "7973847"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -7743,7 +7747,8 @@
         "7968031",
         "7954715",
         "7967685",
-        "7960343"
+        "7960343",
+        "7977313"
     ],
     "Dropbox": [
         "7646405",
@@ -8003,7 +8008,9 @@
         "7905796",
         "7904923",
         "7904926",
-        "7466602"
+        "7466602",
+        "7961824",
+        "7961827"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -14190,7 +14197,13 @@
         "R343640",
         "R343369",
         "R343989",
-        "R344276"
+        "R344276",
+        "R340361",
+        "R344592",
+        "R344652",
+        "R331214",
+        "R343378",
+        "R344639"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14278,7 +14291,8 @@
         "7966730",
         "7974587",
         "6786146",
-        "7775305"
+        "7775305",
+        "7977686"
     ],
     "PayU": [],
     "American Express": [
@@ -14643,7 +14657,8 @@
         "Sr-Observability-Platform-Engineer_J-80717",
         "Middleware-Platform-Engineer_J-80217",
         "Recruiter-with-German_J-82836",
-        "R-1_J-82776-1"
+        "R-1_J-82776-1",
+        "Team-Coach_J-77327"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -15665,7 +15680,15 @@
         "R6469",
         "R6470",
         "R6473",
-        "R6474-1"
+        "R6474-1",
+        "R6712",
+        "R6710",
+        "R6709",
+        "R6486",
+        "R6468",
+        "R6467-1",
+        "R6477",
+        "R6480"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -16813,7 +16836,10 @@
         "R-10396040",
         "R-10391120",
         "R-10396047",
-        "R-10396046-2"
+        "R-10396046-2",
+        "R-10388265",
+        "R-10376032",
+        "R-10390532"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -20364,7 +20390,8 @@
         "5238606008",
         "5209196008",
         "5238637008",
-        "5237923008"
+        "5237923008",
+        "5239733008"
     ],
     "Coinbase": [
         "7559052",
@@ -20613,7 +20640,8 @@
         "8545675002",
         "8497565002",
         "8571766002",
-        "8571373002"
+        "8571373002",
+        "8544305002"
     ],
     "Reddit": [
         "7011741",
@@ -20897,7 +20925,8 @@
         "7966985",
         "7961895",
         "7977257",
-        "7746526"
+        "7746526",
+        "7976852"
     ],
     "Notion": [],
     "Plaid": [],
@@ -21159,7 +21188,9 @@
         "7741868003",
         "7741870003",
         "7708923003",
-        "7752003003"
+        "7752003003",
+        "7749755003",
+        "7749753003"
     ],
     "Robinhood": [
         "7799902",
@@ -23933,7 +23964,11 @@
         "R-0107354",
         "R-0107753",
         "R-0104400",
-        "R-0107498"
+        "R-0107498",
+        "R-0107770-1",
+        "R-0107768",
+        "R-0107764-1",
+        "R-0107750"
     ],
     "CrowdStrike": [
         "R26911",
@@ -24364,7 +24399,9 @@
         "R28365",
         "R-2026_R25757",
         "R27847",
-        "R28865"
+        "R28865",
+        "R27597",
+        "R28521"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -26187,7 +26224,8 @@
         "IP-PDK-Infrastructure-Engineer_2015285",
         "Software-Engineer---Apps_2016101-1",
         "AI-ML-Technical-Leader---Language-Model-Inference---AI-Ops_2016113-1",
-        "Full-Chip-Physical-Design-Engineer_2016037"
+        "Full-Chip-Physical-Design-Engineer_2016037",
+        "Senior-Embedded-Software-Engineer_2005636"
     ],
     "Intel": [
         "R0283052",
@@ -28309,7 +28347,8 @@
         "R0000441115",
         "R0000439720",
         "R0000435123",
-        "R0000438908-1"
+        "R0000438908-1",
+        "R0000441146"
     ],
     "Zoom": [
         "R18188-1",
@@ -29787,7 +29826,8 @@
         "7818508",
         "7818512",
         "7960369",
-        "7950044"
+        "7950044",
+        "7957787"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -30894,7 +30934,8 @@
         "Analytics-Engineer_REF082719W",
         "Director--Mainframe-and-GGS-_REF081644W-1",
         "Data-Scientist---Visa-Consulting---Analytics_REF081808W",
-        "Manager---Crypto-Strategic-Initiatives_REF081861W"
+        "Manager---Crypto-Strategic-Initiatives_REF081861W",
+        "Director--AI-Strategy---Automation_REF082692W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -31080,7 +31121,9 @@
         "Principal-Data-Engineer--Growth-Analytics_26WD98669-1",
         "Senior-User-Experience-Designer---AEC-Platform-Data_26WD98401-1",
         "VP--Commerce-Technology_26WD98559-2",
-        "Campaign-Marketing-Manager--Forma_26WD98562-1"
+        "Campaign-Marketing-Manager--Forma_26WD98562-1",
+        "Organization-Effectiveness--OE--Consultant_26WD96590-1",
+        "Senior-Software-Development-Engineer_26WD95189-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -31400,7 +31443,15 @@
         "Manager--Performance-Marketing_10149552-2",
         "Manager---Business-Operations_10149283",
         "Sr-Manager-Technical-Services--Alarms_10151313",
-        "Sr-Site-Reliability-Engineer--PH-_10152444"
+        "Sr-Site-Reliability-Engineer--PH-_10152444",
+        "Part-Time-Digital-Video-Content-Associate--Spanish-_10152942-2",
+        "Software-Engineer-II_10150824",
+        "Software-Engineer-II---Ad-Platform--Salesforce-CRM-Analytics_10151595-2",
+        "Coordinateur-trice--Prvention-F-H-NB---CDI_10152974",
+        "Software-Engineer-II_10150525",
+        "Sr-Product-Software-Engineer---Ad-Decisioning-Engineering_10152769",
+        "Senior-Manager--Production-Technology_10136134",
+        "Director--Production---Planning_10151605-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -31583,7 +31634,11 @@
         "R000105398",
         "R000106074",
         "R000105679",
-        "R000105667"
+        "R000105667",
+        "R000104050",
+        "R000105397",
+        "R000106036",
+        "R000106032"
     ],
     "Kyndryl": [
         "R-61530",
@@ -31861,6 +31916,18 @@
         "R-62538",
         "R-62556",
         "R-62558",
-        "R-60649"
+        "R-60649",
+        "R-61825",
+        "R-62566",
+        "R-62547",
+        "R-62583",
+        "R-61831",
+        "R-61313",
+        "R-60809",
+        "R-62557",
+        "R-62565",
+        "R-62633-1",
+        "R-62573",
+        "R-62544"
     ]
 }
