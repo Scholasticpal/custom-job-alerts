@@ -3184,7 +3184,9 @@
         "0f663537-d435-48ed-9919-9511662cb68e",
         "346c2575-bfe4-4726-8763-ad24c700ff1c",
         "6d4678f0-d999-47d4-a4e5-bd39113c8d56",
-        "c959481a-c0ae-49ab-b5ab-bb33abba72b6"
+        "c959481a-c0ae-49ab-b5ab-bb33abba72b6",
+        "534d1c4a-2d31-4571-b308-c9288f51f7b9",
+        "a8ee6593-52e9-40eb-9355-2b55fb85bf86"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -3857,7 +3859,8 @@
         "7971894",
         "7968210",
         "7972969",
-        "7975743"
+        "7975743",
+        "7974519"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -5383,7 +5386,8 @@
         "8569572002",
         "8557075002",
         "8570023002",
-        "8549044002"
+        "8549044002",
+        "8569552002"
     ],
     "Rubrik": [
         "7310036",
@@ -5770,7 +5774,8 @@
         "7844668",
         "7918690",
         "7950868",
-        "7928163"
+        "7928163",
+        "7962991"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -10906,7 +10911,13 @@
         "R-274398",
         "R-278666",
         "R-272337",
-        "R-279064"
+        "R-279064",
+        "R-269079",
+        "R-277273",
+        "R-278970",
+        "R-278487",
+        "R-3_R-278884",
+        "R-278514"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -14107,7 +14118,11 @@
         "R343748",
         "R344373",
         "R340920",
-        "R343868-1"
+        "R343868-1",
+        "R336626-1",
+        "R343469",
+        "R344534",
+        "R344527"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14549,7 +14564,9 @@
         "Assistant-Manager---Centralized-Accounting_J-82786",
         "Travel-Counselor_J-81976",
         "Travel-Counselor_J-81980",
-        "Consulting-Analyst_J-81389-1"
+        "Consulting-Analyst_J-81389-1",
+        "Technical-Lead_J-82775",
+        "Congress-Planner_J-82047"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -15304,7 +15321,10 @@
         "R260667",
         "R264648",
         "R262433",
-        "R264704-1"
+        "R264704-1",
+        "R260373",
+        "R264451",
+        "R264478"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -15437,7 +15457,9 @@
         "Real-Estate---Asset-Management--Analyst_43208",
         "Blackstone-Credit--Insurance---CIO---Capital-Formation--Associate_42901",
         "Executive-Offices---Executive-Assistant_43432",
-        "Associate-Finance--Luxembourg_43419"
+        "Associate-Finance--Luxembourg_43419",
+        "Legal---Compliance---Litigation---Investigations--SVP_41919-2",
+        "BXMA---ICS--Vice-President_43438"
     ],
     "Capital Group": [
         "R6549",
@@ -16682,7 +16704,8 @@
         "R-10395888",
         "R-10391373",
         "R-10389002",
-        "R-10391880"
+        "R-10391880",
+        "R-10396010"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -16851,7 +16874,8 @@
         "Business-Solutions-Implementation-Manager_868096",
         "Institutional-Client-Account-Associate--Institutional-Client-Account-Manager_867804",
         "Trust-Administrator---Relationship-Associate_867706",
-        "Intern---Client-Service---Business-Management_868037"
+        "Intern---Client-Service---Business-Management_868037",
+        "HR-Shared-Services-Specialist_868259"
     ],
     "Invesco": [
         "R-13647",
@@ -17097,7 +17121,10 @@
         "R-14297",
         "R-14180",
         "R-14006",
-        "R-14231"
+        "R-14231",
+        "R-13927",
+        "R-13932",
+        "R-13929"
     ],
     "PayPal": [
         "R0135744-1",
@@ -20214,7 +20241,9 @@
         "5227845008",
         "5231200008",
         "5231205008",
-        "5191636008"
+        "5191636008",
+        "5221916008",
+        "5223750008"
     ],
     "Coinbase": [
         "7559052",
@@ -21234,7 +21263,8 @@
         "7684760",
         "7939813",
         "7943204",
-        "6535807"
+        "6535807",
+        "7914059"
     ],
     "Vercel": [
         "5624231004",
@@ -21958,7 +21988,9 @@
         "7951322",
         "7960792",
         "7942148",
-        "7956626"
+        "7956626",
+        "7976072",
+        "7976181"
     ],
     "Datadog": [
         "7194969",
@@ -23052,7 +23084,8 @@
         "7968154",
         "7968162",
         "7961454",
-        "7959065"
+        "7959065",
+        "7918575"
     ],
     "Coursera": [
         "5839408004",
@@ -24151,7 +24184,9 @@
         "R28962",
         "R28931",
         "R26384",
-        "R26884"
+        "R26884",
+        "R28953",
+        "R28621"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -25832,7 +25867,19 @@
         "R2018458",
         "R2017599",
         "R2018900",
-        "R2019197"
+        "R2019197",
+        "R2018605",
+        "R2018805",
+        "R2018889",
+        "R2019035",
+        "R2018918",
+        "R2019034",
+        "R2019124",
+        "R2019134",
+        "R2018291",
+        "R2018293-1",
+        "R2018294",
+        "R2019036"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -28032,7 +28079,18 @@
         "R0000440930",
         "R0000440939",
         "R0000440605",
-        "R0000441009"
+        "R0000441009",
+        "R0000441068",
+        "R0000440509",
+        "R0000441066-1",
+        "R0000441065",
+        "R0000441064",
+        "R0000441062",
+        "R0000441060-1",
+        "R0000441061",
+        "R0000441059-1",
+        "R0000441058",
+        "R0000441057"
     ],
     "Zoom": [
         "R18188-1",
@@ -29496,7 +29554,8 @@
         "7960412",
         "7516554",
         "7663706",
-        "7892020"
+        "7892020",
+        "7932125"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -29736,7 +29795,8 @@
         "bb7af139-064c-4a59-a784-9ba8c4324d21",
         "395a4483-fc3d-4b77-a500-501923fd0976",
         "e24202f1-fccd-470f-b001-e24d901735a4",
-        "655f9937-a4ce-4e7d-80e2-a6659af07329"
+        "655f9937-a4ce-4e7d-80e2-a6659af07329",
+        "2edc9cc5-4614-4d23-9b98-597722e374cc"
     ],
     "Gong": [],
     "Duolingo": [
@@ -30028,7 +30088,8 @@
         "7761619",
         "7908593",
         "7679180",
-        "7874931"
+        "7874931",
+        "7786418"
     ],
     "Twitch": [
         "8334413002",
@@ -30259,7 +30320,8 @@
         "R34562",
         "R34990",
         "R32541",
-        "R34554"
+        "R34554",
+        "R34190"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -30575,7 +30637,11 @@
         "Finance-Manager--Corp-Controller-_REF082509W-1",
         "Data-Scientist---Visa-Consulting---Analytics_REF080241W",
         "XMLNAME--Client-Consulting-Manager_REF081991W",
-        "Senior-Systems-Engineer_REF081210W"
+        "Senior-Systems-Engineer_REF081210W",
+        "Senior-Software-Engineer_REF076021W",
+        "Accountant-Exp-in-GL-posting-with-CA-ICWA-_REF082676W",
+        "Senior-Software-Engineer---Product-Reliability-Engineering--Middleware-_REF082409W",
+        "Business-Development-Senior-Manager--Marketing-Services-_REF081676W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -30744,7 +30810,12 @@
         "Principal-Software-Engineer_26WD98282-1",
         "Principal-Engineer--Search--Java--AWS-_25WD94362-2",
         "License-Compliance-Sales-Rep-Inc-Q3-_26WD98800-1",
-        "License-Compliance-Sales-Rep-Inc-Q3-_26WD98801-2"
+        "License-Compliance-Sales-Rep-Inc-Q3-_26WD98801-2",
+        "Executive-Assistant---VP-Global-Named-Accounts-EMEA_26WD98442-1",
+        "Expansion---Strategic-Accounts--Senior-Sales-Manager--ASEAN_26WD98545-1",
+        "Account-Specialist--Forma-Build_26WD97852-1",
+        "Senior-Workday-Developer_26WD96404-1",
+        "Credit-Analyst_26WD97635"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -31047,7 +31118,8 @@
         "Media-Accounting-Manager_10151406",
         "Associate-Manager--External-Relations--15-year-contract-_10152920",
         "Entertainment-Technical-Manager_10152919",
-        "Facility-Project-Specialist--2-year-contract-_10152380"
+        "Facility-Project-Specialist--2-year-contract-_10152380",
+        "Programmatic-Sales-Specialist--m-w-d-_10148169"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -31217,7 +31289,11 @@
         "R000105996",
         "R000102677",
         "R000106061",
-        "R000105206"
+        "R000105206",
+        "R000106024",
+        "R000106003-1",
+        "R000106001",
+        "R000101932"
     ],
     "Kyndryl": [
         "R-61530",
@@ -31482,6 +31558,7 @@
         "R-52295",
         "R-58895-1",
         "R-62096",
-        "R-59935"
+        "R-59935",
+        "R-62884"
     ]
 }
