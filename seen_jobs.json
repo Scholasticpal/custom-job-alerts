@@ -1402,7 +1402,8 @@
         "6009558004",
         "6011928004",
         "6010992004",
-        "6008343004"
+        "6008343004",
+        "6013144004"
     ],
     "Amazon": [
         "3198115",
@@ -3964,7 +3965,8 @@
         "7982715",
         "7983163",
         "7979142",
-        "7976961"
+        "7976961",
+        "7980044"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -5525,7 +5527,8 @@
         "8493152002",
         "8579135002",
         "8577057002",
-        "8570007002"
+        "8570007002",
+        "7914730002"
     ],
     "Rubrik": [
         "7310036",
@@ -11185,7 +11188,10 @@
         "R-279459",
         "R-279070",
         "R-278762",
-        "R-278933"
+        "R-278933",
+        "R-278726",
+        "R-271951",
+        "R-278637"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11742,7 +11748,8 @@
         "R-2532646",
         "R-2532636",
         "R-2532612",
-        "R-2533178-1"
+        "R-2533178-1",
+        "R-2533379"
     ],
     "Salesforce": [
         "R333354",
@@ -14507,7 +14514,13 @@
         "R342506",
         "R-7_JR344890-1",
         "R322255",
-        "R343952"
+        "R343952",
+        "R345067",
+        "R342701",
+        "R345060",
+        "R344956-1",
+        "R344140",
+        "R344139"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -17406,7 +17419,8 @@
         "Intern---Client-Service---Business-Management_868037",
         "HR-Shared-Services-Specialist_868259",
         "Intern---Global-Commissions-Team_868265-1",
-        "Senior-Real-Estate-Asset-Manager---Value-Add_868059"
+        "Senior-Real-Estate-Asset-Manager---Value-Add_868059",
+        "Manager-Investment-Compliance_867930-1"
     ],
     "Invesco": [
         "R-13647",
@@ -20823,7 +20837,8 @@
         "5102291008",
         "5119468008",
         "5248494008",
-        "5247640008"
+        "5247640008",
+        "5239809008"
     ],
     "Coinbase": [
         "7559052",
@@ -26729,7 +26744,15 @@
         "R2018735",
         "R2019265",
         "R2019252",
-        "R2018808"
+        "R2018808",
+        "R2019302",
+        "R2018820",
+        "R2019127",
+        "R2017595",
+        "R2018702",
+        "R2018636",
+        "R2019329",
+        "R2019340"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -29065,7 +29088,10 @@
         "R0000441244",
         "R0000441247",
         "R0000441105",
-        "R0000441377"
+        "R0000441377",
+        "R0000441472",
+        "R0000441152",
+        "R0000441460"
     ],
     "Zoom": [
         "R18188-1",
@@ -29687,7 +29713,9 @@
         "R-106534",
         "R-103047-1",
         "R-105691",
-        "R-105368-1"
+        "R-105368-1",
+        "R-104076",
+        "R-105590-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -30040,7 +30068,8 @@
         "4702122005",
         "4699574005",
         "4699806005",
-        "4702785005"
+        "4702785005",
+        "4703275005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -31799,7 +31828,8 @@
         "R-1_REF081450W",
         "Director--Client-Marketing--RFPs---Business-Development_REF082874W",
         "Analyst--Visa-Strategy-and-Operations_REF082770W",
-        "Director--Marketing-Services-Delivery--Agency-Strategy_REF082872W"
+        "Director--Marketing-Services-Delivery--Agency-Strategy_REF082872W",
+        "Sales-Enablement-AI-Solutions-Analyst_REF080571W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -32034,7 +32064,10 @@
         "Sr-Technical-Program-Manager---AI---Agentic-Personalization_26WD96725",
         "Senior-Strategic-Sourcing-Manager_26WD98598-2",
         "Senior-Machine-Learning-Operations-Engineer---AI-ML-Platform_26WD94525-1",
-        "Senior-Software-Developer---AEC-Data_26WD97860-1"
+        "Senior-Software-Developer---AEC-Data_26WD97860-1",
+        "Principal-Software-Developer--Platform-Integrations_26WD95601-1",
+        "Sr-Principal-Research-Scientist_26WD98875-1",
+        "Senior-Content-Designer_26WD98604-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -32418,7 +32451,9 @@
         "Operations-Analyst--Supply-Chain-Visibility_10151591",
         "Viewer-Insights-Analyst_10151429",
         "Senior-Operations-Analyst--Supply-Chain-Visibility_10152428",
-        "Sr-Technical-Business-Development-Manager--Partner-Growth_10151729"
+        "Sr-Technical-Business-Development-Manager--Partner-Growth_10151729",
+        "Director--North-America-Retail-Sales_10149748",
+        "Sr-Portfolio-Manager_10145552"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -32641,7 +32676,8 @@
         "R000105737-1",
         "R000106019",
         "R000106081",
-        "R000106077"
+        "R000106077",
+        "R000106131"
     ],
     "Kyndryl": [
         "R-61530",
@@ -32975,6 +33011,9 @@
         "R-62889-1",
         "R-62555",
         "R-62092",
-        "R-61880-1"
+        "R-61880-1",
+        "R-62608",
+        "R-61804",
+        "R-61572"
     ]
 }
