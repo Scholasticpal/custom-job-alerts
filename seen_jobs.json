@@ -1102,7 +1102,8 @@
         "7979885",
         "7980514",
         "7980498",
-        "7978584"
+        "7978584",
+        "7975698"
     ],
     "Figma": [
         "5426468004",
@@ -1918,7 +1919,8 @@
         "7750808003",
         "7752501003",
         "7737340003",
-        "7761111003"
+        "7761111003",
+        "7763245003"
     ],
     "Razorpay": [
         "4665089005",
@@ -5479,7 +5481,12 @@
         "8575044002",
         "8569403002",
         "8569479002",
-        "8578093002"
+        "8578093002",
+        "8578167002",
+        "8578168002",
+        "8105504002",
+        "8578144002",
+        "8578177002"
     ],
     "Rubrik": [
         "7310036",
@@ -6730,7 +6737,8 @@
         "7960699",
         "7956849",
         "7976246",
-        "7955374"
+        "7955374",
+        "7955378"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -11086,7 +11094,15 @@
         "R-277435",
         "R-278963",
         "R-279427-1",
-        "R-279356-1"
+        "R-279356-1",
+        "R-279158-1",
+        "R-278208",
+        "R-279045",
+        "R-278786",
+        "R-278708",
+        "R-278709-1",
+        "R-278029-1",
+        "R-277614"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11634,7 +11650,8 @@
         "R-2531540",
         "R-2531532",
         "R-2531530",
-        "R-2531525"
+        "R-2531525",
+        "R-2413625"
     ],
     "Salesforce": [
         "R333354",
@@ -14372,7 +14389,9 @@
         "R344325",
         "R343234-1",
         "R343280",
-        "R343370"
+        "R343370",
+        "R343611",
+        "R344320"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -14927,7 +14946,8 @@
         "Admin-Assistant--Global-Investment-Banking--Korea_26018811",
         "Admin-Assistant--Global-Investment-Banking--Thailand_26018810-1",
         "Head-of-Consumer-Equity-Research-Global-Research--Sydney--Australia_26018997",
-        "Head-of-Industrials-Equity-Research--Global-Research--Sydney--Australia_26018992"
+        "Head-of-Industrials-Equity-Research--Global-Research--Sydney--Australia_26018992",
+        "Vice-President--Sales-Effectiveness-Analyst--Global-Payments-Solutions--Singapore_26019345"
     ],
     "BlackRock": [
         "R263666",
@@ -15610,7 +15630,10 @@
         "R263956",
         "R258137",
         "R264748",
-        "R264546"
+        "R264546",
+        "R263621",
+        "R264726",
+        "R264728"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -15751,7 +15774,8 @@
         "Corporate-Affairs---Global-Advertising---Paid-Media--AVP_41540",
         "Assistant-Vice-President--Portfolio-Management-Oversight_43466",
         "Blackstone-Credit---Insurance---Executive-Assistant_42442",
-        "Private-Wealth---Investor-Services--Analyst-Associate-Vice-President_43245-1"
+        "Private-Wealth---Investor-Services--Analyst-Associate-Vice-President_43245-1",
+        "Asia-Real-Estate-Institutional-Client-Solutions---Marketing-Coordinator---Executive-Assistant---Hong-Kong_43478"
     ],
     "Capital Group": [
         "R6549",
@@ -16078,7 +16102,9 @@
         "R32227",
         "R32545",
         "R32244",
-        "R32159"
+        "R32159",
+        "R32317",
+        "R32319"
     ],
     "Fiserv": [
         "R-10392824",
@@ -17051,7 +17077,11 @@
         "R-10395848",
         "R-10394643",
         "R-10395849",
-        "R-10392512"
+        "R-10392512",
+        "R-10395290",
+        "R-10395288",
+        "R-10395286",
+        "R-10396157-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -17482,7 +17512,10 @@
         "R-13730",
         "R-14103",
         "R-14122",
-        "R-14096"
+        "R-14096",
+        "R-13928",
+        "R-14162",
+        "R-14077"
     ],
     "PayPal": [
         "R0135744-1",
@@ -24252,7 +24285,8 @@
         "R-0106554",
         "R-0107835",
         "R-0107411",
-        "R-0107266-1"
+        "R-0107266-1",
+        "R-0107671"
     ],
     "CrowdStrike": [
         "R26911",
@@ -26459,7 +26493,11 @@
         "R2018803",
         "R2014336",
         "R2013030",
-        "R2015817"
+        "R2015817",
+        "R2007452",
+        "R2015715",
+        "R2019248",
+        "R2019234"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -28752,7 +28790,9 @@
         "R0000441130",
         "R0000439994",
         "R0000439508",
-        "R0000441313"
+        "R0000441313",
+        "R0000441274",
+        "R0000441218-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -29711,7 +29751,8 @@
         "4694435005",
         "4518690005",
         "4702122005",
-        "4699574005"
+        "4699574005",
+        "4699806005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -30254,7 +30295,8 @@
         "7957787",
         "7954575",
         "7922388",
-        "7960358"
+        "7960358",
+        "7960367"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -31431,7 +31473,8 @@
         "Client-Services-Manager---Visa-Direct--cross-border-payments_REF077798W",
         "Director--Software-Engineering_REF081598W",
         "Manager--Data-Production_REF074728W",
-        "Senior-Software-Engineer_REF077104W"
+        "Senior-Software-Engineer_REF077104W",
+        "Solution-Architect--Senior-Manager--VCA-Implementation-Services---Fixed-Term_REF082208W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -31650,7 +31693,8 @@
         "Sr-Principal-Product-Manager--Platform_26WD98837",
         "Sr-Workforce-Development-Strategy-Manager--Autodesk-Education-Experiences_26WD98675-2",
         "Senior-Principal-Engineer_26WD96547",
-        "Principal-Platform-Product-Owner_26WD98840-1"
+        "Principal-Platform-Product-Owner_26WD98840-1",
+        "Software-Engineer--C----C--_26WD97864-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -32013,7 +32057,8 @@
         "Sr-Software-Engineer_10150770",
         "Sr-Executive-Assistant--Disney-Theatrical-Group_10152825",
         "Director--Transformation-FP-A_10148663",
-        "Partnerships-Strategy---Operations-Manager_10151131"
+        "Partnerships-Strategy---Operations-Manager_10151131",
+        "VP--Content-Analytics_10152781"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -32218,7 +32263,8 @@
         "R000105983-1",
         "R000105674",
         "R000106083",
-        "R000105994"
+        "R000105994",
+        "R000104753"
     ],
     "Kyndryl": [
         "R-61530",
@@ -32538,6 +32584,13 @@
         "R-62702",
         "R-62015",
         "R-62017",
-        "R-54456-1"
+        "R-54456-1",
+        "R-60707-1",
+        "R-60720-1",
+        "R-60701-1",
+        "R-60904",
+        "R-62703",
+        "R-57190",
+        "R-58369"
     ]
 }
