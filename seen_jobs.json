@@ -14651,7 +14651,9 @@
         "R343774",
         "R343772",
         "R342340-1",
-        "R344488"
+        "R344488",
+        "R344662",
+        "R332336-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -15929,7 +15931,9 @@
         "R264763-1",
         "R264684",
         "R264770-1",
-        "R258379"
+        "R258379",
+        "R261182",
+        "R261613"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -17418,7 +17422,9 @@
         "R-10395331",
         "R-10395349",
         "R-10395345",
-        "R-10394450"
+        "R-10394450",
+        "R-10377304",
+        "R-10393323"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -17594,7 +17600,8 @@
         "Manager-Investment-Compliance_867930-1",
         "Senior-Digital-Marketing-Associate--Royce-Investment-Partners-_868331",
         "Trust-Counsel_868209-1",
-        "Financial-Institutions-Director_868309"
+        "Financial-Institutions-Director_868309",
+        "Portfolio-Manager--Alternative-Risk-Premia--EG-_868288"
     ],
     "Invesco": [
         "R-13647",
@@ -17867,7 +17874,9 @@
         "R-14329",
         "R-14082",
         "R-13865",
-        "R-14327"
+        "R-14327",
+        "R-12989",
+        "R-14265"
     ],
     "PayPal": [
         "R0135744-1",
@@ -21047,7 +21056,11 @@
         "5201715008",
         "5247156008",
         "5208289008",
-        "5248946008"
+        "5248946008",
+        "5205505008",
+        "5124623008",
+        "5205738008",
+        "5235692008"
     ],
     "Coinbase": [
         "7559052",
@@ -22130,7 +22143,8 @@
         "7804641",
         "7983883",
         "7473817",
-        "7983431"
+        "7983431",
+        "7589765"
     ],
     "Vercel": [
         "5624231004",
@@ -22235,7 +22249,8 @@
         "6006500004",
         "6011651004",
         "5855178004",
-        "6006148004"
+        "6006148004",
+        "6006177004"
     ],
     "MongoDB": [
         "7574659",
@@ -24758,7 +24773,10 @@
         "R-0107796",
         "R-0107129",
         "R-0107595",
-        "R-0107551"
+        "R-0107551",
+        "R-0105509-1",
+        "R-0107553",
+        "R-0107541"
     ],
     "CrowdStrike": [
         "R26911",
@@ -27045,7 +27063,8 @@
         "R2013392",
         "R2015967-1",
         "R2011493",
-        "R2018680"
+        "R2018680",
+        "R2013616"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -29428,7 +29447,8 @@
         "R0000441581-1",
         "R0000441584",
         "R0000441583",
-        "R0000441578"
+        "R0000441578",
+        "R0000441556-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -30411,7 +30431,8 @@
         "4699574005",
         "4699806005",
         "4702785005",
-        "4703275005"
+        "4703275005",
+        "4703542005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -30571,7 +30592,9 @@
         "7981257",
         "7981958",
         "7546837",
-        "7791882"
+        "7791882",
+        "7986160",
+        "7986156"
     ],
     "Samsara": [
         "5747183",
@@ -32208,7 +32231,8 @@
         "Sr-Manager--Work-Station-Support_REF082164W",
         "Sr-Manager---Marketing-Research_REF082809W",
         "Director--Global-Technology-Sourcing_REF081409W",
-        "Administrative-Assistant_REF080558W"
+        "Administrative-Assistant_REF080558W",
+        "Implementation-Analyst_REF082869W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -32459,7 +32483,9 @@
         "Dev-P3--Model-Coordination-_26WD98795-1",
         "Senior-Search-Data-and-Systems-Engineer--Organic-and-Agentic-Search_26WD98620-2",
         "Adoption-Specialist--Hybrid---English-Speaking_26WD95394",
-        "Senior-Sales-Specialist--Autodesk-Operations-Solutions_26WD98843-1"
+        "Senior-Sales-Specialist--Autodesk-Operations-Solutions_26WD98843-1",
+        "Senior-Software-Engineer-in-Test_26WD98725-1",
+        "Finance-BI-Developer--Finance-Business-Intelligence_26WD98677-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -32868,7 +32894,8 @@
         "Sr-Manager--Strategy---Commercialization_10152544",
         "Sr-Software-Engineer_10143970-2",
         "Senior-Machine-Learning-Engineer_10150610",
-        "WABC-Executive-Director---Broadcast-Technology_10153189"
+        "WABC-Executive-Director---Broadcast-Technology_10153189",
+        "Real-Time-Environment-Artist---Expression-of-Interest---ILM-San-Francisco_10153285"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
