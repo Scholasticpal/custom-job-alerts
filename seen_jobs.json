@@ -1782,7 +1782,8 @@
         "4707429101",
         "4825960101",
         "4875248101",
-        "4880153101"
+        "4880153101",
+        "4780793101"
     ],
     "PhonePe": [
         "7650503003",
@@ -2141,7 +2142,9 @@
         "4697558005",
         "4700124005",
         "4701770005",
-        "4701363005"
+        "4701363005",
+        "4702175005",
+        "4703413005"
     ],
     "Rippling": [],
     "Slice": [
@@ -3970,7 +3973,8 @@
         "7983163",
         "7979142",
         "7976961",
-        "7980044"
+        "7980044",
+        "7975814"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -6788,7 +6792,9 @@
         "7978921",
         "7978788",
         "7980647",
-        "7964809"
+        "7964809",
+        "7975812",
+        "7975733"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -7521,7 +7527,9 @@
         "7981902",
         "7981701",
         "7981689",
-        "7981673"
+        "7981673",
+        "7981318",
+        "7981356"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -11201,7 +11209,18 @@
         "R-278726",
         "R-271951",
         "R-278637",
-        "R-279322"
+        "R-279322",
+        "R-279289",
+        "R-278589",
+        "R-268316",
+        "R-279049-1",
+        "R-2_R-277466",
+        "R-278579",
+        "R-279786",
+        "R-279796-1",
+        "R-278209",
+        "R-278554",
+        "R-279068"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -14534,7 +14553,13 @@
         "R338911",
         "R343435",
         "R343520",
-        "R344392"
+        "R344392",
+        "R344975",
+        "R344181",
+        "R343721-1",
+        "R344962",
+        "R344367",
+        "R344222"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -15007,7 +15032,8 @@
         "Senior-Travel-Counselor_J-80513-1",
         "Travel-Counselor_J-82487",
         "Travel-Consultant-II--Emergency-Service-Center_J-80985",
-        "Specialized-Travel-Counselor---First-Premier_J-74935"
+        "Specialized-Travel-Counselor---First-Premier_J-74935",
+        "Forecasting-and-Planning-Analyst_J-81609-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -15797,7 +15823,9 @@
         "R264715",
         "R264697",
         "R264741",
-        "R264713"
+        "R264713",
+        "R264643-1",
+        "R264563-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -16177,7 +16205,8 @@
         "Default-Management-Intern---Year-Round_33382",
         "Account-Specialist_34508",
         "Site-Reliability-Engineer-III--Tue---Sat-_34509-1",
-        "Data-Reliability-Engineer-II_34021-1"
+        "Data-Reliability-Engineer-II_34021-1",
+        "Lead-Security-Software-Engineer_34488-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -17266,7 +17295,10 @@
         "R-10395350",
         "R-10383637",
         "R-10383517",
-        "R-10383635"
+        "R-10383635",
+        "R-10383608",
+        "R-10383639",
+        "R-10383712"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -17707,7 +17739,8 @@
         "R-14299",
         "R-12913",
         "R-14280",
-        "R-14291"
+        "R-14291",
+        "R-13125"
     ],
     "PayPal": [
         "R0135744-1",
@@ -21133,7 +21166,8 @@
         "8544305002",
         "8545663002",
         "8575644002",
-        "8573433002"
+        "8573433002",
+        "8573459002"
     ],
     "Reddit": [
         "7011741",
@@ -22703,7 +22737,8 @@
         "7947090",
         "7960937",
         "7960940",
-        "7942139"
+        "7942139",
+        "7974637"
     ],
     "Datadog": [
         "7194969",
@@ -24556,7 +24591,8 @@
         "R-0106225",
         "R-0095231",
         "R-0101053",
-        "R-0096221"
+        "R-0096221",
+        "R-0107497"
     ],
     "CrowdStrike": [
         "R26911",
@@ -25000,7 +25036,8 @@
         "R27989",
         "R28876",
         "R27222",
-        "R28819"
+        "R28819",
+        "R28946"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -26819,7 +26856,9 @@
         "R2019382",
         "R2019322",
         "R2016862",
-        "R2019216"
+        "R2019216",
+        "R2019233",
+        "R2018620"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -29159,7 +29198,25 @@
         "R0000441472",
         "R0000441152",
         "R0000441460",
-        "R0000441071"
+        "R0000441071",
+        "R0000441416",
+        "R0000441505",
+        "R0000441426",
+        "R0000440016",
+        "R0000441504",
+        "R0000441456",
+        "R0000441466",
+        "R0000441502",
+        "R0000441501-1",
+        "R0000441403",
+        "R0000441413",
+        "R0000441423",
+        "R0000441141",
+        "R0000441431",
+        "R0000441001",
+        "R0000441054",
+        "R0000440667",
+        "R0000437697"
     ],
     "Zoom": [
         "R18188-1",
@@ -30297,7 +30354,8 @@
         "7981252",
         "7981257",
         "7981958",
-        "7546837"
+        "7546837",
+        "7791882"
     ],
     "Samsara": [
         "5747183",
@@ -31903,7 +31961,10 @@
         "Sr-Site-Reliability-Engineer_REF082185W",
         "Senior-Manager--Merchant-Content-and-Loyalty-Program-Management--CLO-_REF081441W-1",
         "Sr-Manager--Client-Consulting_REF082369W",
-        "Licensing-Analyst_REF081386W"
+        "Licensing-Analyst_REF081386W",
+        "Sr-SW-Engineer_REF078402W",
+        "Sr-Client-Consulting-Manager_REF081865W-1",
+        "Sr-Manager---Software-Engineering_REF081982W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -32142,7 +32203,9 @@
         "Principal-Software-Developer--Platform-Integrations_26WD95601-1",
         "Sr-Principal-Research-Scientist_26WD98875-1",
         "Senior-Content-Designer_26WD98604-2",
-        "Senior-Technical-Support-Specialist---BIM-ACC-AMER---PST_26WD98821-1"
+        "Senior-Technical-Support-Specialist---BIM-ACC-AMER---PST_26WD98821-1",
+        "Experience-Designer--Revit--AEC_26WD98623-1",
+        "Senior-Enterprise-Systems-Engineer_26WD96724-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -32537,7 +32600,9 @@
         "Specialist--Brand-Marketing--FX-_10152542",
         "Sr-Business-System-Analyst---Project-Hire_10151360",
         "Sr-Program-Manager---Project-Hire_10151640-1",
-        "Senior-Feature-Animator---Expression-of-Interest---ILM-Vancouver_10153200"
+        "Senior-Feature-Animator---Expression-of-Interest---ILM-Vancouver_10153200",
+        "Intern-Retail-Marketing-DCP_10150476",
+        "Alternance---Charg-e--de-partenariats--F-H-NB-_10145956"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -32761,7 +32826,9 @@
         "R000106019",
         "R000106081",
         "R000106077",
-        "R000106131"
+        "R000106131",
+        "R000103184",
+        "R000104918-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -33101,6 +33168,19 @@
         "R-61572",
         "R-61663-1",
         "R-61661-1",
-        "R-61662-1"
+        "R-61662-1",
+        "R-63039-1",
+        "R-61307",
+        "R-61219",
+        "R-62802",
+        "R-62801",
+        "R-61529",
+        "R-61525",
+        "R-60196-1",
+        "R-39451-1",
+        "R-62533-1",
+        "R-62534-1",
+        "R-60643",
+        "R-57032"
     ]
 }
