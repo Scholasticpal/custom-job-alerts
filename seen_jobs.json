@@ -1758,7 +1758,9 @@
         "10440596",
         "10440758",
         "10441019",
-        "10441133"
+        "10441133",
+        "10441175",
+        "10441179"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -5559,7 +5561,8 @@
         "8579392002",
         "8556808002",
         "8569510002",
-        "8569518002"
+        "8569518002",
+        "8579390002"
     ],
     "Rubrik": [
         "7310036",
@@ -11270,7 +11273,9 @@
         "R-279756",
         "R-279754",
         "R-279701",
-        "R-279354"
+        "R-279354",
+        "R-277194",
+        "R-279463"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -11829,7 +11834,8 @@
         "R-2532612",
         "R-2533178-1",
         "R-2533379",
-        "R-2532360"
+        "R-2532360",
+        "R-2532898"
     ],
     "Salesforce": [
         "R333354",
@@ -14627,7 +14633,10 @@
         "R345317",
         "R345316",
         "R345311",
-        "R341882"
+        "R341882",
+        "R344277",
+        "R345319",
+        "R345335-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -15105,7 +15114,10 @@
         "Dedicated-Account-Representative_J-82130",
         "Senior-Travel-Consultant_J-82877",
         "Hotel-Consultant_J-82563",
-        "Product-Manager-Intern--internship-_J-79121"
+        "Product-Manager-Intern--internship-_J-79121",
+        "Information-Security-Compliance-Analyst_J-81986-1",
+        "Travel-Consultant-II-Houston-TX_J-82886",
+        "Travel-Consultant-II-Miami-FL_J-82884"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -16049,7 +16061,8 @@
         "AVP--HR-Business-Partner---Corporate-Functions_43318",
         "Blackstone-Credit---Insurance--BCBS--Quantitative-Researcher--Senior-Associate_42873",
         "Blackstone-Multi-Asset-Investing--BXMA---Equity-Capital-Markets--Associate_42085",
-        "Product-Owner--VP---BXTI---BXMA-Direct-Trading_43507-1"
+        "Product-Owner--VP---BXTI---BXMA-Direct-Trading_43507-1",
+        "Blackstone-Private-Wealth---Product-Specialist--Associate--Credit-_43518"
     ],
     "Capital Group": [
         "R6549",
@@ -16383,7 +16396,8 @@
         "R32317",
         "R32319",
         "R29853",
-        "R32479"
+        "R32479",
+        "R32472"
     ],
     "Fiserv": [
         "R-10392824",
@@ -17383,7 +17397,9 @@
         "R-10393509",
         "R-10396292",
         "R-10395332",
-        "R-10395331"
+        "R-10395331",
+        "R-10395349",
+        "R-10395345"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -17827,7 +17843,8 @@
         "R-14291",
         "R-13125",
         "R-14329",
-        "R-14082"
+        "R-14082",
+        "R-13865"
     ],
     "PayPal": [
         "R0135744-1",
@@ -24707,7 +24724,9 @@
         "R-0107137-1",
         "R-0107140-1",
         "R-0107526",
-        "R-0107796"
+        "R-0107796",
+        "R-0107129",
+        "R-0107595"
     ],
     "CrowdStrike": [
         "R26911",
@@ -25155,7 +25174,8 @@
         "R28946",
         "R28390",
         "R28302",
-        "R26937"
+        "R26937",
+        "R29019"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -27151,7 +27171,8 @@
         "R0284350-1",
         "R0284360",
         "R0284221",
-        "R0284220"
+        "R0284220",
+        "R0284622"
     ],
     "Target": [
         "R0000436219",
@@ -29359,7 +29380,9 @@
         "R0000441442",
         "R0000441260",
         "R0000441535",
-        "R0000441516"
+        "R0000441516",
+        "R0000441563",
+        "R0000441573-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -29985,7 +30008,8 @@
         "R-104076",
         "R-105590-1",
         "R-104626",
-        "R-106140-1"
+        "R-106140-1",
+        "R-106490-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -30085,7 +30109,8 @@
         "Director--Solutions-Consultants---West_113142-JOB",
         "Operations-Engineer-II_112934-JOB",
         "Director--Deal-Desk_113137-JOB",
-        "Lead-Technical-Success-Specialist---CCaaS_113151-JOB"
+        "Lead-Technical-Success-Specialist---CCaaS_113151-JOB",
+        "Sr-Sales-Operations-Manager_113146-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -31687,7 +31712,8 @@
         "R33057",
         "R35009",
         "R34918",
-        "R34458"
+        "R34458",
+        "R34849"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -32127,7 +32153,10 @@
         "Marketing-Manager_REF082490W-1",
         "Senior-Associate-Counsel_REF082876W",
         "Senior-Associate-Counsel_REF082784W",
-        "Data-Scientist---VCS_REF081617W"
+        "Data-Scientist---VCS_REF081617W",
+        "Sr-Product-Manager--DPS_REF081700W",
+        "Sr-Manager--Work-Station-Support_REF082164W",
+        "Sr-Manager---Marketing-Research_REF082809W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -32374,7 +32403,10 @@
         "Senior-Software-Engineer---Computer-Graphics_26WD98698",
         "Technical-Marketing-Manager_26WD98219",
         "Senior-Business-Process-Analyst--RPA_26WD95232-1",
-        "Talent-Acquisition-Operations-Program-Manager_26WD98972"
+        "Talent-Acquisition-Operations-Program-Manager_26WD98972",
+        "Dev-P3--Model-Coordination-_26WD98795-1",
+        "Senior-Search-Data-and-Systems-Engineer--Organic-and-Agentic-Search_26WD98620-2",
+        "Adoption-Specialist--Hybrid---English-Speaking_26WD95394"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -32777,7 +32809,10 @@
         "Sr-Analyst--People-Research_10150513-2",
         "Alternance-Ingnieur-Qualit-F-H-NB_10148649-2",
         "Technicien-Logistique-Entrepts-F-H-NB--CDI_10153235",
-        "Production-Safety-Manager-NYC_10152331-1"
+        "Production-Safety-Manager-NYC_10152331-1",
+        "Lead-Technical-Program-Manager_10150526",
+        "Remote-Camera-Operations-Coordinator-I_10151169-2",
+        "Sr-Manager--Strategy---Commercialization_10152544"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -33026,7 +33061,9 @@
         "R000106060-1",
         "R000105279",
         "R000104031",
-        "R000106112"
+        "R000106112",
+        "R000105319",
+        "R000106067"
     ],
     "Kyndryl": [
         "R-61530",
