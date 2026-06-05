@@ -1110,7 +1110,9 @@
         "7980578",
         "7980402",
         "7978019",
-        "7955351"
+        "7955351",
+        "7977745",
+        "7919288"
     ],
     "Figma": [
         "5426468004",
@@ -1746,7 +1748,8 @@
         "10439405",
         "10439666",
         "10439724",
-        "10440485"
+        "10440485",
+        "10440596"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -7515,7 +7518,10 @@
         "7927964",
         "7975924",
         "7981909",
-        "7981902"
+        "7981902",
+        "7981701",
+        "7981689",
+        "7981673"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -8304,7 +8310,8 @@
         "cd0ee165-d61b-42f6-80d0-95d522af2d77",
         "2b694ca9-0f0d-4ab5-a4e6-b5531cda59c8",
         "00a5cfca-9c3c-4ba2-972d-f5f1ae0fc5e6",
-        "fcceab83-4d26-4ea3-a5bc-b137b7e5ee5a"
+        "fcceab83-4d26-4ea3-a5bc-b137b7e5ee5a",
+        "fe839191-1761-4094-9d3c-4d554904b84d"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -11193,7 +11200,8 @@
         "R-278933",
         "R-278726",
         "R-271951",
-        "R-278637"
+        "R-278637",
+        "R-279322"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -14523,7 +14531,10 @@
         "R344956-1",
         "R344140",
         "R344139",
-        "R338911"
+        "R338911",
+        "R343435",
+        "R343520",
+        "R344392"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -15090,7 +15101,9 @@
         "Admin-Assistant--Global-Investment-Banking--Thailand_26018810-1",
         "Head-of-Consumer-Equity-Research-Global-Research--Sydney--Australia_26018997",
         "Head-of-Industrials-Equity-Research--Global-Research--Sydney--Australia_26018992",
-        "Vice-President--Sales-Effectiveness-Analyst--Global-Payments-Solutions--Singapore_26019345"
+        "Vice-President--Sales-Effectiveness-Analyst--Global-Payments-Solutions--Singapore_26019345",
+        "Officer--Markets-Support-Analyst--APAC-Equity-Trade-Control---Global-Markets-Operations_26018728",
+        "Vice-President--APAC-Load-Balancer-Engineering---Deployment-Engineer--Core-Technology-Infrastructure_26019547"
     ],
     "BlackRock": [
         "R263666",
@@ -17250,7 +17263,10 @@
         "R-10395870",
         "R-10392927",
         "R-10375679-1",
-        "R-10395350"
+        "R-10395350",
+        "R-10383637",
+        "R-10383517",
+        "R-10383635"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -18050,7 +18066,8 @@
         "R0136870",
         "R0136871",
         "R0136869",
-        "R0136866"
+        "R0136866",
+        "R0136880"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -21940,7 +21957,8 @@
         "7918265",
         "7982870",
         "7804599",
-        "7804641"
+        "7804641",
+        "7983883"
     ],
     "Vercel": [
         "5624231004",
@@ -22043,7 +22061,9 @@
         "6004679004",
         "6003058004",
         "6006500004",
-        "6011651004"
+        "6011651004",
+        "5855178004",
+        "6006148004"
     ],
     "MongoDB": [
         "7574659",
@@ -24529,7 +24549,14 @@
         "R-0107141-1",
         "R-0107139-1",
         "R-0107142-1",
-        "R-0107637"
+        "R-0107637",
+        "R-0102382-1",
+        "R-0104040",
+        "R-0098604",
+        "R-0106225",
+        "R-0095231",
+        "R-0101053",
+        "R-0096221"
     ],
     "CrowdStrike": [
         "R26911",
@@ -26791,7 +26818,8 @@
         "R2019345",
         "R2019382",
         "R2019322",
-        "R2016862"
+        "R2016862",
+        "R2019216"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -29130,7 +29158,8 @@
         "R0000441377",
         "R0000441472",
         "R0000441152",
-        "R0000441460"
+        "R0000441460",
+        "R0000441071"
     ],
     "Zoom": [
         "R18188-1",
@@ -31870,7 +31899,11 @@
         "Director--Client-Marketing--RFPs---Business-Development_REF082874W",
         "Analyst--Visa-Strategy-and-Operations_REF082770W",
         "Director--Marketing-Services-Delivery--Agency-Strategy_REF082872W",
-        "Sales-Enablement-AI-Solutions-Analyst_REF080571W"
+        "Sales-Enablement-AI-Solutions-Analyst_REF080571W",
+        "Sr-Site-Reliability-Engineer_REF082185W",
+        "Senior-Manager--Merchant-Content-and-Loyalty-Program-Management--CLO-_REF081441W-1",
+        "Sr-Manager--Client-Consulting_REF082369W",
+        "Licensing-Analyst_REF081386W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -32108,7 +32141,8 @@
         "Senior-Software-Developer---AEC-Data_26WD97860-1",
         "Principal-Software-Developer--Platform-Integrations_26WD95601-1",
         "Sr-Principal-Research-Scientist_26WD98875-1",
-        "Senior-Content-Designer_26WD98604-2"
+        "Senior-Content-Designer_26WD98604-2",
+        "Senior-Technical-Support-Specialist---BIM-ACC-AMER---PST_26WD98821-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -32500,7 +32534,10 @@
         "Production-Coordinator--National-Geographic-DC-_10151485",
         "VP--Analytics-Engineering---DnA-Operations_10152777",
         "Associate-Manager--Business-Development_10152651",
-        "Specialist--Brand-Marketing--FX-_10152542"
+        "Specialist--Brand-Marketing--FX-_10152542",
+        "Sr-Business-System-Analyst---Project-Hire_10151360",
+        "Sr-Program-Manager---Project-Hire_10151640-1",
+        "Senior-Feature-Animator---Expression-of-Interest---ILM-Vancouver_10153200"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -33061,6 +33098,9 @@
         "R-61880-1",
         "R-62608",
         "R-61804",
-        "R-61572"
+        "R-61572",
+        "R-61663-1",
+        "R-61661-1",
+        "R-61662-1"
     ]
 }
