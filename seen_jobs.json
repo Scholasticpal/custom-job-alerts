@@ -17898,7 +17898,8 @@
         "R-13865",
         "R-14327",
         "R-12989",
-        "R-14265"
+        "R-14265",
+        "R-14053"
     ],
     "PayPal": [
         "R0135744-1",
@@ -27095,7 +27096,8 @@
         "R1994983",
         "R2002578",
         "R2014278",
-        "R2014493"
+        "R2014493",
+        "R2012748"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -32271,7 +32273,9 @@
         "Sr-Manager---Marketing-Research_REF082809W",
         "Director--Global-Technology-Sourcing_REF081409W",
         "Administrative-Assistant_REF080558W",
-        "Implementation-Analyst_REF082869W"
+        "Implementation-Analyst_REF082869W",
+        "Staff-SW-Engineer_REF077990W",
+        "Software-Engineer---Sr-Consultant-level_REF081940W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
