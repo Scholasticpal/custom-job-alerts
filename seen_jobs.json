@@ -3317,7 +3317,8 @@
         "2de0c668-54e9-4681-84e2-3ec445b0446a",
         "ae82c859-8fa1-4a01-b7c2-2edea9402678",
         "14a04e1b-7233-457b-940a-1ee711b59bba",
-        "5a4d9ea3-feea-405d-b36e-ae8def1a9e06"
+        "5a4d9ea3-feea-405d-b36e-ae8def1a9e06",
+        "20583ece-0d9c-4039-84a6-35c66db6d189"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -5581,7 +5582,8 @@
         "8569518002",
         "8579390002",
         "8569592002",
-        "8555871002"
+        "8555871002",
+        "8569600002"
     ],
     "Rubrik": [
         "7310036",
@@ -7589,7 +7591,8 @@
         "7988015",
         "7981842",
         "7962587",
-        "7988253"
+        "7988253",
+        "7988672"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -11331,7 +11334,14 @@
         "R-278729",
         "R-278735",
         "R-279299",
-        "R-279768"
+        "R-279768",
+        "R-279815-1",
+        "R-279431",
+        "R-1_R-277199-1",
+        "R-277886",
+        "R-279145",
+        "R-279267",
+        "R-279880"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -14719,7 +14729,15 @@
         "R340923",
         "R345257",
         "R345413",
-        "R345395"
+        "R345395",
+        "R342472-1",
+        "R342454-1",
+        "R345384",
+        "R340746",
+        "R317233",
+        "R344933",
+        "R344925-1",
+        "R344718"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -15201,7 +15219,12 @@
         "Information-Security-Compliance-Analyst_J-81986-1",
         "Travel-Consultant-II-Houston-TX_J-82886",
         "Travel-Consultant-II-Miami-FL_J-82884",
-        "Senior-Travel-Consultant_J-81856-1"
+        "Senior-Travel-Consultant_J-81856-1",
+        "Technical-Manager_J-82802",
+        "Senior-Engineer-II_J-80206",
+        "Lead-Travel-Consultant_J-82898",
+        "Travel-Accounting-Officer_J-82281",
+        "Product-Owner_J-82893"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -15301,7 +15324,8 @@
         "Operations-Team-Lead_26019768-1",
         "Assistant-Vice-President--Vice-President--Software-Engineer--Global-Markets-Technology_26019766",
         "Officer--Document-Specialist--Global-Treasury-Merchant-Operations_26019776",
-        "Officer---Treasury-Services-Advisor_26019774"
+        "Officer---Treasury-Services-Advisor_26019774",
+        "Officer--Markets-Support-Analyst--Client-Data-Services---Japan--Global-Markets-Operations_26019779"
     ],
     "BlackRock": [
         "R263666",
@@ -16006,7 +16030,15 @@
         "R261182",
         "R261613",
         "R264431",
-        "R264762"
+        "R264762",
+        "R257968",
+        "R261447-1",
+        "R262375",
+        "R263302",
+        "R261831",
+        "R264716",
+        "R264511",
+        "R260639"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -17504,7 +17536,10 @@
         "R-10393323",
         "R-10385094",
         "R-10393173",
-        "R-10393172-1"
+        "R-10393172-1",
+        "R-10396364",
+        "R-10394527",
+        "R-10395196"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -17682,7 +17717,8 @@
         "Trust-Counsel_868209-1",
         "Financial-Institutions-Director_868309",
         "Portfolio-Manager--Alternative-Risk-Premia--EG-_868288",
-        "Relationship-Manager_863384"
+        "Relationship-Manager_863384",
+        "Intern---Fund-Administration-and-Oversight_868155"
     ],
     "Invesco": [
         "R-13647",
@@ -17959,7 +17995,9 @@
         "R-12989",
         "R-14265",
         "R-14053",
-        "R-10787"
+        "R-10787",
+        "R-14242",
+        "R-14270"
     ],
     "PayPal": [
         "R0135744-1",
@@ -18321,7 +18359,8 @@
         "R0136866",
         "R0136880",
         "R0134153-1",
-        "R0133420-1"
+        "R0133420-1",
+        "R0136701-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -21281,7 +21320,8 @@
         "7875711",
         "7881537",
         "7963314",
-        "7977062"
+        "7977062",
+        "7624857"
     ],
     "Discord": [
         "8289766002",
@@ -22978,7 +23018,11 @@
         "7974637",
         "7951947",
         "7966907",
-        "7946790"
+        "7946790",
+        "7980606",
+        "7975692",
+        "7946740",
+        "7946738"
     ],
     "Datadog": [
         "7194969",
@@ -25326,7 +25370,12 @@
         "R28965",
         "R28999",
         "R28990-1",
-        "R29004"
+        "R29004",
+        "R24343",
+        "R27864",
+        "R28995",
+        "R28997",
+        "R29017"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -27196,7 +27245,12 @@
         "R2019408",
         "R2019342",
         "R2007464",
-        "R2019372"
+        "R2019372",
+        "R2019258",
+        "R2019226",
+        "R2019231",
+        "R2018986",
+        "R1999170-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -29610,7 +29664,13 @@
         "R0000441488",
         "R0000441486",
         "R0000440946",
-        "R0000441490"
+        "R0000441490",
+        "R0000441682",
+        "R0000441619",
+        "R0000441673",
+        "R0000441675",
+        "R0000441674",
+        "R0000441668"
     ],
     "Zoom": [
         "R18188-1",
@@ -30242,7 +30302,8 @@
         "R-106490-1",
         "R-106649",
         "R-106580",
-        "R-106620"
+        "R-106620",
+        "R-106616"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -30343,7 +30404,9 @@
         "Operations-Engineer-II_112934-JOB",
         "Director--Deal-Desk_113137-JOB",
         "Lead-Technical-Success-Specialist---CCaaS_113151-JOB",
-        "Sr-Sales-Operations-Manager_113146-JOB"
+        "Sr-Sales-Operations-Manager_113146-JOB",
+        "Incident-Responder_113159-JOB",
+        "Lead-Project-Manager_113147-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -30601,7 +30664,8 @@
         "4703275005",
         "4703542005",
         "4703343005",
-        "4702657005"
+        "4702657005",
+        "4703527005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -31959,7 +32023,8 @@
         "R34918",
         "R34458",
         "R34849",
-        "R35003"
+        "R35003",
+        "R34985"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -32420,7 +32485,19 @@
         "Sr-Database-Engineer---DB2--NoSQL_REF081789W",
         "Implementation-Analyst_REF080680W",
         "R2R-_REF082666W",
-        "Senior-Director---Head-of-Visa-Direct-KBO_REF082896W-1"
+        "Senior-Director---Head-of-Visa-Direct-KBO_REF082896W-1",
+        "Director_REF078512W",
+        "Director--Product-Management---AML---Sanctions-Screening_REF082906W",
+        "Consultant--Talent-Brand-and-Marketing_REF082902W",
+        "Analyst--Visa-Consulting-and-Analytics_REF082904W",
+        "Senior-Business-Analyst_REF082775W",
+        "Manager--Risk-Management_REF082783W",
+        "Risk-Management-Analyst_REF082184W-1",
+        "Senior-Accounting-Analyst_REF082878W",
+        "Client-Consulting-Manager_REF081937W",
+        "Sr-SW-Engineer_REF082601W",
+        "Director---Head-of-Marketing-DRC_REF082898W",
+        "Director---Head-of-Marketing-Ghana_REF082897W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -32678,7 +32755,11 @@
         "Principal-QA-Engineer_26WD98638-1",
         "Digital-Workplace-Services-Specialist_26WD99070-1",
         "Senior-Site-Reliability-Engineer_26WD98854-1",
-        "Data-Engineer--Python--Spark-_26WD95829-1"
+        "Data-Engineer--Python--Spark-_26WD95829-1",
+        "Senior-Experience-Designer---Inventor_26WD98514-1",
+        "Senior-Software-Development-Engineer_26WD97535-1",
+        "Fusion---Field-Sales-Manager_25WD93399-1",
+        "Fusion-Sales-Account-Executive---Named-Accounts_25WD93403-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -33095,7 +33176,9 @@
         "Sr-Data-Engineer_10147781",
         "Safety-Compliance-Manager---Disney-Cruise-Line_10151007",
         "Agent-e--de-Scurit-F-H-NB---CDI_10094263",
-        "Team-Coordinator---1-Year-Contract_10153306"
+        "Team-Coordinator---1-Year-Contract_10153306",
+        "HVAC-Inspector--m-f-d-_10141969",
+        "Senior-Analyst--Growth-Analytics_10149090"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -33349,7 +33432,14 @@
         "R000106067",
         "R000105966",
         "R000106023",
-        "R000098341"
+        "R000098341",
+        "R000106089-1",
+        "R000105431",
+        "R000106045",
+        "R000105816",
+        "R000105115",
+        "R000104754",
+        "R000106030"
     ],
     "Kyndryl": [
         "R-61530",
