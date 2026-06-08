@@ -1123,7 +1123,8 @@
         "7986185",
         "7978586",
         "7953899",
-        "7967356"
+        "7967356",
+        "7975723"
     ],
     "Figma": [
         "5426468004",
@@ -5598,7 +5599,10 @@
         "8569596002",
         "8582323002",
         "8569522002",
-        "8567320002"
+        "8567320002",
+        "8582308002",
+        "8582276002",
+        "8582271002"
     ],
     "Rubrik": [
         "7310036",
@@ -5989,7 +5993,8 @@
         "7962991",
         "7826311",
         "7957270",
-        "7983264"
+        "7983264",
+        "7988852"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -6867,7 +6872,8 @@
         "7917166",
         "7978887",
         "7988072",
-        "7985691"
+        "7985691",
+        "7983529"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -11367,7 +11373,8 @@
         "R-278266",
         "R-278798-1",
         "R-279718",
-        "R-277888"
+        "R-277888",
+        "R-278174-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -14779,7 +14786,14 @@
         "R345503",
         "R345292",
         "R344232",
-        "R344231"
+        "R344231",
+        "R343843",
+        "R345543",
+        "R343150",
+        "R345298",
+        "R343960",
+        "R345355",
+        "R344467"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -15268,7 +15282,8 @@
         "Travel-Accounting-Officer_J-82281",
         "Product-Owner_J-82893",
         "Specialized-Travel-Counselor_J-80585",
-        "Remote-Travel-Consultant--Sabre-Experience_J-82906"
+        "Remote-Travel-Consultant--Sabre-Experience_J-82906",
+        "Travel-Consultant_J-82907"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -16581,7 +16596,8 @@
         "R32356",
         "R32357-1",
         "R32473",
-        "R32346"
+        "R32346",
+        "R32471"
     ],
     "Fiserv": [
         "R-10392824",
@@ -17776,7 +17792,8 @@
         "Portfolio-Manager--Alternative-Risk-Premia--EG-_868288",
         "Relationship-Manager_863384",
         "Intern---Fund-Administration-and-Oversight_868155",
-        "Senior-Digital-Marketing-Associate--Royce-Investment-Partners-_868352"
+        "Senior-Digital-Marketing-Associate--Royce-Investment-Partners-_868352",
+        "Marketing-Associate--Royce-Investment-Partners-_868286"
     ],
     "Invesco": [
         "R-13647",
@@ -21251,7 +21268,8 @@
         "5233643008",
         "5250063008",
         "5250052008",
-        "5250091008"
+        "5250091008",
+        "5245851008"
     ],
     "Coinbase": [
         "7559052",
@@ -21398,7 +21416,11 @@
         "7927054",
         "7930686",
         "7990660",
-        "7991011"
+        "7991011",
+        "7981394",
+        "7746190",
+        "7736531",
+        "6784618"
     ],
     "Discord": [
         "8289766002",
@@ -21517,7 +21539,8 @@
         "8573433002",
         "8573459002",
         "8575240002",
-        "8581126002"
+        "8581126002",
+        "8580659002"
     ],
     "Reddit": [
         "7011741",
@@ -22349,7 +22372,9 @@
         "7473817",
         "7983431",
         "7589765",
-        "7991112"
+        "7991112",
+        "7964038",
+        "7979657"
     ],
     "Vercel": [
         "5624231004",
@@ -23103,7 +23128,11 @@
         "7980606",
         "7975692",
         "7946740",
-        "7946738"
+        "7946738",
+        "7943587",
+        "7991246",
+        "7985996",
+        "7983327"
     ],
     "Datadog": [
         "7194969",
@@ -23697,7 +23726,8 @@
         "7982373",
         "7984184",
         "7977091",
-        "7979689"
+        "7979689",
+        "7989348"
     ],
     "Elastic": [
         "7505982",
@@ -24010,7 +24040,11 @@
         "7817945",
         "7988325",
         "7946583",
-        "7989431"
+        "7989431",
+        "7991482",
+        "7988387",
+        "7991247",
+        "7991248"
     ],
     "Asana": [
         "7120496",
@@ -25015,7 +25049,9 @@
         "R-0107871",
         "R-0107869",
         "R-0107973",
-        "R-0107756"
+        "R-0107756",
+        "R-0107640",
+        "R-0107527-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -25479,7 +25515,9 @@
         "R28517",
         "R21911",
         "R27140",
-        "R28164"
+        "R28164",
+        "R28952",
+        "R28998"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -27366,7 +27404,15 @@
         "R1999561",
         "R2018953",
         "R2011901",
-        "R2014050"
+        "R2014050",
+        "R2018731",
+        "R2018781",
+        "R-2026_JR2019407",
+        "R2012368",
+        "R2018966",
+        "R2015726",
+        "R2019117",
+        "R2018882"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -29812,7 +29858,8 @@
         "R0000441604",
         "R0000441577",
         "R0000441731",
-        "R0000441691"
+        "R0000441691",
+        "R0000441736"
     ],
     "Zoom": [
         "R18188-1",
@@ -30448,7 +30495,8 @@
         "R-106616",
         "R-106295-2",
         "R-104738-1",
-        "R-106268"
+        "R-106268",
+        "R-106320"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -30611,7 +30659,8 @@
         "8577941002",
         "8458341002",
         "8498915002",
-        "8580787002"
+        "8580787002",
+        "8582568002"
     ],
     "Scale AI": [
         "4654510005",
@@ -32666,7 +32715,11 @@
         "Technical-Product-Manager_REF082928W",
         "Senior-Manager--Client-Consulting--Visa-Consulting---Analytics--Braslia_REF075847W",
         "Software-Engineer---Transformation_REF077044W",
-        "Vice-President--Customer-Journey-Product-Tools---Data_REF082472W"
+        "Vice-President--Customer-Journey-Product-Tools---Data_REF082472W",
+        "Senior-Designer--Brand---Experiential_REF081093W",
+        "Sr-Executive-Administrator_REF082554W-1",
+        "Senior-Financial-Analyst_REF082854W",
+        "Software-Engineer_REF078573W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -32944,7 +32997,9 @@
         "Senior-or-Principal-Research-Scientist_26WD94877-1",
         "Senior-Data-Engineer--Analytics---Insights_26WD98881",
         "Sr-Manager--GTM-Operations---Autodesk-Education_26WD98646",
-        "Sr-Consulting-Project-Manager_26WD99150"
+        "Sr-Consulting-Project-Manager_26WD99150",
+        "Predictive-Insights-Analyst_26WD97837-2",
+        "Technical-Sales-Specialist--Fusion-Electronics_26WD98797-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -33379,7 +33434,8 @@
         "Sr-Product-Manager_10150903",
         "Director--Communications---Games---Digital-Entertainment_10153123",
         "Principal-Site-Reliability-Engineer_10147301-1",
-        "Manager--Communications---Games---Digital-Entertainment_10153124"
+        "Manager--Communications---Games---Digital-Entertainment_10153124",
+        "Corporate-Financial-Planning-Analyst_10153155-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -33646,7 +33702,8 @@
         "R000105228",
         "R000106202",
         "R000093759-1",
-        "R000105753-1"
+        "R000105753-1",
+        "R000104749"
     ],
     "Kyndryl": [
         "R-61530",
@@ -34048,6 +34105,8 @@
         "R-62020-1",
         "R-63311-1",
         "R-63307",
-        "R-62077-1"
+        "R-62077-1",
+        "R-62719",
+        "R-61064-1"
     ]
 }
