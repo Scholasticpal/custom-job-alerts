@@ -1767,7 +1767,10 @@
         "10441019",
         "10441133",
         "10441175",
-        "10441179"
+        "10441179",
+        "10441767",
+        "10441768",
+        "10441769"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -7577,7 +7580,9 @@
         "7988040",
         "7988039",
         "7984224",
-        "7988015"
+        "7988015",
+        "7981842",
+        "7962587"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -11300,7 +11305,11 @@
         "R-279430",
         "R-279432-1",
         "R-279536",
-        "R-278434"
+        "R-278434",
+        "R-269162",
+        "R-279916",
+        "R-279450",
+        "R-279889"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15256,7 +15265,9 @@
         "Head-of-Industrials-Equity-Research--Global-Research--Sydney--Australia_26018992",
         "Vice-President--Sales-Effectiveness-Analyst--Global-Payments-Solutions--Singapore_26019345",
         "Officer--Markets-Support-Analyst--APAC-Equity-Trade-Control---Global-Markets-Operations_26018728",
-        "Vice-President--APAC-Load-Balancer-Engineering---Deployment-Engineer--Core-Technology-Infrastructure_26019547"
+        "Vice-President--APAC-Load-Balancer-Engineering---Deployment-Engineer--Core-Technology-Infrastructure_26019547",
+        "Operations-Team-Lead_26019768-1",
+        "Assistant-Vice-President--Vice-President--Software-Engineer--Global-Markets-Technology_26019766"
     ],
     "BlackRock": [
         "R263666",
@@ -23512,7 +23523,10 @@
         "7978971",
         "7984962",
         "7985840",
-        "7978468"
+        "7978468",
+        "7976683",
+        "7982373",
+        "7984184"
     ],
     "Elastic": [
         "7505982",
@@ -24809,7 +24823,8 @@
         "R-0105509-1",
         "R-0107553",
         "R-0107541",
-        "R-0107952"
+        "R-0107952",
+        "R-0107515"
     ],
     "CrowdStrike": [
         "R26911",
@@ -25259,7 +25274,8 @@
         "R28302",
         "R26937",
         "R29019",
-        "R28830"
+        "R28830",
+        "R28965"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -27108,7 +27124,9 @@
         "R2012748",
         "R2017797-1",
         "R2017802",
-        "R2017803"
+        "R2017803",
+        "R2019461",
+        "R2019457"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -29497,7 +29515,11 @@
         "R0000400293",
         "R0000441602",
         "R0000441625",
-        "R0000441116"
+        "R0000441116",
+        "R0000440727",
+        "R0000441614",
+        "R0000441624",
+        "R0000400299"
     ],
     "Zoom": [
         "R18188-1",
@@ -30126,7 +30148,8 @@
         "R-105590-1",
         "R-104626",
         "R-106140-1",
-        "R-106490-1"
+        "R-106490-1",
+        "R-106649"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -30484,7 +30507,8 @@
         "4702785005",
         "4703275005",
         "4703542005",
-        "4703343005"
+        "4703343005",
+        "4702657005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -32291,7 +32315,11 @@
         "Implementation-Analyst_REF082869W",
         "Staff-SW-Engineer_REF077990W",
         "Software-Engineer---Sr-Consultant-level_REF081940W",
-        "Lead-SW-Engineer_REF080572W"
+        "Lead-SW-Engineer_REF080572W",
+        "Senior-Analyst---Interchange_REF082181W-1",
+        "Vice-President--Client-Services---NALP-and-CS-Shared-Services_REF079936W-1",
+        "Senior-Manager--Client-Consulting_REF082056W-1",
+        "Manager--Data-Science---Analytics-Consulting_REF082107W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -32958,7 +32986,8 @@
         "Trade-Finance-Analyst--PH-_10145737-1",
         "Senior-Analyst--Subscriber-Growth---Monetization_10152903",
         "Sr-Executive-Assistant--PH-_10152896",
-        "Sr-Data-Engineer_10147781"
+        "Sr-Data-Engineer_10147781",
+        "Safety-Compliance-Manager---Disney-Cruise-Line_10151007"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -33596,6 +33625,8 @@
         "R-62056",
         "R-61353-1",
         "R-61358-2",
-        "R-61360-1"
+        "R-61360-1",
+        "R-54951",
+        "R-61050"
     ]
 }
