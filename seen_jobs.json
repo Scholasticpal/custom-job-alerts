@@ -1127,7 +1127,8 @@
         "7975723",
         "7932062",
         "7988819",
-        "7991636"
+        "7991636",
+        "7981587"
     ],
     "Figma": [
         "5426468004",
@@ -5605,7 +5606,8 @@
         "8567320002",
         "8582308002",
         "8582276002",
-        "8582271002"
+        "8582271002",
+        "8549058002"
     ],
     "Rubrik": [
         "7310036",
@@ -7621,7 +7623,10 @@
         "7981842",
         "7962587",
         "7988253",
-        "7988672"
+        "7988672",
+        "7962259",
+        "7991862",
+        "7965443"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -11379,7 +11384,10 @@
         "R-279718",
         "R-277888",
         "R-278174-1",
-        "R-279816"
+        "R-279816",
+        "R-277114-1",
+        "R-279797",
+        "R-279216"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -14803,7 +14811,14 @@
         "R340790-1",
         "R344868",
         "R345541",
-        "R345039-1"
+        "R345039-1",
+        "R343889",
+        "R308976-1",
+        "R344806",
+        "R344517",
+        "R345577",
+        "R344201",
+        "R340527"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16497,7 +16512,8 @@
         "Account-Specialist_34508",
         "Site-Reliability-Engineer-III--Tue---Sat-_34509-1",
         "Data-Reliability-Engineer-II_34021-1",
-        "Lead-Security-Software-Engineer_34488-1"
+        "Lead-Security-Software-Engineer_34488-1",
+        "Software-Engineer-III---India_33971-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -21280,7 +21296,8 @@
         "5250063008",
         "5250052008",
         "5250091008",
-        "5245851008"
+        "5245851008",
+        "4936029008"
     ],
     "Coinbase": [
         "7559052",
@@ -22117,7 +22134,9 @@
         "7758896003",
         "7718808003",
         "7758902003",
-        "7758888003"
+        "7758888003",
+        "7764789003",
+        "7764791003"
     ],
     "Robinhood": [
         "7799902",
@@ -23744,7 +23763,8 @@
         "7984184",
         "7977091",
         "7979689",
-        "7989348"
+        "7989348",
+        "7984988"
     ],
     "Elastic": [
         "7505982",
@@ -25071,7 +25091,8 @@
         "R-0107640",
         "R-0107527-1",
         "R-0106537",
-        "R-0107996"
+        "R-0107996",
+        "R-0107604"
     ],
     "CrowdStrike": [
         "R26911",
@@ -25538,7 +25559,12 @@
         "R28164",
         "R28952",
         "R28998",
-        "R28967"
+        "R28967",
+        "R28989",
+        "R28986",
+        "R29053-1",
+        "R28945",
+        "R29048"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -27439,7 +27465,8 @@
         "R2019518",
         "R2019443",
         "R2019303",
-        "R2019312"
+        "R2019312",
+        "R2019574"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -29892,7 +29919,11 @@
         "R0000441784",
         "R0000441114",
         "R0000441514",
-        "R0000441513"
+        "R0000441513",
+        "R0000441579",
+        "R0000441729",
+        "R0000441779",
+        "R0000441789"
     ],
     "Zoom": [
         "R18188-1",
@@ -30092,7 +30123,8 @@
         "R19239-1",
         "R19238",
         "R19243-2",
-        "R19241-1"
+        "R19241-1",
+        "R18622"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -31451,7 +31483,8 @@
         "7974089",
         "7858719",
         "7985884",
-        "7980594"
+        "7980594",
+        "7901819"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -32266,7 +32299,8 @@
         "R34849",
         "R35003",
         "R34985",
-        "R34641"
+        "R34641",
+        "R34972"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -32759,7 +32793,10 @@
         "Senior-Designer--Brand---Experiential_REF081093W",
         "Sr-Executive-Administrator_REF082554W-1",
         "Senior-Financial-Analyst_REF082854W",
-        "Software-Engineer_REF078573W"
+        "Software-Engineer_REF078573W",
+        "Director--Client-Consulting_REF082923W",
+        "Test-Analyst_REF076202W",
+        "Compliance-Specialist_REF080115W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -33041,7 +33078,12 @@
         "Predictive-Insights-Analyst_26WD97837-2",
         "Technical-Sales-Specialist--Fusion-Electronics_26WD98797-1",
         "Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
-        "Principal-Data-Engineer--User-Success_26WD97991-1"
+        "Principal-Data-Engineer--User-Success_26WD97991-1",
+        "Senior-Accountant---Statutory-Compliance---Reporting_26WD96666-1",
+        "Senior-Principal-Engineer--Full-Stack-Platform-_26WD96635-1",
+        "Enterprise-Account-Technical-Lead_26WD98628-1",
+        "Client-Services-Specialist_26WD98639-1",
+        "Director--Fusion-Sales-Americas_25WD93317-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -33747,7 +33789,8 @@
         "R000106202",
         "R000093759-1",
         "R000105753-1",
-        "R000104749"
+        "R000104749",
+        "R000106085"
     ],
     "Kyndryl": [
         "R-61530",
@@ -34153,6 +34196,9 @@
         "R-62719",
         "R-61064-1",
         "R-61893-2",
-        "R-61891"
+        "R-61891",
+        "R-62714-1",
+        "R-62721",
+        "R-39438"
     ]
 }
