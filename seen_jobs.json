@@ -1137,7 +1137,11 @@
         "7984686",
         "7984688",
         "7993151",
-        "7298935"
+        "7298935",
+        "7991419",
+        "7964568",
+        "7989423",
+        "7942923"
     ],
     "Figma": [
         "5426468004",
@@ -4048,7 +4052,8 @@
         "7987862",
         "7992126",
         "7988636",
-        "7991769"
+        "7991769",
+        "7993306"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -11467,7 +11472,16 @@
         "R-277897-1",
         "R-279709",
         "R-279697",
-        "R-279954"
+        "R-279954",
+        "R-277638",
+        "R-278613",
+        "R-279987",
+        "R-279936",
+        "R-277815",
+        "R-277816",
+        "R-280190",
+        "R-280124",
+        "R-279949-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -14920,7 +14934,18 @@
         "R345500",
         "R345688",
         "R332257",
-        "R344472"
+        "R344472",
+        "R345705",
+        "R345702",
+        "R328401",
+        "R345453",
+        "R345742",
+        "R344189",
+        "R344773",
+        "R344294",
+        "R344301",
+        "R342765",
+        "R345378"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16261,7 +16286,10 @@
         "R264560",
         "R264166",
         "R262345",
-        "R264745"
+        "R264745",
+        "R264530",
+        "R264471-1",
+        "R260814"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -16415,7 +16443,8 @@
         "Global-Tax-Compliance---Private-Equity---Assistant-Vice-President_35351-2",
         "Distribution-Compliance-VP_43562-1",
         "Enterprise-AI-Program-Manager--Associate---Enterprise-Technology--_43561",
-        "Private-Equity-Investor-Product-Strategy--AVP_42611-2"
+        "Private-Equity-Investor-Product-Strategy--AVP_42611-2",
+        "Blackstone-Private-Wealth---Product-Specialist--Vice-President--Real-Assets-_39977"
     ],
     "Capital Group": [
         "R6549",
@@ -16553,7 +16582,8 @@
         "R6718-1",
         "R6723",
         "R6728-1",
-        "R6727"
+        "R6727",
+        "R6714"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -17803,7 +17833,11 @@
         "R-10388748",
         "R-10396026",
         "R-10395850",
-        "R-10388275-1"
+        "R-10388275-1",
+        "R-10396395",
+        "R-10387380",
+        "R-10392229-1",
+        "R-10396399"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -18280,7 +18314,8 @@
         "R-14272",
         "R-13293",
         "R-14243",
-        "R-14085"
+        "R-14085",
+        "R-14304"
     ],
     "PayPal": [
         "R0135744-1",
@@ -21647,7 +21682,10 @@
         "7993066",
         "7993445",
         "7993472",
-        "7961318"
+        "7961318",
+        "7993887",
+        "7967336",
+        "7967333"
     ],
     "Discord": [
         "8289766002",
@@ -24565,7 +24603,8 @@
         "6000017004",
         "5999885004",
         "6004523004",
-        "5992269004"
+        "5992269004",
+        "6013260004"
     ],
     "Udemy": [
         "5424719004",
@@ -24756,7 +24795,8 @@
         "R169308",
         "R168316-1",
         "R169450",
-        "R169639"
+        "R169639",
+        "R169455"
     ],
     "Workday": [
         "R-0106509-1",
@@ -25325,7 +25365,11 @@
         "R-0107705",
         "R-0107935",
         "R-0102311-1",
-        "R-0107667"
+        "R-0107667",
+        "R-0103943-1",
+        "R-0107681",
+        "R-0097206",
+        "R-0107485"
     ],
     "CrowdStrike": [
         "R26911",
@@ -25802,7 +25846,8 @@
         "R28964",
         "R28582",
         "R28948",
-        "R24903"
+        "R24903",
+        "R29040-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -27720,7 +27765,11 @@
         "R1996427",
         "R2013020",
         "R2019582",
-        "R2019414"
+        "R2019414",
+        "R2019512",
+        "R2019390",
+        "R2019191",
+        "R2019278"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -30230,7 +30279,14 @@
         "R0000441842",
         "R0000441746-1",
         "R0000441834",
-        "R0000441866"
+        "R0000441866",
+        "R0000441892",
+        "R0000441858",
+        "R0000441707",
+        "R0000441786",
+        "R0000441847",
+        "R0000441851",
+        "R0000434889"
     ],
     "Zoom": [
         "R18188-1",
@@ -30882,7 +30938,9 @@
         "R-104728-1",
         "R-106274",
         "R-105733-1",
-        "R-105892"
+        "R-105892",
+        "R-105682",
+        "R-106781-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -31417,7 +31475,8 @@
         "7981775",
         "7982730",
         "7993595",
-        "7993594"
+        "7993594",
+        "7546833"
     ],
     "Samsara": [
         "5747183",
@@ -32648,7 +32707,9 @@
         "R34092",
         "R33114-1",
         "R35007",
-        "R34982"
+        "R34982",
+        "R31018",
+        "R28123"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -33170,7 +33231,11 @@
         "Senior-Sourcing-Manager_REF082961W",
         "Lead-SW-Engineer_REF082101W",
         "Staff-Site-Reliability-Engineer_REF079682W",
-        "Sr-Data-Scientist_REF082349W"
+        "Sr-Data-Scientist_REF082349W",
+        "Director--Sourcing-Governance---Controls_REF081747W",
+        "Technical-Product-Analyst_REF082777W-1",
+        "Vice-President--Service-Operations---AI-Management_REF078510W",
+        "Corporate-Services-Operations---Communications-Analyst_REF080601W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -33939,7 +34004,11 @@
         "Principal-Product-Mgr_10141909",
         "Talent-Acquisition-Specialist--Disney-Cruise-Line_10153069",
         "Staff-Data-Engineer_10129825",
-        "Technical-Director-II---Disney-Television-Animation_10149315"
+        "Technical-Director-II---Disney-Television-Animation_10149315",
+        "Lead-Product-Manager--AI-Platform_10151165-1",
+        "CDI---Responsable-Commercial-Brand-Deals-Disney--F-H_10141421",
+        "DCL-Port-Package-Rep--CR-_10150804",
+        "Jr-Planner--Ad-Sales---Temp-position--6-months-_10152533"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -34231,7 +34300,8 @@
         "R000106269",
         "R000105672-1",
         "R000104704",
-        "R000106264"
+        "R000106264",
+        "R000106051"
     ],
     "Kyndryl": [
         "R-61530",
@@ -34667,6 +34737,9 @@
         "R-62904",
         "R-62656",
         "R-62653",
-        "R-63066"
+        "R-63066",
+        "R-60853",
+        "R-60845",
+        "R-60827"
     ]
 }
