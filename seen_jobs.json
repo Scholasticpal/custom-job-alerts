@@ -5644,7 +5644,9 @@
         "8575046002",
         "8575048002",
         "8569627002",
-        "8583146002"
+        "8583146002",
+        "6174735002",
+        "8582310002"
     ],
     "Rubrik": [
         "7310036",
@@ -14945,7 +14947,10 @@
         "R344294",
         "R344301",
         "R342765",
-        "R345378"
+        "R345378",
+        "R345657-1",
+        "R345703",
+        "R345522-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21518,7 +21523,8 @@
         "5239794008",
         "5251671008",
         "5251699008",
-        "5251864008"
+        "5251864008",
+        "5251832008"
     ],
     "Coinbase": [
         "7559052",
@@ -21685,7 +21691,9 @@
         "7961318",
         "7993887",
         "7967336",
-        "7967333"
+        "7967333",
+        "7994277",
+        "7994127"
     ],
     "Discord": [
         "8289766002",
@@ -23411,7 +23419,8 @@
         "7983327",
         "7941923",
         "7982613",
-        "7963389"
+        "7963389",
+        "7944089"
     ],
     "Datadog": [
         "7194969",
@@ -25369,7 +25378,11 @@
         "R-0103943-1",
         "R-0107681",
         "R-0097206",
-        "R-0107485"
+        "R-0107485",
+        "R-0107432",
+        "R-0107683",
+        "R-0107539",
+        "R-0107537"
     ],
     "CrowdStrike": [
         "R26911",
@@ -25847,7 +25860,9 @@
         "R28582",
         "R28948",
         "R24903",
-        "R29040-1"
+        "R29040-1",
+        "R29043",
+        "R29041"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -27769,7 +27784,12 @@
         "R2019512",
         "R2019390",
         "R2019191",
-        "R2019278"
+        "R2019278",
+        "R2012656",
+        "R2019466",
+        "R2019578-1",
+        "R2018441",
+        "R2019189"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -27896,7 +27916,10 @@
         "Software-Engineering-Technical-Leader---Frontend--Hybrid-_2016291",
         "Software-Engineer--Backend--Hybrid-_2016293",
         "Software-Developer--Tools---Continuous-Deployment_2016314",
-        "FPGA-Developer_2016578"
+        "FPGA-Developer_2016578",
+        "Product-Compliance-Engineer_2015681-1",
+        "Hardware-Engineer_2015583",
+        "Hardware-Engineer_2016186"
     ],
     "Intel": [
         "R0283052",
@@ -34008,7 +34031,14 @@
         "Lead-Product-Manager--AI-Platform_10151165-1",
         "CDI---Responsable-Commercial-Brand-Deals-Disney--F-H_10141421",
         "DCL-Port-Package-Rep--CR-_10150804",
-        "Jr-Planner--Ad-Sales---Temp-position--6-months-_10152533"
+        "Jr-Planner--Ad-Sales---Temp-position--6-months-_10152533",
+        "Director--Publicity--PR-_10151693",
+        "HR-Business-Partner_10152578-1",
+        "Technical-Artist---Expression-of-Interest---ILM-San-Francisco_10153468",
+        "Manager--Production-Innovation-Lab_10151321",
+        "Senior-Technical-Artist---Expression-of-Interest---ILM-San-Francisco_10153466",
+        "Manager--Remote-Special-Project---Studio-Design---Development--PH-_10151451-1",
+        "Sr-Software-Engineer_10148700"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -34740,6 +34770,7 @@
         "R-63066",
         "R-60853",
         "R-60845",
-        "R-60827"
+        "R-60827",
+        "R-50669"
     ]
 }
