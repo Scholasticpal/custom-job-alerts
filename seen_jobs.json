@@ -1141,7 +1141,8 @@
         "7991419",
         "7964568",
         "7989423",
-        "7942923"
+        "7942923",
+        "7994590"
     ],
     "Figma": [
         "5426468004",
@@ -1794,7 +1795,9 @@
         "10441768",
         "10441769",
         "10442110",
-        "10443883"
+        "10443883",
+        "10444387",
+        "10444371"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -4162,7 +4165,8 @@
         "7971677",
         "7978630",
         "7982355",
-        "7985905"
+        "7985905",
+        "7988899"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -5646,7 +5650,10 @@
         "8569627002",
         "8583146002",
         "6174735002",
-        "8582310002"
+        "8582310002",
+        "8569622002",
+        "8585150002",
+        "8534142002"
     ],
     "Rubrik": [
         "7310036",
@@ -6925,7 +6932,8 @@
         "7991568",
         "7991283",
         "7991249",
-        "7926198"
+        "7926198",
+        "7981489"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -7676,7 +7684,9 @@
         "7988196",
         "7009865",
         "7916604",
-        "7993199"
+        "7993199",
+        "7992051",
+        "7994554"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -11484,7 +11494,11 @@
         "R-280190",
         "R-280124",
         "R-279949-1",
-        "R-279945"
+        "R-279945",
+        "R-280040",
+        "R-279811-1",
+        "R-280086-1",
+        "R-279077"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15467,7 +15481,9 @@
         "FinOps-Analyst_J-82588-1",
         "Invoicing-Agent_J-82606",
         "Event-Planner_J-82926",
-        "Event-Planner-with-English-and-French-Spanish-German-Swedish-Norwegian_J-82923"
+        "Event-Planner-with-English-and-French-Spanish-German-Swedish-Norwegian_J-82923",
+        "Senior-Travel-Consultant_J-79420-1",
+        "Travel-Counselor_J-81858"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -16298,7 +16314,9 @@
         "R264745",
         "R264530",
         "R264471-1",
-        "R260814"
+        "R260814",
+        "R264735",
+        "R-1_R260239"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -17846,7 +17864,8 @@
         "R-10396395",
         "R-10387380",
         "R-10392229-1",
-        "R-10396399"
+        "R-10396399",
+        "R-10380330"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -18324,7 +18343,8 @@
         "R-13293",
         "R-14243",
         "R-14085",
-        "R-14304"
+        "R-14304",
+        "R-13729"
     ],
     "PayPal": [
         "R0135744-1",
@@ -23425,7 +23445,8 @@
         "7941923",
         "7982613",
         "7963389",
-        "7944089"
+        "7944089",
+        "7976625"
     ],
     "Datadog": [
         "7194969",
@@ -24810,7 +24831,8 @@
         "R168316-1",
         "R169450",
         "R169639",
-        "R169455"
+        "R169455",
+        "R169338"
     ],
     "Workday": [
         "R-0106509-1",
@@ -25388,7 +25410,10 @@
         "R-0107683",
         "R-0107539",
         "R-0107537",
-        "R-0107550"
+        "R-0107550",
+        "R-0108040",
+        "R-0108035",
+        "R-0107420-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -27799,7 +27824,8 @@
         "R2019324",
         "R2019445",
         "R2019474",
-        "R2005335"
+        "R2005335",
+        "R2010623"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -30320,7 +30346,12 @@
         "R0000441847",
         "R0000441851",
         "R0000434889",
-        "R0000441903"
+        "R0000441903",
+        "R0000441913-1",
+        "R0000441833",
+        "R0000441912-1",
+        "R0000441154",
+        "R0000441860"
     ],
     "Zoom": [
         "R18188-1",
@@ -33271,7 +33302,14 @@
         "Technical-Product-Analyst_REF082777W-1",
         "Vice-President--Service-Operations---AI-Management_REF078510W",
         "Corporate-Services-Operations---Communications-Analyst_REF080601W",
-        "Senior-Manager--Sales-Engineering---AP-VAS-Issuing-Solutions_REF078846W"
+        "Senior-Manager--Sales-Engineering---AP-VAS-Issuing-Solutions_REF078846W",
+        "Sr-SW-Engineer_REF082575W",
+        "Staff-Software-Engineer_REF082677W",
+        "Software-Engineer_REF082722W",
+        "Senior-Software-Engineer_REF082679W",
+        "Data-Scientist_REF082236W",
+        "Sr-Business-Consultant--Project-Management-Consulting-BFSI-_REF079971W",
+        "Manager-Account-Executive_REF082883W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -33576,7 +33614,8 @@
         "Sales-Specialist--Construction_26WD99083-1",
         "Senior-Software-Developer---Civil-3D_26WD96574-1",
         "Software-Developer_26WD97062-1",
-        "Senior-Manager--Technical-Program-Management_26WD98239"
+        "Senior-Manager--Technical-Program-Management_26WD98239",
+        "Principal-Solution-Architect_26WD98850-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -34059,7 +34098,8 @@
         "Lead-Motion-Editor---ILM-Vancouver_10153249",
         "Manager--Portfolio-Operations---Integrated-Planning_10152517",
         "Designer-II_10152447",
-        "Analyst--Business-Strategy_10153177"
+        "Analyst--Business-Strategy_10153177",
+        "Video-Content-Producer---ESPN-on-Disney----casual-full-time_10153486"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -34353,7 +34393,8 @@
         "R000104704",
         "R000106264",
         "R000106051",
-        "R000106248-1"
+        "R000106248-1",
+        "R000104102-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -34793,6 +34834,11 @@
         "R-60853",
         "R-60845",
         "R-60827",
-        "R-50669"
+        "R-50669",
+        "R-63082",
+        "R-54953",
+        "R-62748-1",
+        "R-62094-1",
+        "R-62662"
     ]
 }
