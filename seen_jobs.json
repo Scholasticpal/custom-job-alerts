@@ -1798,7 +1798,8 @@
         "10443883",
         "10444387",
         "10444371",
-        "10444444"
+        "10444444",
+        "10444626"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -4065,7 +4066,10 @@
         "7992126",
         "7988636",
         "7991769",
-        "7993306"
+        "7993306",
+        "7996480",
+        "7995199",
+        "7995153"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -5664,7 +5668,8 @@
         "8582310002",
         "8569622002",
         "8585150002",
-        "8534142002"
+        "8534142002",
+        "8568015002"
     ],
     "Rubrik": [
         "7310036",
@@ -7698,7 +7703,8 @@
         "7916604",
         "7993199",
         "7992051",
-        "7994554"
+        "7994554",
+        "7995203"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -11522,7 +11528,14 @@
         "R-275525-1",
         "R-279837-1",
         "R-279528-1",
-        "R-269745"
+        "R-269745",
+        "R-277981",
+        "R-278609",
+        "R-277977",
+        "R-280099",
+        "R-279532",
+        "R-279907",
+        "R-279248"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -14999,7 +15012,10 @@
         "R345627",
         "R343600-1",
         "R342761",
-        "R343454-1"
+        "R343454-1",
+        "R331680-1",
+        "R345807",
+        "R344969"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16355,7 +16371,9 @@
         "R261695-1",
         "R264158-1",
         "R261280",
-        "R264744"
+        "R264744",
+        "R260891",
+        "R264772"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -16510,7 +16528,8 @@
         "Distribution-Compliance-VP_43562-1",
         "Enterprise-AI-Program-Manager--Associate---Enterprise-Technology--_43561",
         "Private-Equity-Investor-Product-Strategy--AVP_42611-2",
-        "Blackstone-Private-Wealth---Product-Specialist--Vice-President--Real-Assets-_39977"
+        "Blackstone-Private-Wealth---Product-Specialist--Vice-President--Real-Assets-_39977",
+        "Software-Engineer--Analyst---Alternative-Asset-Management-Technology_43582-1"
     ],
     "Capital Group": [
         "R6549",
@@ -16650,7 +16669,8 @@
         "R6728-1",
         "R6727",
         "R6714",
-        "R6173-1"
+        "R6173-1",
+        "R6704-1"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -17909,7 +17929,9 @@
         "R-10380330",
         "R-10386040",
         "R-10394262",
-        "R-10395865"
+        "R-10395865",
+        "R-10396481",
+        "R-1_R-10391684"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -18766,7 +18788,12 @@
         "R0132574-1",
         "R0135900",
         "R0136830-1",
-        "R0136824-1"
+        "R0136824-1",
+        "R0136680-1",
+        "R0136894",
+        "R0136893",
+        "R0134856-1",
+        "R0136574-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -22190,7 +22217,8 @@
         "7982890",
         "7982927",
         "7982928",
-        "7984021"
+        "7984021",
+        "7996471"
     ],
     "Notion": [],
     "Plaid": [],
@@ -24430,7 +24458,11 @@
         "7976572",
         "7995139",
         "7995138",
-        "7985963"
+        "7985963",
+        "7995182",
+        "7995187",
+        "7995181",
+        "7995180"
     ],
     "Asana": [
         "7120496",
@@ -25480,7 +25512,9 @@
         "R-0108035",
         "R-0107420-1",
         "R-0106187",
-        "R-0107974"
+        "R-0107974",
+        "R-0107708",
+        "R-0107690"
     ],
     "CrowdStrike": [
         "R26911",
@@ -25961,7 +25995,8 @@
         "R29040-1",
         "R29043",
         "R29041",
-        "R25700"
+        "R25700",
+        "R27114"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -27911,7 +27946,10 @@
         "R2019560",
         "R2019562",
         "R2019597",
-        "R2019596"
+        "R2019596",
+        "R2014551-1",
+        "R2019157",
+        "R2018287-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -28041,7 +28079,11 @@
         "FPGA-Developer_2016578",
         "Product-Compliance-Engineer_2015681-1",
         "Hardware-Engineer_2015583",
-        "Hardware-Engineer_2016186"
+        "Hardware-Engineer_2016186",
+        "Engineering-Project-Manager_2015698",
+        "Software-Engineering-Technical-Leader_2016658",
+        "Engineering-Technician_2013224",
+        "Embedded-Software-Test-Engineer_2016182-1"
     ],
     "Intel": [
         "R0283052",
@@ -30442,7 +30484,9 @@
         "R0000441776-1",
         "R0000441876",
         "R0000441919",
-        "R0000441861"
+        "R0000441861",
+        "R0000441862",
+        "R0000441697"
     ],
     "Zoom": [
         "R18188-1",
@@ -31099,7 +31143,9 @@
         "R-105892",
         "R-105682",
         "R-106781-1",
-        "R-106392"
+        "R-106392",
+        "R-106650",
+        "R-106422"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -32870,7 +32916,8 @@
         "R35007",
         "R34982",
         "R31018",
-        "R28123"
+        "R28123",
+        "R35025-1"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -33412,7 +33459,9 @@
         "Business-Development-Senior-Manager---Cameroon--Based-in-Cameroon-_REF082991W",
         "Business-Development-Senior-Manager---Senegal--Based-in-Senegal-_REF082990W",
         "Senior-Data-Engineer_REF082835W-1",
-        "Software-Engineer_REF082672W"
+        "Software-Engineer_REF082672W",
+        "Technical-Product-Manger_REF079327W",
+        "Associate-Technical-Program-Analyst_REF080093W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -33722,7 +33771,13 @@
         "Senior-GenAI-Engineer_26WD98447-1",
         "Senior-DevSecOps-Engineer--AI-ML-Systems-_26WD98448-1",
         "Senior-Software-Applications-Engineering_26WD98756-1",
-        "Business-Customer-Success-Manager_26WD99208-1"
+        "Business-Customer-Success-Manager_26WD99208-1",
+        "People--HR--Consultant---6-month-fixed-term-contract_26WD99297",
+        "Senior-Principal-Software-Developer-_26WD99290",
+        "Senior-Associate-Digital-Business-Representative--APJ_26WD96227-1",
+        "Senior-Software-QA-Engineer_26WD99210-2",
+        "Client-Services-Specialist---German-Speaker--Spanish-as-a-Second-Language-_26WD98388-1",
+        "Senior-Software-Engineer_26WD98870-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -34208,7 +34263,11 @@
         "Analyst--Business-Strategy_10153177",
         "Video-Content-Producer---ESPN-on-Disney----casual-full-time_10153486",
         "Marketing-and-PR-intern_10151757",
-        "Designer--Hardlines--PD_10153025"
+        "Designer--Hardlines--PD_10153025",
+        "Associate-Manager--Studio-Content-Marketing---Publicity--Integrated-Marketing_10153300",
+        "Lead-Control-Software-Developer_10152756",
+        "Sr-Recruiter--Talent-Acquisition_10150448",
+        "Supervising-Video-Editor_10142846"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -34508,7 +34567,11 @@
         "R000105794",
         "R000106284",
         "R000096219-1",
-        "R000104203"
+        "R000104203",
+        "R000106088",
+        "R000106091",
+        "R000101247",
+        "R000105553"
     ],
     "Kyndryl": [
         "R-61530",
@@ -34958,6 +35021,10 @@
         "R-62097-1",
         "R-62100-1",
         "R-63281",
-        "R-62022-1"
+        "R-62022-1",
+        "R-53449",
+        "R-61328",
+        "R-63417-1",
+        "R-60946-1"
     ]
 }
