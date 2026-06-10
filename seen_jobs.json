@@ -11483,7 +11483,8 @@
         "R-277816",
         "R-280190",
         "R-280124",
-        "R-279949-1"
+        "R-279949-1",
+        "R-279945"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -14950,7 +14951,10 @@
         "R345378",
         "R345657-1",
         "R345703",
-        "R345522-1"
+        "R345522-1",
+        "R345374",
+        "R345063",
+        "R343860-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21813,7 +21817,8 @@
         "8573459002",
         "8575240002",
         "8581126002",
-        "8580659002"
+        "8580659002",
+        "8579738002"
     ],
     "Reddit": [
         "7011741",
@@ -25382,7 +25387,8 @@
         "R-0107432",
         "R-0107683",
         "R-0107539",
-        "R-0107537"
+        "R-0107537",
+        "R-0107550"
     ],
     "CrowdStrike": [
         "R26911",
@@ -27789,7 +27795,11 @@
         "R2019466",
         "R2019578-1",
         "R2018441",
-        "R2019189"
+        "R2019189",
+        "R2019324",
+        "R2019445",
+        "R2019474",
+        "R2005335"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -30309,7 +30319,8 @@
         "R0000441786",
         "R0000441847",
         "R0000441851",
-        "R0000434889"
+        "R0000434889",
+        "R0000441903"
     ],
     "Zoom": [
         "R18188-1",
@@ -30511,7 +30522,8 @@
         "R19243-2",
         "R19241-1",
         "R18622",
-        "R18877"
+        "R18877",
+        "R19247-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -33258,7 +33270,8 @@
         "Director--Sourcing-Governance---Controls_REF081747W",
         "Technical-Product-Analyst_REF082777W-1",
         "Vice-President--Service-Operations---AI-Management_REF078510W",
-        "Corporate-Services-Operations---Communications-Analyst_REF080601W"
+        "Corporate-Services-Operations---Communications-Analyst_REF080601W",
+        "Senior-Manager--Sales-Engineering---AP-VAS-Issuing-Solutions_REF078846W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -34038,7 +34051,15 @@
         "Manager--Production-Innovation-Lab_10151321",
         "Senior-Technical-Artist---Expression-of-Interest---ILM-San-Francisco_10153466",
         "Manager--Remote-Special-Project---Studio-Design---Development--PH-_10151451-1",
-        "Sr-Software-Engineer_10148700"
+        "Sr-Software-Engineer_10148700",
+        "Executive-Director--Technical-Account-Management--TAM----APAC_10146629-1",
+        "Executive-Assistant--Creative-Advertising--Disney-Entertainment-Television-_10150784",
+        "Motion-Editor---ILM-Vancouver_10153246",
+        "Senior-Motion-Editor---ILM-Vancouver_10153247",
+        "Lead-Motion-Editor---ILM-Vancouver_10153249",
+        "Manager--Portfolio-Operations---Integrated-Planning_10152517",
+        "Designer-II_10152447",
+        "Analyst--Business-Strategy_10153177"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -34331,7 +34352,8 @@
         "R000105672-1",
         "R000104704",
         "R000106264",
-        "R000106051"
+        "R000106051",
+        "R000106248-1"
     ],
     "Kyndryl": [
         "R-61530",
