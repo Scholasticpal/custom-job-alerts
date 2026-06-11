@@ -1807,7 +1807,8 @@
         "10444834",
         "10444906",
         "10444907",
-        "10445379"
+        "10445379",
+        "10445635"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -3380,7 +3381,8 @@
         "bbd1bed1-470e-41dc-ab36-ec4885bacd10",
         "e8a3e727-d10e-4408-bc56-8f3c64bc4efb",
         "2a24f2cc-424e-44eb-97d2-49c3978cefb2",
-        "08ee2a10-3268-497e-bc10-7c7fee7caa66"
+        "08ee2a10-3268-497e-bc10-7c7fee7caa66",
+        "37c37776-1133-44b8-b72d-333bb57fb12b"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4084,7 +4086,8 @@
         "7996480",
         "7995199",
         "7995153",
-        "7998356"
+        "7998356",
+        "7999656"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -4196,7 +4199,9 @@
         "7985905",
         "7988899",
         "7995006",
-        "7988896"
+        "7988896",
+        "8000037",
+        "8000035"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -5690,7 +5695,14 @@
         "8582459002",
         "8585089002",
         "8587088002",
-        "8026640002"
+        "8026640002",
+        "8438946002",
+        "8569618002",
+        "8587318002",
+        "8587320002",
+        "8587319002",
+        "8568011002",
+        "8585188002"
     ],
     "Rubrik": [
         "7310036",
@@ -6973,7 +6985,8 @@
         "7926198",
         "7981489",
         "7995125",
-        "7993330"
+        "7993330",
+        "7992433"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -11584,7 +11597,17 @@
         "R-279441",
         "R-279515",
         "R-279875",
-        "R-279891"
+        "R-279891",
+        "R-273618-1",
+        "R-280052",
+        "R-271045",
+        "R-279888",
+        "R-279030-1",
+        "R-276385",
+        "R-279433",
+        "R-280092",
+        "R-280002",
+        "R-277868-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15092,7 +15115,13 @@
         "R341833",
         "R345399",
         "R345844",
-        "R345909"
+        "R345909",
+        "R335193",
+        "R341319-1",
+        "R343863",
+        "R344873",
+        "R343689",
+        "R344172"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -15611,7 +15640,12 @@
         "Web-Developer_J-81332",
         "Quality-Tester_J-82186",
         "Cyber-Security-Project-Manager_J-82268",
-        "Senior-Red-Team-Analyst_J-82876"
+        "Senior-Red-Team-Analyst_J-82876",
+        "Quality-Analyst---SDET_J-80049",
+        "Credit-Risk-Analyst_J-82869",
+        "Collections-Financial-Analyst_J-82865",
+        "Quality-Analyst---SDET_J-80050",
+        "Assistant-Manager---Controllership_J-82491"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -16457,7 +16491,8 @@
         "R264772",
         "R264597",
         "R264638",
-        "R261357"
+        "R261357",
+        "R257755-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -16617,7 +16652,8 @@
         "Public-Affairs--Associate_43586",
         "Blackstone-Multi-Asset-Investing--BXMA----Product-Management--Associate_42678-1",
         "Data-Analyst--Associate---Private-Equity-and-Real-Estate-Technology_43594-1",
-        "Software-Engineering-Manager--VP---Private-Wealth-Technology_43593-1"
+        "Software-Engineering-Manager--VP---Private-Wealth-Technology_43593-1",
+        "Transaction-Lawyer--Real-Estate-Debt-Strategies--Senior-Vice-President_41926"
     ],
     "Capital Group": [
         "R6549",
@@ -16980,7 +17016,8 @@
         "R32461",
         "R-7_R32322",
         "R32474",
-        "R32188"
+        "R32188",
+        "R-2026-_R32457"
     ],
     "Fiserv": [
         "R-10392824",
@@ -18032,7 +18069,8 @@
         "R-10396198-1",
         "R-10388755",
         "R-10396433",
-        "R-10396429"
+        "R-10396429",
+        "R-10395872"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -18220,7 +18258,8 @@
         "FTI-Senior-System-Analyst--Power-BI--DAX--SQL--AI-_868340",
         "Senior-Product-Specialist_868302",
         "Senior-Software-Engineer_864529",
-        "Portfolio-Construction-Analyst--Fixed-Income---Portfolio-Risk-Analysis-_868248"
+        "Portfolio-Construction-Analyst--Fixed-Income---Portfolio-Risk-Analysis-_868248",
+        "XMLNAME--Senior--Investment-Content-Specialist_868345"
     ],
     "Invesco": [
         "R-13647",
@@ -21746,7 +21785,8 @@
         "5205497008",
         "5227641008",
         "5013366008",
-        "5253274008"
+        "5253274008",
+        "5252342008"
     ],
     "Coinbase": [
         "7559052",
@@ -24278,7 +24318,10 @@
         "7976825",
         "7991343",
         "7989146",
-        "7993198"
+        "7993198",
+        "7992945",
+        "7979307",
+        "7991863"
     ],
     "Elastic": [
         "7505982",
@@ -24613,7 +24656,8 @@
         "7997315",
         "7996786",
         "7997361",
-        "7997366"
+        "7997366",
+        "7991494"
     ],
     "Asana": [
         "7120496",
@@ -24853,7 +24897,8 @@
         "7977983",
         "7380414",
         "7964326",
-        "7991348"
+        "7991348",
+        "7977717"
     ],
     "Coursera": [
         "5839408004",
@@ -25082,7 +25127,9 @@
         "R169338",
         "R169146",
         "R169157",
-        "R169236"
+        "R169236",
+        "R169696-1",
+        "R-3_R163693"
     ],
     "Workday": [
         "R-0106509-1",
@@ -25682,7 +25729,11 @@
         "R-0108067",
         "R-0108065",
         "R-0107787",
-        "R-0107132"
+        "R-0107132",
+        "R-0107786",
+        "R-0107858",
+        "R-0094228",
+        "R-0106216"
     ],
     "CrowdStrike": [
         "R26911",
@@ -26168,7 +26219,8 @@
         "R29000",
         "R29025",
         "R29042",
-        "R29008"
+        "R29008",
+        "R28569"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -28148,7 +28200,11 @@
         "R2019315",
         "R2019314",
         "R2019184",
-        "R2019395"
+        "R2019395",
+        "R2015231",
+        "R2019580-1",
+        "R2015588",
+        "R2011660"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -28283,7 +28339,8 @@
         "Software-Engineering-Technical-Leader_2016658",
         "Engineering-Technician_2013224",
         "Embedded-Software-Test-Engineer_2016182-1",
-        "Leader--Partner-Sales_2015501"
+        "Leader--Partner-Sales_2015501",
+        "Embedded-Software-Engineer_2016572-1"
     ],
     "Intel": [
         "R0283052",
@@ -30715,7 +30772,23 @@
         "R0000440650",
         "R0000441436",
         "R0000442060",
-        "R0000441690-1"
+        "R0000441690-1",
+        "R0000442015",
+        "R0000442062",
+        "R0000441995",
+        "R0000441905",
+        "R0000441975",
+        "R0000440577-1",
+        "R0000442027",
+        "R0000442047",
+        "R0000441897",
+        "R0000442037",
+        "R0000441827",
+        "R0000440286",
+        "R0000419733",
+        "R0000441607-1",
+        "R0000441644",
+        "R0000441979-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -31380,7 +31453,10 @@
         "R-106654",
         "R-106256-1",
         "R-106196",
-        "R-104016"
+        "R-104016",
+        "R-106728",
+        "R-106647",
+        "R-105439"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -31489,7 +31565,8 @@
         "Security-GRC-Lead_113163-JOB",
         "Sr-Implementation-Consultant_113167-JOB",
         "Engagement-Manager---Professional-Services_113165-JOB",
-        "Technical-Project-Manager---Integrations_113164-JOB-1"
+        "Technical-Project-Manager---Integrations_113164-JOB-1",
+        "Marketing-Analytics-Manager_113161-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -31755,7 +31832,8 @@
         "4703527005",
         "4594879005",
         "4704285005",
-        "4704551005"
+        "4704551005",
+        "4607930005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -33738,7 +33816,10 @@
         "Sr-Legal-Assistant_REF076697W",
         "Senior-Director--Head-of-Acquirer-Advisory-Practice--VCA--Asia-Pacific_REF083027W",
         "Senior-Manager--Agent-Risk-and-Data-Security_REF082549W-1",
-        "Director--Client-Consulting_REF083051W"
+        "Director--Client-Consulting_REF083051W",
+        "Manager--Industry-Insights-and-Data---B2B-Travel-_REF082685W-1",
+        "Manager--Product---Nigeria_REF082691W",
+        "Technical-Program-Manager--10-12-years-experience-_REF082512W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -34068,7 +34149,9 @@
         "Senior-Detection-Engineer-and-Threat-Hunter_25WD93150-1",
         "Technical-Support-Specialist_26WD98981-2",
         "Sr-Software-Engineer_26WD98254-1",
-        "Corporate-Counsel_26WD99183-1"
+        "Corporate-Counsel_26WD99183-1",
+        "Senior-Associate-Sales-Development-Representative_26WD98973-2",
+        "Customer-Success-Advisor---ASEAN_26WD97105-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -34586,7 +34669,12 @@
         "Global-Brand-Commercialization-Manager--PH-IA-_10152570",
         "Mocap--Editor--Mid--Senior-Level-_10148823",
         "Assistant-Manager--New-Business-Developement---Key-Account-Management---Disney-Consumer-Products_10153134",
-        "Senior-Manager--Content-Marketing_10144697-1"
+        "Senior-Manager--Content-Marketing_10144697-1",
+        "KABC-Freelance-News-Photographers_10153621",
+        "Team-Assistant_10150547",
+        "Disney--Trading-and-Planning-Analyst_10143173",
+        "Senior-Manager--Technology--Disney-Store_10153398",
+        "Manager--Creative-Strategy-Marketing_10153396"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -35368,6 +35456,12 @@
         "R-62581",
         "R-62582",
         "R-62752-1",
-        "R-59768"
+        "R-59768",
+        "R-61812-1",
+        "R-63228",
+        "R-63222",
+        "R-63218",
+        "R-61315-1",
+        "R-63230"
     ]
 }
