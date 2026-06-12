@@ -1464,7 +1464,9 @@
         "6019394004",
         "6019398004",
         "6018024004",
-        "6013303004"
+        "6013303004",
+        "6013304004",
+        "6020719004"
     ],
     "Amazon": [
         "3198115",
@@ -5767,7 +5769,14 @@
         "8568173002",
         "8582312002",
         "8585021002",
-        "8589834002"
+        "8589834002",
+        "8568063002",
+        "8590024002",
+        "8590030002",
+        "8590026002",
+        "8590029002",
+        "8569993002",
+        "8517602002"
     ],
     "Rubrik": [
         "7310036",
@@ -6161,7 +6170,8 @@
         "7983264",
         "7988852",
         "7974770",
-        "7985010"
+        "7985010",
+        "7991177"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -7060,7 +7070,8 @@
         "7967144",
         "7462799",
         "7462802",
-        "8001781"
+        "8001781",
+        "8000779"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -8222,7 +8233,11 @@
         "7984917",
         "7996779",
         "7996835",
-        "8000178"
+        "8000178",
+        "7939100",
+        "7985610",
+        "7985808",
+        "7982859"
     ],
     "Dropbox": [
         "7646405",
@@ -11740,7 +11755,8 @@
         "R-279537",
         "R-279260",
         "R-280400-1",
-        "R-280201"
+        "R-280201",
+        "R-248426"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15318,7 +15334,13 @@
         "R344827",
         "R346186",
         "R345770",
-        "R346189"
+        "R346189",
+        "R346225",
+        "R345701",
+        "R346136",
+        "R346099",
+        "R346218",
+        "R344754"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16720,7 +16742,8 @@
         "R263313",
         "R264789",
         "R262286",
-        "R263260"
+        "R263260",
+        "R263287"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -18323,7 +18346,12 @@
         "R-10396143",
         "R-10396413-1",
         "R-10395590",
-        "R-10396437"
+        "R-10396437",
+        "R-10390222",
+        "R-10395356",
+        "R-10395355",
+        "R-10395358",
+        "R-10395357"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -22065,7 +22093,8 @@
         "5254364008",
         "5255752008",
         "5222180008",
-        "5250433008"
+        "5250433008",
+        "5256303008"
     ],
     "Coinbase": [
         "7559052",
@@ -22258,7 +22287,8 @@
         "8001275",
         "7994338",
         "7843712",
-        "7997879"
+        "7997879",
+        "7994498"
     ],
     "Discord": [
         "8289766002",
@@ -22959,7 +22989,9 @@
         "7762568003",
         "7762570003",
         "7765877003",
-        "7725035003"
+        "7725035003",
+        "7767438003",
+        "7767436003"
     ],
     "Robinhood": [
         "7799902",
@@ -23246,7 +23278,8 @@
         "7997218",
         "7847004",
         "7976919",
-        "7985179"
+        "7985179",
+        "7943194"
     ],
     "Vercel": [
         "5624231004",
@@ -24027,7 +24060,8 @@
         "7991447",
         "8000743",
         "8000347",
-        "7950376"
+        "7950376",
+        "8000124"
     ],
     "Datadog": [
         "7194969",
@@ -26110,7 +26144,9 @@
         "R-0107995",
         "R-0108174",
         "R-0103301",
-        "R-0107998-1"
+        "R-0107998-1",
+        "R-0107746",
+        "R-0107793"
     ],
     "CrowdStrike": [
         "R26911",
@@ -26623,7 +26659,9 @@
         "R28919",
         "R28924",
         "R28926",
-        "R28920"
+        "R28920",
+        "R29086",
+        "R26832"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -28653,7 +28691,10 @@
         "R2003384",
         "R2018948-1",
         "R2012859",
-        "R2015346"
+        "R2015346",
+        "R2019821",
+        "R2019616",
+        "R2019112"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -31315,7 +31356,11 @@
         "R0000442260-1",
         "R0000441843",
         "R0000440223-1",
-        "R0000442250"
+        "R0000442250",
+        "R0000442248",
+        "R0000442269",
+        "R0000442278",
+        "R0000442135"
     ],
     "Zoom": [
         "R18188-1",
@@ -32381,7 +32426,8 @@
         "4607930005",
         "4704483005",
         "4704553005",
-        "4704879005"
+        "4704879005",
+        "4704555005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -32551,7 +32597,9 @@
         "7993594",
         "7546833",
         "7537917",
-        "7431448"
+        "7431448",
+        "7977734",
+        "7984543"
     ],
     "Samsara": [
         "5747183",
@@ -33316,7 +33364,10 @@
         "8583896002",
         "8584012002",
         "8583977002",
-        "8584465002"
+        "8584465002",
+        "8590178002",
+        "8590229002",
+        "8590215002"
     ],
     "Pinterest": [
         "7808602",
@@ -34436,7 +34487,8 @@
         "Senior-Cyber-Security-Analyst_REF083061W",
         "Manager--Account-Executive_REF082962W-1",
         "Trilingual-Client-Care-Support---Contact-Center_REF081607W-1",
-        "Bilingual-Client-Care-Support---Contact-Center_REF081608W"
+        "Bilingual-Client-Care-Support---Contact-Center_REF081608W",
+        "Director--Disputes-Lead--Risk-Practice_REF082919W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -34797,7 +34849,8 @@
         "Fusion-Senior-Sales-Specialist--Territory---ANZ_26WD98157-2",
         "Fusion-Senior-Sales-Specialist--Territory---ANZ_26WD98158-1",
         "Senior-Software-Engineer--NodeJS---ReactJS-_26WD97590-1",
-        "Technical-Adoption-Specialist---Civil-3D--German-speaking-_25WD89492"
+        "Technical-Adoption-Specialist---Civil-3D--German-speaking-_25WD89492",
+        "Senior-Technical-Support-Specialist---Inventor_26WD99148"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -35361,7 +35414,10 @@
         "Software-Development-Engineer-in-Test-II---iOS--Swift--Xcode_10151297",
         "Product-Designer-Senior---Softlines---Accessories---Mickey-s-of-Glendale--Project-Hire-Internal-Assignment-_10153379",
         "Sales-Experience-Manager_10153732",
-        "Product-Designer---Trading---Collectibles---Mickey-s-of-Glendale--Project-Hire-Internal-Assignment-_10153381"
+        "Product-Designer---Trading---Collectibles---Mickey-s-of-Glendale--Project-Hire-Internal-Assignment-_10153381",
+        "Supervisor--Performance-Marketing_10149956",
+        "Lead-Studio-Operator_10152959",
+        "Distinguished-Software-Engineer_10149395-2"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -35706,7 +35762,9 @@
         "R000106328-1",
         "R000106220",
         "R000105147",
-        "R000099543"
+        "R000099543",
+        "R000106235",
+        "R000106234"
     ],
     "Kyndryl": [
         "R-61530",
