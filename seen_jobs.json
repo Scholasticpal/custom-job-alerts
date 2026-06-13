@@ -1161,7 +1161,8 @@
         "7994384",
         "7722943",
         "8003129",
-        "7905025"
+        "7905025",
+        "8004035"
     ],
     "Figma": [
         "5426468004",
@@ -5779,7 +5780,8 @@
         "8590026002",
         "8590029002",
         "8569993002",
-        "8517602002"
+        "8517602002",
+        "8590005002"
     ],
     "Rubrik": [
         "7310036",
@@ -15359,7 +15361,8 @@
         "R346103",
         "R345898",
         "R346241",
-        "R343543-1"
+        "R343543-1",
+        "R346050"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22123,7 +22126,8 @@
         "5255853008",
         "5229558008",
         "5257650008",
-        "5257669008"
+        "5257669008",
+        "5253835008"
     ],
     "Coinbase": [
         "7559052",
@@ -22740,7 +22744,8 @@
         "7993775",
         "8001642",
         "7555007",
-        "8004045"
+        "8004045",
+        "7997866"
     ],
     "Notion": [],
     "Plaid": [],
@@ -26189,7 +26194,9 @@
         "R-0102782",
         "R-0107797",
         "R-0107813",
-        "R-0107975"
+        "R-0107975",
+        "R-0107814",
+        "R-0107830"
     ],
     "CrowdStrike": [
         "R26911",
@@ -28749,7 +28756,20 @@
         "R2019636",
         "R2012844",
         "R2019555",
-        "R2013608"
+        "R2013608",
+        "R2002298-1",
+        "R2019739",
+        "R2019840",
+        "R2019800-1",
+        "R2019686",
+        "R2019819",
+        "R2011242",
+        "R2019722",
+        "R2019679",
+        "R2019734",
+        "R2019747",
+        "R2019746",
+        "R2019794"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -31426,7 +31446,8 @@
         "R0000442284",
         "R0000442251",
         "R0000439829",
-        "R0000442313"
+        "R0000442313",
+        "R0000442326"
     ],
     "Zoom": [
         "R18188-1",
@@ -34931,7 +34952,8 @@
         "Vice-President--Corporate-Controller_26WD99404-1",
         "Senior-Software-Developer--Data---Backend-Development-_26WD99219-1",
         "Vice-President--Organization-Effectiveness-and-Workforce-Strategy_26WD99344-1",
-        "Technical-Support-Specialist--BIM_26WD99372-1"
+        "Technical-Support-Specialist--BIM_26WD99372-1",
+        "Partner-Services-Consultant--Construction-_26WD98664"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -35503,7 +35525,8 @@
         "Executive-Assistant--Drama-Development--20th-Television-_10153276-1",
         "Senior-Manager---Marketing---Sales-Strategy--Disney-Vacation-Club_10152862",
         "Analyst--DTC-Strategy_10146682",
-        "SVP--Commercial-Technology_10153272"
+        "SVP--Commercial-Technology_10153272",
+        "Executive-Assistant_10152427-2"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
