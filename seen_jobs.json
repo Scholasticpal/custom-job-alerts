@@ -7842,7 +7842,13 @@
         "8000130",
         "7991835",
         "8000138",
-        "8000158"
+        "8000158",
+        "8007002",
+        "8007001",
+        "8006998",
+        "8006970",
+        "8006952",
+        "8006946"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -11778,7 +11784,9 @@
         "R-279233",
         "R-279959-1",
         "R-279964",
-        "R-280257"
+        "R-280257",
+        "R-279518",
+        "R-280122"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15374,7 +15382,10 @@
         "R346050",
         "R346255",
         "R346007",
-        "R345818"
+        "R345818",
+        "R338249",
+        "R339479",
+        "R345481"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -15910,7 +15921,9 @@
         "Associate-Creative-Director--Spanish-speaking-_J-82122",
         "Reconciliation-Specialist_J-80853",
         "Sourcing-Meeting-Manager_J-82785",
-        "Operations-Manager_J-82784"
+        "Operations-Manager_J-82784",
+        "Senior-Travel-Counselor_J-79512",
+        "Senior-Travel-Consultant_J-81855"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -16024,7 +16037,8 @@
         "Officer---Assistant-Vice-President--Operations-Analyst_26020476",
         "Officer---Assistant-Vice-President--Operations-Analyst_26020475",
         "Vice-President---Director--Relationship-Manager--Global-Commercial-Banking--Philippines_26020473",
-        "Vice-President---Director--Relationship-Manager--Global-Commercial-Banking--Taiwan_26020469"
+        "Vice-President---Director--Relationship-Manager--Global-Commercial-Banking--Taiwan_26020469",
+        "Vice-President--Vulnerability-Management-Remediation--Global-Information-Security--Sydney--Australia_26020457"
     ],
     "BlackRock": [
         "R263666",
@@ -19274,7 +19288,8 @@
         "R0136907",
         "R0136908",
         "R0136911",
-        "R0136821-1"
+        "R0136821-1",
+        "R0136817-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -26733,7 +26748,14 @@
         "R29082-1",
         "R28932",
         "R29007",
-        "R29062"
+        "R29062",
+        "R29106",
+        "R28766",
+        "R29028",
+        "R29029",
+        "R28908",
+        "R28929",
+        "R29047"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -31487,7 +31509,10 @@
         "R0000442352",
         "R0000442164",
         "R0000441415",
-        "R0000442086"
+        "R0000442086",
+        "R0000442371",
+        "R0000438090-1",
+        "R0000434202"
     ],
     "Zoom": [
         "R18188-1",
@@ -34010,7 +34035,8 @@
         "R33653",
         "R34936",
         "R34604",
-        "R35028"
+        "R35028",
+        "R35052"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -34631,7 +34657,8 @@
         "Client-Care-Analyst_REF082936W",
         "Full-Stack-Senior-Developer---Visa-Spend-Clarity_REF080395W",
         "Software-Engineer---Visa-Spend-Clarity_REF082850W",
-        "Staff-Software-Engineer---Developer-Effectiveness--Visa-Spend-Clarity-_REF080436W"
+        "Staff-Software-Engineer---Developer-Effectiveness--Visa-Spend-Clarity-_REF080436W",
+        "Senior-Financial-Analyst_REF083142W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -35572,7 +35599,9 @@
         "Senior-Manager---Marketing---Sales-Strategy--Disney-Vacation-Club_10152862",
         "Analyst--DTC-Strategy_10146682",
         "SVP--Commercial-Technology_10153272",
-        "Executive-Assistant_10152427-2"
+        "Executive-Assistant_10152427-2",
+        "Music-Production-Spec--PH-_10149410",
+        "Sr-Manager--HR---Crew-Experience_10153254"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -35923,7 +35952,9 @@
         "R000104422",
         "R000106268",
         "R000106225",
-        "R000105407"
+        "R000105407",
+        "R000106430",
+        "R000106286"
     ],
     "Kyndryl": [
         "R-61530",
@@ -36435,6 +36466,9 @@
         "R-62932",
         "R-62933",
         "R-62835",
-        "R-62769"
+        "R-62769",
+        "R-58063-1",
+        "R-58065-1",
+        "R-62734"
     ]
 }
