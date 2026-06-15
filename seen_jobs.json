@@ -1167,7 +1167,10 @@
         "8007205",
         "7975725",
         "8007641",
-        "7994443"
+        "7994443",
+        "8003382",
+        "8008880",
+        "7997826"
     ],
     "Figma": [
         "5426468004",
@@ -5807,7 +5810,8 @@
         "8569616002",
         "8589349002",
         "8569506002",
-        "8568039002"
+        "8568039002",
+        "6826177002"
     ],
     "Rubrik": [
         "7310036",
@@ -6206,7 +6210,10 @@
         "7991395",
         "7977604",
         "7972989",
-        "7942501"
+        "7942501",
+        "7980440",
+        "8004181",
+        "8004130"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -8295,7 +8302,8 @@
         "8003867",
         "7996776",
         "7996770",
-        "8001200"
+        "8001200",
+        "8008030"
     ],
     "Dropbox": [
         "7646405",
@@ -15471,7 +15479,15 @@
         "R299492",
         "R296924-1",
         "R346116",
-        "R346367"
+        "R346367",
+        "R346140-1",
+        "R296138-1",
+        "R346156",
+        "R345950-1",
+        "R346077",
+        "R345715",
+        "R343613",
+        "R346070-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16021,7 +16037,8 @@
         "Senior-Software-Developer_J-83003",
         "GDS-Application-Developer_J-83002",
         "Business-Systems-Analyst_J-83001-1",
-        "Security-GRC-Analyst-Intern_J-82302"
+        "Security-GRC-Analyst-Intern_J-82302",
+        "Lead-Java-AWS-Developer_J-83026"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -18521,7 +18538,9 @@
         "R-10396361",
         "R-10396639",
         "R-10382085",
-        "R-10396400"
+        "R-10396400",
+        "R-10380471",
+        "R-10393147"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -19032,7 +19051,8 @@
         "R-13295",
         "R-14321",
         "R-11334",
-        "R-2--SMA_R-14376"
+        "R-2--SMA_R-14376",
+        "R-14252-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -22480,7 +22500,8 @@
         "7701642",
         "8008372",
         "8008033",
-        "8008569"
+        "8008569",
+        "8008594"
     ],
     "Discord": [
         "8289766002",
@@ -22603,7 +22624,8 @@
         "8580659002",
         "8579738002",
         "8586838002",
-        "8579107002"
+        "8579107002",
+        "8584941002"
     ],
     "Reddit": [
         "7011741",
@@ -23190,7 +23212,9 @@
         "7767438003",
         "7767436003",
         "7770397003",
-        "7770395003"
+        "7770395003",
+        "7767432003",
+        "7767434003"
     ],
     "Robinhood": [
         "7799902",
@@ -24894,7 +24918,9 @@
         "8007589",
         "8007598",
         "8003080",
-        "7997872"
+        "7997872",
+        "8003723",
+        "8007394"
     ],
     "Elastic": [
         "7505982",
@@ -25264,7 +25290,9 @@
         "8008502",
         "7995010",
         "8008489",
-        "8008485"
+        "8008485",
+        "8008459",
+        "8008898"
     ],
     "Asana": [
         "7120496",
@@ -26397,7 +26425,10 @@
         "R-0106411",
         "R-0106917",
         "R-0107825",
-        "R-0107616"
+        "R-0107616",
+        "R-0102669",
+        "R-0106227",
+        "R-0107966"
     ],
     "CrowdStrike": [
         "R26911",
@@ -29165,7 +29196,8 @@
         "Technical-Writer_2015536",
         "Silicon-Photonics-Design-Engineer-Technical-Lead---Hybrid-_2016714",
         "Customer-Relibility-Engineer---Isovalent_2015890",
-        "Hardware-Design-Engineer_2013117"
+        "Hardware-Design-Engineer_2013117",
+        "Principal-Software-Engineer---Cisco-Cloud-Control--Hybrid-_2016294"
     ],
     "Intel": [
         "R0283052",
@@ -31747,7 +31779,14 @@
         "R0000421977",
         "R0000442452",
         "R0000442340",
-        "R0000442453"
+        "R0000442453",
+        "R0000442525",
+        "R0000442528",
+        "R0000442521-1",
+        "R0000442516",
+        "R0000442511",
+        "R0000442494",
+        "R0000442443"
     ],
     "Zoom": [
         "R18188-1",
@@ -32442,7 +32481,9 @@
         "R-98494",
         "R-105579",
         "R-106691",
-        "R-105941"
+        "R-105941",
+        "R-106651",
+        "R-106200"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -32618,7 +32659,8 @@
         "8586863002",
         "8586865002",
         "8090503002",
-        "8209823002"
+        "8209823002",
+        "8391589002"
     ],
     "Scale AI": [
         "4654510005",
@@ -32827,7 +32869,8 @@
         "4704483005",
         "4704553005",
         "4704879005",
-        "4704555005"
+        "4704555005",
+        "4702795005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -34031,7 +34074,8 @@
         "6922682",
         "7953645",
         "7983838",
-        "5432095"
+        "5432095",
+        "7958766"
     ],
     "Twitch": [
         "8334413002",
@@ -34948,7 +34992,8 @@
         "Card-Design-Consultant_REF083034W",
         "Associate-Cybersecurity-Engineer_REF079316W",
         "Technical-Project-Manager---Workplace-Technology---6---12-years-Experience_REF082988W",
-        "Product-Manager_REF082909W"
+        "Product-Manager_REF082909W",
+        "Systems-Engineer_REF079729W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -35330,7 +35375,9 @@
         "Technical-Adoption-Specialist---Forma---APS_26WD98866-1",
         "Digital-Renewal-Sales-Rep--English-speaker_26WD100456-1",
         "Senior-Technical-Adoption-Specialist---Forma-Build_26WD98818-1",
-        "Product-Sales-Specialist_26WD96786-1"
+        "Product-Sales-Specialist_26WD96786-1",
+        "Principal-Engineer_26WD99402-2",
+        "Principal-Research---Design-Engineer_26WD98879"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -35924,7 +35971,15 @@
         "Sales-Planning---Analytics-Manager_10152749",
         "Generalist-Artist---Digital-Matte-Painting-for-Feature-Animation_10137435",
         "Senior-Analyst--Corporate-Strategy_10152795",
-        "Executive-Assistant_10153539"
+        "Executive-Assistant_10153539",
+        "Lead-Software-Engineer_10132666",
+        "Principal-Software-Engineer_10149987",
+        "Principal-Software-Engineer_10149993-2",
+        "Manager--Software-Engineering_10152764",
+        "Manager--Product-Design_10152859",
+        "Color-Designer---Disney-Television-Animation_10151476-1",
+        "Background-Painter---Disney-Television-Animation_10151474-2",
+        "Location-Designer---Disney-Television-Animation_10151479-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -36294,7 +36349,8 @@
         "R000106241-1",
         "R000104748",
         "R000106217",
-        "R000106442-1"
+        "R000106442-1",
+        "R000106329"
     ],
     "Kyndryl": [
         "R-61530",
@@ -36831,6 +36887,19 @@
         "R-62074-1",
         "R-61677-1",
         "R-61371",
-        "R-61416-1"
+        "R-61416-1",
+        "R-61892",
+        "R-61904-1",
+        "R-63619",
+        "R-61861-1",
+        "R-63482",
+        "R-63491",
+        "R-63484",
+        "R-63479",
+        "R-63488",
+        "R-63486",
+        "R-63489",
+        "R-63477",
+        "R-63474"
     ]
 }
