@@ -1180,7 +1180,9 @@
         "7967034",
         "7991791",
         "7993682",
-        "7978017"
+        "7978017",
+        "7994539",
+        "8011418"
     ],
     "Figma": [
         "5426468004",
@@ -4197,7 +4199,8 @@
         "8000973",
         "8000972",
         "8010639",
-        "8008063"
+        "8008063",
+        "7919275"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -5853,7 +5856,8 @@
         "8593505002",
         "8585164002",
         "8590411002",
-        "8590201002"
+        "8590201002",
+        "8194916002"
     ],
     "Rubrik": [
         "7310036",
@@ -11949,7 +11953,9 @@
         "R-280455-1",
         "R-280006",
         "R-277550",
-        "R-280386"
+        "R-280386",
+        "R-280325",
+        "R-279400"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15628,7 +15634,13 @@
         "R345537",
         "R341955",
         "R342247-1",
-        "R346775"
+        "R346775",
+        "R318147",
+        "R332958-1",
+        "R318479",
+        "R343406",
+        "R262335",
+        "R346848"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -15721,7 +15733,8 @@
         "7294191",
         "7817507",
         "7870947",
-        "8000160"
+        "8000160",
+        "5870604"
     ],
     "PayU": [],
     "American Express": [
@@ -17073,7 +17086,9 @@
         "R264593",
         "R264769",
         "R256801",
-        "R264750"
+        "R264750",
+        "R264269",
+        "R264580"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -17384,7 +17399,8 @@
         "R6729",
         "R6725",
         "R6758-1",
-        "R6761"
+        "R6761",
+        "R6715"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -18716,7 +18732,8 @@
         "R-10396886",
         "R-10396152",
         "R-10392601",
-        "R-10396742"
+        "R-10396742",
+        "R-10396411"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -19622,7 +19639,8 @@
         "R0136817-1",
         "R0136811-1",
         "R0136829-1",
-        "R0136946"
+        "R0136946",
+        "R0136600"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -22699,7 +22717,8 @@
         "8009392",
         "7558051",
         "8002967",
-        "8010600"
+        "8010600",
+        "7985269"
     ],
     "Discord": [
         "8289766002",
@@ -25773,7 +25792,8 @@
         "7925285",
         "7962978",
         "7962960",
-        "7844020"
+        "7844020",
+        "7586960"
     ],
     "Coursera": [
         "5839408004",
@@ -26019,7 +26039,8 @@
         "R169699",
         "R169210",
         "R169792",
-        "R169584"
+        "R169584",
+        "R169877-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -26680,7 +26701,11 @@
         "R-0107771",
         "R-0107752",
         "R-0107735",
-        "R-0104531"
+        "R-0104531",
+        "R-0107731",
+        "R-0107986-1",
+        "R-0108092",
+        "R-0107988"
     ],
     "CrowdStrike": [
         "R26911",
@@ -27223,7 +27248,9 @@
         "R28895",
         "R27310",
         "R29084",
-        "R29138"
+        "R29138",
+        "R29010",
+        "R26329"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -29362,7 +29389,9 @@
         "R2019986",
         "R2020014",
         "R2011118",
-        "R2013796"
+        "R2013796",
+        "R1998498",
+        "R2018946"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -32172,7 +32201,15 @@
         "R0000441499",
         "R0000442614",
         "R0000442689",
-        "R0000442504"
+        "R0000442504",
+        "R0000440290",
+        "R0000442602",
+        "R0000441931",
+        "R0000442633",
+        "R0000442634",
+        "R0000442526",
+        "R0000440807-1",
+        "R0000442668"
     ],
     "Zoom": [
         "R18188-1",
@@ -32995,7 +33032,8 @@
         "Technical-Project-Manager---Integrations_113164-JOB-1",
         "Marketing-Analytics-Manager_113161-JOB",
         "Program-Manager_113162-JOB-1",
-        "Sr-Customer-Success-Manager---CCaaS_112862-JOB"
+        "Sr-Customer-Success-Manager---CCaaS_112862-JOB",
+        "Director-of-Sales--ANZ_113138-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -35461,7 +35499,10 @@
         "Director--Visa-Consulting-and-Analytics_REF082992W",
         "Product-Manager---VBS-Products-Platforms_REF083070W",
         "Product-Analyst---24-Month-Fixed-Term-Contract_REF082278W",
-        "Director--Acceptance-Products_REF083124W"
+        "Director--Acceptance-Products_REF083124W",
+        "Software-Engineer---Sr-Consultant_REF082548W-1",
+        "Manager--Strategy---Operations---VCA_REF083123W-1",
+        "Senior-Analyst--Solutions-Management_REF081938W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -35861,7 +35902,8 @@
         "Senior-Machine-Learning-Test-Engineer_26WD98377",
         "Director--Communications-Business-Partner--Design---Manufacturing_26WD98676-1",
         "Manager--Applied-AI-ML--Data-Science---Engineering_26WD98753-1",
-        "Technical-Adoption-Specialist--Pre-Construction-Solutions_26WD98887-2"
+        "Technical-Adoption-Specialist--Pre-Construction-Solutions_26WD98887-2",
+        "Technical-Adoption-Specialist-Autodesk-Pre-Construction-Solutions_26WD98888-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -36493,7 +36535,8 @@
         "Production-Manager----ILM-London_10145818",
         "Executive-Assistant--ABC-News-_10153510",
         "Sr-Manager--Merchandise-Planning--The-Disney-Store_10153437",
-        "Lead-Technical-Project-Manager_10152605"
+        "Lead-Technical-Project-Manager_10152605",
+        "Advertising-Operations-Executive---Disney-_10153750"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -37478,6 +37521,11 @@
         "R-63528-1",
         "R-63555-1",
         "R-62636",
-        "R-60523-1"
+        "R-60523-1",
+        "R-56378",
+        "R-56380-1",
+        "R-56382-1",
+        "R-56383-2",
+        "R-56384-1"
     ]
 }
