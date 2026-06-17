@@ -1184,7 +1184,8 @@
         "7994539",
         "8011418",
         "8013981",
-        "8013220"
+        "8013220",
+        "8012497"
     ],
     "Figma": [
         "5426468004",
@@ -8413,7 +8414,9 @@
         "7993530",
         "7972646",
         "8008500",
-        "7520866"
+        "7520866",
+        "8008538",
+        "7990647"
     ],
     "Dropbox": [
         "7646405",
@@ -15748,7 +15751,12 @@
         "R345699",
         "R346012",
         "R346743",
-        "R333484"
+        "R333484",
+        "R346977",
+        "R345452-1",
+        "R323292",
+        "R279911",
+        "R342935"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -17525,7 +17533,8 @@
         "R6761",
         "R6715",
         "R6767",
-        "R6768"
+        "R6768",
+        "R6751"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -18868,7 +18877,10 @@
         "R-10396928",
         "R-10395103",
         "R-10396744",
-        "R-10387959"
+        "R-10387959",
+        "R-10390225",
+        "R-10390220",
+        "R-10388398"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -19072,7 +19084,11 @@
         "AI-Research-Analyst--AI---Digital-Asset-Solutions---US-_868402-2",
         "Senior-Quantitative-Valuation-Analyst_868089",
         "AI-ML-Lead-Engineer_867997",
-        "Corporate-Actions-Analyst_868081"
+        "Corporate-Actions-Analyst_868081",
+        "Client-Portfolio-Associate---International-Equities_868258",
+        "Junior-Quant-Developer_868307-1",
+        "Senior-Retirement---Insurance-Client-Marketing-Manager_868329",
+        "Portfolio-Compliance-Analyst_868035"
     ],
     "Invesco": [
         "R-13647",
@@ -19784,7 +19800,8 @@
         "R0136829-1",
         "R0136946",
         "R0136600",
-        "R0136594-1"
+        "R0136594-1",
+        "R0134928-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -22865,7 +22882,9 @@
         "8010600",
         "7985269",
         "8003605",
-        "8013892"
+        "8013892",
+        "8013718",
+        "8013129"
     ],
     "Discord": [
         "8289766002",
@@ -25325,7 +25344,8 @@
         "8000028",
         "8003034",
         "7984985",
-        "8003977"
+        "8003977",
+        "7967202"
     ],
     "Elastic": [
         "7505982",
@@ -26208,7 +26228,8 @@
         "R169792",
         "R169584",
         "R169877-1",
-        "R169916"
+        "R169916",
+        "R169700"
     ],
     "Workday": [
         "R-0106509-1",
@@ -26883,7 +26904,11 @@
         "R-0108071",
         "R-0105109",
         "R-0105599",
-        "R-0106034"
+        "R-0106034",
+        "R-0108257",
+        "R-0108272-1",
+        "R-0107838",
+        "R-0108270"
     ],
     "CrowdStrike": [
         "R26911",
@@ -27441,7 +27466,8 @@
         "R29032",
         "R29130",
         "R29154",
-        "R29083"
+        "R29083",
+        "R29074-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -32433,7 +32459,27 @@
         "R0000442631",
         "R0000442699",
         "R0000442754",
-        "R0000442768"
+        "R0000442768",
+        "R0000441076-1",
+        "R0000442806",
+        "R0000442805",
+        "R0000442799",
+        "R0000442810",
+        "R0000442809",
+        "R0000442623",
+        "R0000442624",
+        "R0000442808",
+        "R0000442807",
+        "R0000442751",
+        "R0000442804",
+        "R0000442803",
+        "R0000442802",
+        "R0000442800",
+        "R0000442798",
+        "R0000442796",
+        "R0000442794",
+        "R0000442760",
+        "R0000442772"
     ],
     "Zoom": [
         "R18188-1",
@@ -32652,7 +32698,8 @@
         "R19264-1",
         "R19265-1",
         "R18899",
-        "R18941-1"
+        "R18941-1",
+        "R19273-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -34135,7 +34182,10 @@
         "7892030",
         "7961278",
         "7857926",
-        "7742561"
+        "7742561",
+        "7985047",
+        "8002965",
+        "8014376"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -34837,7 +34887,8 @@
         "8582338002",
         "8590362002",
         "8590327002",
-        "8592666002"
+        "8592666002",
+        "8596758002"
     ],
     "Yelp": [],
     "Jupiter Money": [],
@@ -35764,7 +35815,9 @@
         "Client-Care-HR-Payroll-Analyst_REF083048W",
         "Technical-Program-Manager---Audit---Compliance_REF082911W",
         "Senior-Data-Scientist_REF083192W-1",
-        "Data-Engineer---Sr-Consultant-level_REF077495W"
+        "Data-Engineer---Sr-Consultant-level_REF077495W",
+        "Client-Care-Analyst_REF082937W",
+        "Senior-Director--Client-Engineering--End-User-Technology-_REF077856W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -36179,7 +36232,9 @@
         "Mobile-Software-Developer_26WD97481",
         "Enterprise-Account-Sales-Rep_26WD98831-1",
         "Senior-Software-Developer_26WD96718",
-        "Sr-Principal-IAM-Security-Engineer_26WD96445-1"
+        "Sr-Principal-IAM-Security-Engineer_26WD96445-1",
+        "USA-Community-Manager---Forma_26WD99158",
+        "Technical-Sales-Specialist-2_26WD98610-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -36830,7 +36885,17 @@
         "Sr-Software-Engineer_10149914-2",
         "Sr-Software-Engineer_10149904",
         "Senior-Manager-Club-Operations---Member-Experiences--Proprietor----Cotino---A-Storyliving-by-Disney-_10146192",
-        "Audience-Engagement-Editor--ABC-News-_10152899"
+        "Audience-Engagement-Editor--ABC-News-_10152899",
+        "Senior-Security-Engineer---Software-Engineer_10147372",
+        "Senior-Housekeeping-Manager_10153845",
+        "CG-Supervisor---Expression-of-Interest---ILM-Vancouver_10154021-1",
+        "Local-Associate-Account-Manager_10153731",
+        "Product-Mgr-II_10153351",
+        "Senior-Architect_10147156",
+        "Supervisor--Disney--Beneficios_10151065",
+        "Director--Talent---Growth_10153881-1",
+        "Manager--Software-Engineering_10152534",
+        "Executive-Assistant---Enterprise-Technology_10152403"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -37237,7 +37302,8 @@
         "R000105432",
         "R000106183-1",
         "R000106179-1",
-        "R000106184"
+        "R000106184",
+        "R000106092"
     ],
     "Kyndryl": [
         "R-61530",
@@ -37869,6 +37935,10 @@
         "R-60942",
         "R-59065",
         "R-63594",
-        "R-63563"
+        "R-63563",
+        "R-62981",
+        "R-55585",
+        "R-55637",
+        "R-62749-2"
     ]
 }
