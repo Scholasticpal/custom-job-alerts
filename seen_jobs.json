@@ -2074,7 +2074,8 @@
         "7768176003",
         "7766929003",
         "7765845003",
-        "7752985003"
+        "7752985003",
+        "7750885003"
     ],
     "Razorpay": [
         "4665089005",
@@ -4328,7 +4329,8 @@
         "8000037",
         "8000035",
         "8001169",
-        "8004023"
+        "8004023",
+        "7979738"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -5871,7 +5873,11 @@
         "8590201002",
         "8194916002",
         "8194920002",
-        "8593371002"
+        "8593371002",
+        "8569548002",
+        "8596090002",
+        "8596092002",
+        "8596093002"
     ],
     "Rubrik": [
         "7310036",
@@ -6280,7 +6286,8 @@
         "7977005",
         "7972422",
         "8003409",
-        "8012637"
+        "8012637",
+        "8008771"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -8391,7 +8398,8 @@
         "7987840",
         "7987837",
         "7967994",
-        "7993530"
+        "7993530",
+        "7972646"
     ],
     "Dropbox": [
         "7646405",
@@ -11976,7 +11984,16 @@
         "R-279400",
         "R-280106-1",
         "R-280027-1",
-        "R-278892"
+        "R-278892",
+        "R-280266",
+        "R-277520",
+        "R-275200-1",
+        "R-279947",
+        "R-280776",
+        "R-280545",
+        "R-278127",
+        "R-279148",
+        "R-280585"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15670,7 +15687,18 @@
         "R346858-1",
         "R346542",
         "R346543",
-        "R346535-1"
+        "R346535-1",
+        "R332482",
+        "R345980",
+        "R346152",
+        "R346146",
+        "R344777",
+        "R346747",
+        "R346693-1",
+        "R344758",
+        "R346658",
+        "R346884",
+        "R346878-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16234,7 +16262,9 @@
         "Travel-Counselor_J-81171",
         "Client-servicing-manager_J-82833",
         "Account-Management-Representative_J-82742",
-        "Assistant-Manager---IC_J-78757"
+        "Assistant-Manager---IC_J-78757",
+        "Junior-Project-Manager--M-W-D-_J-81966-1",
+        "Data-Admin---Reconciliation-Specialist-with-Swedish-or-Norwegian_J-82069"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -17286,7 +17316,8 @@
         "Transaction-Lawyer--Real-Estate-Debt-Strategies--Senior-Vice-President_41926",
         "Campus-Recruiting-and-Early-Careers--Associate_43583",
         "Legal---Compliance---Fund-Formation-Attorney--MD_42938-2",
-        "Vice-President---Talent-Acquisition--Corporate-_43637"
+        "Vice-President---Talent-Acquisition--Corporate-_43637",
+        "Software-Engineering-Lead--AVP---Legal-and-Compliance-Technology_43671-1"
     ],
     "Capital Group": [
         "R6549",
@@ -18767,7 +18798,10 @@
         "R-10396152",
         "R-10392601",
         "R-10396742",
-        "R-10396411"
+        "R-10396411",
+        "R-10383725",
+        "R-10394324",
+        "R-10396430"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -19294,7 +19328,8 @@
         "R-14375",
         "R-14325",
         "R-14397",
-        "R-2--SMA_R-14377"
+        "R-2--SMA_R-14377",
+        "R-13961"
     ],
     "PayPal": [
         "R0135744-1",
@@ -22756,7 +22791,8 @@
         "7558051",
         "8002967",
         "8010600",
-        "7985269"
+        "7985269",
+        "8003605"
     ],
     "Discord": [
         "8289766002",
@@ -23188,7 +23224,10 @@
         "8009153",
         "8010425",
         "8010607",
-        "8011115"
+        "8011115",
+        "8012700",
+        "8012708",
+        "8012744"
     ],
     "Notion": [],
     "Plaid": [],
@@ -24566,7 +24605,8 @@
         "8003635",
         "6688529",
         "6688527",
-        "8012626"
+        "8012626",
+        "7955987"
     ],
     "Datadog": [
         "7194969",
@@ -25203,7 +25243,9 @@
         "7993551",
         "8010585",
         "8000028",
-        "8003034"
+        "8003034",
+        "7984985",
+        "8003977"
     ],
     "Elastic": [
         "7505982",
@@ -25576,7 +25618,9 @@
         "8008485",
         "8008459",
         "8008898",
-        "8009085"
+        "8009085",
+        "7995012",
+        "7960591"
     ],
     "Asana": [
         "7120496",
@@ -26748,7 +26792,8 @@
         "R-0107988",
         "R-0108096-1",
         "R-0108002",
-        "R-0106465"
+        "R-0106465",
+        "R-0108243"
     ],
     "CrowdStrike": [
         "R26911",
@@ -27298,7 +27343,9 @@
         "R26382",
         "R29080",
         "R29124",
-        "R29100"
+        "R29100",
+        "R29057",
+        "R28933"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -29443,7 +29490,8 @@
         "R2011828",
         "R2017973",
         "R2019758",
-        "R2019871"
+        "R2019871",
+        "R2014235"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -29591,7 +29639,8 @@
         "Principal-Software-Engineer---Cisco-Cloud-Control--Hybrid-_2016294",
         "ASIC-Engineer_2016738",
         "Cloud-Engineer---SysAdmin_2016218",
-        "ASIC-Physical-Design-Engineer_2016938"
+        "ASIC-Physical-Design-Engineer_2016938",
+        "Hardware-Systems-Engineering-Technical-Lead---Milpitas-San-Jose--CA_2004763"
     ],
     "Intel": [
         "R0283052",
@@ -32275,7 +32324,12 @@
         "R0000442080",
         "R0000442647",
         "R0000442690",
-        "R0000422213"
+        "R0000422213",
+        "R0000441855",
+        "R0000400304-1",
+        "R0000442736-1",
+        "R0000442434",
+        "R0000442455"
     ],
     "Zoom": [
         "R18188-1",
@@ -32987,7 +33041,8 @@
         "R-102708",
         "R-106059-1",
         "R-106600",
-        "R-106825"
+        "R-106825",
+        "R-105910"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -34729,7 +34784,8 @@
         "5defd37c-1b9c-4543-828e-bb308e386a79",
         "9091625e-560b-4c35-81c3-98d262af4407",
         "8c29bd7b-bbb8-48ad-a601-c425df86ce2f",
-        "ffb2ba62-1678-49d7-896b-36d808d946b4"
+        "ffb2ba62-1678-49d7-896b-36d808d946b4",
+        "47676c8f-2824-4dcd-9d4c-9f15e16b807f"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -35578,7 +35634,14 @@
         "Staff-Data-Engineer_REF079919W",
         "Staff-SW-Engineer--Java-Fullstack-_REF082973W",
         "Sr-SW-Engineer--Java-Fullstack-_REF082974W",
-        "Financial-Analyst_REF083189W"
+        "Financial-Analyst_REF083189W",
+        "Facilities-Coordinator_REF081296W",
+        "Elite-Care-Escalated-Support-Associate_REF082624W",
+        "Head-of-Interchange-Senior-Dir_REF083033W",
+        "Sr-Manager--Professional-Services-Consulting_REF079341W",
+        "Executive-IT-Support-Technician--Executive-IT---Event-Operations-_REF083004W",
+        "Analyst--Visa-Direct-Field-Marketing--NA-_REF083076W-1",
+        "Manager--Sales-Client-Engagement--Lisbon--Portugal-_REF082984W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -35985,7 +36048,8 @@
         "Credit-and-Collections-Tech-Ops-Analyst_26WD99169-1",
         "Credit-Tech-Operations-Team-Lead_26WD99381-1",
         "Manager--Credit-and-Collections_26WD98916-1",
-        "Senior-Manager--Accounts-Receivable---Cash-Applications-and-Invoicing_26WD98286-1"
+        "Senior-Manager--Accounts-Receivable---Cash-Applications-and-Invoicing_26WD98286-1",
+        "Senior-Full-Stack-Engineer--React--Node-Java-_26WD98090-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -36622,7 +36686,10 @@
         "Senior-Specialist-Marketing_10154029",
         "DCP-Retail-Online-Channel-Management-Assistant-Manager_10154028",
         "Lead-Designer--PD--Softlines--GC_10153955",
-        "Design-Manager--Hardlines--PD_10154027"
+        "Design-Manager--Hardlines--PD_10154027",
+        "Crew-Operations-Specialist---Disney-Cruise-Line_10149982",
+        "Costume-Buyer--Project-Hire---Internal-Assignment-_10153459-2",
+        "Event-Consultant--Disney-Meetings---Events_10152766"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -37017,7 +37084,8 @@
         "R000106426",
         "R000106253-1",
         "R000106489-1",
-        "R000104994-1"
+        "R000104994-1",
+        "R000106249-1"
     ],
     "Kyndryl": [
         "R-61530",
