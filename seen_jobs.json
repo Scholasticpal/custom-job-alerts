@@ -8368,7 +8368,8 @@
         "7993959",
         "7966928",
         "8009909",
-        "7987840"
+        "7987840",
+        "7987837"
     ],
     "Dropbox": [
         "7646405",
@@ -15621,7 +15622,13 @@
         "R346200",
         "R346058",
         "R343067",
-        "R346329-1"
+        "R346329-1",
+        "R333171",
+        "R333178",
+        "R345537",
+        "R341955",
+        "R342247-1",
+        "R346775"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22691,7 +22698,8 @@
         "7701645",
         "8009392",
         "7558051",
-        "8002967"
+        "8002967",
+        "8010600"
     ],
     "Discord": [
         "8289766002",
@@ -23697,7 +23705,8 @@
         "7847004",
         "7976919",
         "7985179",
-        "7943194"
+        "7943194",
+        "8011599"
     ],
     "Vercel": [
         "5624231004",
@@ -29349,7 +29358,11 @@
         "R2019836",
         "R2018302",
         "R2019532",
-        "R2019633"
+        "R2019633",
+        "R2019986",
+        "R2020014",
+        "R2011118",
+        "R2013796"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -32157,7 +32170,9 @@
         "R0000442594",
         "R0000440026-1",
         "R0000441499",
-        "R0000442614"
+        "R0000442614",
+        "R0000442689",
+        "R0000442504"
     ],
     "Zoom": [
         "R18188-1",
@@ -34752,7 +34767,8 @@
         "R33406",
         "R35027-1",
         "R33909",
-        "R34931"
+        "R34931",
+        "R31020"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -35443,7 +35459,9 @@
         "Lead-Software-Engineer---IBM-z-OS---Connex-Advantage-Clearing-and-Settlement_REF082365W",
         "Sr-Director-of-Sales_REF082143W",
         "Director--Visa-Consulting-and-Analytics_REF082992W",
-        "Product-Manager---VBS-Products-Platforms_REF083070W"
+        "Product-Manager---VBS-Products-Platforms_REF083070W",
+        "Product-Analyst---24-Month-Fixed-Term-Contract_REF082278W",
+        "Director--Acceptance-Products_REF083124W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -35841,7 +35859,9 @@
         "Senior-Director--Small-Business-Marketing_26WD97995",
         "Senior-Sales-Specialist--Construction_26WD97990-2",
         "Senior-Machine-Learning-Test-Engineer_26WD98377",
-        "Director--Communications-Business-Partner--Design---Manufacturing_26WD98676-1"
+        "Director--Communications-Business-Partner--Design---Manufacturing_26WD98676-1",
+        "Manager--Applied-AI-ML--Data-Science---Engineering_26WD98753-1",
+        "Technical-Adoption-Specialist--Pre-Construction-Solutions_26WD98887-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -36472,7 +36492,8 @@
         "Senior-Software-Engineer_10149859",
         "Production-Manager----ILM-London_10145818",
         "Executive-Assistant--ABC-News-_10153510",
-        "Sr-Manager--Merchandise-Planning--The-Disney-Store_10153437"
+        "Sr-Manager--Merchandise-Planning--The-Disney-Store_10153437",
+        "Lead-Technical-Project-Manager_10152605"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -37456,6 +37477,7 @@
         "R-62811-1",
         "R-63528-1",
         "R-63555-1",
-        "R-62636"
+        "R-62636",
+        "R-60523-1"
     ]
 }
