@@ -1880,7 +1880,9 @@
         "10451168",
         "10451166",
         "10451656",
-        "10451508"
+        "10451508",
+        "10452413",
+        "10452429"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -2306,7 +2308,8 @@
         "4699137005",
         "4705896005",
         "4706416005",
-        "4706742005"
+        "4706742005",
+        "4705891005"
     ],
     "Rippling": [],
     "Slice": [
@@ -3498,7 +3501,8 @@
         "74c35d72-12a6-4b8a-ac4c-9d751ad8112a",
         "00b98697-9b57-442e-9778-fe159769d1ee",
         "98998daf-2b8e-461c-8ca7-d7e2d7ca12e2",
-        "c0838824-6790-42bb-9c5c-136a9fd691be"
+        "c0838824-6790-42bb-9c5c-136a9fd691be",
+        "938856de-8b1d-4444-a2d2-f8188cb205bf"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4345,7 +4349,8 @@
         "8000035",
         "8001169",
         "8004023",
-        "7979738"
+        "7979738",
+        "8014878"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -4386,7 +4391,9 @@
         "7618038002",
         "5335169002",
         "6793662002",
-        "5317836002"
+        "5317836002",
+        "8598189002",
+        "8598183002"
     ],
     "Databricks": [
         "8437000002",
@@ -7989,7 +7996,8 @@
         "8009239",
         "8009381",
         "8009593",
-        "8007042"
+        "8007042",
+        "8011925"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -12038,7 +12046,13 @@
         "R-279596",
         "R-1_R-272937",
         "R-278420-1",
-        "R-280197"
+        "R-280197",
+        "R-280830",
+        "R-280668",
+        "R-280839",
+        "R-279513",
+        "R-280176-1",
+        "R-279351"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15763,7 +15777,12 @@
         "R346418",
         "R346417",
         "R344263",
-        "R346995"
+        "R346995",
+        "R339296",
+        "R346999",
+        "R347009",
+        "R345447",
+        "R343487"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16331,7 +16350,12 @@
         "Junior-Project-Manager--M-W-D-_J-81966-1",
         "Data-Admin---Reconciliation-Specialist-with-Swedish-or-Norwegian_J-82069",
         "VIP-Group-Agent_J-82091",
-        "Travel-Consultant_J-83098"
+        "Travel-Consultant_J-83098",
+        "Senior-Engineer-II_J-82978",
+        "Engineer-I_J-82977",
+        "Senior-Engineer-II_J-82975",
+        "Senior-Engineer-II_J-82976",
+        "Senior-Travel-consultant_J-81664"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -16450,7 +16474,8 @@
         "Vice-President--Software-Engineer-II--Enterprise-Risk-and-Finance-Technology_26020785",
         "Vice-President--Quantitative-Analyst--Interest-Rates--Global-Markets--Japan_26020780",
         "Vice-President--Analyst-II---Tech-Delivery--Enterprise-Risk-and-Finance-Technology_26020786",
-        "Group-Assistant--Investment-Banking-Japan_26018070-1"
+        "Group-Assistant--Investment-Banking-Japan_26018070-1",
+        "Vice-President-Director--Supervisory-Analyst--Global-Research_26020918"
     ],
     "BlackRock": [
         "R263666",
@@ -17391,7 +17416,8 @@
         "Blackstone-Credit---Insurance---AI-Engineer--Principal_43680-2",
         "Blackstone-Credit---Insurance---AI-Engineer--Principal_43676",
         "Channel-Marketer--LATAM--AVP---Corporate-Affairs_43677",
-        "Internal-Audit---Executive-Assistant_43687"
+        "Internal-Audit---Executive-Assistant_43687",
+        "Human-Resources---HR-Business-Partner--Associate_42394"
     ],
     "Capital Group": [
         "R6549",
@@ -19425,7 +19451,8 @@
         "R-14390",
         "R-14184",
         "R-12993",
-        "R-14344-1"
+        "R-14344-1",
+        "R-14507"
     ],
     "PayPal": [
         "R0135744-1",
@@ -22896,7 +22923,8 @@
         "8013129",
         "8013951",
         "7366208",
-        "7967649"
+        "7967649",
+        "8008047"
     ],
     "Discord": [
         "8289766002",
@@ -24721,7 +24749,8 @@
         "7966785",
         "7947560",
         "7727910",
-        "7727913"
+        "7727913",
+        "8012736"
     ],
     "Datadog": [
         "7194969",
@@ -25361,7 +25390,8 @@
         "8003034",
         "7984985",
         "8003977",
-        "7967202"
+        "7967202",
+        "8003531"
     ],
     "Elastic": [
         "7505982",
@@ -27492,7 +27522,8 @@
         "R29083",
         "R29074-1",
         "R26362",
-        "R-2026--REMOTE-_R26263"
+        "R-2026--REMOTE-_R26263",
+        "R29132"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -32509,7 +32540,16 @@
         "R0000442642-1",
         "R0000442818-1",
         "R0000442648",
-        "R0000442730-1"
+        "R0000442730-1",
+        "R0000442791-1",
+        "R0000442811",
+        "R0000442841",
+        "R0000442822",
+        "R0000442834",
+        "R0000442420",
+        "R0000442290",
+        "R0000441648",
+        "R0000441173"
     ],
     "Zoom": [
         "R18188-1",
@@ -33623,7 +33663,8 @@
         "4704555005",
         "4702795005",
         "4684073005",
-        "4706127005"
+        "4706127005",
+        "4706566005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -35862,7 +35903,11 @@
         "Business-Development-Leader_REF081831W",
         "Sr-Director--Account-Executive_REF081523W",
         "Senior-Consultant--Client-Success-Manager---Client-Services_REF069743W",
-        "Campaign-Analysts-x-2---24-month-Fixed-Term-Contract_REF082217W"
+        "Campaign-Analysts-x-2---24-month-Fixed-Term-Contract_REF082217W",
+        "Senior-Director--Innovation-and-Strategic-Partnerships--Hong-Kong_REF083278W",
+        "SW-Engineer--1---2-years-of-exp-in-Net---Python--Full-stack-development--Angular---React--GenAI-_REF083084W-1",
+        "Lead-AI-Engineer--Agentic-AI-_REF078189W",
+        "Sr-Director--Corporate-Communications-SOCO_REF083074W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -36280,7 +36325,10 @@
         "Sr-Principal-IAM-Security-Engineer_26WD96445-1",
         "USA-Community-Manager---Forma_26WD99158",
         "Technical-Sales-Specialist-2_26WD98610-1",
-        "Public-Sector-Compliance-Analyst_26WD97769-1"
+        "Public-Sector-Compliance-Analyst_26WD97769-1",
+        "Forma-Design---Technical-Program-Manager_26WD99302-1",
+        "Senior-Customer-Success-Manager_26WD98771-1",
+        "Senior-Financial-Analyst--IME-Finance_26WD96106-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -36944,7 +36992,9 @@
         "Executive-Assistant---Enterprise-Technology_10152403",
         "Manager--DTC-Subscriber-Growth---Monetization_10147434-1",
         "Manager--Finance---Addressable-Ad-Sales_10153183-1",
-        "Deputy-General-Counsel---Corporate-Transactions_10153984"
+        "Deputy-General-Counsel---Corporate-Transactions_10153984",
+        "Senior-Compositor_10154116",
+        "Animator_10154115"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -37990,6 +38040,8 @@
         "R-55637",
         "R-62749-2",
         "R-61785-1",
-        "R-61788-1"
+        "R-61788-1",
+        "R-63602-1",
+        "R-60137"
     ]
 }
