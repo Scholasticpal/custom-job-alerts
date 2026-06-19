@@ -12137,7 +12137,9 @@
         "R-279033",
         "R-280054",
         "R-279581",
-        "R-278384"
+        "R-278384",
+        "R-280397",
+        "R-280497"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15902,7 +15904,10 @@
         "R346193",
         "R347131-1",
         "R-6_JR344116",
-        "R346844"
+        "R346844",
+        "R347139",
+        "R344819",
+        "R346968"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16604,7 +16609,9 @@
         "Vice-President--Analyst-II---Tech-Delivery--Enterprise-Risk-and-Finance-Technology_26020786",
         "Group-Assistant--Investment-Banking-Japan_26018070-1",
         "Vice-President-Director--Supervisory-Analyst--Global-Research_26020918",
-        "AVP--Markets-Support-Specialist--ETD---Collateral-Operations---Taiwan--Global-Markets-Operations_26021020"
+        "AVP--Markets-Support-Specialist--ETD---Collateral-Operations---Taiwan--Global-Markets-Operations_26021020",
+        "Associate-Vice-President--HKD-Rates-Trader--FICC-Trading--Singapore---Hong-Kong_26021206",
+        "Associate-Vice-President--APAC-Short-Rates-Sales--Global-FICC--Hong-Kong_26021205"
     ],
     "BlackRock": [
         "R263666",
@@ -17388,7 +17395,16 @@
         "R264890",
         "R264886",
         "R264854",
-        "R264872"
+        "R264872",
+        "R264870",
+        "R264896",
+        "R264860",
+        "R264868",
+        "R264866",
+        "R264832",
+        "R264824",
+        "R264898",
+        "R264880"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -24122,7 +24138,8 @@
         "8011599",
         "8008723",
         "8016443",
-        "8014801"
+        "8014801",
+        "8003458"
     ],
     "Vercel": [
         "5624231004",
@@ -26477,7 +26494,8 @@
         "R169700",
         "R165615",
         "R167937",
-        "R169931"
+        "R169931",
+        "R169322"
     ],
     "Workday": [
         "R-0106509-1",
@@ -32808,7 +32826,12 @@
         "R0000442823",
         "R0000443012",
         "R0000442028",
-        "R0000442678"
+        "R0000442678",
+        "R0000442965",
+        "R0000443033",
+        "R0000443034",
+        "R0000443029-1",
+        "R0000442940"
     ],
     "Zoom": [
         "R18188-1",
@@ -33539,7 +33562,9 @@
         "R-106658-1",
         "R-106609",
         "R-105961",
-        "R-104525"
+        "R-104525",
+        "R-106562-1",
+        "R-106551-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -34540,7 +34565,8 @@
         "8014376",
         "8002357",
         "8013101",
-        "8004063"
+        "8004063",
+        "8016952"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -35173,7 +35199,9 @@
         "8011376",
         "7770902",
         "7982649",
-        "7983543"
+        "7983543",
+        "8016982",
+        "7957887"
     ],
     "Twitch": [
         "8334413002",
@@ -36227,7 +36255,8 @@
         "Senior-Product-Manager--Customer---Developer-Experience_REF082635W",
         "Site-Reliability-Engineer_REF083243W",
         "Creative-Project-Manager---Marketing-Analyst--_REF083216W-1",
-        "Senior-Manager--Digital-Sales_REF083302W"
+        "Senior-Manager--Digital-Sales_REF083302W",
+        "Manager--Client-Care-V_REF083011W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -36690,7 +36719,8 @@
         "Principal-Software-Developer_26WD96424-1",
         "Senior-Site-Reliability-Engineer_26WD99276-2",
         "Software-Development-Manager--Preconstruction_26WD99428-1",
-        "Technical-Adoption-Specialist_26WD99334"
+        "Technical-Adoption-Specialist_26WD99334",
+        "Principal-Program-Manager--Sales-Motions-Enablement_26WD99480-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -38464,6 +38494,7 @@
         "R-62691",
         "R-61783-2",
         "R-61782-2",
-        "R-60062-1"
+        "R-60062-1",
+        "R-61789-1"
     ]
 }
