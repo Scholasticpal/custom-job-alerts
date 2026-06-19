@@ -1196,7 +1196,8 @@
         "8016510",
         "8017336",
         "8001341",
-        "8017214"
+        "8017214",
+        "8007158"
     ],
     "Figma": [
         "5426468004",
@@ -2327,7 +2328,8 @@
         "4706416005",
         "4706742005",
         "4705891005",
-        "4704566005"
+        "4704566005",
+        "4707357005"
     ],
     "Rippling": [],
     "Slice": [
@@ -3529,7 +3531,8 @@
         "b2a9522d-3791-4612-a717-c9d64d76a182",
         "0eb659fc-16cd-4546-bf3c-b2ce11869095",
         "81b25ade-e9f2-486a-a66a-c89279096773",
-        "ae8466f0-89e6-4134-88bd-c934b4c85399"
+        "ae8466f0-89e6-4134-88bd-c934b4c85399",
+        "2f07d450-1cc6-4132-8782-8855ed5f0811"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -5937,7 +5940,10 @@
         "8598730002",
         "8598430002",
         "8596443002",
-        "8593411002"
+        "8593411002",
+        "7849147002",
+        "8595160002",
+        "8596445002"
     ],
     "Rubrik": [
         "7310036",
@@ -7267,7 +7273,8 @@
         "8012884",
         "8012942",
         "8009131",
-        "8002152"
+        "8002152",
+        "8007032"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -8052,7 +8059,8 @@
         "8015227",
         "7975894",
         "8015107",
-        "8015188"
+        "8015188",
+        "8017961"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -8910,7 +8918,8 @@
         "fe839191-1761-4094-9d3c-4d554904b84d",
         "995e6b02-b06c-4071-a822-57c2b9d927c5",
         "60e0d986-abe8-42ee-b172-0d9aecb307b7",
-        "8cd64fd4-4ed2-4aac-bd5a-9407d3685445"
+        "8cd64fd4-4ed2-4aac-bd5a-9407d3685445",
+        "c49e13f6-f027-42f3-98b5-745d83997cbf"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -12145,7 +12154,18 @@
         "R-279581",
         "R-278384",
         "R-280397",
-        "R-280497"
+        "R-280497",
+        "R-280743",
+        "R-280661",
+        "R-280605",
+        "R-278587",
+        "R-280803",
+        "R-280563",
+        "R-280351",
+        "R-280433",
+        "R-280385",
+        "R-280704",
+        "R-280362"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15918,7 +15938,14 @@
         "R345911",
         "R345992",
         "R345991",
-        "R346555"
+        "R346555",
+        "R304140-1",
+        "R347343-1",
+        "R346982",
+        "R346094",
+        "R346539-1",
+        "R347042",
+        "R346115"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16499,7 +16526,9 @@
         "Sourcing-Manager_J-82928",
         "Account-Manager_J-81459",
         "Atlassian-Platform-Engineer_J-83058",
-        "Practicante-Tcnico---Tecnlogo-Backoffice-Services_J-82958"
+        "Practicante-Tcnico---Tecnlogo-Backoffice-Services_J-82958",
+        "Travel-Consultant-with-German-and-English_J-83145-1",
+        "Travel-Consultant_J-83144"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -16622,7 +16651,8 @@
         "Vice-President-Director--Supervisory-Analyst--Global-Research_26020918",
         "AVP--Markets-Support-Specialist--ETD---Collateral-Operations---Taiwan--Global-Markets-Operations_26021020",
         "Associate-Vice-President--HKD-Rates-Trader--FICC-Trading--Singapore---Hong-Kong_26021206",
-        "Associate-Vice-President--APAC-Short-Rates-Sales--Global-FICC--Hong-Kong_26021205"
+        "Associate-Vice-President--APAC-Short-Rates-Sales--Global-FICC--Hong-Kong_26021205",
+        "Vice-President--APAC-Credit-Research-Analyst--Credit-Research--Japan_26021210"
     ],
     "BlackRock": [
         "R263666",
@@ -17416,7 +17446,9 @@
         "R264824",
         "R264898",
         "R264880",
-        "R262237-1"
+        "R262237-1",
+        "R264903-1",
+        "R264909"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -19636,7 +19668,8 @@
         "R-14184",
         "R-12993",
         "R-14344-1",
-        "R-14507"
+        "R-14507",
+        "R-13113"
     ],
     "PayPal": [
         "R0135744-1",
@@ -24971,7 +25004,8 @@
         "8000128",
         "8003632",
         "7997764",
-        "7940512"
+        "7940512",
+        "8009965"
     ],
     "Datadog": [
         "7194969",
@@ -30062,7 +30096,8 @@
         "ASIC-Engineer_2016738",
         "Cloud-Engineer---SysAdmin_2016218",
         "ASIC-Physical-Design-Engineer_2016938",
-        "Hardware-Systems-Engineering-Technical-Lead---Milpitas-San-Jose--CA_2004763"
+        "Hardware-Systems-Engineering-Technical-Lead---Milpitas-San-Jose--CA_2004763",
+        "Senior-Technical-Lead-for-Autonomous-Agentic-Frameworks-and-System-Integration_2009535-1"
     ],
     "Intel": [
         "R0283052",
@@ -32852,7 +32887,20 @@
         "R0000442940",
         "R0000440308",
         "R0000442919",
-        "R0000443013"
+        "R0000443013",
+        "R0000442957",
+        "R0000442987",
+        "R0000443037",
+        "R0000443036",
+        "R0000441846",
+        "R0000442926",
+        "R0000443053",
+        "R0000400291",
+        "R0000443044",
+        "R0000442980",
+        "R0000442912",
+        "R0000443010",
+        "R0000443020"
     ],
     "Zoom": [
         "R18188-1",
@@ -33585,7 +33633,8 @@
         "R-105961",
         "R-104525",
         "R-106562-1",
-        "R-106551-1"
+        "R-106551-1",
+        "R-106435"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -33984,7 +34033,8 @@
         "4702795005",
         "4684073005",
         "4706127005",
-        "4706566005"
+        "4706566005",
+        "4702890005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -35222,7 +35272,8 @@
         "7982649",
         "7983543",
         "8016982",
-        "7957887"
+        "7957887",
+        "7989130"
     ],
     "Twitch": [
         "8334413002",
@@ -36279,7 +36330,14 @@
         "Senior-Manager--Digital-Sales_REF083302W",
         "Manager--Client-Care-V_REF083011W",
         "Senior-Director--Head-of-Acceptance-Specialist-Client-Success--AP_REF083023W-1",
-        "Project-Implementation-Analyst--Technical-_REF082929W-1"
+        "Project-Implementation-Analyst--Technical-_REF082929W-1",
+        "SMB-Go-To-Market-Director_REF083179W",
+        "Senior-Director--Digital-Solutions---C2P--Tokenisation-and--Passkeys_REF082956W",
+        "Sr-SW-Engineer_REF082706W-2",
+        "Consulting-Director--Credit-Card-Migration-_REF081689W",
+        "Commercial-Operations-Specialist_REF080413W",
+        "R-2_REF081481W",
+        "Associate-Cybersecurity-Analyst_REF071224W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -36743,7 +36801,9 @@
         "Senior-Site-Reliability-Engineer_26WD99276-2",
         "Software-Development-Manager--Preconstruction_26WD99428-1",
         "Technical-Adoption-Specialist_26WD99334",
-        "Principal-Program-Manager--Sales-Motions-Enablement_26WD99480-1"
+        "Principal-Program-Manager--Sales-Motions-Enablement_26WD99480-1",
+        "Fusion-Adoption-Specialist---German-Speaker_26WD99340-1",
+        "Commissions-Analyst_25WD94441-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -37437,7 +37497,9 @@
         "Contract-Administrator--Disney-Entertainment-Television-_10153471",
         "Paralegal_10153372",
         "Production-Manager---Disney-Television-Animation_10151464-1",
-        "Concepteur-trice--Eclairage-Scnique-F-H-NB_10148727"
+        "Concepteur-trice--Eclairage-Scnique-F-H-NB_10148727",
+        "Generalist-Artist-Supervisor_10146395",
+        "Creative-Marketing-Intern--Disney-_10151756"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -37864,7 +37926,11 @@
         "R000104665",
         "R000106532",
         "R000106443",
-        "R000105678"
+        "R000105678",
+        "R000106292-1",
+        "R000106247-1",
+        "R000106180",
+        "R000106483-2"
     ],
     "Kyndryl": [
         "R-61530",
@@ -38522,6 +38588,10 @@
         "R-60062-1",
         "R-61789-1",
         "R-63891",
-        "R-58370"
+        "R-58370",
+        "R-55780-1",
+        "R-44040",
+        "R-63868",
+        "R-63225"
     ]
 }
