@@ -1194,7 +1194,9 @@
         "8014786",
         "8017084",
         "8016510",
-        "8017336"
+        "8017336",
+        "8001341",
+        "8017214"
     ],
     "Figma": [
         "5426468004",
@@ -4259,7 +4261,8 @@
         "7977821",
         "8008818",
         "8014904",
-        "8003786"
+        "8003786",
+        "8011165"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -5933,7 +5936,8 @@
         "8598012002",
         "8598730002",
         "8598430002",
-        "8596443002"
+        "8596443002",
+        "8593411002"
     ],
     "Rubrik": [
         "7310036",
@@ -6347,7 +6351,9 @@
         "8015169",
         "8015168",
         "8015166",
-        "7803179"
+        "7803179",
+        "7992148",
+        "8014986"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -15907,7 +15913,12 @@
         "R346844",
         "R347139",
         "R344819",
-        "R346968"
+        "R346968",
+        "R347014",
+        "R345911",
+        "R345992",
+        "R345991",
+        "R346555"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -17404,7 +17415,8 @@
         "R264832",
         "R264824",
         "R264898",
-        "R264880"
+        "R264880",
+        "R262237-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -19086,7 +19098,8 @@
         "R-10396828",
         "R-10396826",
         "R-10396760",
-        "R-10396444"
+        "R-10396444",
+        "R-10396823"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -20012,7 +20025,8 @@
         "R0136770-1",
         "R0136774-1",
         "R0136772-1",
-        "R0133736-1"
+        "R0133736-1",
+        "R0136218-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -22894,7 +22908,10 @@
         "5270065008",
         "5271060008",
         "5271063008",
-        "5264820008"
+        "5264820008",
+        "5271346008",
+        "5271428008",
+        "5271426008"
     ],
     "Coinbase": [
         "7559052",
@@ -25977,7 +25994,8 @@
         "8013323",
         "8001576",
         "7989242",
-        "8015611"
+        "8015611",
+        "8011801"
     ],
     "Asana": [
         "7120496",
@@ -32831,7 +32849,10 @@
         "R0000443033",
         "R0000443034",
         "R0000443029-1",
-        "R0000442940"
+        "R0000442940",
+        "R0000440308",
+        "R0000442919",
+        "R0000443013"
     ],
     "Zoom": [
         "R18188-1",
@@ -36256,7 +36277,9 @@
         "Site-Reliability-Engineer_REF083243W",
         "Creative-Project-Manager---Marketing-Analyst--_REF083216W-1",
         "Senior-Manager--Digital-Sales_REF083302W",
-        "Manager--Client-Care-V_REF083011W"
+        "Manager--Client-Care-V_REF083011W",
+        "Senior-Director--Head-of-Acceptance-Specialist-Client-Success--AP_REF083023W-1",
+        "Project-Implementation-Analyst--Technical-_REF082929W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -37413,7 +37436,8 @@
         "Production-Associate--20-20_10153985-1",
         "Contract-Administrator--Disney-Entertainment-Television-_10153471",
         "Paralegal_10153372",
-        "Production-Manager---Disney-Television-Animation_10151464-1"
+        "Production-Manager---Disney-Television-Animation_10151464-1",
+        "Concepteur-trice--Eclairage-Scnique-F-H-NB_10148727"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -37839,7 +37863,8 @@
         "R000106484",
         "R000104665",
         "R000106532",
-        "R000106443"
+        "R000106443",
+        "R000105678"
     ],
     "Kyndryl": [
         "R-61530",
@@ -38495,6 +38520,8 @@
         "R-61783-2",
         "R-61782-2",
         "R-60062-1",
-        "R-61789-1"
+        "R-61789-1",
+        "R-63891",
+        "R-58370"
     ]
 }
