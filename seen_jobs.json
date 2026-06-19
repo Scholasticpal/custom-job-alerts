@@ -4273,7 +4273,8 @@
         "8008818",
         "8014904",
         "8003786",
-        "8011165"
+        "8011165",
+        "8018706"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -12187,7 +12188,8 @@
         "R-280660-1",
         "R-280656",
         "R-280298",
-        "R-276730"
+        "R-276730",
+        "R-274550"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -15988,7 +15990,12 @@
         "R347367-1",
         "R324607",
         "R345400",
-        "R346717"
+        "R346717",
+        "R347001",
+        "R346414",
+        "R347404",
+        "R346267-1",
+        "R331855"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16573,7 +16580,9 @@
         "Travel-Consultant-with-German-and-English_J-83145-1",
         "Travel-Consultant_J-83144",
         "Travel-Counselor_J-81857",
-        "Forecasting-and-Planning-Analyst_J-79363"
+        "Forecasting-and-Planning-Analyst_J-79363",
+        "Practicante-Tcnico-o-Tecnlogo-en-Administracin--Finanzas--Contabilidad--Economa-o-afines_J-81626",
+        "Practicante-Tcnico-o-Tecnlogo-en-Administracin--Finanzas--Contabilidad--Economa-o-afines_J-80993"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -23207,7 +23216,9 @@
         "7366208",
         "7967649",
         "8008047",
-        "8013948"
+        "8013948",
+        "8000944",
+        "8000947"
     ],
     "Discord": [
         "8289766002",
@@ -23955,7 +23966,9 @@
         "7766277003",
         "7777094003",
         "7776437003",
-        "7776439003"
+        "7776439003",
+        "7775353003",
+        "7775355003"
     ],
     "Robinhood": [
         "7799902",
@@ -26613,7 +26626,8 @@
         "R165615",
         "R167937",
         "R169931",
-        "R169322"
+        "R169322",
+        "R169572-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -32975,7 +32989,8 @@
         "R0000442271",
         "R0000442819",
         "R0000442846",
-        "R0000443056"
+        "R0000443056",
+        "R0000442881-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -33716,7 +33731,8 @@
         "R-107012",
         "R-106917",
         "R-106161",
-        "R-105735"
+        "R-105735",
+        "R-106556"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -35646,7 +35662,8 @@
         "R34995",
         "R33583",
         "R34937",
-        "R35000-1"
+        "R35000-1",
+        "R34103"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -36424,7 +36441,9 @@
         "Working-Capital-Sales-Director_REF083217W",
         "Director-Business-Process-And-Operations-SEA_REF082861W",
         "Senior-Account-Executive_REF080867W-1",
-        "Senior-Account-Executive_REF081760W"
+        "Senior-Account-Executive_REF081760W",
+        "Consultant--Client-Success_REF083259W",
+        "Sr-Product-Manager---Payment-Rails-LAC_REF081990W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -38034,7 +38053,8 @@
         "R000106299-2",
         "R000106378",
         "R000106000",
-        "R000104774"
+        "R000104774",
+        "R000106459-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -38711,6 +38731,7 @@
         "R-57844-1",
         "R-63277",
         "R-63227-1",
-        "R-57845"
+        "R-57845",
+        "R-55657"
     ]
 }
