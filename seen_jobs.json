@@ -27355,7 +27355,8 @@
         "R-0108004",
         "R-0108013",
         "R-0107980",
-        "R-0107982"
+        "R-0107982",
+        "R-0108037"
     ],
     "CrowdStrike": [
         "R26911",
@@ -30071,7 +30072,9 @@
         "R2017973",
         "R2019758",
         "R2019871",
-        "R2014235"
+        "R2014235",
+        "R2019896",
+        "R2019823"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -33899,7 +33902,9 @@
         "Lead-Product-Security-Architect_113173-JOB",
         "Large-Enterprise-Account-Executive_113189-JOB",
         "Director--Treasury_113187-JOB",
-        "Implementation-Consultant---Lead_113131-JOB"
+        "Implementation-Consultant---Lead_113131-JOB",
+        "Implementation-Consultant-CCAAS_113202-JOB",
+        "Program-Manager_113203-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
