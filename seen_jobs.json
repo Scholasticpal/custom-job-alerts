@@ -1515,7 +1515,8 @@
         "6073106004",
         "6092906004",
         "6092802004",
-        "6092343004"
+        "6092343004",
+        "6098063004"
     ],
     "Amazon": [
         "3198115",
@@ -5990,7 +5991,9 @@
         "8592938002",
         "8592937002",
         "8438791002",
-        "8593107002"
+        "8593107002",
+        "8603361002",
+        "8587891002"
     ],
     "Rubrik": [
         "7310036",
@@ -7328,7 +7331,8 @@
         "8014902",
         "8016561",
         "8016569",
-        "8016162"
+        "8016162",
+        "8017959"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -8832,7 +8836,9 @@
         "8008893",
         "7539814",
         "8014039",
-        "8014038"
+        "8014038",
+        "8003390",
+        "8003387"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -12260,7 +12266,9 @@
         "R-279251",
         "R-280416",
         "R-280105",
-        "R-277474-1"
+        "R-277474-1",
+        "R-280361",
+        "R-280498"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16106,7 +16114,13 @@
         "R346406",
         "R346023",
         "R346915",
-        "R340121-1"
+        "R340121-1",
+        "R347098",
+        "R347702",
+        "R346780-1",
+        "R346778-1",
+        "R346811",
+        "R346795"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -17820,7 +17834,8 @@
         "Human-Resources---HR-Business-Partner--Associate_42394",
         "Blackstone-Energy-Transition-Partners---Senior-Associate_43558-1",
         "Blackstone-Harvest---Vice-President_43556-1",
-        "Blackstone-Private-Wealth---Vice-President_43659-2"
+        "Blackstone-Private-Wealth---Vice-President_43659-2",
+        "Blackstone-Executive-Offices---Analyst_43579"
     ],
     "Capital Group": [
         "R6549",
@@ -19349,7 +19364,8 @@
         "R-10395871",
         "R-10396794",
         "R-10394511",
-        "R-10396775-1"
+        "R-10396775-1",
+        "R-10379596"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -19894,7 +19910,9 @@
         "R-14490",
         "R-14322",
         "R-14354",
-        "R-12838-1"
+        "R-12838-1",
+        "R-14387",
+        "R-13734"
     ],
     "PayPal": [
         "R0135744-1",
@@ -20284,7 +20302,8 @@
         "R0136774-1",
         "R0136772-1",
         "R0133736-1",
-        "R0136218-1"
+        "R0136218-1",
+        "R0135958-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -23176,7 +23195,8 @@
         "5274711008",
         "5160141008",
         "5274117008",
-        "5247407008"
+        "5247407008",
+        "5270272008"
     ],
     "Coinbase": [
         "7559052",
@@ -23397,7 +23417,8 @@
         "8013889",
         "8017672",
         "8021857",
-        "7985187"
+        "7985187",
+        "8022077"
     ],
     "Discord": [
         "8289766002",
@@ -23862,7 +23883,11 @@
         "8015018",
         "8010396",
         "8010403",
-        "8010389"
+        "8010389",
+        "8022366",
+        "8022260",
+        "8022136",
+        "8022441"
     ],
     "Notion": [],
     "Plaid": [],
@@ -25917,7 +25942,9 @@
         "8002922",
         "8015717",
         "8012549",
-        "8021327"
+        "8021327",
+        "8003021",
+        "8022193"
     ],
     "Elastic": [
         "7505982",
@@ -27535,7 +27562,9 @@
         "R-0108216",
         "R-0108048",
         "R-0108057",
-        "R-0108059"
+        "R-0108059",
+        "R-0107916",
+        "R-0107915"
     ],
     "CrowdStrike": [
         "R26911",
@@ -33312,7 +33341,12 @@
         "R0000443163",
         "R0000442685",
         "R0000443007",
-        "R0000443006"
+        "R0000443006",
+        "R0000443265",
+        "R0000443088",
+        "R0000443385",
+        "R0000443357-1",
+        "R0000443332"
     ],
     "Zoom": [
         "R18188-1",
@@ -33538,7 +33572,8 @@
         "R19281",
         "R19283",
         "R18075-1",
-        "R18751-1"
+        "R18751-1",
+        "R19286-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -34062,7 +34097,8 @@
         "R-106858",
         "R-104343-1",
         "R-106361-1",
-        "R-106363"
+        "R-106363",
+        "R-106668"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -34258,7 +34294,8 @@
         "8597950002",
         "8597941002",
         "8584253002",
-        "8400776002"
+        "8400776002",
+        "8397515002"
     ],
     "Scale AI": [
         "4654510005",
@@ -36824,7 +36861,10 @@
         "Director--Account-Executive--Generalist-Seller---Account-Executive-_REF083306W",
         "SW-Engineer_REF082668W-1",
         "Sr-SW-Engineer---Agentic-Developer--Java-Python--3-5-yrs-of-experience-_REF083019W",
-        "Staff-SW-Engineer_REF082847W"
+        "Staff-SW-Engineer_REF082847W",
+        "Quality-Assurance-Engineer--Credit-Rights_REF081322W",
+        "Workstation-Support-Associate_REF083156W",
+        "Work-Station-Support-Associate_REF083151W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -37303,7 +37343,8 @@
         "Software-Quality-Assurance-Engineer_25WD93710-1",
         "Senior-Software-Developer---Platform---Emerging-Technologies_26WD99399-1",
         "Principal-Software-Developer---Databases_26WD99177-2",
-        "Platform-Strategy-Manager_26WD98783-2"
+        "Platform-Strategy-Manager_26WD98783-2",
+        "Senior-Marketing-Insights-Analyst_26WD99228-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -38024,7 +38065,11 @@
         "Charg-e--de-Data-CRM---CDI---F-H-NB_10151753",
         "Outdoor-Immersive-Events-Specialist--Live-Events-and-Licensed-Partnerships--PH-_10153809-1",
         "Employee-Relations-Assoc--PH-_10153841-2",
-        "Creative-Executive_10152994"
+        "Creative-Executive_10152994",
+        "Resource-Coordinator-I_10153335-1",
+        "Editor--Video--Temp-Role---7-Months-_10151705",
+        "Senior-Manager--Software-Development-Engineer-in-Test_10153359-2",
+        "Sr-Technical-Program-Mgr--PH-_10154016"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -39200,6 +39245,21 @@
         "R-63604",
         "R-63624-1",
         "R-63625",
-        "R-63626"
+        "R-63626",
+        "R-62814",
+        "R-63178",
+        "R-56627",
+        "R-57303",
+        "R-54027",
+        "R-43558",
+        "R-43557",
+        "R-63788",
+        "R-63787",
+        "R-63793",
+        "R-63846",
+        "R-63847",
+        "R-63848",
+        "R-63199",
+        "R-63197-1"
     ]
 }
