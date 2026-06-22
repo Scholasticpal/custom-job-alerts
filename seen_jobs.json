@@ -3543,7 +3543,8 @@
         "62bd3d00-f65c-4c70-b413-92d886a112e7",
         "ddc45d64-48fe-4b86-bcac-2667e10182d6",
         "4a97658f-ac6f-4a86-b483-ae50dd5c7a46",
-        "0df048a1-73c8-451b-b6fa-903657924228"
+        "0df048a1-73c8-451b-b6fa-903657924228",
+        "3a3d2902-93db-4c29-a273-d8e4952b4df2"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -5957,7 +5958,8 @@
         "8595160002",
         "8596445002",
         "8585601002",
-        "8601193002"
+        "8601193002",
+        "8600912002"
     ],
     "Rubrik": [
         "7310036",
@@ -12195,7 +12197,9 @@
         "R-280656",
         "R-280298",
         "R-276730",
-        "R-274550"
+        "R-274550",
+        "R-278996",
+        "R-280822"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16014,7 +16018,8 @@
         "R344731",
         "R346413",
         "R347410",
-        "R346520"
+        "R346520",
+        "R346128"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16602,7 +16607,9 @@
         "Forecasting-and-Planning-Analyst_J-79363",
         "Practicante-Tcnico-o-Tecnlogo-en-Administracin--Finanzas--Contabilidad--Economa-o-afines_J-81626",
         "Practicante-Tcnico-o-Tecnlogo-en-Administracin--Finanzas--Contabilidad--Economa-o-afines_J-80993",
-        "MI-Business-Analyst_J-83053"
+        "MI-Business-Analyst_J-83053",
+        "Developer-Complete_J-83168",
+        "Business-System-Analyst_J-83167"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -17539,7 +17546,9 @@
         "R264828",
         "R264826",
         "R264858",
-        "R262406"
+        "R262406",
+        "R263882",
+        "R263229"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -17710,7 +17719,10 @@
         "Blackstone-Credit---Insurance---AI-Engineer--Principal_43676",
         "Channel-Marketer--LATAM--AVP---Corporate-Affairs_43677",
         "Internal-Audit---Executive-Assistant_43687",
-        "Human-Resources---HR-Business-Partner--Associate_42394"
+        "Human-Resources---HR-Business-Partner--Associate_42394",
+        "Blackstone-Energy-Transition-Partners---Senior-Associate_43558-1",
+        "Blackstone-Harvest---Vice-President_43556-1",
+        "Blackstone-Private-Wealth---Vice-President_43659-2"
     ],
     "Capital Group": [
         "R6549",
@@ -19225,7 +19237,8 @@
         "R-10396444",
         "R-10396823",
         "R-10395869",
-        "R-10396442"
+        "R-10396442",
+        "R-10396824"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -30077,7 +30090,23 @@
         "R2014235",
         "R2019896",
         "R2019823",
-        "R2018720"
+        "R2018720",
+        "R1989251",
+        "R2019756",
+        "R2019980",
+        "R2018369-1",
+        "R2019824-1",
+        "R2019994",
+        "R2019990",
+        "R2019832",
+        "R2019921",
+        "R2019553",
+        "R2019979",
+        "R2020027-1",
+        "R2019426",
+        "R2019438",
+        "R2019424",
+        "R2019673"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -33046,7 +33075,12 @@
         "R0000443122",
         "R0000443055",
         "R0000442855",
-        "R0000442836"
+        "R0000442836",
+        "R0000442821",
+        "R0000443151-1",
+        "R0000443168",
+        "R0000442970",
+        "R0000443079"
     ],
     "Zoom": [
         "R18188-1",
@@ -33788,7 +33822,8 @@
         "R-106917",
         "R-106161",
         "R-105735",
-        "R-106556"
+        "R-106556",
+        "R-106937"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -33908,7 +33943,8 @@
         "Director--Treasury_113187-JOB",
         "Implementation-Consultant---Lead_113131-JOB",
         "Implementation-Consultant-CCAAS_113202-JOB",
-        "Program-Manager_113203-JOB"
+        "Program-Manager_113203-JOB",
+        "Product-Engineer_111920-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -36503,7 +36539,13 @@
         "Senior-Account-Executive_REF080867W-1",
         "Senior-Account-Executive_REF081760W",
         "Consultant--Client-Success_REF083259W",
-        "Sr-Product-Manager---Payment-Rails-LAC_REF081990W"
+        "Sr-Product-Manager---Payment-Rails-LAC_REF081990W",
+        "Senior-Software-Test-Engineer_REF083031W",
+        "Bilingual-Client-Care-Support---Contact-Center_REF083304W",
+        "Software-Engineer---Sr-Consultant-level_REF081952W",
+        "Staff-Software-Engineer_REF082021W",
+        "Client-Care-Analyst_REF081915W",
+        "Forward-Deployed-Engineer--Manager---Controllership-Digital-Solutions_REF083021W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -36973,7 +37015,8 @@
         "Sr-Manager-Construction-Strategy_25WD91040-1",
         "Principal-Program-Manager--Design-Operations_26WD99349-1",
         "Software-Engineer---Electronics-Systems---PCB-Solutions_26WD98658-1",
-        "Senior-Software-Engineer_26WD96742-1"
+        "Senior-Software-Engineer_26WD96742-1",
+        "Sr-Release-Manager_26WD98193"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -37673,7 +37716,9 @@
         "Training---Standards-Manager---Entertainment-Technical_10150996-1",
         "Alternance---Assistant-e--Charg-e--de-mdia-offline-EMEA--F-H-NB-_10148484",
         "Ad-Operations-Executive--Fixed-Term-Contract_10151671",
-        "KABC-Freelance-Directors_10154264"
+        "KABC-Freelance-Directors_10154264",
+        "Senior-Sales-Specialist_10154108",
+        "Expression-of-Interest---Executive-Assistant---Bristol--CT_10154153"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -38802,6 +38847,8 @@
         "R-60522",
         "R-60520-1",
         "R-60518",
-        "R-63613"
+        "R-63613",
+        "R-63892-1",
+        "R-63952"
     ]
 }
