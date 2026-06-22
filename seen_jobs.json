@@ -1516,7 +1516,9 @@
         "6092906004",
         "6092802004",
         "6092343004",
-        "6098063004"
+        "6098063004",
+        "5980571004",
+        "6037719004"
     ],
     "Amazon": [
         "3198115",
@@ -2963,7 +2965,9 @@
         "8597895002",
         "8597771002",
         "8599314002",
-        "8599061002"
+        "8599061002",
+        "8603330002",
+        "8603327002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -6410,7 +6414,8 @@
         "7803179",
         "7992148",
         "8014986",
-        "8016012"
+        "8016012",
+        "7922976"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -8559,7 +8564,10 @@
         "8011082",
         "8015738",
         "8009057",
-        "8016458"
+        "8016458",
+        "8014595",
+        "8014423",
+        "8014425"
     ],
     "Dropbox": [
         "7646405",
@@ -12268,7 +12276,8 @@
         "R-280105",
         "R-277474-1",
         "R-280361",
-        "R-280498"
+        "R-280498",
+        "R-279826-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16120,7 +16129,9 @@
         "R346780-1",
         "R346778-1",
         "R346811",
-        "R346795"
+        "R346795",
+        "R347133",
+        "R345337"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16714,7 +16725,8 @@
         "Regional-CGM-America_J-82763",
         "Venue-Sourcing-Manager_J-83176",
         "Technical-Product-Owner_J-80568-1",
-        "Sourcing-Sales-Executive_J-83191"
+        "Sourcing-Sales-Executive_J-83191",
+        "Sales-Representative_J-82974"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -23196,7 +23208,8 @@
         "5160141008",
         "5274117008",
         "5247407008",
-        "5270272008"
+        "5270272008",
+        "5270268008"
     ],
     "Coinbase": [
         "7559052",
@@ -26867,7 +26880,8 @@
         "R169572-1",
         "R170000",
         "R169363",
-        "R169933"
+        "R169933",
+        "R166319"
     ],
     "Workday": [
         "R-0106509-1",
@@ -27564,7 +27578,10 @@
         "R-0108057",
         "R-0108059",
         "R-0107916",
-        "R-0107915"
+        "R-0107915",
+        "R-0108258",
+        "R-0107672",
+        "R-0107918"
     ],
     "CrowdStrike": [
         "R26911",
@@ -28138,7 +28155,8 @@
         "R29035",
         "R29070-1",
         "R26189",
-        "R22012"
+        "R22012",
+        "R26828"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -35119,7 +35137,8 @@
         "7874776",
         "7813121",
         "8018876",
-        "8007939"
+        "8007939",
+        "8021946"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -36864,7 +36883,9 @@
         "Staff-SW-Engineer_REF082847W",
         "Quality-Assurance-Engineer--Credit-Rights_REF081322W",
         "Workstation-Support-Associate_REF083156W",
-        "Work-Station-Support-Associate_REF083151W"
+        "Work-Station-Support-Associate_REF083151W",
+        "Sr-Data-Scientist_REF083163W",
+        "Consulting-Analyst_REF079355W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -38069,7 +38090,10 @@
         "Resource-Coordinator-I_10153335-1",
         "Editor--Video--Temp-Role---7-Months-_10151705",
         "Senior-Manager--Software-Development-Engineer-in-Test_10153359-2",
-        "Sr-Technical-Program-Mgr--PH-_10154016"
+        "Sr-Technical-Program-Mgr--PH-_10154016",
+        "Security-Officer--Full-Time-and-Part-Time-_10154321",
+        "Security-Officer--Full-Time-and-Part-Time-_10154322",
+        "Data-Engineer-II_10154071"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -38524,7 +38548,9 @@
         "R000105995-1",
         "R000106527",
         "R000106365",
-        "R000106517"
+        "R000106517",
+        "R000106482",
+        "R000105668"
     ],
     "Kyndryl": [
         "R-61530",
