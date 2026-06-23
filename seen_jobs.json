@@ -1209,7 +1209,9 @@
         "8014761",
         "7974209",
         "8023813",
-        "8022463"
+        "8022463",
+        "7994887",
+        "7983456"
     ],
     "Figma": [
         "5426468004",
@@ -4329,7 +4331,8 @@
         "8017556",
         "8023818",
         "8024085",
-        "8024262"
+        "8024262",
+        "8024267"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -6047,7 +6050,8 @@
         "8585023002",
         "8560779002",
         "8576249002",
-        "8595123002"
+        "8595123002",
+        "8560772002"
     ],
     "Rubrik": [
         "7310036",
@@ -8622,7 +8626,9 @@
         "8014595",
         "8014423",
         "8014425",
-        "8011576"
+        "8011576",
+        "8024642",
+        "8021265"
     ],
     "Dropbox": [
         "7646405",
@@ -12371,7 +12377,12 @@
         "R-280100-1",
         "R-278240",
         "R-280744",
-        "R-280633-1"
+        "R-280633-1",
+        "R-280649",
+        "R-280117-1",
+        "R-271949",
+        "R-280800",
+        "R-280194"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16252,7 +16263,8 @@
         "R347106",
         "R347628",
         "R344217",
-        "R347787"
+        "R347787",
+        "R346894"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16856,7 +16868,10 @@
         "Travel-Consultant-II-Salt-Lake-UT_J-83205",
         "Travel-Consultant-II-Denver-CO_J-83204",
         "Travel-Consultant-II-Nashville-TN_J-83203",
-        "Travel-Consultant-II_J-83202"
+        "Travel-Consultant-II_J-83202",
+        "Congress-Planner_J-83207",
+        "Pharma-Meeting-Planner_J-83206",
+        "Meeting-Coordinator_J-82659"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -20487,7 +20502,9 @@
         "R0135857-1",
         "R0134248-1",
         "R0135014-1",
-        "R0136694-1"
+        "R0136694-1",
+        "R0136771",
+        "R0136127-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -24097,7 +24114,8 @@
         "8016926",
         "8024327",
         "8024322",
-        "8024321"
+        "8024321",
+        "8024865"
     ],
     "Notion": [],
     "Plaid": [],
@@ -26171,7 +26189,8 @@
         "8010455",
         "8015631",
         "7857714",
-        "8023763"
+        "8023763",
+        "8024863"
     ],
     "Elastic": [
         "7505982",
@@ -27810,7 +27829,9 @@
         "R-0108194-1",
         "R-0108084",
         "R-0107978",
-        "R-0108341"
+        "R-0108341",
+        "R-0105762",
+        "R-0108029"
     ],
     "CrowdStrike": [
         "R26911",
@@ -30596,7 +30617,8 @@
         "R2020115",
         "R2019192",
         "R2014770",
-        "R2005437"
+        "R2005437",
+        "R2014674"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -33688,7 +33710,12 @@
         "R0000443366",
         "R-2026-DC-INTERN-POSTING_R0000428284",
         "R0000443345",
-        "R0000443496"
+        "R0000443496",
+        "R0000442301",
+        "R0000441100",
+        "R0000443556",
+        "R0000443552",
+        "R0000443313"
     ],
     "Zoom": [
         "R18188-1",
@@ -34444,7 +34471,9 @@
         "R-107143-1",
         "R-107083-1",
         "R-103969",
-        "R-106777-1"
+        "R-106777-1",
+        "R-107031-1",
+        "R-107323"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -34867,7 +34896,8 @@
         "4706127005",
         "4706566005",
         "4702890005",
-        "4708221005"
+        "4708221005",
+        "4568601005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -35480,7 +35510,9 @@
         "8021946",
         "7966918",
         "7964565",
-        "8001822"
+        "8001822",
+        "7847218",
+        "7458517"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -36128,7 +36160,11 @@
         "7997974",
         "7985917",
         "7838848",
-        "7971963"
+        "7971963",
+        "7822570",
+        "7909000",
+        "8001932",
+        "7960984"
     ],
     "Twitch": [
         "8334413002",
@@ -36424,7 +36460,8 @@
         "R35000-1",
         "R34103",
         "R34414",
-        "R35067"
+        "R35067",
+        "R35036"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -37753,7 +37790,9 @@
         "Senior-Public-Sector-Compliance-Analyst_26WD97771-2",
         "Sales-Specialist--Construction_26WD99435-2",
         "Principal-Program-Manager--GTM-Transformation---Programs_26WD99444-2",
-        "Fusion-Sales-Representative--Spanish-speaking-_26WD98139-1"
+        "Fusion-Sales-Representative--Spanish-speaking-_26WD98139-1",
+        "Digital-Renewal-Sales-Representative_26WD99139-2",
+        "Senior-Software-Developer_26WD98178-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -38495,7 +38534,8 @@
         "Veterinary-Technician--Seasonal-Casual-Temporary-_10153814",
         "Veterinary-Technician_10153810",
         "Coordinator--ESPN-Events_10153078",
-        "Events-Coordinator--Part-Time-_10151292"
+        "Events-Coordinator--Part-Time-_10151292",
+        "Lead-Machine-Learning-Engineer_10150521"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -38974,7 +39014,9 @@
         "R000106577",
         "R000101287",
         "R000104663",
-        "R000106592"
+        "R000106592",
+        "R000105077",
+        "R000106389-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -39748,6 +39790,7 @@
         "R-59241",
         "R-60833",
         "R-55534",
-        "R-55708"
+        "R-55708",
+        "R-63573"
     ]
 }
