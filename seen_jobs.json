@@ -5997,7 +5997,8 @@
         "8438791002",
         "8593107002",
         "8603361002",
-        "8587891002"
+        "8587891002",
+        "8437022002"
     ],
     "Rubrik": [
         "7310036",
@@ -16131,7 +16132,9 @@
         "R346811",
         "R346795",
         "R347133",
-        "R345337"
+        "R345337",
+        "R336902",
+        "R347705-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -18002,7 +18005,8 @@
         "R6770",
         "R6782",
         "R6591",
-        "R6787"
+        "R6787",
+        "R6779"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -27581,7 +27585,8 @@
         "R-0107915",
         "R-0108258",
         "R-0107672",
-        "R-0107918"
+        "R-0107918",
+        "R-0107859"
     ],
     "CrowdStrike": [
         "R26911",
@@ -30338,7 +30343,8 @@
         "R2019933-1",
         "R2008549",
         "R2019170",
-        "R2007624"
+        "R2007624",
+        "R2014718-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -34241,7 +34247,10 @@
         "Social-Media-Analyst_113201-JOB",
         "Managed-Services-Consultant_113040-JOB",
         "Senior-Manager---Software-Engineering_113199-JOB",
-        "Senior-Managed-Services-Consultant_113200-JOB"
+        "Senior-Managed-Services-Consultant_113200-JOB",
+        "Sr-Implementation-Consultant--CCaaS_113178-JOB",
+        "Sr-Engagement-Manager_113186-JOB",
+        "Sr-Managed-Services-Consultant--SaaS---Social---Digital-_113180-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -38093,7 +38102,8 @@
         "Sr-Technical-Program-Mgr--PH-_10154016",
         "Security-Officer--Full-Time-and-Part-Time-_10154321",
         "Security-Officer--Full-Time-and-Part-Time-_10154322",
-        "Data-Engineer-II_10154071"
+        "Data-Engineer-II_10154071",
+        "Special-Effects-Designer---Project-Hire---Internal-Assignment_10154353"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -38550,7 +38560,9 @@
         "R000106365",
         "R000106517",
         "R000106482",
-        "R000105668"
+        "R000105668",
+        "R000105420",
+        "R000105661"
     ],
     "Kyndryl": [
         "R-61530",
@@ -39286,6 +39298,11 @@
         "R-63847",
         "R-63848",
         "R-63199",
-        "R-63197-1"
+        "R-63197-1",
+        "R-47671",
+        "R-60226-1",
+        "R-60332-1",
+        "R-55583",
+        "R-63140-1"
     ]
 }
