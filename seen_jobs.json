@@ -4338,7 +4338,8 @@
         "8024262",
         "8024267",
         "8024316",
-        "8024426"
+        "8024426",
+        "8025193"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -8191,7 +8192,9 @@
         "8015107",
         "8015188",
         "8017961",
-        "8020598"
+        "8020598",
+        "8022993",
+        "8022879"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -8637,7 +8640,8 @@
         "8014425",
         "8011576",
         "8024642",
-        "8021265"
+        "8021265",
+        "8021303"
     ],
     "Dropbox": [
         "7646405",
@@ -12395,7 +12399,10 @@
         "R-280718",
         "R-280486-SPECIALIST--CONTACT-CENTER--TRILINGUAL-_R-281200",
         "R-280654",
-        "R-280401"
+        "R-280401",
+        "R-280856",
+        "R-280945",
+        "R-280404"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16281,7 +16288,8 @@
         "R347542",
         "R346047",
         "R346408-1",
-        "R345718"
+        "R345718",
+        "R347828"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -18289,7 +18297,9 @@
         "Security-Engineer-II---Operations---India_34529-1",
         "Data-Engineer-Consultant_34476-5",
         "Research-and-Product-Development-PhD-Student-Intern--Part-Time--12-Month-Program-_33597-1",
-        "Intelligence-Analyst_34587"
+        "Intelligence-Analyst_34587",
+        "Sr-Benefits-Specialist_34454-1",
+        "MD---Chief-Resilience-Officer-and-Global-Security_34388-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -19578,7 +19588,10 @@
         "R-10393014",
         "R-10391556-1",
         "R-10397144",
-        "R-10385373"
+        "R-10385373",
+        "R-10389591",
+        "R-10396757-1",
+        "R-10364194-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -23654,7 +23667,8 @@
         "8022540",
         "8023815",
         "7875558",
-        "8024814"
+        "8024814",
+        "8024968"
     ],
     "Discord": [
         "8289766002",
@@ -23788,7 +23802,8 @@
         "8599753002",
         "8604768002",
         "8599937002",
-        "8597934002"
+        "8597934002",
+        "8575166002"
     ],
     "Reddit": [
         "7011741",
@@ -26219,7 +26234,10 @@
         "8015631",
         "7857714",
         "8023763",
-        "8024863"
+        "8024863",
+        "8012339",
+        "8018694",
+        "8020530"
     ],
     "Elastic": [
         "7505982",
@@ -28441,7 +28459,8 @@
         "R29129",
         "R25320",
         "R29059",
-        "R29180"
+        "R29180",
+        "R26069-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -30650,7 +30669,15 @@
         "R2005437",
         "R2014674",
         "R2019257",
-        "R2019459-1"
+        "R2019459-1",
+        "R2019481",
+        "R2019975",
+        "R2018844",
+        "R2019359",
+        "R2019692",
+        "R2019913",
+        "R2019508",
+        "R2019898-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -33754,7 +33781,15 @@
         "R0000443178",
         "R0000443314-1",
         "R0000443431",
-        "R0000443487"
+        "R0000443487",
+        "R0000443464",
+        "R0000443468-1",
+        "R0000443159",
+        "R0000442838",
+        "R0000443048",
+        "R0000443510",
+        "R0000443485",
+        "R0000433919"
     ],
     "Zoom": [
         "R18188-1",
@@ -34513,7 +34548,8 @@
         "R-106777-1",
         "R-107031-1",
         "R-107323",
-        "R-106617-1"
+        "R-106617-1",
+        "R-107130"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -34647,7 +34683,9 @@
         "Senior-Managed-Services-Consultant_113195-JOB",
         "Lead-Technical-Program-Manager_113181-JOB",
         "Sr-Managed-Services-Consultant_112941-JOB-2",
-        "Technical-Platform-Architect---CCaaS_113205-JOB-1"
+        "Technical-Platform-Architect---CCaaS_113205-JOB-1",
+        "Incident-Response-Engineer-II_113207-JOB",
+        "Software-Development-Engineer-II_113210-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -37339,7 +37377,11 @@
         "Senior-Manager_REF083308W",
         "Sr-SW-Engineer_REF079329W-1",
         "Staff-Software-Engineer---Visa-Spend-Clarity_REF083125W",
-        "Senior-Client-Consulting-Manager---Visa-Consulting---Analytics--VCA----Sydney-or-Melbourne_REF083248W"
+        "Senior-Client-Consulting-Manager---Visa-Consulting---Analytics--VCA----Sydney-or-Melbourne_REF083248W",
+        "Software-Engineer_REF081660W",
+        "Military-Talent-Program---Senior-Software-Engineering-Pipeline_REF083390W-1",
+        "Military-Talent-Program---Software-Engineering-Pipeline_REF083391W",
+        "Military-Talent-Program---Staff-Software-Engineering-Pipeline_REF083389W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -38582,7 +38624,11 @@
         "Lead-Machine-Learning-Engineer_10150521",
         "Lead-Content-Distribution-Engineer_10152513",
         "Creative-Print-Coordinator--Searchlight-Pictures_10154075-1",
-        "Staff-Civil-Engineer---Projects_10147357"
+        "Staff-Civil-Engineer---Projects_10147357",
+        "Associate-Sourcing---Procurement-Representative--Data-Analytics-_10147213",
+        "ESPN-Product-Marketing-Intern--New-York-City--Fall-2026_10154503",
+        "ESPN-Programming-Intern--Remote--Fall-2026_10154497",
+        "Manager--Talent---Growth--India_10141217"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -39064,7 +39110,9 @@
         "R000106592",
         "R000105077",
         "R000106389-1",
-        "R000106374"
+        "R000106374",
+        "R000106591",
+        "R000092748"
     ],
     "Kyndryl": [
         "R-61530",
@@ -39841,6 +39889,8 @@
         "R-55708",
         "R-63573",
         "R-57946-1",
-        "R-63789-1"
+        "R-63789-1",
+        "R-64251",
+        "R-59996"
     ]
 }
