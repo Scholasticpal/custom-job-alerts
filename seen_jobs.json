@@ -1548,7 +1548,8 @@
         "6099277004",
         "6099520004",
         "6099616004",
-        "6099199004"
+        "6099199004",
+        "6100732004"
     ],
     "Amazon": [
         "3198115",
@@ -1957,7 +1958,8 @@
         "10458557",
         "10458821",
         "10459223",
-        "10459224"
+        "10459224",
+        "10459314"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -4409,7 +4411,8 @@
         "8028534",
         "8026696",
         "8026735",
-        "8026849"
+        "8026849",
+        "8029198"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -12562,7 +12565,8 @@
         "R-275621-1",
         "R-265457-2",
         "R-275688",
-        "R-281179-1"
+        "R-281179-1",
+        "R-281384"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16514,7 +16518,10 @@
         "R330262",
         "R346015",
         "R347123",
-        "R347488"
+        "R347488",
+        "R347383-1",
+        "R349284",
+        "R343956"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -17133,7 +17140,12 @@
         "Team-Coach_J-78215",
         "Travel-Consultant---Onsite_J-80930",
         "Team-Coach_J-83220",
-        "Sourcing---Meeting-Manager_J-82825"
+        "Sourcing---Meeting-Manager_J-82825",
+        "Specialized-Travel-Counselor---VIP_J-82989",
+        "Specialized-Travel-Counselor---Lead-Agent_J-82988",
+        "Specialized-Travel-Counselor---VIP---Publicity_J-82986",
+        "Consejero-de-Viajes---Turno-Nocturno_J-83231",
+        "Consultor-de-Viajes---GDS-Amadeus_J-83230"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -18108,7 +18120,9 @@
         "R261035",
         "R261555",
         "R261554",
-        "R265024"
+        "R265024",
+        "R264856",
+        "R264989"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -19887,7 +19901,11 @@
         "R-10395343",
         "R-10395340",
         "R-10395339",
-        "R-10395338"
+        "R-10395338",
+        "R-10397346",
+        "R-10396747",
+        "R-10396564-1",
+        "R-10388348"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -23762,7 +23780,9 @@
         "5275765008",
         "5271303008",
         "5281592008",
-        "5198999008"
+        "5198999008",
+        "5258579008",
+        "5279027008"
     ],
     "Coinbase": [
         "7559052",
@@ -25942,7 +25962,8 @@
         "7998023",
         "8021089",
         "8028593",
-        "8028587"
+        "8028587",
+        "7803601"
     ],
     "Datadog": [
         "7194969",
@@ -27289,7 +27310,9 @@
         "7962954",
         "8027437",
         "8027343",
-        "8027425"
+        "8027425",
+        "8027353",
+        "8027389"
     ],
     "Coursera": [
         "5839408004",
@@ -28287,7 +28310,11 @@
         "R-0108380",
         "R-0108268",
         "R-0107993",
-        "R-0107523"
+        "R-0107523",
+        "R-0108399",
+        "R-0108314",
+        "R-0108025",
+        "R-0108398"
     ],
     "CrowdStrike": [
         "R26911",
@@ -31180,7 +31207,10 @@
         "R2020113",
         "R2019347-1",
         "R2020198",
-        "R2020101"
+        "R2020101",
+        "R2016116",
+        "R2012281",
+        "R2016388"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -34380,7 +34410,13 @@
         "R0000442014",
         "R0000443765",
         "R0000443767",
-        "R0000443722"
+        "R0000443722",
+        "R0000443760",
+        "R0000443629",
+        "R0000443784",
+        "R0000443782",
+        "R0000443720",
+        "R0000443727"
     ],
     "Zoom": [
         "R18188-1",
@@ -35606,7 +35642,8 @@
         "4588236005",
         "4611776005",
         "4709157005",
-        "4709281005"
+        "4709281005",
+        "4709123005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -36242,7 +36279,9 @@
         "8025991",
         "8025989",
         "8027084",
-        "8028300"
+        "8028300",
+        "8017174",
+        "8022378"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -36901,7 +36940,9 @@
         "7958225",
         "8016745",
         "8015529",
-        "7678256"
+        "7678256",
+        "8024883",
+        "8024868"
     ],
     "Twitch": [
         "8334413002",
@@ -36989,7 +37030,10 @@
         "8606704002",
         "8609243002",
         "8609244002",
-        "8609245002"
+        "8609245002",
+        "8607049002",
+        "8609435002",
+        "8609436002"
     ],
     "Yelp": [],
     "Jupiter Money": [],
@@ -37211,7 +37255,8 @@
         "R34775",
         "R35040-1",
         "R35090",
-        "R35110"
+        "R35110",
+        "R35034"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -38102,7 +38147,10 @@
         "Sr-Tech-Support-Specialist_REF083435W",
         "Staff-Software-Engineer-AI-Solutions_REF080557W",
         "Vice-President--Global-Data---Analytics--Data-Science-Practice_REF081328W",
-        "Lead-Software-Engineer--Middleware-Reliability-Engineering_REF060249W"
+        "Lead-Software-Engineer--Middleware-Reliability-Engineering_REF060249W",
+        "Sr-Director--Acceptance-Risk-Solutions-Lead_REF080430W",
+        "Sr-SW-Engineer_REF081273W",
+        "Consumer-Marketing-Director_REF083343W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -39406,7 +39454,11 @@
         "Cast-Member--Summer-Temp-_10154611",
         "Manager--Product-Design---Streaming-Ad-Platforms_10154478",
         "KTRK-TV--ABC13--News-Intern--Fall-2026_10152696",
-        "Manager--Software-Engineering---BI---Analytics_10152789-2"
+        "Manager--Software-Engineering---BI---Analytics_10152789-2",
+        "Director-Media-Planning_10153184",
+        "Principal-Software-Development-Engineer-in-Test---Disney-Media-Player_10153360-1",
+        "Senior-Software-Development-Engineer-in-Test---Disney-Media-Player_10153358",
+        "Software-Development-Engineer-in-Test-II---Disney-Media-Player_10153353"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -40762,6 +40814,8 @@
         "R-63762",
         "R-63252",
         "R-64032",
-        "R-62617"
+        "R-62617",
+        "R-63377",
+        "R-63675-1"
     ]
 }
