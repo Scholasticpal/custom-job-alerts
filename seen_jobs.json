@@ -2389,7 +2389,8 @@
         "4707833005",
         "4706752005",
         "4708437005",
-        "4708967005"
+        "4708967005",
+        "4708016005"
     ],
     "Rippling": [],
     "Slice": [
@@ -3638,7 +3639,8 @@
         "8f80d61d-6730-43b2-b6e7-3923897093ad",
         "b21459ca-8d73-4635-842d-0dbf841388ac",
         "37fad0fd-5715-4b59-b19a-53cd7d3d456e",
-        "568a7768-0548-4f8b-aecd-0ba344d9588d"
+        "568a7768-0548-4f8b-aecd-0ba344d9588d",
+        "45172222-c2e0-4cf3-ba0e-2254e48eea96"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -6120,7 +6122,8 @@
         "8605976002",
         "8605158002",
         "8582993002",
-        "8554840002"
+        "8554840002",
+        "8607647002"
     ],
     "Rubrik": [
         "7310036",
@@ -7473,7 +7476,8 @@
         "8019052",
         "8014819",
         "8018536",
-        "8025650"
+        "8025650",
+        "8027932"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -8719,7 +8723,8 @@
         "8024918",
         "7818575",
         "7982861",
-        "8020357"
+        "8020357",
+        "8016226"
     ],
     "Dropbox": [
         "7646405",
@@ -12519,7 +12524,11 @@
         "R-280866-1",
         "R-280949",
         "R-280650",
-        "R-281142"
+        "R-281142",
+        "R-280785-1",
+        "R-272568",
+        "R-280842",
+        "R-281180"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16449,7 +16458,10 @@
         "R348168",
         "R348166",
         "R347521-1",
-        "R343084-1"
+        "R343084-1",
+        "R331268",
+        "R327560-1",
+        "R347961-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -18038,7 +18050,8 @@
         "R264652-1",
         "R261556",
         "R264747",
-        "R265018"
+        "R265018",
+        "R261035"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -19802,7 +19815,10 @@
         "R-10391573",
         "R-10385095",
         "R-10393239",
-        "R-10394505"
+        "R-10394505",
+        "R-10387398",
+        "R-10383531",
+        "R-10386850"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -31036,7 +31052,24 @@
         "R2020120-1",
         "R2020152",
         "R2020064",
-        "R2019507"
+        "R2019507",
+        "R2019506",
+        "R2019927",
+        "R2020186-1",
+        "R2020107",
+        "R2020053",
+        "R2020165",
+        "R2020167",
+        "R2019962",
+        "R2019919-1",
+        "R2020087-1",
+        "R2020193",
+        "R2020083",
+        "R2019971",
+        "R2020024-1",
+        "R2019959",
+        "R2018952",
+        "R2020278"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -34225,7 +34258,9 @@
         "R0000442323",
         "R0000443673",
         "R0000443669",
-        "R0000443342"
+        "R0000443342",
+        "R0000443648",
+        "R0000443346"
     ],
     "Zoom": [
         "R18188-1",
@@ -34455,7 +34490,8 @@
         "R19286-1",
         "R19087-1",
         "R19288-2",
-        "R19272"
+        "R19272",
+        "R18752-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -35006,7 +35042,11 @@
         "R-107327-1",
         "R-107380",
         "R-107189",
-        "R-107099"
+        "R-107099",
+        "R-106961",
+        "R-106989",
+        "R-106282-1",
+        "R-106007"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -35142,7 +35182,8 @@
         "Sr-Managed-Services-Consultant_112941-JOB-2",
         "Technical-Platform-Architect---CCaaS_113205-JOB-1",
         "Incident-Response-Engineer-II_113207-JOB",
-        "Software-Development-Engineer-II_113210-JOB"
+        "Software-Development-Engineer-II_113210-JOB",
+        "Lead-Product-Engineer_111232-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -36338,7 +36379,8 @@
         "a237973c-cb29-41fe-9c80-416e6f42e087",
         "a5f93bb6-4f13-4451-80a4-f63090830269",
         "a3eaa0ef-3378-495f-8308-edbd9a93d26c",
-        "75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
+        "75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+        "b81be534-e1d6-4946-8121-1e1360d4d030"
     ],
     "Gong": [],
     "Duolingo": [
@@ -37898,7 +37940,12 @@
         "Vice-President--LAC-Marketing-Services_REF083394W",
         "Senior-Manager--Acceptance-Sales--VAS-Japan_REF083417W-1",
         "People-Advisor--Manager---Southern-Europe-Cluster_REF083231W",
-        "Director--Managed-Services_REF083354W"
+        "Director--Managed-Services_REF083354W",
+        "Software-Engineer_REF083465W",
+        "R-2_REF075101W",
+        "Senior-Manager---B2B-Solution-Design---Payments--Identity---Authentication_REF083258W-1",
+        "Sr-Software-Engineer_REF083464W",
+        "Software-Engineer_REF083462W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -39189,7 +39236,8 @@
         "ESPN-Social-Intern--Remote--Fall-2026_10154504-2",
         "Media-Engineer-II_10145463",
         "Electrotechnicien-ne----CDD--Disneyland-Paris---F-H-NB_10154599",
-        "Director--Corporate-Communications_10154383"
+        "Director--Corporate-Communications_10154383",
+        "Merchandiser---Disney-_10147880"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -39693,7 +39741,8 @@
         "R000106495",
         "R000105776-1",
         "R000106150",
-        "R000105209"
+        "R000105209",
+        "R000103883"
     ],
     "Kyndryl": [
         "R-61530",
@@ -40508,6 +40557,7 @@
         "R-62880",
         "R-62885-1",
         "R-62025",
-        "R-59036"
+        "R-59036",
+        "R-63583"
     ]
 }
