@@ -1946,7 +1946,8 @@
         "10456697",
         "10456700",
         "10456887",
-        "10457714"
+        "10457714",
+        "10458530"
     ],
     "Checkout.com": [],
     "CRED": [],
@@ -3626,7 +3627,8 @@
         "4e818e87-84e3-46a2-9c79-ebecd513b1f3",
         "cc7f6c73-1bb6-44e4-9ba3-71e058c9e3b8",
         "2901f5e8-e5a8-4508-9122-07d34ef0b285",
-        "fffdcfb1-fd6e-4401-b059-500838a6db0e"
+        "fffdcfb1-fd6e-4401-b059-500838a6db0e",
+        "1a52f430-6881-40e3-84f2-7c2fb5e4c324"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4505,7 +4507,8 @@
         "8020380",
         "8020385",
         "8022723",
-        "8022724"
+        "8022724",
+        "8027690"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -6528,7 +6531,8 @@
         "8023221",
         "7992044",
         "8023981",
-        "8013791"
+        "8013791",
+        "8021251"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -8248,7 +8252,9 @@
         "8022879",
         "8023195",
         "8023173",
-        "8023166"
+        "8023166",
+        "8025605",
+        "8025167"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -12489,7 +12495,9 @@
         "R-280973",
         "R-280739",
         "R-281194",
-        "R-276076"
+        "R-276076",
+        "R-280818-1",
+        "R-279589"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16413,7 +16421,12 @@
         "R348157-1",
         "R346993",
         "R299522-1",
-        "R345405"
+        "R345405",
+        "R273146",
+        "R347936",
+        "R348168",
+        "R348166",
+        "R347521-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -16507,7 +16520,10 @@
         "7817507",
         "7870947",
         "8000160",
-        "5870604"
+        "5870604",
+        "7822791",
+        "7809761",
+        "7809758"
     ],
     "PayU": [],
     "American Express": [
@@ -17026,7 +17042,8 @@
         "Meeting---Event-Generalist_J-81528",
         "Global-Service-Desk-Level-1-Team-Leader_J-82858",
         "Technical-Lead---Architect_J-80435",
-        "Team-Coach_J-78215"
+        "Team-Coach_J-78215",
+        "Travel-Consultant---Onsite_J-80930"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -20312,7 +20329,10 @@
         "R-14429",
         "R-14551",
         "R-14478",
-        "R-13867"
+        "R-13867",
+        "R-14467",
+        "R-14469",
+        "R-14470"
     ],
     "PayPal": [
         "R0135744-1",
@@ -23617,7 +23637,10 @@
         "5277834008",
         "5239772008",
         "5258583008",
-        "5278065008"
+        "5278065008",
+        "5275765008",
+        "5271303008",
+        "5281592008"
     ],
     "Coinbase": [
         "7559052",
@@ -26447,7 +26470,9 @@
         "8020530",
         "8013353",
         "8003181",
-        "8026520"
+        "8026520",
+        "8014851",
+        "8017906"
     ],
     "Elastic": [
         "7505982",
@@ -28113,7 +28138,8 @@
         "R-0107524-1",
         "R-0107519",
         "R-0108205",
-        "R-0108334"
+        "R-0108334",
+        "R-0107963"
     ],
     "CrowdStrike": [
         "R26911",
@@ -28710,7 +28736,9 @@
         "R29143",
         "R28817",
         "R29214",
-        "R29110"
+        "R29110",
+        "R29093",
+        "R29089"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -30970,7 +30998,8 @@
         "R2019683",
         "R2019966",
         "R2020076",
-        "R2019967-1"
+        "R2019967-1",
+        "R2018836-2"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -34131,7 +34160,16 @@
         "R0000443658",
         "R0000443677",
         "R0000443628",
-        "R0000443663-1"
+        "R0000443663-1",
+        "R0000443640",
+        "R0000443664",
+        "R0000443674",
+        "R0000443624",
+        "R0000443348",
+        "R0000443248",
+        "R0000443668",
+        "R0000443678",
+        "R0000443688"
     ],
     "Zoom": [
         "R18188-1",
@@ -34360,7 +34398,8 @@
         "R18751-1",
         "R19286-1",
         "R19087-1",
-        "R19288-2"
+        "R19288-2",
+        "R19272"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -34909,7 +34948,8 @@
         "R-107344",
         "R-101784-1",
         "R-107327-1",
-        "R-107380"
+        "R-107380",
+        "R-107189"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -37799,7 +37839,8 @@
         "Director--Customer-Journey-Activation-Product-Manager_REF083405W",
         "Sr-Executive-Administrator_REF083145W-1",
         "Vice-President--LAC-Marketing-Services_REF083394W",
-        "Senior-Manager--Acceptance-Sales--VAS-Japan_REF083417W-1"
+        "Senior-Manager--Acceptance-Sales--VAS-Japan_REF083417W-1",
+        "People-Advisor--Manager---Southern-Europe-Cluster_REF083231W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -38310,7 +38351,10 @@
         "Business-Strategist--AI-Foundation-Models_26WD97210-1",
         "Senior-Development-Manager--Platforms-Development-AI-ML-San-Francisco--CA_26WD97302",
         "Senior-Business-Development-Executive--Datacenters-_26WD99172-1",
-        "Senior-Machine-Learning-Engineer--MLOps_26WD96432-1"
+        "Senior-Machine-Learning-Engineer--MLOps_26WD96432-1",
+        "Intern--Content-Management_26WD98394-1",
+        "Customer-Success-Advisor--Design---Manufacturing_26WD97720-1",
+        "Senior-Application-Security-Developer--AI-Security-_26WD97513"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -39082,7 +39126,9 @@
         "Sr-Financial-Analyst_10153588",
         "Disney-Music-Group---VP--Sales---Digital_10154006",
         "Global-Hardlines-Manager_10154012",
-        "Senior-Content-Partnerships-Associate_10153976"
+        "Senior-Content-Partnerships-Associate_10153976",
+        "ESPN-Social-Intern--Remote--Fall-2026_10154504-2",
+        "Media-Engineer-II_10145463"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -39582,7 +39628,9 @@
         "R000106584",
         "R000106233-2",
         "R000106557",
-        "R000102113"
+        "R000102113",
+        "R000106495",
+        "R000105776-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -40390,6 +40438,12 @@
         "R-61929",
         "R-63747",
         "R-52271",
-        "R-53330"
+        "R-53330",
+        "R-63315",
+        "R-63264-1",
+        "R-63198",
+        "R-62880",
+        "R-62885-1",
+        "R-62025"
     ]
 }
