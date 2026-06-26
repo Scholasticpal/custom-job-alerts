@@ -6183,7 +6183,8 @@
         "8569606002",
         "8606459002",
         "8603398002",
-        "8609868002"
+        "8609868002",
+        "8604954002"
     ],
     "Rubrik": [
         "7310036",
@@ -16671,7 +16672,13 @@
         "R349340",
         "R349270",
         "R349476",
-        "R347863"
+        "R347863",
+        "R349475",
+        "R349478",
+        "R349467",
+        "R349466",
+        "R346956",
+        "R344459"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -17304,7 +17311,8 @@
         "Specialized-Travel-Consultant_J-81414",
         "Technical-Project-Manager_J-83248",
         "Event-Coordinator-with-German_J-82426",
-        "Event-Venue-Sourcer-with-Swedish_J-82430"
+        "Event-Venue-Sourcer-with-Swedish_J-82430",
+        "Technical-Business-Analyst_J-83249"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -18299,7 +18307,8 @@
         "R264790",
         "R264794",
         "R263207",
-        "R264992"
+        "R264992",
+        "R265013"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -24261,7 +24270,11 @@
         "7652048",
         "8031308",
         "8031253",
-        "8026678"
+        "8026678",
+        "8031603",
+        "8030686",
+        "7997836",
+        "7997840"
     ],
     "Discord": [
         "8289766002",
@@ -24759,7 +24772,8 @@
         "8011163",
         "8029641",
         "8030230",
-        "8029120"
+        "8029120",
+        "8031491"
     ],
     "Notion": [],
     "Plaid": [],
@@ -27587,7 +27601,8 @@
         "8017531",
         "8001751",
         "7555402",
-        "7629129"
+        "7629129",
+        "7901186"
     ],
     "Coursera": [
         "5839408004",
@@ -28611,7 +28626,8 @@
         "R-0108293",
         "R-0107107",
         "R-0108307-1",
-        "R-0108348"
+        "R-0108348",
+        "R-0108311"
     ],
     "CrowdStrike": [
         "R26911",
@@ -34830,7 +34846,10 @@
         "R0000441961-1",
         "R0000443560",
         "R0000435762",
-        "R0000443910"
+        "R0000443910",
+        "R0000443813",
+        "R0000443675",
+        "R0000443774"
     ],
     "Zoom": [
         "R18188-1",
@@ -35063,7 +35082,8 @@
         "R19272",
         "R18752-1",
         "R18764-1",
-        "R19293-1"
+        "R19293-1",
+        "R19295-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -37395,7 +37415,8 @@
         "7999050",
         "7908998",
         "7954726",
-        "7958186"
+        "7958186",
+        "8014770"
     ],
     "Twitch": [
         "8334413002",
@@ -39174,7 +39195,8 @@
         "Senior-Software-Engineer--C-NET--AWS-_25WD93257-2",
         "Director--Events---Experiences-Operations_26WD99203-1",
         "Principal-Developer--AI-ML_25WD94058-1",
-        "Corporate-Development-Associate_26WD99470-1"
+        "Corporate-Development-Associate_26WD99470-1",
+        "Senior-Technical-Product-Manager--Data-Acquisition_26WD99608-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -39994,7 +40016,8 @@
         "Remote-Encoder-Technician_10152963",
         "Sr-Product-Mgr_10154015",
         "Senior-Manager--Product-Transformation_10152692",
-        "Senior-Product-Manager-II_10154051"
+        "Senior-Product-Manager-II_10154051",
+        "Executive-Director--Design_10149073"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -40519,7 +40542,8 @@
         "R000106540",
         "R000105071",
         "R000106593",
-        "R000105984-2"
+        "R000105984-2",
+        "R000106311"
     ],
     "Kyndryl": [
         "R-61530",
@@ -41403,6 +41427,8 @@
         "R-60396",
         "R-64165",
         "R-64145",
-        "R-64423"
+        "R-64423",
+        "R-60116",
+        "R-59445"
     ]
 }
