@@ -4431,7 +4431,8 @@
         "8029198",
         "8029148",
         "8029497",
-        "8025475"
+        "8025475",
+        "7968023"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -7551,7 +7552,9 @@
         "8021957",
         "8013562",
         "8024272",
-        "8028519"
+        "8028519",
+        "8031141",
+        "8021873"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -8349,7 +8352,9 @@
         "8027973",
         "8027947",
         "8027704",
-        "8027691"
+        "8027691",
+        "8031476",
+        "8031481"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -8802,7 +8807,8 @@
         "7818575",
         "7982861",
         "8020357",
-        "8016226"
+        "8016226",
+        "8026617"
     ],
     "Dropbox": [
         "7646405",
@@ -12647,7 +12653,10 @@
         "R-281236-1",
         "R-280855",
         "R-280758",
-        "R-280277"
+        "R-280277",
+        "R-278241",
+        "R-281058",
+        "R-281109"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16648,7 +16657,10 @@
         "R346286",
         "R349439",
         "R342875",
-        "R347043"
+        "R347043",
+        "R347376",
+        "R346947",
+        "R349340"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -18269,7 +18281,11 @@
         "R264818",
         "R265000-1",
         "R264997",
-        "R264982-1"
+        "R264982-1",
+        "R264790",
+        "R264794",
+        "R263207",
+        "R264992"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -18449,7 +18465,8 @@
         "Legal---Compliance---Transaction-Lawyer--Vice-President_41761-1",
         "BXMA--Investment-Operations--Analyst_43757",
         "Blackstone-Private-Wealth---Client-Services--Associate_41767",
-        "Blackstone-Private-Wealth---Internal-Sales--Associate--Toronto-_41817"
+        "Blackstone-Private-Wealth---Internal-Sales--Associate--Toronto-_41817",
+        "Legal---Compliance---Blackstone-Multi-Asset-Investing--BXMA----Legal---Product-Structuring-Attorney--VP_43796"
     ],
     "Capital Group": [
         "R6549",
@@ -20089,7 +20106,9 @@
         "R-10387968",
         "R-10397225",
         "R-10397226",
-        "R-10387966"
+        "R-10387966",
+        "R-10396970",
+        "R-10396969"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -20306,7 +20325,8 @@
         "Sr-IS-Analyst---Security-Operations_867832-1",
         "SVP--Business-Development-Liquidity_868272",
         "Portfolio-Manager--Alternative-Risk-Premia_868521",
-        "Procurement-Analyst--Sourcing---Vendor-Management-_868076"
+        "Procurement-Analyst--Sourcing---Vendor-Management-_868076",
+        "Equity-Solutions-Portfolio-Analyst---Portfolio-Construction---Optimization_868435"
     ],
     "Invesco": [
         "R-13647",
@@ -20655,7 +20675,10 @@
         "R-14469",
         "R-14470",
         "R-13756",
-        "R-14463"
+        "R-14463",
+        "R-14062",
+        "R-14170",
+        "R-14168"
     ],
     "PayPal": [
         "R0135744-1",
@@ -21058,7 +21081,8 @@
         "R0135984-1",
         "R0136912",
         "R0134032-1",
-        "R0136773-1"
+        "R0136773-1",
+        "R0136697"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -23973,7 +23997,8 @@
         "5278987008",
         "5281348008",
         "5283616008",
-        "5269583008"
+        "5269583008",
+        "5275907008"
     ],
     "Coinbase": [
         "7559052",
@@ -24712,7 +24737,8 @@
         "8022663",
         "8011163",
         "8029641",
-        "8030230"
+        "8030230",
+        "8029120"
     ],
     "Notion": [],
     "Plaid": [],
@@ -26847,7 +26873,10 @@
         "7977339",
         "8030599",
         "8031007",
-        "8030354"
+        "8030354",
+        "8029988",
+        "8029969",
+        "8031320"
     ],
     "Elastic": [
         "7505982",
@@ -27805,7 +27834,8 @@
         "R169812-1",
         "R169636",
         "R169813",
-        "R170201"
+        "R170201",
+        "R159538-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -29170,7 +29200,9 @@
         "R28292",
         "R28894",
         "R24030",
-        "R27304"
+        "R27304",
+        "R28231",
+        "R29122"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -31493,7 +31525,16 @@
         "R2020157",
         "R2020148",
         "R2020308",
-        "R2019397-1"
+        "R2019397-1",
+        "R2020174",
+        "R2020176",
+        "R2020233-1",
+        "R2020114",
+        "R2020230",
+        "R2020265",
+        "R2020216",
+        "R2019456",
+        "R2019914"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -34753,7 +34794,12 @@
         "R0000443723",
         "R0000443887",
         "R0000443873-1",
-        "R0000443796-1"
+        "R0000443796-1",
+        "R0000443911",
+        "R0000443903",
+        "R0000443714",
+        "R0000439102-1",
+        "R0000441961-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -35553,7 +35599,10 @@
         "R-106977",
         "R-107136",
         "R-107328",
-        "R-107000"
+        "R-107000",
+        "R-107299-1",
+        "R-107023-1",
+        "R-107333-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -35993,7 +36042,9 @@
         "4709123005",
         "4709132005",
         "4709129005",
-        "4708587005"
+        "4708587005",
+        "4709439005",
+        "4706142005"
     ],
     "Cohere": [],
     "Hugging Face": [],
@@ -36635,7 +36686,8 @@
         "8028300",
         "8017174",
         "8022378",
-        "7974118"
+        "7974118",
+        "8010288"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -37306,7 +37358,9 @@
         "8024868",
         "7985294",
         "7999050",
-        "7908998"
+        "7908998",
+        "7954726",
+        "7958186"
     ],
     "Twitch": [
         "8334413002",
@@ -38545,7 +38599,15 @@
         "Software-Engineer---Sr-Consultant-level-1_REF080662W",
         "Senior-Associate--Solutions-Designer_REF081369W",
         "Associate-Cybersecurity-Analyst_REF080609W-1",
-        "Staff-SW-Test-Engineer--Software-Test-Engineering_REF084603W"
+        "Staff-SW-Test-Engineer--Software-Test-Engineering_REF084603W",
+        "Senior-Software-Engineer_REF080651W",
+        "Support-Engineer--Authorizations-Processing-_REF083451W-1",
+        "Support-Engineer--Platform--SRE-_REF083453W",
+        "Senior-Support-Engineer--Authorizations-Processing-_REF083447W",
+        "Senior-Support-Engineer--Platform--SRE-_REF083450W",
+        "Senior-Technical-Account-Manager--TAM-_REF083449W-1",
+        "Director-of-Product-Management_REF083474W",
+        "Enterprise-Support--Sr-Manager_REF083446W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -39074,7 +39136,9 @@
         "Director-Acquisition---Performance-Marketing_26WD96731-2",
         "Digital-Support-Intelligent-Automation-Solutions-Engineer_26WD99564-1",
         "Senior-Software-Engineer--C-NET--AWS-_25WD93257-2",
-        "Director--Events---Experiences-Operations_26WD99203-1"
+        "Director--Events---Experiences-Operations_26WD99203-1",
+        "Principal-Developer--AI-ML_25WD94058-1",
+        "Corporate-Development-Associate_26WD99470-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -39888,7 +39952,11 @@
         "Lead-Product-Manager---Data---AI-Value-Enablement_10146925",
         "Lead-Technical-Project-Manager_10146096",
         "Program-Manager--Enterprise-Technology--Latam-_10152478",
-        "Standards-and-Practices-Operator--RP-_10153989"
+        "Standards-and-Practices-Operator--RP-_10153989",
+        "Senior-Operations-Analyst---Data-Integration_10148573",
+        "Sr-Manager--Systems-Engineering---Global-Security-Design---Engineering_10154307",
+        "Remote-Encoder-Technician_10152963",
+        "Sr-Product-Mgr_10154015"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -40411,7 +40479,9 @@
         "R000106542",
         "R000106543",
         "R000106540",
-        "R000105071"
+        "R000105071",
+        "R000106593",
+        "R000105984-2"
     ],
     "Kyndryl": [
         "R-61530",
@@ -41288,6 +41358,12 @@
         "R-64398",
         "R-64128",
         "R-64131",
-        "R-64126"
+        "R-64126",
+        "R-60395",
+        "R-64166",
+        "R-64034",
+        "R-60396",
+        "R-64165",
+        "R-64145"
     ]
 }
