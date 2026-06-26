@@ -1229,7 +1229,9 @@
         "8026689",
         "8025888",
         "8024368",
-        "6166982"
+        "6166982",
+        "8030859",
+        "8010009"
     ],
     "Figma": [
         "5426468004",
@@ -1555,7 +1557,8 @@
         "6099616004",
         "6099199004",
         "6100732004",
-        "6100023004"
+        "6100023004",
+        "6102379004"
     ],
     "Amazon": [
         "3198115",
@@ -6174,7 +6177,8 @@
         "8608609002",
         "8609899002",
         "8605147002",
-        "8569606002"
+        "8569606002",
+        "8606459002"
     ],
     "Rubrik": [
         "7310036",
@@ -6605,7 +6609,9 @@
         "7820794",
         "7976001",
         "8030213",
-        "7926908"
+        "7926908",
+        "8013997",
+        "8003414"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -7542,7 +7548,10 @@
         "8027747",
         "8028310",
         "8022491",
-        "8021957"
+        "8021957",
+        "8013562",
+        "8024272",
+        "8028519"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -12635,7 +12644,10 @@
         "R-280834",
         "R-281242",
         "R-281302",
-        "R-281236-1"
+        "R-281236-1",
+        "R-280855",
+        "R-280758",
+        "R-280277"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16631,7 +16643,12 @@
         "R349383",
         "R347064",
         "R349389",
-        "R349385"
+        "R349385",
+        "R347581",
+        "R346286",
+        "R349439",
+        "R342875",
+        "R347043"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -17260,7 +17277,8 @@
         "SQL-Programmer_J-83233",
         "Sourcing-Manager_J-82902",
         "Regional-Program-Coordinator_J-82819",
-        "Zoom-Engineer_J-83138"
+        "Zoom-Engineer_J-83138",
+        "Specialized-Travel-Consultant_J-81414"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -18602,7 +18620,8 @@
         "R6424",
         "R6822",
         "R6383-1",
-        "R6312-1"
+        "R6312-1",
+        "R6753"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -20067,7 +20086,10 @@
         "R-10396746",
         "R-10396728",
         "R-10396749",
-        "R-10387968"
+        "R-10387968",
+        "R-10397225",
+        "R-10397226",
+        "R-10387966"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -20632,7 +20654,8 @@
         "R-14467",
         "R-14469",
         "R-14470",
-        "R-13756"
+        "R-13756",
+        "R-14463"
     ],
     "PayPal": [
         "R0135744-1",
@@ -23949,7 +23972,8 @@
         "5277850008",
         "5278987008",
         "5281348008",
-        "5283616008"
+        "5283616008",
+        "5269583008"
     ],
     "Coinbase": [
         "7559052",
@@ -24190,7 +24214,8 @@
         "8029035",
         "8028985",
         "8024880",
-        "8029711"
+        "8029711",
+        "7652048"
     ],
     "Discord": [
         "8289766002",
@@ -24994,7 +25019,8 @@
         "7785600003",
         "7780492003",
         "7780490003",
-        "7782548003"
+        "7782548003",
+        "7779929003"
     ],
     "Robinhood": [
         "7799902",
@@ -26143,7 +26169,8 @@
         "8028587",
         "7803601",
         "8023912",
-        "8028218"
+        "8028218",
+        "8030945"
     ],
     "Datadog": [
         "7194969",
@@ -26818,7 +26845,9 @@
         "8026780",
         "7984983",
         "7977339",
-        "8030599"
+        "8030599",
+        "8031007",
+        "8030354"
     ],
     "Elastic": [
         "7505982",
@@ -27505,7 +27534,8 @@
         "8027353",
         "8027389",
         "8017531",
-        "8001751"
+        "8001751",
+        "7555402"
     ],
     "Coursera": [
         "5839408004",
@@ -28522,7 +28552,10 @@
         "R-0107816",
         "R-0108247",
         "R-0108417",
-        "R-0107504-1"
+        "R-0107504-1",
+        "R-0108294",
+        "R-0108293",
+        "R-0107107"
     ],
     "CrowdStrike": [
         "R26911",
@@ -29136,7 +29169,8 @@
         "R29133",
         "R28292",
         "R28894",
-        "R24030"
+        "R24030",
+        "R27304"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -31458,7 +31492,8 @@
         "R2019569",
         "R2020157",
         "R2020148",
-        "R2020308"
+        "R2020308",
+        "R2019397-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -31622,7 +31657,10 @@
         "Software-Engineer---Mobile_2016197",
         "Sr-ASIC-Engineer--UVM---System-Verilog---Scripting----8--Yrs---BLR_1451708",
         "Technical-Leader--Performance---Tetragon_2017913-1",
-        "Senior-Silicon-Photonics-Design-Engineer---Hybrid-_2016715"
+        "Senior-Silicon-Photonics-Design-Engineer---Hybrid-_2016715",
+        "ASIC-Engineering-Technical-Leader---CDC_2017935",
+        "Technical-Marketing-Engineering-Technical-Leader--Hybrid-_2016933",
+        "ASIC-DFx---Test-Architect-Lead_2017937"
     ],
     "Intel": [
         "R0283052",
@@ -34707,7 +34745,15 @@
         "R0000443846",
         "R0000443870-1",
         "R0000443869",
-        "R0000443825"
+        "R0000443825",
+        "R0000443817",
+        "R0000443856",
+        "R0000440065-1",
+        "R0000443735",
+        "R0000443723",
+        "R0000443887",
+        "R0000443873-1",
+        "R0000443796-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -34939,7 +34985,8 @@
         "R19288-2",
         "R19272",
         "R18752-1",
-        "R18764-1"
+        "R18764-1",
+        "R19293-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -37350,7 +37397,13 @@
         "8609245002",
         "8607049002",
         "8609435002",
-        "8609436002"
+        "8609436002",
+        "8610618002",
+        "8600134002",
+        "8610622002",
+        "8610621002",
+        "8610471002",
+        "8605153002"
     ],
     "Yelp": [],
     "Jupiter Money": [],
@@ -38489,7 +38542,10 @@
         "Staff-Software-Engineer_REF081501W",
         "SW-Engineer_REF078828W",
         "Director---Software-Engineering--Java--Spring-Boot--Kafka---15--years-exp-_REF083269W",
-        "Software-Engineer---Sr-Consultant-level-1_REF080662W"
+        "Software-Engineer---Sr-Consultant-level-1_REF080662W",
+        "Senior-Associate--Solutions-Designer_REF081369W",
+        "Associate-Cybersecurity-Analyst_REF080609W-1",
+        "Staff-SW-Test-Engineer--Software-Test-Engineering_REF084603W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -39017,7 +39073,8 @@
         "Executive-Engagement-Events--Sr-Marketing-Manager_26WD99351-1",
         "Director-Acquisition---Performance-Marketing_26WD96731-2",
         "Digital-Support-Intelligent-Automation-Solutions-Engineer_26WD99564-1",
-        "Senior-Software-Engineer--C-NET--AWS-_25WD93257-2"
+        "Senior-Software-Engineer--C-NET--AWS-_25WD93257-2",
+        "Director--Events---Experiences-Operations_26WD99203-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -39829,7 +39886,9 @@
         "Publicist_10154629",
         "Payroll-Analyst_10154164",
         "Lead-Product-Manager---Data---AI-Value-Enablement_10146925",
-        "Lead-Technical-Project-Manager_10146096"
+        "Lead-Technical-Project-Manager_10146096",
+        "Program-Manager--Enterprise-Technology--Latam-_10152478",
+        "Standards-and-Practices-Operator--RP-_10153989"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -40347,7 +40406,12 @@
         "R000106552",
         "R000099531",
         "R000106657",
-        "R000106590-1"
+        "R000106590-1",
+        "R000105422",
+        "R000106542",
+        "R000106543",
+        "R000106540",
+        "R000105071"
     ],
     "Kyndryl": [
         "R-61530",
@@ -41221,6 +41285,9 @@
         "R-63387-1",
         "R-63334",
         "R-62969-1",
-        "R-64398"
+        "R-64398",
+        "R-64128",
+        "R-64131",
+        "R-64126"
     ]
 }
