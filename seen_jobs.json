@@ -2170,7 +2170,9 @@
         "7766920003",
         "7776042003",
         "7780995003",
-        "7762339003"
+        "7762339003",
+        "7784669003",
+        "7772955003"
     ],
     "Razorpay": [
         "4665089005",
@@ -3655,7 +3657,8 @@
         "37fad0fd-5715-4b59-b19a-53cd7d3d456e",
         "568a7768-0548-4f8b-aecd-0ba344d9588d",
         "45172222-c2e0-4cf3-ba0e-2254e48eea96",
-        "413bfb52-9529-42fb-a17a-033518f179f5"
+        "413bfb52-9529-42fb-a17a-033518f179f5",
+        "7b89d34b-9a61-43e2-b336-1d33941f3dd9"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4417,7 +4420,8 @@
         "8026849",
         "8029198",
         "8029148",
-        "8029497"
+        "8029497",
+        "8025475"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -6157,7 +6161,8 @@
         "8569602002",
         "8598732002",
         "8569453002",
-        "8569457002"
+        "8569457002",
+        "8528597002"
     ],
     "Rubrik": [
         "7310036",
@@ -8311,7 +8316,9 @@
         "8023173",
         "8023166",
         "8025605",
-        "8025167"
+        "8025167",
+        "8027973",
+        "8027947"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -12591,7 +12598,10 @@
         "R-280824",
         "R-278148",
         "R-281333",
-        "R-278385"
+        "R-278385",
+        "R-280976",
+        "R-280968",
+        "R-280764"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16560,7 +16570,19 @@
         "R348179",
         "R349298",
         "R344955",
-        "R344954"
+        "R344954",
+        "R349374",
+        "R343588",
+        "R348212",
+        "R349251",
+        "R348415",
+        "R340916",
+        "R347049-1",
+        "R347811",
+        "R347394",
+        "R346654",
+        "R348399",
+        "R346135-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -17318,7 +17340,10 @@
         "Vice-President--Cyber-Crime-Specialist--Global-Information-Security--Sydney--Australia_26021360",
         "Senior-Site-Reliability-Engineer--Enterprise-Cloud-Platforms--Global-Technology--Australia_26021766",
         "Analyst---Associate---Equity-Research--Technology-and-Hardware--Global-Research--Taiwan_26021946",
-        "AVP--Credit-Analyst--Enterprise-Credit--Shanghai_26021945"
+        "AVP--Credit-Analyst--Enterprise-Credit--Shanghai_26021945",
+        "Vice-President--Software-Engineer--Global-Corporate-Investment-Banking_26021949-1",
+        "Officer--Markets-Support-Analyst--Equity-Operations---Taiwan--Global-Markets-Operations_26021365-1",
+        "Contractor--Operations-Analyst--Taiwan--Global-Markets-Operations_26021259"
     ],
     "BlackRock": [
         "R263666",
@@ -18170,7 +18195,8 @@
         "R264882",
         "R264876",
         "R264840",
-        "R264818"
+        "R264818",
+        "R265000-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -18516,7 +18542,9 @@
         "R6359",
         "R5500",
         "R6073",
-        "R6170"
+        "R6170",
+        "R5834",
+        "R6424"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -19962,7 +19990,13 @@
         "R-10396564-1",
         "R-10388348",
         "R-10392607",
-        "R-10396738"
+        "R-10396738",
+        "R-10383711",
+        "R-10393179-1",
+        "R-10393178",
+        "R-10395575",
+        "R-10396443",
+        "R-10395476-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -26030,7 +26064,8 @@
         "8021089",
         "8028593",
         "8028587",
-        "7803601"
+        "7803601",
+        "8023912"
     ],
     "Datadog": [
         "7194969",
@@ -27650,7 +27685,8 @@
         "R166319",
         "R169624",
         "R169401",
-        "R169812-1"
+        "R169812-1",
+        "R169636"
     ],
     "Workday": [
         "R-0106509-1",
@@ -28997,7 +29033,9 @@
         "R23913",
         "R28277",
         "R28474",
-        "R27150"
+        "R27150",
+        "R27823",
+        "R28686"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -31301,7 +31339,8 @@
         "R2019992",
         "R2020236",
         "R2020348-1",
-        "R2014403"
+        "R2014403",
+        "R2016209"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -34513,7 +34552,24 @@
         "R0000443641",
         "R0000443719",
         "R0000443188-1",
-        "R0000443186"
+        "R0000443186",
+        "R0000443785",
+        "R0000443155",
+        "R0000434917-1",
+        "R0000443509-1",
+        "R0000443819",
+        "R0000443749",
+        "R0000443169",
+        "R0000443679",
+        "R0000443769",
+        "R0000443699",
+        "R0000443808",
+        "R0000443698",
+        "R0000442252",
+        "R0000443812",
+        "R0000443800",
+        "R0000443770-1",
+        "R0000443751"
     ],
     "Zoom": [
         "R18188-1",
@@ -35305,7 +35361,10 @@
         "R-106994-1",
         "R-106991",
         "R-107101",
-        "R-106241-1"
+        "R-106241-1",
+        "R-107053",
+        "R-107135-1",
+        "R-106977"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -37047,7 +37106,8 @@
         "7678256",
         "8024883",
         "8024868",
-        "7985294"
+        "7985294",
+        "7999050"
     ],
     "Twitch": [
         "8334413002",
@@ -37361,7 +37421,8 @@
         "R35040-1",
         "R35090",
         "R35110",
-        "R35034"
+        "R35034",
+        "R33924"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -38259,7 +38320,11 @@
         "Principal--Product-Management_REF083146W",
         "Consulting-Manager---Visa-Consulting---Analytics--VCA-_REF081345W",
         "Senior-Implementation-Consultant_REF083426W-1",
-        "Data---Insights-Analyst--Risk---Fraud-Analytics--SQL--Advanced-Analytics--Data-Storytelling-_REF083433W-1"
+        "Data---Insights-Analyst--Risk---Fraud-Analytics--SQL--Advanced-Analytics--Data-Storytelling-_REF083433W-1",
+        "Implementation-Director_REF081776W",
+        "Senior-Director--Executive-Communications_REF081745W",
+        "Senior-Software-Engineer_REF079603W",
+        "Sr-Director_REF080337W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -38781,7 +38846,9 @@
         "Software-Engineer_25WD93596-1",
         "Director--Talent-Development_26WD99350",
         "Preconstruction-Subject-Matter-Expert--SME----Construction-Technical-Sales_26WD98471-2",
-        "Finance-AI-Enablement-Lead_26WD99181-1"
+        "Finance-AI-Enablement-Lead_26WD99181-1",
+        "Customer-Success-Readiness-Manager_26WD99513",
+        "Principal-Engineer--Java---DB--AWS-_26WD95272-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -39581,7 +39648,8 @@
         "Marketing-Manager--ESPN--12-mth-contract_10154382",
         "Sr-Product-Designer_10153819",
         "Senior-VMO-Operations-Specialist--Project-Hire-_10142042",
-        "SVP--Programming---Creation--Emerging-Content---Short-Form_10154468-1"
+        "SVP--Programming---Creation--Emerging-Content---Short-Form_10154468-1",
+        "Trainee-Original-Production_10153413-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -40958,6 +41026,12 @@
         "R-37803-1",
         "R-37810-1",
         "R-37799",
-        "R-37809"
+        "R-37809",
+        "R-63694-1",
+        "R-64040",
+        "R-64038",
+        "R-64025",
+        "R-63188",
+        "R-63278-1"
     ]
 }
