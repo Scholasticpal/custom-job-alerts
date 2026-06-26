@@ -1224,7 +1224,8 @@
         "8010011",
         "7993149",
         "8013657",
-        "8011682"
+        "8011682",
+        "8029041"
     ],
     "Figma": [
         "5426468004",
@@ -3653,7 +3654,8 @@
         "b21459ca-8d73-4635-842d-0dbf841388ac",
         "37fad0fd-5715-4b59-b19a-53cd7d3d456e",
         "568a7768-0548-4f8b-aecd-0ba344d9588d",
-        "45172222-c2e0-4cf3-ba0e-2254e48eea96"
+        "45172222-c2e0-4cf3-ba0e-2254e48eea96",
+        "413bfb52-9529-42fb-a17a-033518f179f5"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -7512,7 +7514,10 @@
         "8025650",
         "8027932",
         "8018980",
-        "8024889"
+        "8024889",
+        "8016164",
+        "8027731",
+        "8027747"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -12584,7 +12589,9 @@
         "R-280717-1",
         "R-280823",
         "R-280824",
-        "R-278148"
+        "R-278148",
+        "R-281333",
+        "R-278385"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16545,7 +16552,15 @@
         "R348012",
         "R346777",
         "R348222",
-        "R346100"
+        "R346100",
+        "R348217-1",
+        "R348216",
+        "R348219",
+        "R346398",
+        "R348179",
+        "R349298",
+        "R344955",
+        "R344954"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -17301,7 +17316,9 @@
         "Group-Assistant--Capital-Markets-Japan_26018071",
         "Treasury-Sales-Associate--Global-Payments-Solutions--Shanghai_26021364",
         "Vice-President--Cyber-Crime-Specialist--Global-Information-Security--Sydney--Australia_26021360",
-        "Senior-Site-Reliability-Engineer--Enterprise-Cloud-Platforms--Global-Technology--Australia_26021766"
+        "Senior-Site-Reliability-Engineer--Enterprise-Cloud-Platforms--Global-Technology--Australia_26021766",
+        "Analyst---Associate---Equity-Research--Technology-and-Hardware--Global-Research--Taiwan_26021946",
+        "AVP--Credit-Analyst--Enterprise-Credit--Shanghai_26021945"
     ],
     "BlackRock": [
         "R263666",
@@ -18498,7 +18515,8 @@
         "R6422",
         "R6359",
         "R5500",
-        "R6073"
+        "R6073",
+        "R6170"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -18747,7 +18765,8 @@
         "R-2026-_R32647",
         "R32646",
         "R32581",
-        "R31531"
+        "R31531",
+        "R29782"
     ],
     "Fiserv": [
         "R-10392824",
@@ -19942,7 +19961,8 @@
         "R-10396747",
         "R-10396564-1",
         "R-10388348",
-        "R-10392607"
+        "R-10392607",
+        "R-10396738"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -23821,7 +23841,8 @@
         "5258579008",
         "5279027008",
         "5277850008",
-        "5278987008"
+        "5278987008",
+        "5281348008"
     ],
     "Coinbase": [
         "7559052",
@@ -24861,7 +24882,9 @@
         "7773966003",
         "7773968003",
         "7785602003",
-        "7785600003"
+        "7785600003",
+        "7780492003",
+        "7780490003"
     ],
     "Robinhood": [
         "7799902",
@@ -25282,7 +25305,9 @@
         "6098390004",
         "5841911004",
         "6093255004",
-        "6100103004"
+        "6100103004",
+        "6102343004",
+        "6102335004"
     ],
     "MongoDB": [
         "7574659",
@@ -27357,7 +27382,8 @@
         "8027343",
         "8027425",
         "8027353",
-        "8027389"
+        "8027389",
+        "8017531"
     ],
     "Coursera": [
         "5839408004",
@@ -28363,7 +28389,9 @@
         "R-0108398",
         "R-0107870",
         "R-0095837",
-        "R-0106406"
+        "R-0106406",
+        "R-0108404",
+        "R-0108280"
     ],
     "CrowdStrike": [
         "R26911",
@@ -31261,7 +31289,19 @@
         "R2012281",
         "R2016388",
         "R2019867",
-        "R2002082"
+        "R2002082",
+        "R2019118",
+        "R2020222",
+        "R2019684",
+        "R2020129-1",
+        "R2020124",
+        "R2018851",
+        "R2016495",
+        "R2020019",
+        "R2019992",
+        "R2020236",
+        "R2020348-1",
+        "R2014403"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -31422,7 +31462,8 @@
         "Senior--Embedded-Software-Engineer_2007381-1",
         "Principal-Designer--Information-Architecture_2016960",
         "Senior-Software-Engineer_2018179",
-        "Software-Engineer---Mobile_2016197"
+        "Software-Engineer---Mobile_2016197",
+        "Sr-ASIC-Engineer--UVM---System-Verilog---Scripting----8--Yrs---BLR_1451708"
     ],
     "Intel": [
         "R0283052",
@@ -34469,7 +34510,10 @@
         "R0000443720",
         "R0000443727",
         "R-2026--FOOD-DISTRIBUTION-CENTER---CEDAR-FALLS--IA_R0000441879",
-        "R0000443641"
+        "R0000443641",
+        "R0000443719",
+        "R0000443188-1",
+        "R0000443186"
     ],
     "Zoom": [
         "R18188-1",
@@ -37002,7 +37046,8 @@
         "8015529",
         "7678256",
         "8024883",
-        "8024868"
+        "8024868",
+        "7985294"
     ],
     "Twitch": [
         "8334413002",
@@ -38212,7 +38257,9 @@
         "Sr-SW-Engineer_REF081273W",
         "Consumer-Marketing-Director_REF083343W",
         "Principal--Product-Management_REF083146W",
-        "Consulting-Manager---Visa-Consulting---Analytics--VCA-_REF081345W"
+        "Consulting-Manager---Visa-Consulting---Analytics--VCA-_REF081345W",
+        "Senior-Implementation-Consultant_REF083426W-1",
+        "Data---Insights-Analyst--Risk---Fraud-Analytics--SQL--Advanced-Analytics--Data-Storytelling-_REF083433W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -38733,7 +38780,8 @@
         "Territory-Account-Executive_26WD97982-2",
         "Software-Engineer_25WD93596-1",
         "Director--Talent-Development_26WD99350",
-        "Preconstruction-Subject-Matter-Expert--SME----Construction-Technical-Sales_26WD98471-2"
+        "Preconstruction-Subject-Matter-Expert--SME----Construction-Technical-Sales_26WD98471-2",
+        "Finance-AI-Enablement-Lead_26WD99181-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -39528,7 +39576,12 @@
         "Manager--Data-Product-Management_10153173",
         "Manager--Data-Product-Management_10153101",
         "Principal--Data-Product-Management_10153102-2",
-        "Data-Engineer_10153225"
+        "Data-Engineer_10153225",
+        "Character-Modeler--Mid--Senior-Level-_10154147-1",
+        "Marketing-Manager--ESPN--12-mth-contract_10154382",
+        "Sr-Product-Designer_10153819",
+        "Senior-VMO-Operations-Specialist--Project-Hire-_10142042",
+        "SVP--Programming---Creation--Emerging-Content---Short-Form_10154468-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -40892,6 +40945,19 @@
         "R-62893-1",
         "R-63481-1",
         "R-63746",
-        "R-60747-1"
+        "R-60747-1",
+        "R-63257",
+        "R-63508",
+        "R-63510",
+        "R-63592",
+        "R-63744-1",
+        "R-63743-1",
+        "R-46508",
+        "R-58935-1",
+        "R-56400-1",
+        "R-37803-1",
+        "R-37810-1",
+        "R-37799",
+        "R-37809"
     ]
 }
