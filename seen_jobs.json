@@ -1227,7 +1227,9 @@
         "8011682",
         "8029041",
         "8026689",
-        "8025888"
+        "8025888",
+        "8024368",
+        "6166982"
     ],
     "Figma": [
         "5426468004",
@@ -2536,7 +2538,8 @@
         "8016203",
         "8021746",
         "8018579",
-        "8026534"
+        "8026534",
+        "8016935"
     ],
     "Upstox": [],
     "Brex": [
@@ -6601,7 +6604,8 @@
         "7992288",
         "7820794",
         "7976001",
-        "8030213"
+        "8030213",
+        "7926908"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -7536,7 +7540,9 @@
         "8016164",
         "8027731",
         "8027747",
-        "8028310"
+        "8028310",
+        "8022491",
+        "8021957"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -12627,7 +12633,9 @@
         "R-280232",
         "R-280843",
         "R-280834",
-        "R-281242"
+        "R-281242",
+        "R-281302",
+        "R-281236-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16616,7 +16624,14 @@
         "R349387",
         "R348189",
         "R347871",
-        "R346983"
+        "R346983",
+        "R346502",
+        "R346504",
+        "R349423",
+        "R349383",
+        "R347064",
+        "R349389",
+        "R349385"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -18584,7 +18599,10 @@
         "R6073",
         "R6170",
         "R5834",
-        "R6424"
+        "R6424",
+        "R6822",
+        "R6383-1",
+        "R6312-1"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -18834,7 +18852,9 @@
         "R32646",
         "R32581",
         "R31531",
-        "R29782"
+        "R29782",
+        "R32580",
+        "R31964"
     ],
     "Fiserv": [
         "R-10392824",
@@ -20040,7 +20060,14 @@
         "R-10397380",
         "R-10396187",
         "R-10373237",
-        "R-10396968"
+        "R-10396968",
+        "R-10397405",
+        "R-10397404",
+        "R-10397401",
+        "R-10396746",
+        "R-10396728",
+        "R-10396749",
+        "R-10387968"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -24299,7 +24326,8 @@
         "8599937002",
         "8597934002",
         "8575166002",
-        "8585009002"
+        "8585009002",
+        "8609250002"
     ],
     "Reddit": [
         "7011741",
@@ -25389,7 +25417,8 @@
         "6093255004",
         "6100103004",
         "6102343004",
-        "6102335004"
+        "6102335004",
+        "6099752004"
     ],
     "MongoDB": [
         "7574659",
@@ -26113,7 +26142,8 @@
         "8028593",
         "8028587",
         "7803601",
-        "8023912"
+        "8023912",
+        "8028218"
     ],
     "Datadog": [
         "7194969",
@@ -26781,7 +26811,14 @@
         "8028254",
         "8028516",
         "8028422",
-        "7985276"
+        "7985276",
+        "8030324",
+        "8030566",
+        "8029539",
+        "8026780",
+        "7984983",
+        "7977339",
+        "8030599"
     ],
     "Elastic": [
         "7505982",
@@ -27467,7 +27504,8 @@
         "8027425",
         "8027353",
         "8027389",
-        "8017531"
+        "8017531",
+        "8001751"
     ],
     "Coursera": [
         "5839408004",
@@ -27736,7 +27774,8 @@
         "R169401",
         "R169812-1",
         "R169636",
-        "R169813"
+        "R169813",
+        "R170201"
     ],
     "Workday": [
         "R-0106509-1",
@@ -28478,7 +28517,12 @@
         "R-0106406",
         "R-0108404",
         "R-0108280",
-        "R-0108406"
+        "R-0108406",
+        "R-0108303",
+        "R-0107816",
+        "R-0108247",
+        "R-0108417",
+        "R-0107504-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -29091,7 +29135,8 @@
         "R29088",
         "R29133",
         "R28292",
-        "R28894"
+        "R28894",
+        "R24030"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -31405,7 +31450,15 @@
         "R2020304",
         "R2019388",
         "R2020117",
-        "R2020116"
+        "R2020116",
+        "R2019946",
+        "R2019940",
+        "R2020287",
+        "R2019556",
+        "R2019569",
+        "R2020157",
+        "R2020148",
+        "R2020308"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -31567,7 +31620,9 @@
         "Principal-Designer--Information-Architecture_2016960",
         "Senior-Software-Engineer_2018179",
         "Software-Engineer---Mobile_2016197",
-        "Sr-ASIC-Engineer--UVM---System-Verilog---Scripting----8--Yrs---BLR_1451708"
+        "Sr-ASIC-Engineer--UVM---System-Verilog---Scripting----8--Yrs---BLR_1451708",
+        "Technical-Leader--Performance---Tetragon_2017913-1",
+        "Senior-Silicon-Photonics-Design-Engineer---Hybrid-_2016715"
     ],
     "Intel": [
         "R0283052",
@@ -34649,7 +34704,10 @@
         "R0000443804",
         "R0000442787",
         "R0000443847",
-        "R0000443846"
+        "R0000443846",
+        "R0000443870-1",
+        "R0000443869",
+        "R0000443825"
     ],
     "Zoom": [
         "R18188-1",
@@ -34880,7 +34938,8 @@
         "R19087-1",
         "R19288-2",
         "R19272",
-        "R18752-1"
+        "R18752-1",
+        "R18764-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -35445,7 +35504,9 @@
         "R-107053",
         "R-107135-1",
         "R-106977",
-        "R-107136"
+        "R-107136",
+        "R-107328",
+        "R-107000"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -36071,7 +36132,8 @@
         "8010271",
         "8024593",
         "8029592",
-        "8014399"
+        "8014399",
+        "7993719"
     ],
     "Samsara": [
         "5747183",
@@ -36800,7 +36862,8 @@
         "46530906-4822-4cce-ab86-ef7014d8547f",
         "2d2f0ed7-134a-4f24-af89-cfb8583d796a",
         "471ccceb-3614-4c28-a1af-b1235c081173",
-        "84335d8e-f91c-4741-b4c6-7649f3ac948d"
+        "84335d8e-f91c-4741-b4c6-7649f3ac948d",
+        "95e0d2b0-437a-4096-a5c6-0f247f426c90"
     ],
     "Gong": [],
     "Duolingo": [
@@ -36903,7 +36966,9 @@
         "8590394002",
         "8602852002",
         "8602840002",
-        "8604113002"
+        "8604113002",
+        "8610353002",
+        "8610345002"
     ],
     "Pinterest": [
         "7808602",
@@ -37193,7 +37258,8 @@
         "8024883",
         "8024868",
         "7985294",
-        "7999050"
+        "7999050",
+        "7908998"
     ],
     "Twitch": [
         "8334413002",
@@ -38419,7 +38485,11 @@
         "Implementation-Senior-Consultant_REF081974W",
         "Senior-Software-Engineer_REF075242W",
         "Senior-Software-Engineer_REF076916W",
-        "Sr-Manager--Marketing-Services--North-America-Sponsorship-Enablement_REF083353W-1"
+        "Sr-Manager--Marketing-Services--North-America-Sponsorship-Enablement_REF083353W-1",
+        "Staff-Software-Engineer_REF081501W",
+        "SW-Engineer_REF078828W",
+        "Director---Software-Engineering--Java--Spring-Boot--Kafka---15--years-exp-_REF083269W",
+        "Software-Engineer---Sr-Consultant-level-1_REF080662W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -38945,7 +39015,9 @@
         "Customer-Success-Readiness-Manager_26WD99513",
         "Principal-Engineer--Java---DB--AWS-_26WD95272-1",
         "Executive-Engagement-Events--Sr-Marketing-Manager_26WD99351-1",
-        "Director-Acquisition---Performance-Marketing_26WD96731-2"
+        "Director-Acquisition---Performance-Marketing_26WD96731-2",
+        "Digital-Support-Intelligent-Automation-Solutions-Engineer_26WD99564-1",
+        "Senior-Software-Engineer--C-NET--AWS-_25WD93257-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -39751,7 +39823,13 @@
         "Sr-Marketing-Specialist_10153944",
         "Alternance---Assistant-e--Business-Analyst--F-H-NB-_10151519",
         "Senior--Software-Engineer--Fullstack-_10145986",
-        "ESPN-Creative-Studio-Production-Assistant--New-York-City--Fall-2026_10154313"
+        "ESPN-Creative-Studio-Production-Assistant--New-York-City--Fall-2026_10154313",
+        "ESPN-Digital-Video-Newsroom-Intern--Remote--Fall-2026_10153890",
+        "Stage---Juriste-en-droit-des-affaires--F-H-NB-_10150244",
+        "Publicist_10154629",
+        "Payroll-Analyst_10154164",
+        "Lead-Product-Manager---Data---AI-Value-Enablement_10146925",
+        "Lead-Technical-Project-Manager_10146096"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -40268,7 +40346,8 @@
         "R000106392",
         "R000106552",
         "R000099531",
-        "R000106657"
+        "R000106657",
+        "R000106590-1"
     ],
     "Kyndryl": [
         "R-61530",
