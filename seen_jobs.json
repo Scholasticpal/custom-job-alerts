@@ -1549,7 +1549,8 @@
         "6099520004",
         "6099616004",
         "6099199004",
-        "6100732004"
+        "6100732004",
+        "6100023004"
     ],
     "Amazon": [
         "3198115",
@@ -6150,7 +6151,11 @@
         "8609622002",
         "8609617002",
         "8511500002",
-        "8570078002"
+        "8570078002",
+        "8569602002",
+        "8598732002",
+        "8569453002",
+        "8569457002"
     ],
     "Rubrik": [
         "7310036",
@@ -12578,7 +12583,8 @@
         "R-278021",
         "R-280717-1",
         "R-280823",
-        "R-280824"
+        "R-280824",
+        "R-278148"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16537,7 +16543,9 @@
         "R349237",
         "R346960",
         "R348012",
-        "R346777"
+        "R346777",
+        "R348222",
+        "R346100"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -17161,7 +17169,8 @@
         "Specialized-Travel-Counselor---Lead-Agent_J-82988",
         "Specialized-Travel-Counselor---VIP---Publicity_J-82986",
         "Consejero-de-Viajes---Turno-Nocturno_J-83231",
-        "Consultor-de-Viajes---GDS-Amadeus_J-83230"
+        "Consultor-de-Viajes---GDS-Amadeus_J-83230",
+        "Pharma-Meeting-Manager_J-82198"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -18488,7 +18497,8 @@
         "R6814-1",
         "R6422",
         "R6359",
-        "R5500"
+        "R5500",
+        "R6073"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -18601,7 +18611,8 @@
         "MD---Chief-Resilience-Officer-and-Global-Security_34388-1",
         "Corporate-Marketing-and-Event-Management-Consultant_34514",
         "Data-Center-Engineer-Consultant_34499",
-        "Sr-Exchange-Fee-Analyst_34550-1"
+        "Sr-Exchange-Fee-Analyst_34550-1",
+        "Software-Engineer-III_34540-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -23809,7 +23820,8 @@
         "5198999008",
         "5258579008",
         "5279027008",
-        "5277850008"
+        "5277850008",
+        "5278987008"
     ],
     "Coinbase": [
         "7559052",
@@ -24048,7 +24060,9 @@
         "8025505",
         "8028180",
         "8029035",
-        "8028985"
+        "8028985",
+        "8024880",
+        "8029711"
     ],
     "Discord": [
         "8289766002",
@@ -24542,7 +24556,8 @@
         "8024892",
         "8022322",
         "8022663",
-        "8011163"
+        "8011163",
+        "8029641"
     ],
     "Notion": [],
     "Plaid": [],
@@ -28347,7 +28362,8 @@
         "R-0108025",
         "R-0108398",
         "R-0107870",
-        "R-0095837"
+        "R-0095837",
+        "R-0106406"
     ],
     "CrowdStrike": [
         "R26911",
@@ -34452,7 +34468,8 @@
         "R0000443782",
         "R0000443720",
         "R0000443727",
-        "R-2026--FOOD-DISTRIBUTION-CENTER---CEDAR-FALLS--IA_R0000441879"
+        "R-2026--FOOD-DISTRIBUTION-CENTER---CEDAR-FALLS--IA_R0000441879",
+        "R0000443641"
     ],
     "Zoom": [
         "R18188-1",
@@ -35243,7 +35260,8 @@
         "R-107155",
         "R-106994-1",
         "R-106991",
-        "R-107101"
+        "R-107101",
+        "R-106241-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -36592,7 +36610,8 @@
         "a5f93bb6-4f13-4451-80a4-f63090830269",
         "a3eaa0ef-3378-495f-8308-edbd9a93d26c",
         "75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
-        "b81be534-e1d6-4946-8121-1e1360d4d030"
+        "b81be534-e1d6-4946-8121-1e1360d4d030",
+        "46530906-4822-4cce-ab86-ef7014d8547f"
     ],
     "Gong": [],
     "Duolingo": [
@@ -38191,7 +38210,9 @@
         "Lead-Software-Engineer--Middleware-Reliability-Engineering_REF060249W",
         "Sr-Director--Acceptance-Risk-Solutions-Lead_REF080430W",
         "Sr-SW-Engineer_REF081273W",
-        "Consumer-Marketing-Director_REF083343W"
+        "Consumer-Marketing-Director_REF083343W",
+        "Principal--Product-Management_REF083146W",
+        "Consulting-Manager---Visa-Consulting---Analytics--VCA-_REF081345W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -39506,7 +39527,8 @@
         "Coordinator--Communications---Publicity--FX-_10154020",
         "Manager--Data-Product-Management_10153173",
         "Manager--Data-Product-Management_10153101",
-        "Principal--Data-Product-Management_10153102-2"
+        "Principal--Data-Product-Management_10153102-2",
+        "Data-Engineer_10153225"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -40869,6 +40891,7 @@
         "R-54302-1",
         "R-62893-1",
         "R-63481-1",
-        "R-63746"
+        "R-63746",
+        "R-60747-1"
     ]
 }
