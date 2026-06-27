@@ -4434,7 +4434,10 @@
         "8025475",
         "7968023",
         "8031347",
-        "8028783"
+        "8028783",
+        "8031755",
+        "8031737",
+        "8022261"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -8815,7 +8818,8 @@
         "8020357",
         "8016226",
         "8026617",
-        "8029164"
+        "8029164",
+        "8025913"
     ],
     "Dropbox": [
         "7646405",
@@ -12665,7 +12669,9 @@
         "R-281058",
         "R-281109",
         "R-281517",
-        "R-281368"
+        "R-281368",
+        "R-275198",
+        "R-275202"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -16678,7 +16684,8 @@
         "R349467",
         "R349466",
         "R346956",
-        "R344459"
+        "R344459",
+        "R349496"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24274,7 +24281,8 @@
         "8031603",
         "8030686",
         "7997836",
-        "7997840"
+        "7997840",
+        "8014564"
     ],
     "Discord": [
         "8289766002",
@@ -25081,7 +25089,8 @@
         "7780492003",
         "7780490003",
         "7782548003",
-        "7779929003"
+        "7779929003",
+        "7764151003"
     ],
     "Robinhood": [
         "7799902",
@@ -28627,7 +28636,9 @@
         "R-0107107",
         "R-0108307-1",
         "R-0108348",
-        "R-0108311"
+        "R-0108311",
+        "R-0108207",
+        "R-0108260"
     ],
     "CrowdStrike": [
         "R26911",
@@ -31578,7 +31589,19 @@
         "R2020265",
         "R2020216",
         "R2019456",
-        "R2019914"
+        "R2019914",
+        "R2020316",
+        "R2020321",
+        "R2020319",
+        "R2019810",
+        "R2020349",
+        "R2020327",
+        "R2019240-1",
+        "R2020334",
+        "R2018894",
+        "R2020259",
+        "R2020320",
+        "R2001796"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -34849,7 +34872,8 @@
         "R0000443910",
         "R0000443813",
         "R0000443675",
-        "R0000443774"
+        "R0000443774",
+        "R0000443788"
     ],
     "Zoom": [
         "R18188-1",
@@ -36742,7 +36766,9 @@
         "7974118",
         "8010288",
         "8024110",
-        "8010753"
+        "8010753",
+        "8022729",
+        "8031880"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -38664,7 +38690,8 @@
         "Senior-Technical-Account-Manager--TAM-_REF083449W-1",
         "Director-of-Product-Management_REF083474W",
         "Enterprise-Support--Sr-Manager_REF083446W-1",
-        "Sr-Manager--Client-Consulting_REF083441W"
+        "Sr-Manager--Client-Consulting_REF083441W",
+        "Director--Commercial-Development_REF083398W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -39196,7 +39223,8 @@
         "Director--Events---Experiences-Operations_26WD99203-1",
         "Principal-Developer--AI-ML_25WD94058-1",
         "Corporate-Development-Associate_26WD99470-1",
-        "Senior-Technical-Product-Manager--Data-Acquisition_26WD99608-1"
+        "Senior-Technical-Product-Manager--Data-Acquisition_26WD99608-1",
+        "Senior-QA-Automation-Engineer---AI-Applications-_26WD99661-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -40017,7 +40045,10 @@
         "Sr-Product-Mgr_10154015",
         "Senior-Manager--Product-Transformation_10152692",
         "Senior-Product-Manager-II_10154051",
-        "Executive-Director--Design_10149073"
+        "Executive-Director--Design_10149073",
+        "Sr-Security-Specialist_10153734",
+        "Lead-Software-Engineer_10148470",
+        "Security-Specialist_10153726"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -40543,7 +40574,8 @@
         "R000105071",
         "R000106593",
         "R000105984-2",
-        "R000106311"
+        "R000106311",
+        "R000106307"
     ],
     "Kyndryl": [
         "R-61530",
