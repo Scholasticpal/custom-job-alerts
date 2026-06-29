@@ -1231,7 +1231,9 @@
         "8024368",
         "6166982",
         "8030859",
-        "8010009"
+        "8010009",
+        "7997146",
+        "8023529"
     ],
     "Figma": [
         "5426468004",
@@ -2176,7 +2178,8 @@
         "fa00758e-e436-4765-9a3f-b096744dfe35",
         "fa6b5e12-8d05-44e5-9b7c-f1a17ba662d2",
         "fb99344d-18bc-462d-bfe3-977ccb18569d",
-        "ff2b478f-6f70-4123-969f-59faee6d6366"
+        "ff2b478f-6f70-4123-969f-59faee6d6366",
+        "fcf3e1f7-2ac0-4c26-a9e2-d346764e732c"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -3882,7 +3885,8 @@
         "413bfb52-9529-42fb-a17a-033518f179f5",
         "7b89d34b-9a61-43e2-b336-1d33941f3dd9",
         "3e7b09f3-70d3-4fa5-8d13-b72be239fe43",
-        "3e497903-1076-45f2-87f6-bf451644327a"
+        "3e497903-1076-45f2-87f6-bf451644327a",
+        "a79cbfd9-fcfb-4132-bef9-0d8f6e081a67"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -6847,7 +6851,8 @@
         "7926908",
         "8013997",
         "8003414",
-        "8014930"
+        "8014930",
+        "8015820"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -6920,7 +6925,9 @@
         "R103298",
         "R103303",
         "R103012",
-        "R103016"
+        "R103016",
+        "R103458",
+        "R103459"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -7863,7 +7870,8 @@
         "8025514",
         "8034796",
         "8020043",
-        "8027774"
+        "8027774",
+        "8031945"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -8728,7 +8736,8 @@
         "8027691",
         "8031476",
         "8031481",
-        "8029998"
+        "8029998",
+        "8035213"
     ],
     "DoorDash": [
         "7927511",
@@ -9176,7 +9185,8 @@
         "7624348",
         "7627134",
         "6169267",
-        "3547221"
+        "3547221",
+        "8030575"
     ],
     "GitHub": [],
     "Twilio": [
@@ -10180,7 +10190,8 @@
         "60e0d986-abe8-42ee-b172-0d9aecb307b7",
         "8cd64fd4-4ed2-4aac-bd5a-9407d3685445",
         "c49e13f6-f027-42f3-98b5-745d83997cbf",
-        "d4c4d777-d41b-4940-9407-e2100fb5dcd1"
+        "d4c4d777-d41b-4940-9407-e2100fb5dcd1",
+        "be6609b0-539b-41c4-aa79-d2cc0916d3d8"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -13627,7 +13638,10 @@
         "R-279370-1",
         "R-281467",
         "R-281259",
-        "R-280408"
+        "R-280408",
+        "R-281474",
+        "R-280917",
+        "R-280817-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -17657,7 +17671,8 @@
         "R332143",
         "R348201",
         "R349548",
-        "R347995"
+        "R347995",
+        "R349588"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -18295,7 +18310,9 @@
         "Travel-Consultant_J-83250",
         "Full-Stack-Developer_J-81500",
         "Senior-Full-Stack-Developer_J-80474",
-        "Senior-Full-Stack-Developer_J-80475"
+        "Senior-Full-Stack-Developer_J-80475",
+        "Senior-Travel-Consultant_J-83253-1",
+        "Senior-Engineer_J-83221"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -19902,7 +19919,9 @@
         "R31531",
         "R29782",
         "R32580",
-        "R31964"
+        "R31964",
+        "R31462-1",
+        "R31435"
     ],
     "Fiserv": [
         "R-10392824",
@@ -21121,7 +21140,9 @@
         "R-10387966",
         "R-10396970",
         "R-10396969",
-        "R-10388659"
+        "R-10388659",
+        "R-10397412",
+        "R-10396388"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -21342,7 +21363,8 @@
         "Equity-Solutions-Portfolio-Analyst---Portfolio-Construction---Optimization_868435",
         "Legal-Assistant--AI-Automation-_868358",
         "Index-Portfolio-Manager_868438",
-        "Client-Relations-Analyst--Account-transition-Analysis---Portfolio-Analysis-_865342"
+        "Client-Relations-Analyst--Account-transition-Analysis---Portfolio-Analysis-_865342",
+        "Quantitative-Insurance-Solutions-Analyst_868507"
     ],
     "Invesco": [
         "R-13647",
@@ -21701,7 +21723,8 @@
         "R-14156",
         "R-14525",
         "R-14417",
-        "R-14402"
+        "R-14402",
+        "R-13266"
     ],
     "PayPal": [
         "R0135744-1",
@@ -28214,7 +28237,8 @@
         "8028218",
         "8030945",
         "8023944",
-        "8026163"
+        "8026163",
+        "8035228"
     ],
     "Datadog": [
         "7194969",
@@ -28895,7 +28919,8 @@
         "8029988",
         "8029969",
         "8031320",
-        "8030214"
+        "8030214",
+        "8035492"
     ],
     "Elastic": [
         "7505982",
@@ -31253,7 +31278,10 @@
         "R29173",
         "R29123",
         "R29090",
-        "R28909"
+        "R28909",
+        "R28471",
+        "R29184",
+        "R29208"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -33619,7 +33647,12 @@
         "R2019779",
         "R2013523",
         "R2018564",
-        "R2019709"
+        "R2019709",
+        "R2018798",
+        "R2020146",
+        "R2019599",
+        "R2020134",
+        "R2020326"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -36940,7 +36973,14 @@
         "R0000443442",
         "R0000443942",
         "R0000348370",
-        "R0000348368"
+        "R0000348368",
+        "R0000442424-1",
+        "R0000444021",
+        "R0000443734",
+        "R0000444017",
+        "R0000443493",
+        "R0000443964",
+        "R0000443499"
     ],
     "Zoom": [
         "R18188-1",
@@ -37747,7 +37787,9 @@
         "R-107333-1",
         "R-107292",
         "R-102756",
-        "R-107015"
+        "R-107015",
+        "R-107020",
+        "R-107424"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -38812,7 +38854,8 @@
         "f934d159-6874-4ab9-8933-2c41bf6468f2",
         "fa9e1a6d-0b49-4421-b6e3-8f8b12ded8b1",
         "ff20700f-cc3c-4df6-9307-8981fe52223a",
-        "ffd45ed1-d336-455d-b0e1-6e87dc4f45a9"
+        "ffd45ed1-d336-455d-b0e1-6e87dc4f45a9",
+        "698660be-321b-4683-81dd-22ea1c1d4c06"
     ],
     "Netskope": [
         "7885748",
@@ -39454,7 +39497,8 @@
         "8010753",
         "8022729",
         "8031880",
-        "8000988"
+        "8000988",
+        "8025984"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -39731,7 +39775,20 @@
         "84335d8e-f91c-4741-b4c6-7649f3ac948d",
         "95e0d2b0-437a-4096-a5c6-0f247f426c90",
         "55c68159-62d3-40ed-b4a7-8b586dc99200",
-        "a00e136e-7a65-4196-be22-cbd523706597"
+        "a00e136e-7a65-4196-be22-cbd523706597",
+        "1f007e36-a620-4d15-bf0b-70dc3f3439d8",
+        "53fb4c05-f949-4146-a046-5c063c36a628",
+        "4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+        "2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+        "94984771-0704-446c-88c6-91ce748f6d92",
+        "c34b424e-caf2-455a-b104-ae1096ccca29",
+        "0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+        "18d901fc-93bb-4d18-9f04-c72031e20d79",
+        "f362d7aa-360d-4059-ab38-f482742693b3",
+        "4abf26b4-795c-420a-bf22-1ab98db268b4",
+        "7d75bed5-45d8-4876-840a-2d92ea79c98d",
+        "e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+        "4d5a144e-87ea-45e2-a68c-3fad590629af"
     ],
     "Gong": [
         "4395203006",
@@ -41494,7 +41551,9 @@
         "Senior-Software-Engineer-FX_REF084610W",
         "Client-Consulting-Analyst_REF084641W-1",
         "Business-Project-Manager_REF081286W-1",
-        "Software-Engineer---Sr-Consultant_REF084620W"
+        "Software-Engineer---Sr-Consultant_REF084620W",
+        "Senior-Site-Reliability-Engineer_REF083443W",
+        "Professional-Services-Sourcing-Manager_REF082201W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -42862,7 +42921,12 @@
         "Design-Manager--Hardlines--PD_10152926-1",
         "Service-Engineer--Building---Architecture-Projects-and-Planning---Contract-_10141223",
         "Software-Engineer-II---Infrastructure_10142532",
-        "Alternance---Assistant-e--Contrleur-euse--de-Gestion---Consolidation-Oprations---Transformation--F-H-NB-_10148163"
+        "Alternance---Assistant-e--Contrleur-euse--de-Gestion---Consolidation-Oprations---Transformation--F-H-NB-_10148163",
+        "Product-Software-Engineer-II---Frontend_10153779-2",
+        "Pricing-Analyst_10151560-2",
+        "Electrotechnicien-ne--en-CDD--F-H-NB-_10149913",
+        "Manager--Portfolio-Management_10152537-1",
+        "Engineering-Services-Manager-Facilities_10154749"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -43392,7 +43456,8 @@
         "R000106307",
         "R000106502",
         "R000102555",
-        "R000105437"
+        "R000105437",
+        "R000105315"
     ],
     "Kyndryl": [
         "R-61530",
@@ -44291,7 +44356,9 @@
         "R-63766",
         "R-43170",
         "R-61744",
-        "R-61745-1"
+        "R-61745-1",
+        "R-61742-1",
+        "R-64460"
     ],
     "Chime": [
         "8391630002",
@@ -44446,7 +44513,8 @@
         "4686964006",
         "4674049006",
         "4690576006",
-        "4655974006"
+        "4655974006",
+        "4691576006"
     ],
     "Addepar": [
         "8594217002",
@@ -44774,7 +44842,12 @@
         "7644086003",
         "7644107003",
         "7644079003",
-        "7644058003"
+        "7644058003",
+        "7788633003",
+        "7788627003",
+        "7788625003",
+        "7788618003",
+        "7788610003"
     ],
     "Earnin": [
         "8013281",
@@ -45619,7 +45692,8 @@
         "8000659",
         "7976926",
         "8028755",
-        "8028753"
+        "8028753",
+        "8031017"
     ],
     "Propel": [],
     "Canva": [],
