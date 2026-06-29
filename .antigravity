@@ -1,0 +1,20 @@
+# .antigravity
+project_name: "High-Frequency ATS API Scraper"
+description: >
+  A lightweight, API-first job scraping engine that runs every 15 minutes via GitHub Actions. 
+  It directly hits the hidden JSON APIs of major Applicant Tracking Systems (Greenhouse, Lever, Workday, Eightfold) 
+  to bypass heavy DOM scraping and rate limits. It filters for Indian tech hubs and generic remote roles, 
+  excluding executive/management positions, and dispatches IST-formatted alerts to Telegram.
+
+core_files:
+  - "main.py": "The core execution engine, scraping logic, and domestic TARGETS array."
+  - "seen_jobs.json": "The state file tracking previously alerted job IDs across all runs."
+  - "newCompaniesList.md": "Staging file for India/APAC targeted expansions."
+  - "newCompaniesListGlobal.md": "Staging file for explicit cross-border/international target roles."
+  - "global_main.py": "Future distinct execution script built strictly for targeted international parsing."
+
+architectural_rules:
+  - "NEVER use headless browsers like Playwright or Selenium. Rely strictly on the `requests` library."
+  - "All Workday targets must point to the base career portal URL, stripped of language tags (e.g., /en-US/) and query parameters."
+  - "Unsupported ATS platforms (Phenom, Taleo, SmartRecruiters) must be tagged with their respective ATS name and placed in the 'Unsupported Platforms' block to trigger the failsafe."
+  - "Code modifications must prioritize execution speed and failure safety."

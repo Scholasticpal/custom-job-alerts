@@ -1,0 +1,31 @@
+<!-- To be added- I shall tell you when. -->
+- paloalto networks
+- wells fargo
+- Uber
+- Adobe
+- microsoft
+- google
+- Rippling
+- Goldmann
+- JP Morgan
+- Bain
+- BCG
+- oracle
+- apple
+- mckinsey
+- delliote
+- expedia
+- CITI
+- cisco
+- qualcomm
+- persistent systems
+- amex
+- ge healthcare
+- nutanix
+- amgen
+- ukg
+- virio (us sponsoring)
+- nutanix
+- priceline
+- zoom
+- fix broken urls
