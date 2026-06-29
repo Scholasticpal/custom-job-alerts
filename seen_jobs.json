@@ -6193,7 +6193,9 @@
         "8609868002",
         "8604954002",
         "8568122002",
-        "8406090002"
+        "8406090002",
+        "8605160002",
+        "8522046002"
     ],
     "Rubrik": [
         "7310036",
@@ -6626,7 +6628,8 @@
         "8030213",
         "7926908",
         "8013997",
-        "8003414"
+        "8003414",
+        "8014930"
     ],
     "Cohesity": [],
     "Confluent": [],
@@ -7571,7 +7574,8 @@
         "8021873",
         "8028747",
         "8025514",
-        "8034796"
+        "8034796",
+        "8020043"
     ],
     "MindTickle": [],
     "Cleartax": [],
@@ -8371,7 +8375,8 @@
         "8027704",
         "8027691",
         "8031476",
-        "8031481"
+        "8031481",
+        "8029998"
     ],
     "DoorDash": [],
     "GitHub": [],
@@ -12682,7 +12687,12 @@
         "R-275202",
         "R-281375",
         "R-280572",
-        "R-280107-1"
+        "R-280107-1",
+        "R-281464",
+        "R-281473",
+        "R-270980",
+        "R-270984",
+        "R-269034"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -18329,7 +18339,9 @@
         "R264794",
         "R263207",
         "R264992",
-        "R265013"
+        "R265013",
+        "R265033",
+        "R265035"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -20371,7 +20383,8 @@
         "SVP--Business-Development-Liquidity_868272",
         "Portfolio-Manager--Alternative-Risk-Premia_868521",
         "Procurement-Analyst--Sourcing---Vendor-Management-_868076",
-        "Equity-Solutions-Portfolio-Analyst---Portfolio-Construction---Optimization_868435"
+        "Equity-Solutions-Portfolio-Analyst---Portfolio-Construction---Optimization_868435",
+        "Legal-Assistant--AI-Automation-_868358"
     ],
     "Invesco": [
         "R-13647",
@@ -29278,7 +29291,14 @@
         "R28911",
         "R25668",
         "R28535",
-        "R29293"
+        "R29293",
+        "R29011",
+        "R29201-1",
+        "R29116",
+        "R29118",
+        "R29105",
+        "R29179",
+        "R29225"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -31633,7 +31653,15 @@
         "R2013122",
         "R2019125",
         "R2020094",
-        "R2020204-1"
+        "R2020204-1",
+        "R2020267",
+        "R2018536",
+        "R2014028",
+        "R2020123",
+        "R2019798",
+        "R2019510-1",
+        "R2020046",
+        "R2019779"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -34912,7 +34940,12 @@
         "R0000443718-1",
         "R0000443759",
         "R0000443823-1",
-        "R0000443904"
+        "R0000443904",
+        "R0000443919",
+        "R0000443879",
+        "R0000443969",
+        "R0000443959",
+        "R0000443979"
     ],
     "Zoom": [
         "R18188-1",
@@ -37808,7 +37841,9 @@
         "R35034",
         "R33924",
         "R34930",
-        "R35093"
+        "R35093",
+        "R35030",
+        "R35095"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -38734,7 +38769,10 @@
         "Director-of-Product-Management_REF083474W",
         "Enterprise-Support--Sr-Manager_REF083446W-1",
         "Sr-Manager--Client-Consulting_REF083441W",
-        "Director--Commercial-Development_REF083398W"
+        "Director--Commercial-Development_REF083398W",
+        "Senior-Client-Consulting-Manager_REF083283W",
+        "Executive-Administrator_REF082220W",
+        "Compliance-Analyst-2_REF081289W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -40092,7 +40130,8 @@
         "Executive-Director--Design_10149073",
         "Sr-Security-Specialist_10153734",
         "Lead-Software-Engineer_10148470",
-        "Security-Specialist_10153726"
+        "Security-Specialist_10153726",
+        "Assistant-Manager--Marketing---Partnerships---1-year-contract_10154739"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -41507,6 +41546,7 @@
         "R-64423",
         "R-60116",
         "R-59445",
-        "R-64338"
+        "R-64338",
+        "R-64275"
     ]
 }
