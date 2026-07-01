@@ -4766,7 +4766,8 @@
         "8039307",
         "8039340",
         "8039271",
-        "8042076"
+        "8042076",
+        "7258033"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -6995,7 +6996,8 @@
         "8014930",
         "8015820",
         "8036145",
-        "8023735"
+        "8023735",
+        "8042079"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -18111,7 +18113,18 @@
         "R350171",
         "R350168",
         "R349874",
-        "R350156"
+        "R350156",
+        "R350190-1",
+        "R350189",
+        "R350185",
+        "R350138",
+        "R348978",
+        "R350183",
+        "R350182",
+        "R350178",
+        "R350176",
+        "R349495",
+        "R346847"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20154,7 +20167,8 @@
         "R6823-1",
         "R6852-1",
         "R6555",
-        "R6795"
+        "R6795",
+        "R6800"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -21900,7 +21914,8 @@
         "Secondaries-Analyst--Private-Equity--Financial-Modelling---financial-statement-analysis-_868434",
         "Family-Offices-Director--EMEA-Alternatives-Wealth-Management_865807",
         "Portfolio-Compliance-Analyst_868034",
-        "Senior-Associate-Manager--Product-Development---Implementation_868493"
+        "Senior-Associate-Manager--Product-Development---Implementation_868493",
+        "Senior-Project-Manager---Cyber-Security_868436"
     ],
     "Invesco": [
         "R-13647",
@@ -27714,7 +27729,11 @@
         "7731648003",
         "7731646003",
         "7786007003",
-        "7786009003"
+        "7786009003",
+        "7778206003",
+        "7778204003",
+        "7691157003",
+        "7691159003"
     ],
     "Robinhood": [
         "7799902",
@@ -31396,7 +31415,8 @@
         "R-0108492-1",
         "R-0108446",
         "R-0108199",
-        "R-0108565"
+        "R-0108565",
+        "R-0108261"
     ],
     "CrowdStrike": [
         "R26911",
@@ -34523,7 +34543,8 @@
         "R2020717",
         "R2020499",
         "R2020442",
-        "R2020445"
+        "R2020445",
+        "R2010488"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -38008,7 +38029,8 @@
         "R0000444328",
         "R0000444310",
         "R0000444355",
-        "R0000444324"
+        "R0000444324",
+        "R0000444208"
     ],
     "Zoom": [
         "R18188-1",
@@ -39240,7 +39262,8 @@
         "8382119002",
         "8603626002",
         "8602201002",
-        "7497304002"
+        "7497304002",
+        "8594452002"
     ],
     "Scale AI": [
         "4654510005",
@@ -40149,7 +40172,8 @@
         "7556727",
         "8036459",
         "7742450",
-        "8041697"
+        "8041697",
+        "8031293"
     ],
     "Samsara": [
         "5747183",
@@ -41785,7 +41809,8 @@
         "R34950-1",
         "R35021",
         "R35105-1",
-        "R32802"
+        "R32802",
+        "R33197"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -42779,7 +42804,8 @@
         "Lead-Software-Engineer_REF079678W",
         "Senior-Director--Head-of-National-and-Global-Small-Business-Clients_REF083247W-1",
         "Communications-Manager--Latin-America---Caribbean--LAC-_REF084607W",
-        "CDD-Assoc-Analyst--Compliance_REF083144W"
+        "CDD-Assoc-Analyst--Compliance_REF083144W",
+        "Machine-Learning-Engineer--Senior-Consultant-Level_REF083276W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -44235,7 +44261,13 @@
         "Sr-Manager--NAM-Retail-Sales_10153104-1",
         "Executive-Assistant--Production--20th-Television-_10154378-1",
         "Sr-Product-Mgr-II_10140958",
-        "Resort-Wide-System-Engineer-Principal---Project-Hire-Internal-Assignment_10153393"
+        "Resort-Wide-System-Engineer-Principal---Project-Hire-Internal-Assignment_10153393",
+        "Supervisor--Creative-Project-Management--Temp-role-6-months-_10152805",
+        "Assistant-Manager-NAM-Consumables_10154312",
+        "Product-Designer--Home-Soft-Goods_10153821",
+        "Sr-Product-Mgr-II---Customer-Identity-Product_10154553-2",
+        "Senior-Network-Infrastructure-Engineer_10154552-2",
+        "Lead-Data-Product-Mgr_10154714"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -44804,7 +44836,8 @@
         "R000106740-1",
         "R000106760",
         "R000098856",
-        "R000106561"
+        "R000106561",
+        "R000106300"
     ],
     "Kyndryl": [
         "R-61530",
@@ -45807,7 +45840,17 @@
         "R-62922",
         "R-58887",
         "R-50110",
-        "R-58889"
+        "R-58889",
+        "R-59449",
+        "R-64360-1",
+        "R-64344-1",
+        "R-64296",
+        "R-64235",
+        "R-64250",
+        "R-64249",
+        "R-64248",
+        "R-64247",
+        "R-64246"
     ],
     "Chime": [
         "8391630002",
@@ -45879,7 +45922,8 @@
         "8420669002",
         "8612037002",
         "8606651002",
-        "8609157002"
+        "8609157002",
+        "8607191002"
     ],
     "FalconX": [
         "4677684005",
@@ -46362,7 +46406,8 @@
         "7955177",
         "8038993",
         "8038989",
-        "8038991"
+        "8038991",
+        "8042620"
     ],
     "Salary Finance": [
         "7738033",
@@ -47241,7 +47286,8 @@
         "8031343",
         "8042228",
         "8042243",
-        "7819342"
+        "7819342",
+        "8028382"
     ],
     "Propel": [],
     "Canva": [],
@@ -47411,7 +47457,8 @@
         "8611872002",
         "8614717002",
         "8615408002",
-        "8615367002"
+        "8615367002",
+        "8615418002"
     ],
     "Coupang": [
         "7915234",
