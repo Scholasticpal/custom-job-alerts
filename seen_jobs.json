@@ -3983,7 +3983,10 @@
         "3fa9e343-cffb-4f8a-ac5b-d03892248d0d",
         "196ea019-2b72-4a1a-a976-a3edb2ca5e63",
         "e825fb5a-2ede-43ab-84dd-90e00dd9e954",
-        "43143992-1517-427d-9a4a-c56fca5a0949"
+        "43143992-1517-427d-9a4a-c56fca5a0949",
+        "77e1e11f-744f-4f62-8c91-e59393db2208",
+        "e3f92fb6-4d2e-4acd-bdb1-e8d70b9ba32a",
+        "b84202a4-a7cd-4421-8471-9031f76d52bf"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8061,7 +8064,8 @@
         "8022391",
         "8041034",
         "8040851",
-        "8025521"
+        "8025521",
+        "8041131"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -10449,7 +10453,8 @@
         "d4c4d777-d41b-4940-9407-e2100fb5dcd1",
         "be6609b0-539b-41c4-aa79-d2cc0916d3d8",
         "122c2edd-ea44-41fd-a06f-ecc79588f6c6",
-        "4ab3993c-e219-49a6-aec9-3a4d290c41ec"
+        "4ab3993c-e219-49a6-aec9-3a4d290c41ec",
+        "ba7f74f1-2448-43f1-bf1f-93949673abb4"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -14005,7 +14010,11 @@
         "R-281554",
         "R-280288",
         "R-281076",
-        "R-280794-1"
+        "R-280794-1",
+        "R-280596-1",
+        "R-281556",
+        "R-279985-1",
+        "R-273738"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -18178,7 +18187,10 @@
         "R349140",
         "R349139",
         "R338170",
-        "R347727"
+        "R347727",
+        "R349997",
+        "R347965",
+        "R338618"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20494,7 +20506,8 @@
         "R32598",
         "R32632",
         "R32645",
-        "R32579"
+        "R32579",
+        "R32665"
     ],
     "Fiserv": [
         "R-10392824",
@@ -27807,7 +27820,8 @@
         "7778206003",
         "7778204003",
         "7691157003",
-        "7691159003"
+        "7691159003",
+        "7784128003"
     ],
     "Robinhood": [
         "7799902",
@@ -28975,7 +28989,8 @@
         "8013937",
         "7269518",
         "8013287",
-        "8014547"
+        "8014547",
+        "8017380"
     ],
     "Datadog": [
         "7194969",
@@ -30451,7 +30466,8 @@
         "6013615004",
         "6092704004",
         "6093610004",
-        "6098540004"
+        "6098540004",
+        "6105819004"
     ],
     "Udemy": [
         "5424719004",
@@ -30688,7 +30704,9 @@
         "R170201",
         "R159538-1",
         "R167006",
-        "R170168-1"
+        "R170168-1",
+        "R169837",
+        "R170105"
     ],
     "Workday": [
         "R-0106509-1",
@@ -31499,7 +31517,11 @@
         "R-0108261",
         "R-0108491",
         "R-0108281",
-        "R-0108279"
+        "R-0108279",
+        "R-0108538",
+        "R-0108537",
+        "R-0107798",
+        "R-0108286"
     ],
     "CrowdStrike": [
         "R26911",
@@ -32168,7 +32190,8 @@
         "R28482",
         "R27622",
         "R27724",
-        "R26519"
+        "R26519",
+        "R28467-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -34636,7 +34659,20 @@
         "R2020724",
         "R2020731",
         "R2020781",
-        "R1998055"
+        "R1998055",
+        "R2020569",
+        "R2020451",
+        "R2020429-1",
+        "R2020431",
+        "R2020778",
+        "R2020685",
+        "R2020070",
+        "R2020428",
+        "R2020605",
+        "R2020636",
+        "R2020207",
+        "R2020645",
+        "R2017504"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -38139,7 +38175,20 @@
         "R0000444321",
         "R0000444371",
         "R0000444375-1",
-        "R0000444381"
+        "R0000444381",
+        "R0000444167",
+        "R0000444377",
+        "R0000444367",
+        "R0000404917",
+        "R0000444257",
+        "R0000443985",
+        "R0000443986",
+        "R0000444399",
+        "R0000444306",
+        "R0000444206",
+        "R0000444366",
+        "R0000444376-1",
+        "R0000444398"
     ],
     "Zoom": [
         "R18188-1",
@@ -38995,7 +39044,10 @@
         "R-107460",
         "R-107057-1",
         "R-107302",
-        "R-107313"
+        "R-107313",
+        "R-107354",
+        "R-107353",
+        "R-106037"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -40102,7 +40154,10 @@
         "1a7ee8da-3ff4-44cf-ad51-4cd00a566728",
         "ca582f4a-a76f-4c0c-9cf0-6ddc866a6028",
         "52214163-31dd-4629-b6b2-771836be15e1",
-        "e54ee00a-684a-4631-86a7-f101e57cda2d"
+        "e54ee00a-684a-4631-86a7-f101e57cda2d",
+        "2259fb87-0d59-4252-a63a-4869779c4af3",
+        "ba621abd-c596-48bf-8268-8b61ccaa19d5",
+        "c24b256b-e8e6-4356-a0de-f1dcaeacb795"
     ],
     "Netskope": [
         "7885748",
@@ -41757,7 +41812,8 @@
         "47676c8f-2824-4dcd-9d4c-9f15e16b807f",
         "3c3f4c4d-d3da-435b-863d-dd922b331d5f",
         "0540f33b-1576-4727-a835-08b1cd6ebd56",
-        "31a75866-6674-4aa5-9af4-8202507d83a7"
+        "31a75866-6674-4aa5-9af4-8202507d83a7",
+        "f43a76bd-ec4e-4b4b-a331-93d5d85434a5"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -42933,7 +42989,10 @@
         "Staff-Data-Engineer_REF081812W",
         "Product-Manager_REF082383W",
         "Operations-Delivery-Specialist_REF081746W",
-        "Regulatory-Compliance--Analyst--Incident-Oversight---Safeguarding-Focus-_REF083337W"
+        "Regulatory-Compliance--Analyst--Incident-Oversight---Safeguarding-Focus-_REF083337W",
+        "Sr-Client-Consulting-Manager_REF084748W",
+        "Senior-Systems-Engineer_REF083121W-1",
+        "Senior-Software-Engineer_REF083346W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -43505,7 +43564,10 @@
         "Technical-Adoption-Specialist-Autodesk-Build-Construction-Operations_26WD98889-1",
         "Senior-Associate-Sales-Specialist--Emerging-Technologies---Construction_26WD99069-2",
         "Senior-Software-Engineer--C----_26WD99601-1",
-        "Account-Executive--Enterprise-Accounts_26WD95687"
+        "Account-Executive--Enterprise-Accounts_26WD95687",
+        "Senior-Software-Engineer---Agentic-AI_26WD94547-1",
+        "Principal-Engineer--Java--DB--AWS-_24WD83405-1",
+        "Software-Architect_26WD94741-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -44398,7 +44460,11 @@
         "Product-Designer--Home-Soft-Goods_10153821",
         "Sr-Product-Mgr-II---Customer-Identity-Product_10154553-2",
         "Senior-Network-Infrastructure-Engineer_10154552-2",
-        "Lead-Data-Product-Mgr_10154714"
+        "Lead-Data-Product-Mgr_10154714",
+        "Infirmier-re--de-Sant-au-Travail---F-H-NB---CDI_DLP-0000440835",
+        "Pastry-Sous-Chef_10155031-1",
+        "Manager--Content-Acquisition_10151348",
+        "Intern-Finance_10153050"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -44971,7 +45037,8 @@
         "R000106300",
         "R000105344",
         "R000106689",
-        "R000106650"
+        "R000106650",
+        "R000106690"
     ],
     "Kyndryl": [
         "R-61530",
@@ -45989,7 +46056,8 @@
         "R-58950",
         "R-59936-1",
         "R-64720-1",
-        "R-64719"
+        "R-64719",
+        "R-63286-1"
     ],
     "Chime": [
         "8391630002",
@@ -47075,7 +47143,8 @@
         "6105374004",
         "6011593004",
         "6092531004",
-        "5792281004"
+        "5792281004",
+        "6015829004"
     ],
     "Acryl Data": [
         "5111757007",
