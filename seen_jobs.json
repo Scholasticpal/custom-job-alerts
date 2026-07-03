@@ -4017,7 +4017,8 @@
         "d30bed61-c3d3-4c8b-a119-e4b3333d5d20",
         "993abcab-5881-4e53-b8a5-a73f4fe6d84a",
         "2693cac4-ad24-4693-894b-93592bf45539",
-        "8a118b61-3e1a-4d5c-835a-04d05197c2aa"
+        "8a118b61-3e1a-4d5c-835a-04d05197c2aa",
+        "a65160bf-b25d-4b73-87aa-8d8b83e342a5"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -14129,7 +14130,9 @@
         "R-276760-1",
         "R-282119",
         "R-279207",
-        "R-281627"
+        "R-281627",
+        "R-280525-1",
+        "R-273836-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -18351,7 +18354,9 @@
         "R350241",
         "R350402-1",
         "R350348",
-        "R349848-1"
+        "R349848-1",
+        "R349234",
+        "R350432"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20049,7 +20054,10 @@
         "R265028",
         "R265090",
         "R265091",
-        "R265073"
+        "R265073",
+        "R265045",
+        "R265089",
+        "R265072"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -22582,7 +22590,8 @@
         "R-14279-1",
         "R-14276",
         "R-14549",
-        "R-14466-2"
+        "R-14466-2",
+        "R-14416"
     ],
     "PayPal": [
         "R0135744-1",
@@ -31792,7 +31801,10 @@
         "R-0108506",
         "R-0108308",
         "R-0108608",
-        "R-0105894"
+        "R-0105894",
+        "R-0108256-1",
+        "R-0108252",
+        "R-0108473"
     ],
     "CrowdStrike": [
         "R26911",
@@ -38573,7 +38585,8 @@
         "R0000443840",
         "R0000444539-1",
         "R0000444406",
-        "R0000444527"
+        "R0000444527",
+        "R0000444599"
     ],
     "Zoom": [
         "R18188-1",
@@ -39439,7 +39452,9 @@
         "R-107366",
         "R-107278-1",
         "R-107480",
-        "R-107397"
+        "R-107397",
+        "R-106983",
+        "R-107322-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -40568,7 +40583,11 @@
         "50ff8324-991f-4e79-96fa-21a835f48e52",
         "553183a1-4211-45a6-9154-775eff611cca",
         "7ab6c904-6900-472f-8ca6-bad3e4077868",
-        "cabfea16-ae45-4521-b142-d5c8fed77b64"
+        "cabfea16-ae45-4521-b142-d5c8fed77b64",
+        "264f71b9-056d-4ebb-95c0-f0c7e43f6506",
+        "3fec2ef4-f7d8-4d0d-8ba2-e7f6e6c4eb55",
+        "8bb37933-23d9-4040-9bdc-55dae39d26e0",
+        "ed12efb4-bcd1-4857-8908-f761a0fc0a3e"
     ],
     "Netskope": [
         "7885748",
@@ -43454,7 +43473,9 @@
         "Senior-Manager--Acceptance-Development_REF084613W",
         "Lead-Software-Engineer_REF077434W",
         "Implementation-Director_REF080286W-1",
-        "Implementation-Analyst_REF081379W"
+        "Implementation-Analyst_REF081379W",
+        "CDD-Assoc-Analyst--Compliance_REF083143W",
+        "Sr-Manager--Sales-Engineering_REF084676W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -44974,7 +44995,8 @@
         "Programming---Scheduling-Intern_10153669",
         "Digital---Brand-Marketing-Intern_10153663",
         "Disney--Retention-Intern_10153659",
-        "Jr-Analyst--Finance_10154000"
+        "Jr-Analyst--Finance_10154000",
+        "Coordinateur-trice--Projets-Prvention-H-F-NB---CDI_10155207"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -45563,7 +45585,8 @@
         "R000106141",
         "R000105120",
         "R000106160",
-        "R000106718-1"
+        "R000106718-1",
+        "R000106793"
     ],
     "Kyndryl": [
         "R-61530",
@@ -46612,7 +46635,8 @@
         "R-63213",
         "R-63296-1",
         "R-60013-1",
-        "R-63851-2"
+        "R-63851-2",
+        "R-48497"
     ],
     "Chime": [
         "8391630002",
@@ -47711,7 +47735,8 @@
         "6015829004",
         "5976107004",
         "6102997004",
-        "6000171004"
+        "6000171004",
+        "5996018004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -49218,7 +49243,10 @@
         "8041703",
         "8030603",
         "8041751",
-        "8015761"
+        "8015761",
+        "8044827",
+        "8042568",
+        "8045261"
     ],
     "Spotify": [],
     "Snap": [],
