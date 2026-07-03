@@ -4005,7 +4005,11 @@
         "77e1e11f-744f-4f62-8c91-e59393db2208",
         "e3f92fb6-4d2e-4acd-bdb1-e8d70b9ba32a",
         "b84202a4-a7cd-4421-8471-9031f76d52bf",
-        "7511f330-2aa0-4b02-8a92-3f85d8d20882"
+        "7511f330-2aa0-4b02-8a92-3f85d8d20882",
+        "9eed4fec-73f7-4114-a5d3-b2f689c92e8c",
+        "03d647ac-0454-489a-9e9b-3b3cd7e82d5c",
+        "0c74128d-b356-4743-8e1d-250bfc13d7ee",
+        "d30bed61-c3d3-4c8b-a119-e4b3333d5d20"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8095,7 +8099,8 @@
         "8041131",
         "8042034",
         "8041746",
-        "8030678"
+        "8030678",
+        "8037611"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -14085,7 +14090,8 @@
         "R-282071-1",
         "R-280811",
         "R-281398",
-        "R-277679"
+        "R-277679",
+        "R-281787"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -26595,7 +26601,8 @@
         "5289450008",
         "5277044008",
         "5290360008",
-        "5290468008"
+        "5290468008",
+        "5290837008"
     ],
     "Coinbase": [
         "7559052",
@@ -34877,7 +34884,14 @@
         "R2018496",
         "R2020017",
         "R2020820",
-        "R2020734"
+        "R2020734",
+        "R2020515",
+        "R2020069",
+        "R2020634",
+        "R2019549",
+        "R2020718",
+        "R2020670",
+        "R2020710"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -39497,7 +39511,8 @@
         "f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
         "f18b1173-51c3-4ff6-bcda-89f8111931f4",
         "f2f28afa-4b42-43c7-b977-48f5b686fba2",
-        "f6027734-f9f6-4711-ac21-88844a6d9d3f"
+        "f6027734-f9f6-4711-ac21-88844a6d9d3f",
+        "44f6de1c-0fdc-4d46-aa3e-7d57b8be38b2"
     ],
     "Hasura": [],
     "Netlify": [
@@ -40594,7 +40609,8 @@
         "8041697",
         "8031293",
         "8043313",
-        "8044041"
+        "8044041",
+        "8028233"
     ],
     "Samsara": [
         "5747183",
@@ -43277,7 +43293,8 @@
         "Staff-SW-Engineer_REF084658W",
         "Risk-Management-Manager_REF084630W",
         "Director--Commercial-LMM-Sales-Executive_REF080904W",
-        "Product-Director---LAC-Acceptance-Growth-COE_REF082579W-1"
+        "Product-Director---LAC-Acceptance-Growth-COE_REF082579W-1",
+        "Workplace-Experience-Manager_REF083067W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -48759,7 +48776,8 @@
         "7906095",
         "8037625",
         "8025211",
-        "8025176"
+        "8025176",
+        "8040801"
     ],
     "Roku": [
         "8023364",
