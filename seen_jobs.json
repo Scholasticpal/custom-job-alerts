@@ -1254,7 +1254,8 @@
         "7976987",
         "8040052",
         "7942216",
-        "8029252"
+        "8029252",
+        "8040874"
     ],
     "Figma": [
         "5426468004",
@@ -9000,7 +9001,9 @@
         "8037934",
         "8042920",
         "8040202",
-        "8043019"
+        "8043019",
+        "8041111",
+        "8041113"
     ],
     "DoorDash": [
         "7927511",
@@ -10360,7 +10363,8 @@
         "7790480003",
         "7790859003",
         "7773486003",
-        "7787359003"
+        "7787359003",
+        "6672559003"
     ],
     "Swiggy": [],
     "Zomato": [],
@@ -14091,7 +14095,11 @@
         "R-280811",
         "R-281398",
         "R-277679",
-        "R-281787"
+        "R-281787",
+        "R-281561-1",
+        "R-281563",
+        "R-279502-1",
+        "R-281825"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -18301,7 +18309,8 @@
         "R349952",
         "R350248",
         "R350143",
-        "R350367"
+        "R350367",
+        "R350211"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -18960,7 +18969,11 @@
         "SQL-Ppogrammer_J-83370-1",
         "XMLNAME-NET-Developer_J-83369",
         "Sr-Business-Analyst_J-83417",
-        "Director-of-Campaigns---Activations_J-83140-1"
+        "Director-of-Campaigns---Activations_J-83140-1",
+        "AR-Cordinator_J-82654",
+        "AR-Cordinator_J-82656-1",
+        "AR-Cordinator_J-82655",
+        "AR-Cordinator_J-82657"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -21896,7 +21909,8 @@
         "R-10393580",
         "R-10382093",
         "R-10391941-1",
-        "R-10393149"
+        "R-10393149",
+        "R-10397841"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -22126,7 +22140,8 @@
         "Family-Offices-Director--EMEA-Alternatives-Wealth-Management_865807",
         "Portfolio-Compliance-Analyst_868034",
         "Senior-Associate-Manager--Product-Development---Implementation_868493",
-        "Senior-Project-Manager---Cyber-Security_868436"
+        "Senior-Project-Manager---Cyber-Security_868436",
+        "Sales-Director--Retail-Wealth--Thailand_866715"
     ],
     "Invesco": [
         "R-13647",
@@ -22510,7 +22525,8 @@
         "R-14458",
         "R-13508",
         "R-14279-1",
-        "R-14276"
+        "R-14276",
+        "R-14549"
     ],
     "PayPal": [
         "R0135744-1",
@@ -32374,7 +32390,8 @@
         "R26519",
         "R28467-1",
         "R28219",
-        "R27516"
+        "R27516",
+        "R29170-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -38436,7 +38453,24 @@
         "R0000444520",
         "R0000444465",
         "R0000444443",
-        "R0000444448"
+        "R0000444448",
+        "R0000444529",
+        "R0000444413",
+        "R0000444493",
+        "R0000419249",
+        "R0000444533",
+        "R0000444523",
+        "R0000444502",
+        "R0000443988-1",
+        "R0000443921",
+        "R0000404951",
+        "R0000444490",
+        "R0000444470",
+        "R0000444458",
+        "R0000444488",
+        "R0000444108",
+        "R0000444444",
+        "R0000441179"
     ],
     "Zoom": [
         "R18188-1",
@@ -43294,7 +43328,8 @@
         "Risk-Management-Manager_REF084630W",
         "Director--Commercial-LMM-Sales-Executive_REF080904W",
         "Product-Director---LAC-Acceptance-Growth-COE_REF082579W-1",
-        "Workplace-Experience-Manager_REF083067W"
+        "Workplace-Experience-Manager_REF083067W",
+        "Senior-Counsel_REF084635W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -43879,7 +43914,8 @@
         "Software-Engineer--Java--AWS-_26WD99569",
         "Software-Development-Manager--MCP-AI_26WD98804-1",
         "Software-Developer--MCP-AI_26WD99364-1",
-        "Principal-MCP-AI-Developer_26WD99362-1"
+        "Principal-MCP-AI-Developer_26WD99362-1",
+        "Technical-Success-Manager--Construction_26WD99527-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -45384,7 +45420,8 @@
         "R000106778",
         "R000106776",
         "R000106775",
-        "R000106485"
+        "R000106485",
+        "R000106057"
     ],
     "Kyndryl": [
         "R-61530",
@@ -46424,7 +46461,9 @@
         "R-60461",
         "R-63836",
         "R-63811",
-        "R-64102-1"
+        "R-64102-1",
+        "R-64343-1",
+        "R-63298"
     ],
     "Chime": [
         "8391630002",
@@ -47395,7 +47434,8 @@
         "7977080",
         "7462735",
         "8011328",
-        "6593004"
+        "6593004",
+        "7978171"
     ],
     "Kaseya": [
         "6022140004",
@@ -47909,7 +47949,9 @@
         "7473679",
         "7530214",
         "7701507",
-        "7957687"
+        "7957687",
+        "8007706",
+        "7912223"
     ],
     "Propel": [],
     "Canva": [],
@@ -48777,7 +48819,9 @@
         "8037625",
         "8025211",
         "8025176",
-        "8040801"
+        "8040801",
+        "7358442",
+        "8025544"
     ],
     "Roku": [
         "8023364",
