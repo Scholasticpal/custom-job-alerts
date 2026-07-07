@@ -2266,7 +2266,9 @@
         "2f139e49-51ad-4c91-9ca8-c54d5f2c866c",
         "3c434660-bd24-45b4-9d2d-3fdcb3663c47",
         "4aa8eb9e-787f-42be-9854-d4eb0d4c38d8",
-        "946474ab-a422-4585-b72a-b300ca4c404c"
+        "946474ab-a422-4585-b72a-b300ca4c404c",
+        "adb755ae-ed68-452c-a38b-71e3b5b6077a",
+        "e3c73782-5b85-4caf-b931-97a344a06a8b"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -6677,7 +6679,10 @@
         "8621706002",
         "8570003002",
         "8612863002",
-        "8588518002"
+        "8588518002",
+        "8620635002",
+        "8622164002",
+        "8614979002"
     ],
     "Rubrik": [
         "7310036",
@@ -9590,7 +9595,9 @@
         "8046764",
         "6570452",
         "8046443",
-        "7863464"
+        "7863464",
+        "8046467",
+        "8046431"
     ],
     "GitHub": [],
     "Twilio": [
@@ -14287,7 +14294,13 @@
         "R-281562",
         "R-282235",
         "R-281092",
-        "R-281363"
+        "R-281363",
+        "R-281538",
+        "R-281530",
+        "R-282196",
+        "R-266113-1",
+        "R-281854",
+        "R-282149"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -18582,7 +18595,10 @@
         "R349985-1",
         "R349262",
         "R350390",
-        "R350734"
+        "R350734",
+        "R350398",
+        "R347913",
+        "R345459"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -19264,7 +19280,8 @@
         "Practicante-de-Recursos-Humanos_J-83084",
         "IAM-Okta-Engineer_J-83022-1",
         "IAM-Governance-Analyst_J-83025-1",
-        "Team-Coach_J-83341"
+        "Team-Coach_J-83341",
+        "Travel-Counselor---Afterhours_J-83235"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -20309,7 +20326,8 @@
         "R265123",
         "R264516",
         "R264906",
-        "R263698"
+        "R263698",
+        "R265070"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -20959,7 +20977,8 @@
         "R32579",
         "R32665",
         "R32617",
-        "R31560"
+        "R31560",
+        "R32725"
     ],
     "Fiserv": [
         "R-10392824",
@@ -22491,7 +22510,8 @@
         "Senior-Tax-Accountant--Individual-Tax-Returns--High-Net-Worth-_866646-1",
         "Principal-Accountant_868451",
         "Client-Portfolio-Manager--Advisory-Solutions--FTIS-_868621",
-        "Global-Operations-Risk---Controls-Consultant_868090-1"
+        "Global-Operations-Risk---Controls-Consultant_868090-1",
+        "Business-Data-Steward_868697"
     ],
     "Invesco": [
         "R-13647",
@@ -22882,7 +22902,9 @@
         "R-14624",
         "R-14561",
         "R-14688",
-        "R-13844"
+        "R-13844",
+        "R-14536",
+        "R-14511"
     ],
     "PayPal": [
         "R0135744-1",
@@ -29570,7 +29592,8 @@
         "8044497",
         "8044870",
         "8014384",
-        "7993984"
+        "7993984",
+        "8018423"
     ],
     "Datadog": [
         "7194969",
@@ -32858,7 +32881,10 @@
         "R29210",
         "R27886",
         "R29292-1",
-        "R29270"
+        "R29270",
+        "R28855",
+        "R29221",
+        "R29213"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -35460,7 +35486,10 @@
         "R2020829",
         "R2020817-1",
         "R2020818",
-        "R2020463"
+        "R2020463",
+        "R2012776",
+        "R1997698",
+        "R1997251"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -39136,7 +39165,23 @@
         "R0000444170-1",
         "R0000444186",
         "R0000444786",
-        "R0000444275"
+        "R0000444275",
+        "R0000444654",
+        "R0000444871",
+        "R0000444851",
+        "R0000444501-1",
+        "R0000444738",
+        "R0000444798",
+        "R0000444442-1",
+        "R0000444772",
+        "R0000444612",
+        "R0000444781",
+        "R0000444771",
+        "R0000444801",
+        "R0000444743",
+        "R0000444753",
+        "R0000444033",
+        "R0000444823"
     ],
     "Zoom": [
         "R18188-1",
@@ -40018,7 +40063,10 @@
         "R-107530",
         "R-106773-1",
         "R-107456-1",
-        "R-107384"
+        "R-107384",
+        "R-104505",
+        "R-107565",
+        "R-101762"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -40236,7 +40284,8 @@
         "f6027734-f9f6-4711-ac21-88844a6d9d3f",
         "44f6de1c-0fdc-4d46-aa3e-7d57b8be38b2",
         "620bcab3-787c-4ffe-bd37-5d45e209925e",
-        "b566fbf8-2894-4314-9533-8fa920e80c19"
+        "b566fbf8-2894-4314-9533-8fa920e80c19",
+        "f0f277ac-b96c-478a-81ca-7bd80612533f"
     ],
     "Hasura": [],
     "Netlify": [
@@ -41381,7 +41430,8 @@
         "8041115",
         "8047606",
         "8047608",
-        "8047609"
+        "8047609",
+        "8045257"
     ],
     "Samsara": [
         "5747183",
@@ -41867,7 +41917,8 @@
         "8008386",
         "7836977",
         "8039126",
-        "8020028"
+        "8020028",
+        "7617960"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -43064,7 +43115,8 @@
         "R34654",
         "R34105",
         "R34104-1",
-        "R33433"
+        "R33433",
+        "R35161"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -44118,7 +44170,8 @@
         "Senior-Consulting-Manager--Visa-Consulting-Analytics_REF084750W",
         "Sr-Manager--Payment-Acceptance-Partnerships_REF084810W-1",
         "Director--Issuer-Risk-Value-Added-Services-Specialist-seller-KBO_REF084758W-1",
-        "Director--Issuer-Value-Added-Services-Specialist-seller-WCA_REF084759W-1"
+        "Director--Issuer-Value-Added-Services-Specialist-seller-WCA_REF084759W-1",
+        "Fraud-Risk-Manager_REF083344W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -44728,7 +44781,12 @@
         "Technical-Program-Manager_26WD99636-1",
         "Senior-Technical-Support-Specialist_26WD99498-1",
         "Accounts-Representative--Expansion_26WD99592-1",
-        "Senior-Partner-Business-Consultant_26WD99450-1"
+        "Senior-Partner-Business-Consultant_26WD99450-1",
+        "Senior-Software-Engineer_26WD98208-1",
+        "Source-to-Pay-Senior-Analyst_26WD99443-1",
+        "Finance-Transformation-Automation-Senior-Analyst_26WD99442-1",
+        "Senior-Technical-Content-Designer--Platform-documentation_26WD96376-1",
+        "Director-of-Engineering--Go-To-Market--Salesforce-CRM---CPQ-_26WD99337"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -47400,7 +47458,13 @@
         "R-64698",
         "R-64552-1",
         "R-63650-1",
-        "R-64810"
+        "R-64810",
+        "R-59343",
+        "R-64887",
+        "R-64886",
+        "R-64885",
+        "R-64880",
+        "R-64196-1"
     ],
     "Chime": [
         "8391630002",
@@ -47919,7 +47983,8 @@
         "7796342003",
         "7796349003",
         "7796444003",
-        "7796431003"
+        "7796431003",
+        "7796066003"
     ],
     "Earnin": [
         "8013281",
@@ -48522,7 +48587,9 @@
         "6109551004",
         "6016004004",
         "6016005004",
-        "5977502004"
+        "5977502004",
+        "6088830004",
+        "6014430004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -49829,7 +49896,8 @@
         "8034861",
         "8042909",
         "8048023",
-        "8045784"
+        "8045784",
+        "8045138"
     ],
     "Roku": [
         "8023364",
