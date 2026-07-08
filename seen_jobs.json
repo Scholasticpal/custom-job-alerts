@@ -2054,7 +2054,8 @@
         "10467246",
         "10467370",
         "10468412",
-        "10468614"
+        "10468614",
+        "10468622"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -2505,7 +2506,8 @@
         "7788367003",
         "7789885003",
         "7789865003",
-        "7793358003"
+        "7793358003",
+        "7797445003"
     ],
     "Razorpay": [
         "4665089005",
@@ -4076,7 +4078,9 @@
         "690d9a2b-03db-40bb-9568-2198749107f5",
         "b72f3c53-3c44-4475-8f0b-cef57835aa60",
         "fc452563-d171-4c0a-a4e6-01ecc4990039",
-        "13b1167e-becf-4b80-a797-cb991bfdd7ac"
+        "13b1167e-becf-4b80-a797-cb991bfdd7ac",
+        "1d3c2ce5-aa01-46bb-b880-e09ce1687d1f",
+        "d57f6e10-2da4-4072-806c-ca66c1966afb"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -6707,7 +6711,9 @@
         "8612870002",
         "8569390002",
         "8559339002",
-        "8622162002"
+        "8622162002",
+        "8623640002",
+        "8530855002"
     ],
     "Rubrik": [
         "7310036",
@@ -14385,7 +14391,8 @@
         "R-281853",
         "R-278406",
         "R-282323",
-        "R-276724"
+        "R-276724",
+        "R-282061"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -18727,7 +18734,11 @@
         "R348954",
         "R349734",
         "R349858",
-        "R349393"
+        "R349393",
+        "R350012",
+        "R350992-1",
+        "R346540-1",
+        "R346250"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -19559,7 +19570,8 @@
         "Senior-Vice-President--South-East-Asia-Information-Security-Officer--Global-Information-Security_26023365",
         "Associate--Debt-Syndicate--Capital-Markets-Japan_26022918-1",
         "Lead-Operations-Representative_26021226",
-        "Vice-President--Network-Architect--Architect--Principal-Architect---APAC-Core-Technology-Infrastructure_26023368-2"
+        "Vice-President--Network-Architect--Architect--Principal-Architect---APAC-Core-Technology-Infrastructure_26023368-2",
+        "Assistant-Vice-President--Data---Regulatory-Reporting---GBAM-AML-Operation_26023183"
     ],
     "BlackRock": [
         "R263666",
@@ -20471,7 +20483,9 @@
         "R265146",
         "R265145",
         "R258178",
-        "R265071"
+        "R265071",
+        "R264708",
+        "R265023"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -21128,7 +21142,8 @@
         "R32617",
         "R31560",
         "R32725",
-        "R32543-1"
+        "R32543-1",
+        "R32212"
     ],
     "Fiserv": [
         "R-10392824",
@@ -23495,7 +23510,11 @@
         "R0137062",
         "R0137061",
         "R0137058",
-        "R0137059"
+        "R0137059",
+        "R0137019",
+        "R0137021",
+        "R0137011",
+        "R0137010"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -29810,7 +29829,9 @@
         "8044870",
         "8014384",
         "7993984",
-        "8018423"
+        "8018423",
+        "8050026",
+        "8045879"
     ],
     "Datadog": [
         "7194969",
@@ -30540,7 +30561,8 @@
         "8030851",
         "8024022",
         "8024670",
-        "8050063"
+        "8050063",
+        "8046660"
     ],
     "Elastic": [
         "7505982",
@@ -31288,7 +31310,8 @@
         "8031595",
         "8004219",
         "8024289",
-        "8024308"
+        "8024308",
+        "8048682"
     ],
     "Coursera": [
         "5839408004",
@@ -35779,7 +35802,9 @@
         "R2020572",
         "R2020679",
         "R2020914",
-        "R2020868"
+        "R2020868",
+        "R2013081",
+        "R2012324"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -39507,7 +39532,10 @@
         "R0000444951",
         "R0000444675-1",
         "R0000444339",
-        "R0000399907"
+        "R0000399907",
+        "R0000444992",
+        "R0000444970-1",
+        "R0000444950"
     ],
     "Zoom": [
         "R18188-1",
@@ -40403,7 +40431,8 @@
         "R-107794-1",
         "R-106819-1",
         "R-107739",
-        "R-107733"
+        "R-107733",
+        "R-107435"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -41790,7 +41819,9 @@
         "8047606",
         "8047608",
         "8047609",
-        "8045257"
+        "8045257",
+        "8035140",
+        "7417625"
     ],
     "Samsara": [
         "5747183",
@@ -44564,7 +44595,11 @@
         "Digital-Sales-Representative_REF080699W",
         "Implementation-Consultant_REF084745W",
         "R2R-EXPERIENCE-MANDATE-_REF084817W",
-        "Software-Engineer--Java-Min-06-yrs-to-15-yrs-of-experience-_REF084655W-1"
+        "Software-Engineer--Java-Min-06-yrs-to-15-yrs-of-experience-_REF084655W-1",
+        "Finance-Analyst_REF084849W",
+        "Sr-Manager--Acceptance-Solutions-Sales-Executive_REF081946W",
+        "Software-Engineer---Sr-Consultant-level_REF077927W",
+        "People-Analytics--Senior-Manager_REF084752W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -45185,7 +45220,10 @@
         "Senior-DevOps-Engineer--GCPay_26WD99800-1",
         "Data-Scientist--Revenue-Analytics_26WD99657-1",
         "Senior-Data-Analyst_26WD99647-1",
-        "Senior-Solution-Architect_26WD95958"
+        "Senior-Solution-Architect_26WD95958",
+        "DevOps-Engineer_26WD99271",
+        "Technical-Adoption-Specialist--Civil-3D--French-speaking_26WD99616-2",
+        "Senior-Manager--Account-Executive--Autodesk-Construction-Solutions----Sales-Leader_26WD99673-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -46798,7 +46836,10 @@
         "R000106750",
         "R000106774",
         "R000106729",
-        "R000106849"
+        "R000106849",
+        "R000106846",
+        "R000106820",
+        "R000106656"
     ],
     "Kyndryl": [
         "R-61530",
@@ -47934,7 +47975,17 @@
         "R-64332-1",
         "R-64329-1",
         "R-60011-1",
-        "R-64256-1"
+        "R-64256-1",
+        "R-59938",
+        "R-40692",
+        "R-41482-1",
+        "R-49479-2",
+        "R-58823",
+        "R-59054",
+        "R-64665",
+        "R-42945",
+        "R-64660-1",
+        "R-64257-1"
     ],
     "Chime": [
         "8391630002",
@@ -48100,7 +48151,8 @@
         "4691576006",
         "4693295006",
         "4692701006",
-        "4658960006"
+        "4658960006",
+        "4689361006"
     ],
     "Addepar": [
         "8594217002",
@@ -48936,7 +48988,9 @@
         "8040913",
         "7601524",
         "8031522",
-        "8048078"
+        "8048078",
+        "7774234",
+        "7930018"
     ],
     "Kaseya": [
         "6022140004",
