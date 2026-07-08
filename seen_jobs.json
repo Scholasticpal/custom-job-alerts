@@ -1277,7 +1277,11 @@
         "8048373",
         "8050340",
         "8048266",
-        "8031782"
+        "8031782",
+        "8047510",
+        "7991528",
+        "8004223",
+        "8039729"
     ],
     "Figma": [
         "5426468004",
@@ -1613,7 +1617,8 @@
         "6105734004",
         "6104505004",
         "6017413004",
-        "6104028004"
+        "6104028004",
+        "6105538004"
     ],
     "Amazon": [
         "3198115",
@@ -4901,7 +4906,8 @@
         "8042783",
         "8044558",
         "8050504",
-        "8044715"
+        "8044715",
+        "8049936"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -7174,7 +7180,8 @@
         "8038033",
         "7964089",
         "8008577",
-        "8046527"
+        "8046527",
+        "8048822"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -8241,7 +8248,9 @@
         "8029976",
         "8045339",
         "8044090",
-        "8045914"
+        "8045914",
+        "8051548",
+        "8051547"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -9672,7 +9681,8 @@
         "8046994",
         "8051025",
         "6746075",
-        "7056968"
+        "7056968",
+        "8051915"
     ],
     "GitHub": [],
     "Twilio": [
@@ -14425,7 +14435,8 @@
         "R-281377",
         "R-281068",
         "R-278506-1",
-        "R-281445"
+        "R-281445",
+        "R-281831"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -18781,7 +18792,12 @@
         "R349775",
         "R349776",
         "R349777",
-        "R351039"
+        "R351039",
+        "R350369",
+        "R350144",
+        "R350165",
+        "R350529",
+        "R350368-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20537,7 +20553,8 @@
         "R265023",
         "R265150",
         "R264979",
-        "R264460"
+        "R264460",
+        "R264912"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -20928,7 +20945,9 @@
         "R6790",
         "R6789",
         "R6527",
-        "R6834"
+        "R6834",
+        "R6860",
+        "R6786"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -22499,7 +22518,9 @@
         "R-10397989-1",
         "R-10397397",
         "R-10397398-1",
-        "R-10397045"
+        "R-10397045",
+        "R-10381404",
+        "R-10387089"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -27558,7 +27579,8 @@
         "7980600",
         "8031260",
         "8049976",
-        "8029639"
+        "8029639",
+        "8047427"
     ],
     "Discord": [
         "8289766002",
@@ -31093,7 +31115,8 @@
         "8044321",
         "8047185",
         "8048347",
-        "8045325"
+        "8045325",
+        "8047349"
     ],
     "Asana": [
         "7120496",
@@ -31392,7 +31415,8 @@
         "8004219",
         "8024289",
         "8024308",
-        "8048682"
+        "8048682",
+        "8044834"
     ],
     "Coursera": [
         "5839408004",
@@ -32543,7 +32567,8 @@
         "R-0108340",
         "R-0102024",
         "R-0108574",
-        "R-0108604"
+        "R-0108604",
+        "R-0108650"
     ],
     "CrowdStrike": [
         "R26911",
@@ -36082,7 +36107,8 @@
         "Software-Engineer--Shared-Components-_2018628",
         "Software-Engineering-Technical-Leader_2018002",
         "Software-Engineer--simulation-_2014405-1",
-        "Hardware-Engineer_2014521"
+        "Hardware-Engineer_2014521",
+        "Frontend-Software-Engineer_2016848"
     ],
     "Intel": [
         "R0283052",
@@ -39635,7 +39661,13 @@
         "R0000445019",
         "R0000445035",
         "R0000444870",
-        "R0000445030"
+        "R0000445030",
+        "R0000445028",
+        "R0000444897",
+        "R0000443474",
+        "R0000445042",
+        "R0000442485-1",
+        "R0000413389"
     ],
     "Zoom": [
         "R18188-1",
@@ -40688,7 +40720,8 @@
         "Senior-Technical-Program-Manager_113241-JOB",
         "Lead-Solutions-Consultant_113230-JOB",
         "Sr-Customer-Success-Manager_113247-JOB",
-        "Senior-Customer-Success-Manager_113246-JOB"
+        "Senior-Customer-Success-Manager_113246-JOB",
+        "SVP--Global-Alliances_113224-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -41186,7 +41219,8 @@
         "4711995005",
         "4591300005",
         "4712678005",
-        "4711741005"
+        "4711741005",
+        "4711898005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -41938,7 +41972,8 @@
         "8045257",
         "8035140",
         "7417625",
-        "8051376"
+        "8051376",
+        "8045253"
     ],
     "Samsara": [
         "5747183",
@@ -44732,7 +44767,10 @@
         "Treasury-Associate--Bank-Account-Management--Banking-Operations--KYC--Bank-Reconciliation---1-2-Years-Experience-_REF083298W",
         "Analyst---Cloud-FinOps_REF078979W",
         "Sr-Acceptance-Manager_REF081809W",
-        "Senior-Director--Product-Development-_REF084779W"
+        "Senior-Director--Product-Development-_REF084779W",
+        "Director--US-Client-Marketing-Team_REF081684W",
+        "Global-Interchange-Compliance-Analyst_REF082261W",
+        "Sr-Product-Manager_REF080722W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -45360,7 +45398,9 @@
         "Associate-Data-Engineer_26WD99684",
         "Sr-Sales-Specialist--Fusion-Data_26WD99008",
         "Principal-Engineer---Search-AI_26WD99817-1",
-        "Senior-Manager--Data-Security_26WD99489-2"
+        "Senior-Manager--Data-Security_26WD99489-2",
+        "Product-Manager---Content-Catalog_26WD99545-1",
+        "Senior-Principal-Technical-Program-Manager--FedRAMP---Public-Sector_26WD99407-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -46357,7 +46397,13 @@
         "Product-Software-Engineer-I_10151711",
         "Product-Software-Engineer-II_10153799-2",
         "Gestionnaire-Approvisionnement-F-H-NB--CDI_DLP-0000443341",
-        "Director--DCL-Security_10154770"
+        "Director--DCL-Security_10154770",
+        "Manager-Product-Software-Engineering_10154842",
+        "Principal-Product-Mgr_10154852",
+        "Mgr-Product-Mgmt_10154853",
+        "Site-Reliability-Engineer_10154082",
+        "Senior-Product-Software-Engineer_10154844",
+        "Executive-Assistant_10155423-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -46984,7 +47030,8 @@
         "R000106656",
         "R000106703",
         "R000106191",
-        "R000106822"
+        "R000106822",
+        "R000105083"
     ],
     "Kyndryl": [
         "R-61530",
@@ -48140,7 +48187,8 @@
         "R-64763",
         "R-64806-1",
         "R-39458-1",
-        "R-64210-1"
+        "R-64210-1",
+        "R-63084-1"
     ],
     "Chime": [
         "8391630002",
@@ -49300,7 +49348,8 @@
         "5028534007",
         "5006381007",
         "5067147007",
-        "5180972007"
+        "5180972007",
+        "4199998007"
     ],
     "Cambridge Mobile Telematics": [
         "8000883",
@@ -49730,7 +49779,8 @@
         "8050979",
         "8051027",
         "8048767",
-        "8051490"
+        "8051490",
+        "7957617"
     ],
     "Propel": [],
     "Canva": [],
@@ -49926,7 +49976,8 @@
         "8623117002",
         "8623323002",
         "8623272002",
-        "8623122002"
+        "8623122002",
+        "8623252002"
     ],
     "Coupang": [
         "7915234",
