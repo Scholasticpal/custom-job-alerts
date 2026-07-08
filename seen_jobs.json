@@ -7241,7 +7241,9 @@
         "R103478",
         "R103506",
         "R102499",
-        "R103508"
+        "R103508",
+        "R103512",
+        "R103312"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -8222,7 +8224,8 @@
         "8022909",
         "8029976",
         "8045339",
-        "8044090"
+        "8044090",
+        "8045914"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -14392,7 +14395,9 @@
         "R-278406",
         "R-282323",
         "R-276724",
-        "R-282061"
+        "R-282061",
+        "R-281215-1",
+        "R-281227"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19423,7 +19428,9 @@
         "IAM-Okta-Engineer_J-83022-1",
         "IAM-Governance-Analyst_J-83025-1",
         "Team-Coach_J-83341",
-        "Travel-Counselor---Afterhours_J-83235"
+        "Travel-Counselor---Afterhours_J-83235",
+        "Project-Manager_J-82524",
+        "User-Experience-Designer-III_J-81994"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -20485,7 +20492,8 @@
         "R258178",
         "R265071",
         "R264708",
-        "R265023"
+        "R265023",
+        "R265150"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -22442,7 +22450,9 @@
         "R-10396560-1",
         "R-10396206",
         "R-10392798",
-        "R-10397989-1"
+        "R-10397989-1",
+        "R-10397397",
+        "R-10397398-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -28301,7 +28311,10 @@
         "f0c4f288-9fca-4daf-ba42-7d0e971b5efe",
         "1924cfd6-cfd1-429c-a412-90b8ea46119c",
         "5e848a5f-577f-475c-bd56-19fa566cb6f9",
-        "127d31ff-3a16-488b-ba01-6e87dbb96957"
+        "127d31ff-3a16-488b-ba01-6e87dbb96957",
+        "7203c5b9-ae19-4478-84ea-85a11d438174",
+        "b93abf51-f064-4923-ada8-7cc78c8939e8",
+        "f91d3207-247f-4e51-babb-24336904bb41"
     ],
     "Affirm": [
         "7666190003",
@@ -29831,7 +29844,8 @@
         "7993984",
         "8018423",
         "8050026",
-        "8045879"
+        "8045879",
+        "8029188"
     ],
     "Datadog": [
         "7194969",
@@ -39535,7 +39549,9 @@
         "R0000399907",
         "R0000444992",
         "R0000444970-1",
-        "R0000444950"
+        "R0000444950",
+        "R0000444903",
+        "R0000444905"
     ],
     "Zoom": [
         "R18188-1",
@@ -42731,7 +42747,8 @@
         "4679772006",
         "4668075006",
         "4686255006",
-        "4674847006"
+        "4674847006",
+        "4686004006"
     ],
     "Duolingo": [
         "8455252002",
@@ -44599,7 +44616,11 @@
         "Finance-Analyst_REF084849W",
         "Sr-Manager--Acceptance-Solutions-Sales-Executive_REF081946W",
         "Software-Engineer---Sr-Consultant-level_REF077927W",
-        "People-Analytics--Senior-Manager_REF084752W-1"
+        "People-Analytics--Senior-Manager_REF084752W-1",
+        "Manager--VCA_REF084686W",
+        "Consulting-Analyst_REF081405W",
+        "Consulting-Senior-Manager--LATAM_REF084874W",
+        "Portuguese-Speaking-Business-Development-Representative_REF083466W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -45223,7 +45244,8 @@
         "Senior-Solution-Architect_26WD95958",
         "DevOps-Engineer_26WD99271",
         "Technical-Adoption-Specialist--Civil-3D--French-speaking_26WD99616-2",
-        "Senior-Manager--Account-Executive--Autodesk-Construction-Solutions----Sales-Leader_26WD99673-2"
+        "Senior-Manager--Account-Executive--Autodesk-Construction-Solutions----Sales-Leader_26WD99673-2",
+        "Associate-Data-Engineer_26WD99684"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -46215,7 +46237,8 @@
         "Sr-Compliance-Analyst_10154080",
         "Sr-Data-Engineer_10145881",
         "Level-Designer_10154485",
-        "Facility-Services-Assistant---Part-Time_10155216-1"
+        "Facility-Services-Assistant---Part-Time_10155216-1",
+        "Viewer-Insights-Analyst_10153635"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -48082,7 +48105,8 @@
         "4685205005",
         "4679053005",
         "4620432005",
-        "4680827005"
+        "4680827005",
+        "4704489005"
     ],
     "Fireblocks": [
         "4655907006",
@@ -48990,7 +49014,9 @@
         "8031522",
         "8048078",
         "7774234",
-        "7930018"
+        "7930018",
+        "8050718",
+        "8043064"
     ],
     "Kaseya": [
         "6022140004",
@@ -50735,7 +50761,8 @@
         "7957320",
         "7842690",
         "8031617",
-        "8049447"
+        "8049447",
+        "8010116"
     ],
     "Spotify": [],
     "Snap": [],
