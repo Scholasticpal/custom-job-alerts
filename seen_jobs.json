@@ -4947,7 +4947,8 @@
         "8050663",
         "8050665",
         "8053429",
-        "8053756"
+        "8053756",
+        "8054361"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -18963,7 +18964,10 @@
         "R350030",
         "R346497",
         "R351324",
-        "R351111-1"
+        "R351111-1",
+        "R351344",
+        "R351267",
+        "R350905"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20966,7 +20970,8 @@
         "Global-Fund-Finance--Vice-President---Blackstone-Credit---Insurance_43920-6",
         "Data-Analyst--Associate---Private-Equity-Technology_43933-2",
         "Global-Fund-Finance--Assistant-Vice-President---Blackstone-Multi-Asset_41815-2",
-        "Valuations---Analytics--AVP_43962"
+        "Valuations---Analytics--AVP_43962",
+        "Blackstone-Multi-Asset-Investing--BXMA----Product-Management--Associate--BSOF-_43913-1"
     ],
     "Capital Group": [
         "R6549",
@@ -23400,7 +23405,9 @@
         "R-14598-1",
         "R-14460",
         "R-13403-1",
-        "R-14534-1"
+        "R-14534-1",
+        "R-14444",
+        "R-14443"
     ],
     "PayPal": [
         "R0135744-1",
@@ -26769,7 +26776,8 @@
         "8d676791-45d7-461e-a69a-3bc31308c506",
         "da307814-6561-4648-8255-d2f69ee07960",
         "f273d9ee-d64a-44b0-875b-10b0cbdde310",
-        "86450337-b12a-48c1-836e-cc0c5766eb8e"
+        "86450337-b12a-48c1-836e-cc0c5766eb8e",
+        "6c552323-f0bd-4756-a5fb-db2cda70173f"
     ],
     "Anthropic": [
         "5101832008",
@@ -27600,7 +27608,9 @@
         "5315789008",
         "5309917008",
         "5316593008",
-        "5310996008"
+        "5310996008",
+        "5309805008",
+        "5317734008"
     ],
     "Coinbase": [
         "7559052",
@@ -29020,7 +29030,8 @@
         "7793305003",
         "7793307003",
         "7799164003",
-        "7793001003"
+        "7793001003",
+        "7792932003"
     ],
     "Robinhood": [
         "7799902",
@@ -36315,7 +36326,10 @@
         "R2018968",
         "R2020837",
         "R2020309",
-        "R2020269"
+        "R2020269",
+        "R2020926",
+        "R2019755",
+        "R2020674"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -36503,7 +36517,8 @@
         "Software-Engineering-Technical-Leader_2018002",
         "Software-Engineer--simulation-_2014405-1",
         "Hardware-Engineer_2014521",
-        "Frontend-Software-Engineer_2016848"
+        "Frontend-Software-Engineer_2016848",
+        "Engineering-Project-Manager_2018632-1"
     ],
     "Intel": [
         "R0283052",
@@ -40131,7 +40146,13 @@
         "R0000434471",
         "R0000441176",
         "R0000444880",
-        "R0000436666-1"
+        "R0000436666-1",
+        "R0000445195",
+        "R0000444713",
+        "R0000445206",
+        "R0000445210-1",
+        "R0000444111",
+        "R0000445020"
     ],
     "Zoom": [
         "R18188-1",
@@ -40400,7 +40421,8 @@
         "R19342",
         "R19347-1",
         "R19344-1",
-        "R19352"
+        "R19352",
+        "R19356-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -45975,7 +45997,8 @@
         "Account-Executive---Regional-Accounts_26WD99807-1",
         "Digital-Renewal-Sales-Rep-English-Speaker_26WD100206-1",
         "R-3D-GEOMETRY---MULTIMODAL-AI--TORONTO--CANADA_26WD99904",
-        "Senior-Cloud---AI-FinOps-Analyst_26WD99820-1"
+        "Senior-Cloud---AI-FinOps-Analyst_26WD99820-1",
+        "Technical-Specialist--Construction_26WD99799"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -47007,7 +47030,13 @@
         "Sr-Analyst--Data-Governance_10149992",
         "Manager--HR-Business-Partner_10154961-2",
         "Transmission-Engineer-I_10153962",
-        "Director--Consumer-Products-Insights---Analytics_10153674"
+        "Director--Consumer-Products-Insights---Analytics_10153674",
+        "Expression-of-Interest---Sr-Software-Engineer--USD-Authoring_10155681",
+        "Expression-of-Interest---Sr-Software-Engineer--Pipeline-Infrastructure_10155677",
+        "Expression-of-Interest---Sr-Software-Engineer--USD-Authoring_10155673",
+        "Sr-Accounting-Associate--Project-Hire-_10155156",
+        "Accounting-Analyst--Project-Hire-_10155055",
+        "Product-Manager-II_10154797"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -49380,7 +49409,10 @@
         "7797635003",
         "7659893003",
         "7799322003",
-        "7799315003"
+        "7799315003",
+        "7800490003",
+        "7799323003",
+        "7800311003"
     ],
     "Earnin": [
         "8013281",
@@ -50476,7 +50508,8 @@
         "8052227",
         "7819344",
         "8048977",
-        "8029612"
+        "8029612",
+        "8049262"
     ],
     "Propel": [],
     "Canva": [],
@@ -50679,7 +50712,8 @@
         "8624694002",
         "8568524002",
         "8620855002",
-        "8620949002"
+        "8620949002",
+        "8626589002"
     ],
     "Coupang": [
         "7915234",
