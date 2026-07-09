@@ -2069,7 +2069,8 @@
         "10468712",
         "10468929",
         "10468950",
-        "10469465"
+        "10469465",
+        "10469659"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -2529,7 +2530,8 @@
         "7789865003",
         "7793358003",
         "7797445003",
-        "7795782003"
+        "7795782003",
+        "7792487003"
     ],
     "Razorpay": [
         "4665089005",
@@ -4104,7 +4106,8 @@
         "13b1167e-becf-4b80-a797-cb991bfdd7ac",
         "1d3c2ce5-aa01-46bb-b880-e09ce1687d1f",
         "d57f6e10-2da4-4072-806c-ca66c1966afb",
-        "61f48ee4-015a-4acf-aebf-a9e19d03410b"
+        "61f48ee4-015a-4acf-aebf-a9e19d03410b",
+        "9da44eb0-930d-4081-8345-977974f48b9a"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4913,7 +4916,8 @@
         "8044558",
         "8050504",
         "8044715",
-        "8049936"
+        "8049936",
+        "8050663"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -6745,7 +6749,8 @@
         "8595098002",
         "8625367002",
         "8625374002",
-        "8569631002"
+        "8569631002",
+        "8555674002"
     ],
     "Rubrik": [
         "7310036",
@@ -7277,7 +7282,9 @@
         "R102499",
         "R103508",
         "R103512",
-        "R103312"
+        "R103312",
+        "R103514",
+        "R103515"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -14470,7 +14477,12 @@
         "R-282325-1",
         "R-201121-1",
         "R-282069",
-        "R-282263-1"
+        "R-282263-1",
+        "R-278536",
+        "R-281129",
+        "R-282189",
+        "R-281981",
+        "R-282036"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -18845,7 +18857,13 @@
         "R350939",
         "R349455",
         "R350332",
-        "R350329"
+        "R350329",
+        "R351180",
+        "R350982",
+        "R349966",
+        "R351177",
+        "R341941",
+        "R351016"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -19706,7 +19724,8 @@
         "Associate--Debt-Syndicate--Capital-Markets-Japan_26022918-1",
         "Lead-Operations-Representative_26021226",
         "Vice-President--Network-Architect--Architect--Principal-Architect---APAC-Core-Technology-Infrastructure_26023368-2",
-        "Assistant-Vice-President--Data---Regulatory-Reporting---GBAM-AML-Operation_26023183"
+        "Assistant-Vice-President--Data---Regulatory-Reporting---GBAM-AML-Operation_26023183",
+        "Vice-President--Compliance-and-Operational-Risk-Specialist--Japan_26023566"
     ],
     "BlackRock": [
         "R263666",
@@ -20624,7 +20643,11 @@
         "R265150",
         "R264979",
         "R264460",
-        "R264912"
+        "R264912",
+        "R265221",
+        "R265224-1",
+        "R265077",
+        "R264721"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -21288,7 +21311,8 @@
         "R31560",
         "R32725",
         "R32543-1",
-        "R32212"
+        "R32212",
+        "R31323"
     ],
     "Fiserv": [
         "R-10392824",
@@ -23233,7 +23257,13 @@
         "R-14160",
         "R-14522",
         "R-14591",
-        "R-14592"
+        "R-14592",
+        "R-14704",
+        "R-14333",
+        "R-14607",
+        "R-14600",
+        "R-14449",
+        "R-14598-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -26587,7 +26617,8 @@
         "3254f6a7-6353-4a77-beec-f37b832c99ae",
         "5c3a17db-62f1-4145-93b0-2f207d4d4af8",
         "7ad26793-3f0d-4336-91e8-1aaf800cfdae",
-        "aed9985a-21ff-437d-9e0a-f82e5e420331"
+        "aed9985a-21ff-437d-9e0a-f82e5e420331",
+        "b8616c99-7e5c-46ae-8003-2df167160d9c"
     ],
     "Anthropic": [
         "5101832008",
@@ -30767,7 +30798,8 @@
         "8050874",
         "8051068",
         "8048106",
-        "8052135"
+        "8052135",
+        "8050644"
     ],
     "Elastic": [
         "7505982",
@@ -31222,7 +31254,9 @@
         "8048347",
         "8045325",
         "8047349",
-        "8047231"
+        "8047231",
+        "8045062",
+        "8041466"
     ],
     "Asana": [
         "7120496",
@@ -32682,7 +32716,8 @@
         "R-0108650",
         "R-0108695",
         "R-0108504",
-        "R-0105867"
+        "R-0105867",
+        "R-0108684"
     ],
     "CrowdStrike": [
         "R26911",
@@ -33391,7 +33426,9 @@
         "R29371",
         "R-1--PROCUREMENT_R29356",
         "R28092",
-        "R27156"
+        "R27156",
+        "R27553",
+        "R29340"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -36056,7 +36093,11 @@
         "R2019772",
         "R2020971",
         "R2016016",
-        "R2021019"
+        "R2021019",
+        "R2021052",
+        "R1998218",
+        "R2021084",
+        "R2014249"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -39818,7 +39859,20 @@
         "R0000444960",
         "R0000444961",
         "R0000444253-1",
-        "R0000445106"
+        "R0000445106",
+        "R0000445088",
+        "R0000445008",
+        "R0000445112",
+        "R0000445052",
+        "R0000445111-1",
+        "R0000442210",
+        "R0000445049",
+        "R0000444991",
+        "R0000445089-1",
+        "R0000445029",
+        "R0000445109",
+        "R0000445064-1",
+        "R0000444419-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -40079,7 +40133,10 @@
         "R19043-1",
         "R19343-1",
         "R17729",
-        "R18905"
+        "R18905",
+        "R19320",
+        "R19338-1",
+        "R19340-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -41916,7 +41973,8 @@
         "27cf201b-fc51-4fcf-9951-71fa7a19a29e",
         "47987e3e-bda2-439a-9c9e-790a09394b64",
         "864d69dc-dd03-4240-820f-b63ccb29176a",
-        "96315a6b-7e96-4d3a-9138-802b42468dca"
+        "96315a6b-7e96-4d3a-9138-802b42468dca",
+        "d6f2e7c1-8437-492a-9c52-032f2b2fe0b4"
     ],
     "Netskope": [
         "7885748",
@@ -43667,7 +43725,8 @@
         "0540f33b-1576-4727-a835-08b1cd6ebd56",
         "31a75866-6674-4aa5-9af4-8202507d83a7",
         "f43a76bd-ec4e-4b4b-a331-93d5d85434a5",
-        "3e370c0e-9c98-4cd4-9875-9e219b743b46"
+        "3e370c0e-9c98-4cd4-9875-9e219b743b46",
+        "542861ab-f44c-4b51-b6c4-496db7821f1b"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -44954,7 +45013,10 @@
         "Senior-Vice-President--Product-Reliability-Engineering_REF083241W",
         "Director--Solutions-Management_REF084729W",
         "Director--Client-Consulting_REF073765W",
-        "Accounts-Associate-ATR-_REF084712W"
+        "Accounts-Associate-ATR-_REF084712W",
+        "Director--Key-Regional-Merchant-Lead_REF084814W",
+        "Senior-Manager--Corporate-Communications_REF084854W",
+        "Sr-Consulting-Manager_REF080851W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -45588,7 +45650,8 @@
         "Intern--Model-Based-Systems-Engineering_26WD94900",
         "Creative-Director---Small-Business_26WD98289",
         "Technical-Adoption-Specialist-Autodesk-Build-Construction-Operation-Industry-Cloud-Forma_26WD99626-1",
-        "Technical-Adoption-Specialist--Forma--APS----Automation_26WD99474-1"
+        "Technical-Adoption-Specialist--Forma--APS----Automation_26WD99474-1",
+        "Territory-Accounts-Representative_26WD99808-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -46597,7 +46660,9 @@
         "Executive-Assistant--Direct-to-Consumer---Disney-Entertainment---ESPN-Product-and-Technology_10154376-1",
         "Staff-Software-Data-Engineer_10154769",
         "Coordinator--Partner-Marketing_10153938",
-        "Product-Software-Engineer-II_10154688-2"
+        "Product-Software-Engineer-II_10154688-2",
+        "Accessoiriste-Ralisateur--Spcialit-ralisation-de-Marionnettes-F-H-NB---Intermittence--CDDU-_10155561-1",
+        "Associate-Specialist--Broadcast-Marketing--1-year-contract-_10154024"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -48394,7 +48459,9 @@
         "R-64399",
         "R-64403",
         "R-63724-1",
-        "R-61850-1"
+        "R-61850-1",
+        "R-64896",
+        "R-64047-1"
     ],
     "Chime": [
         "8391630002",
@@ -49550,7 +49617,8 @@
         "6088830004",
         "6014430004",
         "5997683004",
-        "6111611004"
+        "6111611004",
+        "6092235004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -50942,7 +51010,14 @@
         "7963753",
         "8048231",
         "8050770",
-        "8052813"
+        "8052813",
+        "8052987",
+        "8050450",
+        "8037271",
+        "8037273",
+        "8048122",
+        "8048124",
+        "8037275"
     ],
     "Roku": [
         "8023364",
