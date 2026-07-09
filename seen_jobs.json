@@ -1620,7 +1620,8 @@
         "6104505004",
         "6017413004",
         "6104028004",
-        "6105538004"
+        "6105538004",
+        "6111309004"
     ],
     "Amazon": [
         "3198115",
@@ -6742,7 +6743,8 @@
         "8622413002",
         "8595098002",
         "8625367002",
-        "8625374002"
+        "8625374002",
+        "8569631002"
     ],
     "Rubrik": [
         "7310036",
@@ -14458,7 +14460,8 @@
         "R-281426",
         "R-282290",
         "R-282226",
-        "R-282050-1"
+        "R-282050-1",
+        "R-282325-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -18828,7 +18831,9 @@
         "R347718-1",
         "R351058",
         "R350927",
-        "R349346-1"
+        "R349346-1",
+        "R350223",
+        "R350939"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -26565,7 +26570,12 @@
         "41b67258-ee3c-427b-8fef-3b8679a7ce59",
         "dc503400-f7a8-4ad4-b50b-b33d2d12cc2d",
         "57a8965e-c5f0-4def-b4a0-541ced28a3d9",
-        "759f6544-53c0-4435-a52a-f69659ce0d4d"
+        "759f6544-53c0-4435-a52a-f69659ce0d4d",
+        "01091aed-427d-4e10-8cdb-fb500cf55bb9",
+        "3254f6a7-6353-4a77-beec-f37b832c99ae",
+        "5c3a17db-62f1-4145-93b0-2f207d4d4af8",
+        "7ad26793-3f0d-4336-91e8-1aaf800cfdae",
+        "aed9985a-21ff-437d-9e0a-f82e5e420331"
     ],
     "Anthropic": [
         "5101832008",
@@ -27388,7 +27398,11 @@
         "5301112008",
         "5304425008",
         "5305631008",
-        "5305476008"
+        "5305476008",
+        "5285244008",
+        "5285248008",
+        "5304242008",
+        "5285250008"
     ],
     "Coinbase": [
         "7559052",
@@ -29245,7 +29259,8 @@
         "6102654004",
         "6105394004",
         "5428982004",
-        "6111332004"
+        "6111332004",
+        "6112143004"
     ],
     "MongoDB": [
         "7574659",
@@ -31789,7 +31804,8 @@
         "R170283",
         "R170304",
         "R5_R170295-1",
-        "R170011-1"
+        "R170011-1",
+        "R170326"
     ],
     "Workday": [
         "R-0106509-1",
@@ -32649,7 +32665,8 @@
         "R-0108604",
         "R-0108650",
         "R-0108695",
-        "R-0108504"
+        "R-0108504",
+        "R-0105867"
     ],
     "CrowdStrike": [
         "R26911",
@@ -33357,7 +33374,8 @@
         "R29238",
         "R29371",
         "R-1--PROCUREMENT_R29356",
-        "R28092"
+        "R28092",
+        "R27156"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -36016,7 +36034,10 @@
         "R2021006-1",
         "R2020975",
         "R2020872",
-        "R2020164"
+        "R2020164",
+        "R2020976",
+        "R2020082",
+        "R2019772"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -39774,7 +39795,9 @@
         "R0000442761",
         "R0000444760",
         "R0000445004",
-        "R0000444473"
+        "R0000444473",
+        "R0000444960",
+        "R0000444961"
     ],
     "Zoom": [
         "R18188-1",
@@ -41611,7 +41634,8 @@
         "8ca5c32b-e6c7-47e3-af23-291f122fa0f8",
         "03e2d4e1-73ad-4f09-a058-2eb9ce34c2bc",
         "b68aca53-16c0-4ced-ab1d-e8beb2940b4f",
-        "e5232cce-a23a-4f03-b12e-dac510d08cd3"
+        "e5232cce-a23a-4f03-b12e-dac510d08cd3",
+        "aef46cd3-e2b6-440c-9283-39a22b1a621c"
     ],
     "Deel": [],
     "Polygon": [],
@@ -42083,7 +42107,9 @@
         "7417625",
         "8051376",
         "8045253",
-        "8050502"
+        "8050502",
+        "8049641",
+        "8038887"
     ],
     "Samsara": [
         "5747183",
@@ -43113,7 +43139,8 @@
         "8616695002",
         "8618405002",
         "8621574002",
-        "8621586002"
+        "8621586002",
+        "8625579002"
     ],
     "Pinterest": [
         "7808602",
@@ -44893,7 +44920,8 @@
         "Core-Marketing-and-Innovations-Manager_REF084829W",
         "Senior-Vice-President--Head-of-Product-Development--Commercial-and-Money-Movement-Services_REF083271W",
         "Senior-Vice-President--Product-Reliability-Engineering_REF083241W",
-        "Director--Solutions-Management_REF084729W"
+        "Director--Solutions-Management_REF084729W",
+        "Director--Client-Consulting_REF073765W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -46533,7 +46561,9 @@
         "Executive-Assistant_10155423-1",
         "Business-Affairs-Analyst--Platform-Distribution-_10154564",
         "Administrative---Inventory-Coordinator--Cotino---A-Storyliving-by-Disney--Community-_10154019",
-        "Executive-Assistant--Direct-to-Consumer---Disney-Entertainment---ESPN-Product-and-Technology_10154376-1"
+        "Executive-Assistant--Direct-to-Consumer---Disney-Entertainment---ESPN-Product-and-Technology_10154376-1",
+        "Staff-Software-Data-Engineer_10154769",
+        "Coordinator--Partner-Marketing_10153938"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -48327,7 +48357,8 @@
         "R-64462",
         "R-64399",
         "R-64403",
-        "R-63724-1"
+        "R-63724-1",
+        "R-61850-1"
     ],
     "Chime": [
         "8391630002",
@@ -48406,7 +48437,8 @@
         "8614188002",
         "8604565002",
         "8525883002",
-        "8607195002"
+        "8607195002",
+        "8624510002"
     ],
     "FalconX": [
         "4677684005",
@@ -49933,7 +49965,9 @@
         "8052359",
         "7974114",
         "8052453",
-        "8052380"
+        "8052380",
+        "8039432",
+        "8039434"
     ],
     "Propel": [],
     "Canva": [],
