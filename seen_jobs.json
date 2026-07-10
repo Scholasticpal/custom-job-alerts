@@ -7252,7 +7252,8 @@
         "7964089",
         "8008577",
         "8046527",
-        "8048822"
+        "8048822",
+        "8054518"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -10272,7 +10273,9 @@
         "8000762",
         "8048798",
         "8048796",
-        "8023560"
+        "8023560",
+        "8051051",
+        "8051059"
     ],
     "Dropbox": [
         "7646405",
@@ -14619,7 +14622,9 @@
         "R-282075",
         "R-282004",
         "R-282251",
-        "R-276872"
+        "R-276872",
+        "R-265083-1",
+        "R-282483"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19065,7 +19070,13 @@
         "R351449",
         "R351007",
         "R349792",
-        "R349815"
+        "R349815",
+        "R345892-2",
+        "R333750",
+        "R350184",
+        "R329013",
+        "R350485",
+        "R351469"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20885,7 +20896,8 @@
         "R265246",
         "R265142",
         "R265140",
-        "R265137"
+        "R265137",
+        "R265147"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -21286,7 +21298,9 @@
         "R6786",
         "R6861",
         "R6811-1",
-        "R6808"
+        "R6808",
+        "R6847",
+        "R6849"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -22877,7 +22891,8 @@
         "R-10396415",
         "R-10398250",
         "R-10396756",
-        "R-10397276-1"
+        "R-10397276-1",
+        "R-10397255"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -26919,7 +26934,9 @@
         "cebd0a1e-2724-4beb-8ed0-d9c7934d1222",
         "004ae8f4-245b-4aad-8903-9daabdb58bb9",
         "5f17de2e-ab3f-4fc3-be23-a6edd916337b",
-        "8c460221-77ba-4120-b74e-3b1ad7c82818"
+        "8c460221-77ba-4120-b74e-3b1ad7c82818",
+        "9488b852-8569-4020-a655-2393c5404be0",
+        "eda0d516-94bd-4257-9679-aded0d709fba"
     ],
     "Anthropic": [
         "5101832008",
@@ -27753,7 +27770,8 @@
         "5310996008",
         "5309805008",
         "5317734008",
-        "5322723008"
+        "5322723008",
+        "5311463008"
     ],
     "Coinbase": [
         "7559052",
@@ -28720,7 +28738,8 @@
         "85947779-6b87-466a-98bc-30a640448c28",
         "b58ad3ae-5fdd-4a9f-9ef5-0c0f3ebce147",
         "3129e7bd-f717-47d3-9fdd-c4df026bbf20",
-        "edb12109-aa32-461a-b764-1850a2314e0d"
+        "edb12109-aa32-461a-b764-1850a2314e0d",
+        "70298bd7-a136-4549-8e14-b19b06c764ea"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -28846,7 +28865,8 @@
         "0dc976f0-a12d-4843-b78c-7d0e14409537",
         "95225497-fc9b-4c5d-8df0-df98df219ae5",
         "3a0611c3-7b8e-4962-bb48-dcd7ba04f352",
-        "dfe0f4e7-1c44-447a-82a7-aa2733b134ad"
+        "dfe0f4e7-1c44-447a-82a7-aa2733b134ad",
+        "7910a552-4ae7-441b-832d-9fa4ef48c0c8"
     ],
     "Affirm": [
         "7666190003",
@@ -29188,7 +29208,9 @@
         "7792932003",
         "7791742003",
         "7727322003",
-        "7727320003"
+        "7727320003",
+        "7799631003",
+        "7799633003"
     ],
     "Robinhood": [
         "7799902",
@@ -29509,7 +29531,8 @@
         "8048650",
         "8042449",
         "8052344",
-        "7977245"
+        "7977245",
+        "8055526"
     ],
     "Vercel": [
         "5624231004",
@@ -31147,7 +31170,8 @@
         "8046399",
         "8049521",
         "8054420",
-        "8050684"
+        "8050684",
+        "8053642"
     ],
     "Elastic": [
         "7505982",
@@ -36573,7 +36597,11 @@
         "R2021069",
         "R2021189",
         "R2020883",
-        "R2021156"
+        "R2021156",
+        "R2016002",
+        "R2021179",
+        "R2021035",
+        "R2013065"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -40434,7 +40462,13 @@
         "R0000445290",
         "R0000445127",
         "R0000444892",
-        "R0000445077"
+        "R0000445077",
+        "R0000445018-1",
+        "R0000445326-1",
+        "R0000443432",
+        "R0000445278",
+        "R0000445298-1",
+        "R0000445180-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -41678,7 +41712,8 @@
         "6111562004",
         "6113448004",
         "6113450004",
-        "6112208004"
+        "6112208004",
+        "6113629004"
     ],
     "Miro": [
         "030b1911-6146-4780-ad1d-f0b45d3ca791",
@@ -43614,7 +43649,9 @@
         "15844944-fb69-4b57-9531-e988650b20c6",
         "09846827-b931-4a9f-bd64-c3bb8860187b",
         "d5486403-c050-4920-b2e0-91b69b61ebb2",
-        "9e40d77f-b07c-437b-98e7-def9b0184d89"
+        "9e40d77f-b07c-437b-98e7-def9b0184d89",
+        "b8816fd2-d12d-41dd-8467-88748903267f",
+        "e72e00b7-7106-4974-8cb0-b6c150215b99"
     ],
     "Gong": [
         "4395203006",
@@ -44188,7 +44225,8 @@
         "8027260",
         "8046836",
         "7773951",
-        "8036273"
+        "8036273",
+        "7638551"
     ],
     "Twitch": [
         "8334413002",
@@ -45688,7 +45726,8 @@
         "Project-Manager--Cards---Payments--bridging-technology-and-business_REF083430W",
         "Sr-Risk-Management-Analyst_REF084985W",
         "Analyst--Corporate-Insurance_REF083472W",
-        "Vice-President--VCA-NA-Practice_REF082684W"
+        "Vice-President--VCA-NA-Practice_REF082684W",
+        "Manager--AI-Strategy---Partnerships_REF084924W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -46341,7 +46380,9 @@
         "AEC-Strategy-Manager_26WD99664-1",
         "Customer-Support-Associate_26WD97886-2",
         "Customer-Support-Associate_26WD99379-2",
-        "Territory-Technical-Lead--Technical-Sales_26WD99671"
+        "Territory-Technical-Lead--Technical-Sales_26WD99671",
+        "Media---Entertainment-Technical-Enablement-Specialist_26WD98872-1",
+        "Technical-Marketing-Manager---Construction-Forma_26WD99644-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -47396,7 +47437,13 @@
         "Disney-Vacation-Club-Associate_10155751",
         "Associate-Product-Designer_10153610",
         "Lead-Product-Software-Engineer---Data-Foundation-Platform_10153282",
-        "Launch-Readiness-Program-Manager_10155140"
+        "Launch-Readiness-Program-Manager_10155140",
+        "Sr-Electrical-Engineer--DLR-_10154995-1",
+        "Data-Engineer-II_10153088-1",
+        "Software-Engineer-II_10148069",
+        "Security-Officer---Dispatcher---DAILY_10155274",
+        "KGO---Weekend-Anchor-Reporter_10155414",
+        "Manager--Product---Engineering_10153844"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -49252,7 +49299,10 @@
         "R-65014",
         "R-65011",
         "R-64323",
-        "R-64026"
+        "R-64026",
+        "R-65017",
+        "R-65013",
+        "R-65012"
     ],
     "Chime": [
         "8391630002",
@@ -50917,7 +50967,9 @@
         "8047272",
         "8049221",
         "8055244",
-        "8055253"
+        "8055253",
+        "7792850",
+        "8055429"
     ],
     "Propel": [],
     "Canva": [],
