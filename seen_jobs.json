@@ -1292,7 +1292,8 @@
         "7370967",
         "7728618",
         "8036325",
-        "8052814"
+        "8052814",
+        "8031833"
     ],
     "Figma": [
         "5426468004",
@@ -2797,7 +2798,8 @@
         "4712408005",
         "4712108005",
         "4712147005",
-        "4712960005"
+        "4712960005",
+        "4713785005"
     ],
     "Rippling": [],
     "Slice": [
@@ -9251,7 +9253,8 @@
         "8050351",
         "8050388",
         "8050435",
-        "8040859"
+        "8040859",
+        "8054908"
     ],
     "DoorDash": [
         "7927511",
@@ -10670,7 +10673,8 @@
         "7796151003",
         "7701221003",
         "7799128003",
-        "7799247003"
+        "7799247003",
+        "7799606003"
     ],
     "Swiggy": [],
     "Zomato": [],
@@ -10826,7 +10830,8 @@
         "65435df1-9a07-416e-9b97-381045f9f970",
         "f2de8c5f-1636-428d-aaea-af1400142975",
         "3279b339-aad6-4522-80d4-2587693651cb",
-        "36aea181-8eac-438f-8331-2f86e95c88df"
+        "36aea181-8eac-438f-8331-2f86e95c88df",
+        "9e5eca47-258b-4b3e-83a6-938ae51792fc"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -14571,7 +14576,16 @@
         "R-282404-1",
         "R-282311",
         "R-281742",
-        "R-282402"
+        "R-282402",
+        "R-282412",
+        "R-281955",
+        "R-281480",
+        "R-281160-1",
+        "R-282341-1",
+        "R-282239",
+        "R-281265-1",
+        "R-281128",
+        "R-282407"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -18985,7 +18999,12 @@
         "R351157",
         "R350160",
         "R350468",
-        "R351401"
+        "R351401",
+        "R341959",
+        "R347576",
+        "R351390",
+        "R349680",
+        "R351412"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -19707,7 +19726,8 @@
         "Senior-Engineer--1_J-80097",
         "Assistant-Manager-Finance_J-83458",
         "Assistant-Manager---IC_J-83239",
-        "Employment-and-Litigation-Paralegal--Remote-_J-83164"
+        "Employment-and-Litigation-Paralegal--Remote-_J-83164",
+        "Senior-Travel-Counselor_J-83131-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -19857,7 +19877,8 @@
         "Vice-President--Network-Architect--Architect--Principal-Architect---APAC-Core-Technology-Infrastructure_26023368-2",
         "Assistant-Vice-President--Data---Regulatory-Reporting---GBAM-AML-Operation_26023183",
         "Vice-President--Compliance-and-Operational-Risk-Specialist--Japan_26023566",
-        "Associate---VP---Equity-Derivatives-Strategist--Global-Research--Hong-Kong_26023565-1"
+        "Associate---VP---Equity-Derivatives-Strategist--Global-Research--Hong-Kong_26023565-1",
+        "Associate--Investment-Banker--Coverage--M-A---Japan-IBK_26023159"
     ],
     "BlackRock": [
         "R263666",
@@ -20788,7 +20809,8 @@
         "R264447",
         "R264911",
         "R265116",
-        "R264766"
+        "R264766",
+        "R262422"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -21307,7 +21329,8 @@
         "Director-Data---Analytics-API-Experience----Data-Services_34591-1",
         "Paralegal_34596",
         "Tech-Ops-Engineer-II_34598-1",
-        "Network-Ops-Engineer_34045"
+        "Network-Ops-Engineer_34045",
+        "Senior-Cyber-Defense-Engineer---Data-Protection_34625-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -32951,7 +32974,8 @@
         "R-0108271-1",
         "R-0108429",
         "R-0108427",
-        "R-0108678"
+        "R-0108678",
+        "R-0108535"
     ],
     "CrowdStrike": [
         "R26911",
@@ -36389,7 +36413,12 @@
         "R2020029",
         "R2021022",
         "R2021186",
-        "R2020212"
+        "R2020212",
+        "R2020928",
+        "R1968596",
+        "R2020948",
+        "R2010936",
+        "R2021145"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -40216,7 +40245,24 @@
         "R0000444111",
         "R0000445020",
         "R0000445218",
-        "R0000445158"
+        "R0000445158",
+        "R0000444608",
+        "R0000445168-1",
+        "R0000445238",
+        "R0000444822",
+        "R0000445192",
+        "R0000445202",
+        "R0000445007",
+        "R0000445197",
+        "R0000445203",
+        "R0000445245",
+        "R0000445246",
+        "R0000445240",
+        "R0000445244-1",
+        "R0000445207",
+        "R0000445221",
+        "R0000445151",
+        "R0000445087"
     ],
     "Zoom": [
         "R18188-1",
@@ -44119,7 +44165,8 @@
         "31a75866-6674-4aa5-9af4-8202507d83a7",
         "f43a76bd-ec4e-4b4b-a331-93d5d85434a5",
         "3e370c0e-9c98-4cd4-9875-9e219b743b46",
-        "542861ab-f44c-4b51-b6c4-496db7821f1b"
+        "542861ab-f44c-4b51-b6c4-496db7821f1b",
+        "2f14b7a2-da7f-42e6-a9d5-72438e23f419"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -45430,7 +45477,9 @@
         "Director--EMF-Segment-Go-to-Market--Visa-Direct-North-America_REF079307W",
         "Senior-Director--Software-Engineering--GenAI-Cloud-_REF079644W",
         "Director--Business-Development--AI-Strategic-Partnerships_REF084922W",
-        "Senior-Director--Acceptance-Go-To-Market-Services--GTMS-_REF081780W"
+        "Senior-Director--Acceptance-Go-To-Market-Services--GTMS-_REF081780W",
+        "Senior-SW-Engineer--Frontend-UI---Backend-development-_REF084716W",
+        "Senior-Director--Machine-Learning_REF084881W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -46071,7 +46120,9 @@
         "R-3D-GEOMETRY---MULTIMODAL-AI--TORONTO--CANADA_26WD99904",
         "Senior-Cloud---AI-FinOps-Analyst_26WD99820-1",
         "Technical-Specialist--Construction_26WD99799",
-        "Principal-Software-Developer-Platform---Services-and-Emerging-Technologies_26WD99397-1"
+        "Principal-Software-Developer-Platform---Services-and-Emerging-Technologies_26WD99397-1",
+        "Account-Executive--Regional-Accounts_26WD99905-1",
+        "Senior-Manager---Account-Representative---Expansion_26WD99823-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -47758,7 +47809,8 @@
         "R000105136-1",
         "R000106841-1",
         "R000102658",
-        "R000106874"
+        "R000106874",
+        "R000106816"
     ],
     "Kyndryl": [
         "R-61530",
@@ -48947,7 +48999,9 @@
         "R-65075-1",
         "R-64237",
         "R-64727",
-        "R-65108"
+        "R-65108",
+        "R-64283-1",
+        "R-63606-1"
     ],
     "Chime": [
         "8391630002",
@@ -49979,7 +50033,8 @@
         "8050396",
         "8050798",
         "7990767",
-        "8004104"
+        "8004104",
+        "8054876"
     ],
     "Kaseya": [
         "6022140004",
@@ -50591,7 +50646,10 @@
         "7819344",
         "8048977",
         "8029612",
-        "8049262"
+        "8049262",
+        "8054969",
+        "8044874",
+        "7452007"
     ],
     "Propel": [],
     "Canva": [],
@@ -51542,7 +51600,11 @@
         "8050361",
         "8050353",
         "8050377",
-        "8045583"
+        "8045583",
+        "8054897",
+        "8054705",
+        "8050345",
+        "8054962"
     ],
     "Roku": [
         "8023364",
@@ -51804,7 +51866,8 @@
         "8053900",
         "8053865",
         "8053822",
-        "8054166"
+        "8054166",
+        "8038863"
     ],
     "Spotify": [],
     "Snap": [],
