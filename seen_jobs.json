@@ -3473,7 +3473,9 @@
         "8627262002",
         "8627283002",
         "8627225002",
-        "8627514002"
+        "8627514002",
+        "8627541002",
+        "8627546002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -14559,7 +14561,10 @@
         "R-280474",
         "R-282148",
         "R-281547",
-        "R-280832"
+        "R-280832",
+        "R-282404-1",
+        "R-282311",
+        "R-281742"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -18969,7 +18974,10 @@
         "R351111-1",
         "R351344",
         "R351267",
-        "R350905"
+        "R350905",
+        "R351157",
+        "R350160",
+        "R350468"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21445,7 +21453,8 @@
         "R31323",
         "R31831",
         "R32690",
-        "R32644-1"
+        "R32644-1",
+        "R-2026-_R32694-2"
     ],
     "Fiserv": [
         "R-10392824",
@@ -26784,7 +26793,9 @@
         "e2573748-58f4-4a25-9094-58bc617b57c3",
         "f8b84ae5-743b-41c9-8432-02dff9993d6b",
         "dfbe3bfa-5d57-44ed-a95e-a07b56663c9d",
-        "beb5c38e-1ff3-4b9b-87c7-b2965e77d7a5"
+        "beb5c38e-1ff3-4b9b-87c7-b2965e77d7a5",
+        "65780e7c-6cbd-4e01-a437-2142363d855d",
+        "cce31320-258d-4a2f-96f7-6782208d5db6"
     ],
     "Anthropic": [
         "5101832008",
@@ -36358,7 +36369,14 @@
         "R2020545",
         "R2020666",
         "R2020050",
-        "R2020788"
+        "R2020788",
+        "R2020997",
+        "R2020783",
+        "R2020652",
+        "R2011002",
+        "R2021076",
+        "R2020029",
+        "R2021022"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -36548,7 +36566,8 @@
         "Hardware-Engineer_2014521",
         "Frontend-Software-Engineer_2016848",
         "Engineering-Project-Manager_2018632-1",
-        "Lead-Site-Reliability-Engineer--Engineering-Enablement--Remote-_2018189"
+        "Lead-Site-Reliability-Engineer--Engineering-Enablement--Remote-_2018189",
+        "Principal-Engineering-Project---Program-Management_2018229"
     ],
     "Intel": [
         "R0283052",
@@ -42532,7 +42551,8 @@
         "8053973",
         "8053964",
         "8045255",
-        "8044210"
+        "8044210",
+        "8050029"
     ],
     "Samsara": [
         "5747183",
@@ -43568,7 +43588,9 @@
         "8618405002",
         "8621574002",
         "8621586002",
-        "8625579002"
+        "8625579002",
+        "8627568002",
+        "8627565002"
     ],
     "Pinterest": [
         "7808602",
@@ -45390,7 +45412,8 @@
         "Client-Consulting-Manager_REF084749W",
         "Director--EMF-Segment-Go-to-Market--Visa-Direct-North-America_REF079307W",
         "Senior-Director--Software-Engineering--GenAI-Cloud-_REF079644W",
-        "Director--Business-Development--AI-Strategic-Partnerships_REF084922W"
+        "Director--Business-Development--AI-Strategic-Partnerships_REF084922W",
+        "Senior-Director--Acceptance-Go-To-Market-Services--GTMS-_REF081780W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -46030,7 +46053,8 @@
         "Digital-Renewal-Sales-Rep-English-Speaker_26WD100206-1",
         "R-3D-GEOMETRY---MULTIMODAL-AI--TORONTO--CANADA_26WD99904",
         "Senior-Cloud---AI-FinOps-Analyst_26WD99820-1",
-        "Technical-Specialist--Construction_26WD99799"
+        "Technical-Specialist--Construction_26WD99799",
+        "Principal-Software-Developer-Platform---Services-and-Emerging-Technologies_26WD99397-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -47070,7 +47094,8 @@
         "Accounting-Analyst--Project-Hire-_10155055",
         "Product-Manager-II_10154797",
         "Expression-of-Interest---Sr-Software-Engineer--Pipeline-Infrastructure_10155686",
-        "Color-Design-Lead---Disney-Television-Animation_10155683"
+        "Color-Design-Lead---Disney-Television-Animation_10155683",
+        "Sr-Mgr-Sales-Analytics---Insights_10155452"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -51496,7 +51521,8 @@
         "8037275",
         "8052799",
         "8050361",
-        "8050353"
+        "8050353",
+        "8050377"
     ],
     "Roku": [
         "8023364",
