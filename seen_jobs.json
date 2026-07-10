@@ -2324,7 +2324,8 @@
         "3931e3f9-7dbf-48a6-9a19-eb2167337e3e",
         "19615c6a-f769-4af6-80aa-ff90bd92c34b",
         "6ef5e0cf-1908-4d52-9999-43a05b8022a6",
-        "c2b8ca53-98d0-4fb9-a9f4-4bcf27380949"
+        "c2b8ca53-98d0-4fb9-a9f4-4bcf27380949",
+        "2507e1f1-898c-4828-8433-9afda6dc4af3"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -4140,7 +4141,8 @@
         "5f4286f9-1a90-4cf2-bc78-2735a8e2a63b",
         "4b199410-db5e-4668-b6e8-1d79b7a96930",
         "60e0c08c-a1b4-4d12-b0b4-2d9ed94ff79c",
-        "b1ea493d-fc83-4684-920c-6dd8be6f1492"
+        "b1ea493d-fc83-4684-920c-6dd8be6f1492",
+        "6d7dfc1f-0031-4d07-98bd-7ac5e9ec6c97"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -4954,7 +4956,8 @@
         "8050665",
         "8053429",
         "8053756",
-        "8054361"
+        "8054361",
+        "8053132"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -9254,7 +9257,8 @@
         "8050388",
         "8050435",
         "8040859",
-        "8054908"
+        "8054908",
+        "8052971"
     ],
     "DoorDash": [
         "7927511",
@@ -10674,7 +10678,8 @@
         "7701221003",
         "7799128003",
         "7799247003",
-        "7799606003"
+        "7799606003",
+        "7799709003"
     ],
     "Swiggy": [],
     "Zomato": [],
@@ -14585,7 +14590,9 @@
         "R-282239",
         "R-281265-1",
         "R-281128",
-        "R-282407"
+        "R-282407",
+        "R-281170",
+        "R-281958"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19004,7 +19011,12 @@
         "R347576",
         "R351390",
         "R349680",
-        "R351412"
+        "R351412",
+        "R350519",
+        "R-2_JR342830",
+        "R351433-1",
+        "R346275-1",
+        "R351262"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -19727,7 +19739,11 @@
         "Assistant-Manager-Finance_J-83458",
         "Assistant-Manager---IC_J-83239",
         "Employment-and-Litigation-Paralegal--Remote-_J-83164",
-        "Senior-Travel-Counselor_J-83131-1"
+        "Senior-Travel-Counselor_J-83131-1",
+        "Senior-Operation-Manager---Spain---Italy_J-83135",
+        "Communications-and-Engagement-Intern_J-82522",
+        "Lead-Business-Analyst-IEX-Admin-_J-83405",
+        "WFM-Analyst_J-83270"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -19878,7 +19894,8 @@
         "Assistant-Vice-President--Data---Regulatory-Reporting---GBAM-AML-Operation_26023183",
         "Vice-President--Compliance-and-Operational-Risk-Specialist--Japan_26023566",
         "Associate---VP---Equity-Derivatives-Strategist--Global-Research--Hong-Kong_26023565-1",
-        "Associate--Investment-Banker--Coverage--M-A---Japan-IBK_26023159"
+        "Associate--Investment-Banker--Coverage--M-A---Japan-IBK_26023159",
+        "Up-to-Vice-President--Credit-Officer--Enterprise-Credit_26023167"
     ],
     "BlackRock": [
         "R263666",
@@ -20810,7 +20827,8 @@
         "R264911",
         "R265116",
         "R264766",
-        "R262422"
+        "R262422",
+        "R264677"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -21485,7 +21503,8 @@
         "R31831",
         "R32690",
         "R32644-1",
-        "R-2026-_R32694-2"
+        "R-2026-_R32694-2",
+        "R32218"
     ],
     "Fiserv": [
         "R-10392824",
@@ -23042,7 +23061,8 @@
         "Portfolio-Compliance-Analyst_868009",
         "VP--Institutional-Sales--SEA_868563",
         "Systems-Analyst_868405",
-        "Senior-Compliance-Officer_868476"
+        "Senior-Compliance-Officer_868476",
+        "Manager---Sr-Manager---New-Initiatives_868029"
     ],
     "Invesco": [
         "R-13647",
@@ -23450,7 +23470,9 @@
         "R-13403-1",
         "R-14534-1",
         "R-14444",
-        "R-14443"
+        "R-14443",
+        "R-14555-1",
+        "R-14546"
     ],
     "PayPal": [
         "R0135744-1",
@@ -31033,7 +31055,8 @@
         "8050644",
         "8042602",
         "8035726",
-        "7409175"
+        "7409175",
+        "8046399"
     ],
     "Elastic": [
         "7505982",
@@ -33695,7 +33718,9 @@
         "R29377",
         "R29283",
         "R29233",
-        "R28832"
+        "R28832",
+        "R29226",
+        "R29335"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -36418,7 +36443,27 @@
         "R1968596",
         "R2020948",
         "R2010936",
-        "R2021145"
+        "R2021145",
+        "R2020294",
+        "R2020853",
+        "R2020986",
+        "R2021138",
+        "R2020911",
+        "R2020870",
+        "R2020698",
+        "R2019911",
+        "R2020977",
+        "R2020985",
+        "R2020857",
+        "R2021112",
+        "R2020800",
+        "R2020866",
+        "R2021061",
+        "R2020447",
+        "R2020909",
+        "R2020205",
+        "R2020793",
+        "R2020876"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -40262,7 +40307,9 @@
         "R0000445207",
         "R0000445221",
         "R0000445151",
-        "R0000445087"
+        "R0000445087",
+        "R0000441508-1",
+        "R0000445236-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -41182,7 +41229,8 @@
         "R-107166-1",
         "R-107165",
         "R-107398",
-        "R-107834-1"
+        "R-107834-1",
+        "R-104770"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -41542,7 +41590,8 @@
         "25b08eef-eee9-4096-bf4b-ccb2faf584af",
         "c67740bd-a007-4624-b131-95d038f961f3",
         "6547fc7c-d688-4c16-ab28-5373eebc0911",
-        "0ec97e5e-b85f-479c-9d7b-00f5fa70007c"
+        "0ec97e5e-b85f-479c-9d7b-00f5fa70007c",
+        "a4cce875-778e-4dcf-bc10-59eb27b8f519"
     ],
     "Airtable": [
         "8403127002",
@@ -42394,7 +42443,8 @@
         "e4ee53e6-57bc-414d-ac89-be2135bb9d82",
         "19660fa4-7636-46e1-87fe-42e7bf866084",
         "bd90092e-4b1c-4574-af86-bd6cdb725687",
-        "8a7c107a-66de-4e78-a461-837c2668b305"
+        "8a7c107a-66de-4e78-a461-837c2668b305",
+        "1a1577da-3d2b-456d-a89e-f4c9840da16e"
     ],
     "Netskope": [
         "7885748",
@@ -42615,7 +42665,8 @@
         "8053964",
         "8045255",
         "8044210",
-        "8050029"
+        "8050029",
+        "8048841"
     ],
     "Samsara": [
         "5747183",
@@ -44357,7 +44408,8 @@
         "R35127",
         "R34848",
         "R34497",
-        "R33390"
+        "R33390",
+        "R35124"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -45479,7 +45531,9 @@
         "Director--Business-Development--AI-Strategic-Partnerships_REF084922W",
         "Senior-Director--Acceptance-Go-To-Market-Services--GTMS-_REF081780W",
         "Senior-SW-Engineer--Frontend-UI---Backend-development-_REF084716W",
-        "Senior-Director--Machine-Learning_REF084881W-1"
+        "Senior-Director--Machine-Learning_REF084881W-1",
+        "Account-Manager_REF084818W",
+        "Project-Manager--Cards---Payments--bridging-technology-and-business_REF083430W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -46122,7 +46176,12 @@
         "Technical-Specialist--Construction_26WD99799",
         "Principal-Software-Developer-Platform---Services-and-Emerging-Technologies_26WD99397-1",
         "Account-Executive--Regional-Accounts_26WD99905-1",
-        "Senior-Manager---Account-Representative---Expansion_26WD99823-1"
+        "Senior-Manager---Account-Representative---Expansion_26WD99823-1",
+        "Enterprise-Account-Executive_26WD99902-2",
+        "Principal-Software-Engineer_26WD99427-1",
+        "Senior-Software-Engineer_26WD99426-1",
+        "Software-Engineer_26WD99424-1",
+        "Fusion-Expansion-Sales-Specialist--_26WD99642-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -47164,7 +47223,8 @@
         "Expression-of-Interest---Sr-Software-Engineer--Pipeline-Infrastructure_10155686",
         "Color-Design-Lead---Disney-Television-Animation_10155683",
         "Sr-Mgr-Sales-Analytics---Insights_10155452",
-        "Product-Software-Engineer-I_10155293"
+        "Product-Software-Engineer-I_10155293",
+        "Senior-Finance-Analyst_10154038-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
