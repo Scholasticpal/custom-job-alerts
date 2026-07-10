@@ -1296,7 +1296,8 @@
         "8031833",
         "8053011",
         "8041894",
-        "8043083"
+        "8043083",
+        "8054695"
     ],
     "Figma": [
         "5426468004",
@@ -7305,7 +7306,8 @@
         "f7356433-e9cd-437b-9048-587b11333bb1",
         "ff2464db-7d56-401c-97b0-eda62adb05ea",
         "602ed76b-f637-42c9-a520-1583ea432fec",
-        "cbc59d7e-6f39-46b3-bb03-c72007ba2333"
+        "cbc59d7e-6f39-46b3-bb03-c72007ba2333",
+        "39143513-ad4c-41fb-86ed-b939a66e53d2"
     ],
     "Glean": [],
     "BrowserStack": [
@@ -9785,7 +9787,9 @@
         "8054613",
         "8053241",
         "7144702",
-        "8024630"
+        "8024630",
+        "8053265",
+        "6854025"
     ],
     "GitHub": [],
     "Twilio": [
@@ -14614,7 +14618,8 @@
         "R-277268",
         "R-282075",
         "R-282004",
-        "R-282251"
+        "R-282251",
+        "R-276872"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19057,7 +19062,10 @@
         "R351454",
         "R347379",
         "R346856",
-        "R351449"
+        "R351449",
+        "R351007",
+        "R349792",
+        "R349815"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21079,7 +21087,9 @@
         "Data-Analyst--Associate---Private-Equity-Technology_43933-2",
         "Global-Fund-Finance--Assistant-Vice-President---Blackstone-Multi-Asset_41815-2",
         "Valuations---Analytics--AVP_43962",
-        "Blackstone-Multi-Asset-Investing--BXMA----Product-Management--Associate--BSOF-_43913-1"
+        "Blackstone-Multi-Asset-Investing--BXMA----Product-Management--Associate--BSOF-_43913-1",
+        "Threat-Intelligence-Analyst--Associate---Security-Operations_43986-1",
+        "Associate---Software-Development-Engineer--Procurement-Technology_43982"
     ],
     "Capital Group": [
         "R6549",
@@ -22866,7 +22876,8 @@
         "R-10387737",
         "R-10396415",
         "R-10398250",
-        "R-10396756"
+        "R-10396756",
+        "R-10397276-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -23524,7 +23535,8 @@
         "R-14555-1",
         "R-14546",
         "R-14618",
-        "R-14014"
+        "R-14014",
+        "R-14567"
     ],
     "PayPal": [
         "R0135744-1",
@@ -23963,7 +23975,8 @@
         "R0137011",
         "R0137010",
         "R0137012",
-        "R0136965"
+        "R0136965",
+        "R0136943"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -26903,7 +26916,10 @@
         "cce31320-258d-4a2f-96f7-6782208d5db6",
         "d29f582e-0d91-43db-a135-71767dc6ef3f",
         "102dfe87-0365-4a6c-a44c-a4d66e63bb52",
-        "cebd0a1e-2724-4beb-8ed0-d9c7934d1222"
+        "cebd0a1e-2724-4beb-8ed0-d9c7934d1222",
+        "004ae8f4-245b-4aad-8903-9daabdb58bb9",
+        "5f17de2e-ab3f-4fc3-be23-a6edd916337b",
+        "8c460221-77ba-4120-b74e-3b1ad7c82818"
     ],
     "Anthropic": [
         "5101832008",
@@ -28828,7 +28844,9 @@
         "b93abf51-f064-4923-ada8-7cc78c8939e8",
         "f91d3207-247f-4e51-babb-24336904bb41",
         "0dc976f0-a12d-4843-b78c-7d0e14409537",
-        "95225497-fc9b-4c5d-8df0-df98df219ae5"
+        "95225497-fc9b-4c5d-8df0-df98df219ae5",
+        "3a0611c3-7b8e-4962-bb48-dcd7ba04f352",
+        "dfe0f4e7-1c44-447a-82a7-aa2733b134ad"
     ],
     "Affirm": [
         "7666190003",
@@ -30383,7 +30401,10 @@
         "7918613",
         "8053367",
         "8053142",
-        "8041640"
+        "8041640",
+        "8051927",
+        "8036085",
+        "8029939"
     ],
     "Datadog": [
         "7194969",
@@ -31124,7 +31145,9 @@
         "8035726",
         "7409175",
         "8046399",
-        "8049521"
+        "8049521",
+        "8054420",
+        "8050684"
     ],
     "Elastic": [
         "7505982",
@@ -33071,7 +33094,8 @@
         "R-0108678",
         "R-0108535",
         "R-0108611",
-        "R-0108633"
+        "R-0108633",
+        "R-0108457"
     ],
     "CrowdStrike": [
         "R26911",
@@ -36546,7 +36570,10 @@
         "R2020246",
         "R2020653",
         "R2020838",
-        "R2021069"
+        "R2021069",
+        "R2021189",
+        "R2020883",
+        "R2021156"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -40404,7 +40431,10 @@
         "R0000445036",
         "R0000445293",
         "R0000445292",
-        "R0000445290"
+        "R0000445290",
+        "R0000445127",
+        "R0000444892",
+        "R0000445077"
     ],
     "Zoom": [
         "R18188-1",
@@ -41332,7 +41362,8 @@
         "R-107805",
         "R-107870",
         "R-107419",
-        "R-107484-1"
+        "R-107484-1",
+        "R-107120-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -41646,7 +41677,8 @@
         "6110297004",
         "6111562004",
         "6113448004",
-        "6113450004"
+        "6113450004",
+        "6112208004"
     ],
     "Miro": [
         "030b1911-6146-4780-ad1d-f0b45d3ca791",
@@ -43274,7 +43306,8 @@
         "8053767",
         "8044609",
         "8041422",
-        "8007727"
+        "8007727",
+        "8044056"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -43817,7 +43850,9 @@
         "8627568002",
         "8627565002",
         "8628276002",
-        "8628275002"
+        "8628275002",
+        "8628670002",
+        "8628658002"
     ],
     "Pinterest": [
         "7808602",
@@ -45652,7 +45687,8 @@
         "Account-Manager_REF084818W",
         "Project-Manager--Cards---Payments--bridging-technology-and-business_REF083430W",
         "Sr-Risk-Management-Analyst_REF084985W",
-        "Analyst--Corporate-Insurance_REF083472W"
+        "Analyst--Corporate-Insurance_REF083472W",
+        "Vice-President--VCA-NA-Practice_REF082684W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -47356,7 +47392,11 @@
         "Programming-and-Scheduling-Intern-Balkans_10154258",
         "Marketing-Intern-Balkans_10154518",
         "Assistant-Associate-Company-Manager--ATPAM----Lion-King_10155449-1",
-        "Coordinateur-rice--de-projets---contrats-en-CDI--F-H-NB-_10155733"
+        "Coordinateur-rice--de-projets---contrats-en-CDI--F-H-NB-_10155733",
+        "Disney-Vacation-Club-Associate_10155751",
+        "Associate-Product-Designer_10153610",
+        "Lead-Product-Software-Engineer---Data-Foundation-Platform_10153282",
+        "Launch-Readiness-Program-Manager_10155140"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -48008,7 +48048,8 @@
         "R000105337",
         "R000106558",
         "R000107018",
-        "R000104978"
+        "R000104978",
+        "R000106867"
     ],
     "Kyndryl": [
         "R-61530",
@@ -49201,7 +49242,17 @@
         "R-64283-1",
         "R-63606-1",
         "R-63919",
-        "R-63279"
+        "R-63279",
+        "R-64963",
+        "R-64964",
+        "R-64965",
+        "R-59444",
+        "R-65016",
+        "R-65015",
+        "R-65014",
+        "R-65011",
+        "R-64323",
+        "R-64026"
     ],
     "Chime": [
         "8391630002",
@@ -49283,7 +49334,8 @@
         "8607195002",
         "8624510002",
         "8584950002",
-        "8587249002"
+        "8587249002",
+        "8616359002"
     ],
     "FalconX": [
         "4677684005",
@@ -49527,7 +49579,9 @@
         "8621880002",
         "8623703002",
         "8625237002",
-        "8628324002"
+        "8628324002",
+        "8545169002",
+        "8628406002"
     ],
     "Sezzle": [
         "7710056003",
@@ -50236,7 +50290,8 @@
         "7990767",
         "8004104",
         "8054876",
-        "8055100"
+        "8055100",
+        "8013137"
     ],
     "Kaseya": [
         "6022140004",
