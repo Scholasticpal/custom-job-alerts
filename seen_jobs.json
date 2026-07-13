@@ -4998,7 +4998,8 @@
         "8054361",
         "8053132",
         "8055229",
-        "8044801"
+        "8044801",
+        "8060054"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -9869,7 +9870,9 @@
         "6101593",
         "8060174",
         "8056171",
-        "8049483"
+        "8049483",
+        "7624598",
+        "7983391"
     ],
     "GitHub": [],
     "Twilio": [
@@ -10787,7 +10790,8 @@
         "7789299003",
         "7789065003",
         "7801699003",
-        "7798704003"
+        "7798704003",
+        "6561542003"
     ],
     "Swiggy": [],
     "Zomato": [],
@@ -10944,7 +10948,8 @@
         "f2de8c5f-1636-428d-aaea-af1400142975",
         "3279b339-aad6-4522-80d4-2587693651cb",
         "36aea181-8eac-438f-8331-2f86e95c88df",
-        "9e5eca47-258b-4b3e-83a6-938ae51792fc"
+        "9e5eca47-258b-4b3e-83a6-938ae51792fc",
+        "de6cf222-9dd6-4c8b-ab6f-45fa1b9b4c62"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -14742,7 +14747,11 @@
         "R-282728",
         "R-282491",
         "R-281207-1",
-        "R-282184"
+        "R-282184",
+        "R-280730",
+        "R-280588",
+        "R-281962",
+        "R-280487"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19227,7 +19236,8 @@
         "R350478",
         "R347687",
         "R345444",
-        "R351630-1"
+        "R351630-1",
+        "R350792-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21076,7 +21086,9 @@
         "R264976",
         "R265127",
         "R265104",
-        "R264949"
+        "R264949",
+        "R264973",
+        "R264635"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -23083,7 +23095,8 @@
         "R-10397255",
         "R-10396633",
         "R-10398177",
-        "R-10397771"
+        "R-10397771",
+        "R-10397973"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -23334,7 +23347,8 @@
         "Compliance-Officer_868442",
         "Investment-Analyst-1_868117",
         "Fund-Administration---Oversight-Lead-Analyst_868780",
-        "Senior-Analyst-Investment---Trade-Client-Services_868461"
+        "Senior-Analyst-Investment---Trade-Client-Services_868461",
+        "Investment-Risk-Manager---Fixed-Income_867915"
     ],
     "Invesco": [
         "R-13647",
@@ -27161,7 +27175,9 @@
         "c7f26e3d-7345-44a6-8e5a-3599679bfe9e",
         "97681dd5-65ad-4eb5-b692-e6d192871c38",
         "2a799206-4716-4f26-8aef-372ed6b8df8f",
-        "37d6637c-48aa-48c7-8665-ec5abfcf32d0"
+        "37d6637c-48aa-48c7-8665-ec5abfcf32d0",
+        "fff02c39-1185-427c-bf89-70d7eaa5e3db",
+        "d1c6cb87-a44d-4d04-92a8-dc40eccd090e"
     ],
     "Anthropic": [
         "5101832008",
@@ -28014,7 +28030,8 @@
         "5311465008",
         "5324841008",
         "5341664008",
-        "5342935008"
+        "5342935008",
+        "5131095008"
     ],
     "Coinbase": [
         "7559052",
@@ -30693,7 +30710,8 @@
         "8055422",
         "8051434",
         "8055126",
-        "8054272"
+        "8054272",
+        "8059729"
     ],
     "Datadog": [
         "7194969",
@@ -31908,7 +31926,8 @@
         "8055111",
         "8054612",
         "8055501",
-        "8053209"
+        "8053209",
+        "8022692"
     ],
     "Asana": [
         "7120496",
@@ -32516,7 +32535,8 @@
         "R170326",
         "R170371-1",
         "R170324",
-        "R166437"
+        "R166437",
+        "R170448"
     ],
     "Workday": [
         "R-0106509-1",
@@ -36923,7 +36943,10 @@
         "R2021080",
         "R2020995",
         "R2020922",
-        "R2020843"
+        "R2020843",
+        "R2020391",
+        "R2021235",
+        "R2015198"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -40859,7 +40882,21 @@
         "R0000445491",
         "R0000445228",
         "R0000443755",
-        "R0000445305"
+        "R0000445305",
+        "R0000444809",
+        "R0000445506",
+        "R0000445509",
+        "R0000445185",
+        "R0000445065",
+        "R0000445349",
+        "R0000445502-1",
+        "R0000445281",
+        "R0000445313",
+        "R0000445312",
+        "R0000445311",
+        "R0000445309",
+        "R0000445308",
+        "R0000445306"
     ],
     "Zoom": [
         "R18188-1",
@@ -41132,7 +41169,8 @@
         "R19356-1",
         "R19346-1",
         "R19365",
-        "R19355"
+        "R19355",
+        "R19368"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -41953,7 +41991,9 @@
         "Sr-Customer-Success-Manager_113247-JOB",
         "Senior-Customer-Success-Manager_113246-JOB",
         "SVP--Global-Alliances_113224-JOB",
-        "Director-of-Sales---Ohio-Valley_113249-JOB"
+        "Director-of-Sales---Ohio-Valley_113249-JOB",
+        "Delivery-Architect---Consultant_113250-JOB",
+        "Managed-Services-Consultant---Sr_113251-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -44791,7 +44831,8 @@
         "a28aa9b0-00eb-4795-a31e-1085f892c3a2",
         "dd44652f-b7a6-47f5-9794-2ca10f77717f",
         "763f56e4-c87d-4257-8b72-cc827ef44abc",
-        "797ac2bb-fd37-4943-8513-55d2d4ef9259"
+        "797ac2bb-fd37-4943-8513-55d2d4ef9259",
+        "5a85a8a8-c0b2-480a-aaaf-ac90667b90ab"
     ],
     "Smallcase": [],
     "KreditBee": [],
@@ -46176,7 +46217,12 @@
         "Client-Care-Analyst_REF084621W",
         "Vice-President--Global-People-Solutions_REF084978W",
         "Vice-President--People-Solutions_REF085017W",
-        "Risk-Manager_REF084933W"
+        "Risk-Manager_REF084933W",
+        "Senior-Financial-Analyst_REF085020W",
+        "Senior-Manager--Platform-Experience-Product-Management_REF084913W",
+        "Senior-Manager--Backend-Product-Management_REF084912W-1",
+        "Manager--Orchestration---Integration-Product-Management_REF084915W",
+        "Director--Cross-Border-Acceptance-and-Strategy_REF085013W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -47918,7 +47964,11 @@
         "Publicist--Studios-UK_10155392-1",
         "Software-Engineer_10150588-1",
         "Creative-Operations-Supervisor---Disney-_10150192-1",
-        "Sr-Executive-Assistant---Marketing--Disney-Entertainment---Studios_10155163"
+        "Sr-Executive-Assistant---Marketing--Disney-Entertainment---Studios_10155163",
+        "Product-Operations-Manager-I_10154625",
+        "Director--Disneyland-Resort-Intelligence_10155276",
+        "Associate-Project-Manager--Facility-Asset-Management-_10154554",
+        "Lead-Machine-Learning-Engineer_10154653"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -48582,7 +48632,10 @@
         "R000106427",
         "R000106997",
         "R000105236",
-        "R000104034-1"
+        "R000104034-1",
+        "R000107045-1",
+        "R000107037-2",
+        "R000106996"
     ],
     "Kyndryl": [
         "R-61530",
@@ -49834,7 +49887,11 @@
         "R-64175-1",
         "R-63861",
         "R-65274",
-        "R-65141-1"
+        "R-65141-1",
+        "R-64960",
+        "R-63941",
+        "R-63972",
+        "R-64295"
     ],
     "Chime": [
         "8391630002",
@@ -51527,7 +51584,8 @@
         "8048975",
         "8060011",
         "8053352",
-        "7815240"
+        "7815240",
+        "8048856"
     ],
     "Propel": [],
     "Canva": [],
@@ -51732,7 +51790,8 @@
         "8620855002",
         "8620949002",
         "8626589002",
-        "8627439002"
+        "8627439002",
+        "8631837002"
     ],
     "Coupang": [
         "7915234",
