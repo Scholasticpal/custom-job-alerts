@@ -2366,7 +2366,8 @@
         "9d95fe98-aa50-40ca-9700-7bbcd97cf3b1",
         "bb9a635a-b40d-4ba5-80ee-524746cf6aa6",
         "04739560-ba62-4c17-9c48-12444f0b40e7",
-        "d6e1b954-e04e-4e77-8535-819519694fe2"
+        "d6e1b954-e04e-4e77-8535-819519694fe2",
+        "7d5e4cf1-0532-4f5b-a389-3d50ca857089"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -4201,7 +4202,9 @@
         "80765e94-9cc8-493e-99c4-23a5df5e24d1",
         "0f28d79e-590e-4b77-bac5-e0fa3d299582",
         "4a9f8209-5c3f-4867-aa17-ed9c7bb21eaf",
-        "51f3a9e9-1534-4bd6-8aff-52f134e18ae6"
+        "51f3a9e9-1534-4bd6-8aff-52f134e18ae6",
+        "50b7f0c1-42ed-454b-be18-5a76388b625b",
+        "e3f616a7-6e5d-4989-a9b5-3da729d9ba03"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8426,7 +8429,8 @@
         "8055320",
         "8027935",
         "8027934",
-        "8056660"
+        "8056660",
+        "8053437"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -9375,7 +9379,8 @@
         "8063982",
         "8064016",
         "8064051",
-        "8064064"
+        "8064064",
+        "8059327"
     ],
     "DoorDash": [
         "7927511",
@@ -10402,7 +10407,8 @@
         "8051059",
         "8055481",
         "8051477",
-        "8048659"
+        "8048659",
+        "8064093"
     ],
     "Dropbox": [
         "7646405",
@@ -14811,7 +14817,10 @@
         "R-281871",
         "R-282231",
         "R-2_R-278781",
-        "R-281696-1"
+        "R-281696-1",
+        "R-281334",
+        "R-281541-1",
+        "R-282219"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19313,7 +19322,11 @@
         "R331778",
         "R351744",
         "R350930",
-        "R350127"
+        "R350127",
+        "R349901-1",
+        "R351233",
+        "R351728",
+        "R351606"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20067,7 +20080,8 @@
         "Client-General-Manager_J-83148",
         "Consultor-de-Viajes-con-experiencia-en-SABRE_J-79925",
         "Products-Support-Analyst_J-82004-1",
-        "Senior-Travel-Consultant---Afterhours_J-83606"
+        "Senior-Travel-Consultant---Afterhours_J-83606",
+        "Corporate-Travel-Counselor-T4M-Pharma_J-83612"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -23449,7 +23463,9 @@
         "Senior-Analyst-Investment---Trade-Client-Services_868461",
         "Investment-Risk-Manager---Fixed-Income_867915",
         "Intern_868705",
-        "Research-Analyst-Senior-Research-Analyst_868392"
+        "Research-Analyst-Senior-Research-Analyst_868392",
+        "Lead-Portfolio-Admin-Ops-Analyst_868430",
+        "Specialist---Global-Consultant-Services-and-Reporting_868695-1"
     ],
     "Invesco": [
         "R-13647",
@@ -30847,7 +30863,8 @@
         "8054993",
         "8050418",
         "8025549",
-        "8055471"
+        "8055471",
+        "8043909"
     ],
     "Datadog": [
         "7194969",
@@ -33575,7 +33592,8 @@
         "R-0108776",
         "R-0108747",
         "R-0108635",
-        "R-0102969"
+        "R-0102969",
+        "R-0108407"
     ],
     "CrowdStrike": [
         "R26911",
@@ -34314,7 +34332,8 @@
         "R29412",
         "R29332",
         "R29259-1",
-        "R27051-1"
+        "R27051-1",
+        "R29168"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -41121,7 +41140,10 @@
         "R0000445453",
         "R0000445563-1",
         "R0000445573",
-        "R0000445580"
+        "R0000445580",
+        "R0000442056-1",
+        "R0000445609",
+        "R0000385381"
     ],
     "Zoom": [
         "R18188-1",
@@ -46486,7 +46508,8 @@
         "Application-Analyst_REF084781W",
         "Sr-Director_REF083458W-1",
         "Visa-Direct---Senior-Global-Ecosystem-Optimization-Consultant_REF084648W",
-        "Financial-Analyst-Contract-Management-Exp-is-mandate-_REF084930W"
+        "Financial-Analyst-Contract-Management-Exp-is-mandate-_REF084930W",
+        "Associate--Cybersecurity-Analyst_REF085037W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -48245,7 +48268,8 @@
         "Senior-Analyst--Performance-Marketing_10154775",
         "Project-Manager--National-Geographic-Brand---Franchise-Team_10153899",
         "HR-Assistant_10155545",
-        "Manager--Sourcing_10154275"
+        "Manager--Sourcing_10154275",
+        "Managing-Producer_10154158"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -48919,7 +48943,8 @@
         "R000106719-2",
         "R000106956",
         "R000107058-1",
-        "R000106972-1"
+        "R000106972-1",
+        "R000103745"
     ],
     "Kyndryl": [
         "R-61530",
@@ -50188,7 +50213,9 @@
         "R-64783",
         "R-64679",
         "R-61131",
-        "R-53798"
+        "R-53798",
+        "R-65076",
+        "R-65073"
     ],
     "Chime": [
         "8391630002",
