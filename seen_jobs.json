@@ -10437,7 +10437,9 @@
         "8048659",
         "8064093",
         "8052885",
-        "7434770"
+        "7434770",
+        "8056292",
+        "8065038"
     ],
     "Dropbox": [
         "7646405",
@@ -14878,7 +14880,9 @@
         "R-281487",
         "R-282448",
         "R-282285-1",
-        "R-278608"
+        "R-278608",
+        "R-282066",
+        "R-275789-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19408,7 +19412,8 @@
         "R350581",
         "R345652",
         "R351844",
-        "R351583"
+        "R351583",
+        "R346837"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23309,7 +23314,8 @@
         "R-10398603",
         "R-10397753",
         "R-10398404",
-        "R-10364703"
+        "R-10364703",
+        "R-10398538"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -27413,7 +27419,8 @@
         "cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
         "1c2a411c-eb30-406b-bbd0-454d516ad797",
         "f630d886-76d4-4492-a06b-7c6a34d05b8f",
-        "ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1"
+        "ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
+        "37ee9010-079f-4932-9fc9-45cd9372b6dd"
     ],
     "Anthropic": [
         "5101832008",
@@ -28275,7 +28282,9 @@
         "5319554008",
         "5324758008",
         "5278232008",
-        "5310731008"
+        "5310731008",
+        "5343697008",
+        "5345466008"
     ],
     "Coinbase": [
         "7559052",
@@ -29403,7 +29412,8 @@
         "84a5ca91-f601-49f0-a906-21a22e9dc50f",
         "b7e921dd-5dba-445c-ab05-614f782ffaba",
         "8b5aa324-bbb5-472b-8536-76b705c80829",
-        "3f299587-7bed-4e59-9eb1-2d5d1df01821"
+        "3f299587-7bed-4e59-9eb1-2d5d1df01821",
+        "e6747906-9668-4238-861c-dadff9109ac3"
     ],
     "Affirm": [
         "7666190003",
@@ -32225,7 +32235,8 @@
         "8059793",
         "8035004",
         "8055539",
-        "8059843"
+        "8059843",
+        "8054405"
     ],
     "Asana": [
         "7120496",
@@ -32537,7 +32548,8 @@
         "8031867",
         "7403579",
         "7983998",
-        "7839280"
+        "7839280",
+        "8048277"
     ],
     "Coursera": [
         "5839408004",
@@ -33739,7 +33751,9 @@
         "R-0108407",
         "R-0108783",
         "R-0108050",
-        "R-0108790"
+        "R-0108790",
+        "R-0108561",
+        "R-0106826-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -37329,7 +37343,15 @@
         "R2019190",
         "R2021096",
         "R2021269",
-        "R2020225"
+        "R2020225",
+        "R2021041",
+        "R2020831",
+        "R2020801",
+        "R2020905",
+        "R2021298",
+        "R2020340",
+        "R2021367",
+        "R2021178"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -41353,7 +41375,11 @@
         "R0000445667",
         "R0000445676",
         "R0000444872",
-        "R0000445684-1"
+        "R0000445684-1",
+        "R0000445695",
+        "R0000445699",
+        "R0000445700",
+        "R0000445677"
     ],
     "Zoom": [
         "R18188-1",
@@ -42533,7 +42559,9 @@
         "44f6de1c-0fdc-4d46-aa3e-7d57b8be38b2",
         "620bcab3-787c-4ffe-bd37-5d45e209925e",
         "b566fbf8-2894-4314-9533-8fa920e80c19",
-        "f0f277ac-b96c-478a-81ca-7bd80612533f"
+        "f0f277ac-b96c-478a-81ca-7bd80612533f",
+        "577bdf6d-f34b-4b9e-8d6b-b96776675c94",
+        "cb04ae3a-3a47-4e21-928f-c2456b7b214e"
     ],
     "Hasura": [],
     "Netlify": [
@@ -43124,7 +43152,9 @@
         "b56bcf8b-9e1b-44be-949d-1349997a94c5",
         "cbb71f8e-bed7-495d-bf16-3fae2f7aedf7",
         "2afb4605-136a-4f5b-a808-8577f15361df",
-        "8a2eaded-53a6-46aa-a7d0-d13f0fc45046"
+        "8a2eaded-53a6-46aa-a7d0-d13f0fc45046",
+        "854ce13b-5a63-4d19-99e7-756a6e8bb84b",
+        "1c011283-34f3-4461-bb65-455d65a3ec84"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -44304,7 +44334,8 @@
         "8038153",
         "8060689",
         "7624120",
-        "7960373"
+        "7960373",
+        "8039057"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -46768,7 +46799,8 @@
         "Account-Executive--Manager-_REF084795W",
         "Sr-AI-Transformations-and-Data-Engineer----Sr-Consultant-level---PERC_REF085010W",
         "Risk-Governance-Analyst_REF080655W",
-        "Director--Product-Management--Visa-Destinations-_REF084782W"
+        "Director--Product-Management--Visa-Destinations-_REF084782W",
+        "Backend-Senior-Software-Engineer_REF081845W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -48555,7 +48587,10 @@
         "Lead-Enterprise-Applications-Analyst_10153609-1",
         "Senior-Systems-Reliability-Engineer_10154991",
         "Technical-Account-Manager---Media-Technology-Solutions-Skywalker-Sound_10146224",
-        "Senior-Product-Manager-II_10150613"
+        "Senior-Product-Manager-II_10150613",
+        "Senior-Editorial-Manager--Features--National-Geographic-_10154585",
+        "Facilities-Coordinator-Sr_10153974-1",
+        "Product-Design---Development-Associate_10155200"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -49238,7 +49273,8 @@
         "R000106785",
         "R000106999",
         "R000107026-1",
-        "R000106970"
+        "R000106970",
+        "R000107043-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -52491,7 +52527,8 @@
         "8631601002",
         "8621017002",
         "8631603002",
-        "8630916002"
+        "8630916002",
+        "8628962002"
     ],
     "Coupang": [
         "7915234",
