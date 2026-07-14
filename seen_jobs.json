@@ -1315,7 +1315,9 @@
         "8062708",
         "8055659",
         "8049910",
-        "8053419"
+        "8053419",
+        "8063857",
+        "8045340"
     ],
     "Figma": [
         "5426468004",
@@ -2362,7 +2364,9 @@
         "524f85d9-9dba-4f0b-b69a-8c407bc2077c",
         "495d1958-dd2b-43b9-b08d-57f123af7fa7",
         "9d95fe98-aa50-40ca-9700-7bbcd97cf3b1",
-        "bb9a635a-b40d-4ba5-80ee-524746cf6aa6"
+        "bb9a635a-b40d-4ba5-80ee-524746cf6aa6",
+        "04739560-ba62-4c17-9c48-12444f0b40e7",
+        "d6e1b954-e04e-4e77-8535-819519694fe2"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -6867,7 +6871,9 @@
         "8628960002",
         "8604470002",
         "8607059002",
-        "8603684002"
+        "8603684002",
+        "8622319002",
+        "8628080002"
     ],
     "Rubrik": [
         "7310036",
@@ -9366,7 +9372,10 @@
         "8059331",
         "8054914",
         "8063904",
-        "8063982"
+        "8063982",
+        "8064016",
+        "8064051",
+        "8064064"
     ],
     "DoorDash": [
         "7927511",
@@ -14792,7 +14801,17 @@
         "R-281695-1",
         "R-282489",
         "R-282172-1",
-        "R-262302"
+        "R-262302",
+        "R-279327",
+        "R-282068",
+        "R-280745",
+        "R-1_R-278780",
+        "R-282186-1",
+        "R-282206",
+        "R-281871",
+        "R-282231",
+        "R-2_R-278781",
+        "R-281696-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19290,7 +19309,11 @@
         "R347028",
         "R351734",
         "R351724-1",
-        "R351729"
+        "R351729",
+        "R331778",
+        "R351744",
+        "R350930",
+        "R350127"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21149,7 +21172,11 @@
         "R265120",
         "R265262",
         "R265056-1",
-        "R261349"
+        "R261349",
+        "R264515",
+        "R265133-1",
+        "R265241",
+        "R265245-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -21687,7 +21714,8 @@
         "R-1_34418",
         "Product-Marketing-Manager--APAC-Commodities_34614-1",
         "Experienced-Technical-Accountant_34628-1",
-        "Security-Engineer-III---VMT---India_34609-1"
+        "Security-Engineer-III---VMT---India_34609-1",
+        "Quant-Risk-Intern_34590"
     ],
     "FactSet": [
         "R32107-1",
@@ -21843,7 +21871,8 @@
         "R32690",
         "R32644-1",
         "R-2026-_R32694-2",
-        "R32218"
+        "R32218",
+        "R-2026_R32764"
     ],
     "Fiserv": [
         "R-10392824",
@@ -23164,7 +23193,9 @@
         "R-10397771",
         "R-10397973",
         "R-10396422",
-        "R-10398396"
+        "R-10398396",
+        "R-10397528-1",
+        "R-10397527"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -24280,7 +24311,9 @@
         "R0132421-1",
         "R0137044",
         "R0136975-1",
-        "R0136976-1"
+        "R0136976-1",
+        "R0137053-1",
+        "R0137020"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -29099,7 +29132,8 @@
         "3129e7bd-f717-47d3-9fdd-c4df026bbf20",
         "edb12109-aa32-461a-b764-1850a2314e0d",
         "70298bd7-a136-4549-8e14-b19b06c764ea",
-        "b98e7f3c-b589-46f4-84a2-3b666f4740f2"
+        "b98e7f3c-b589-46f4-84a2-3b666f4740f2",
+        "8dbb6734-ac1f-4c2f-8efd-3495c1590e47"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -30810,7 +30844,10 @@
         "8054272",
         "8059729",
         "8054991",
-        "8054993"
+        "8054993",
+        "8050418",
+        "8025549",
+        "8055471"
     ],
     "Datadog": [
         "7194969",
@@ -31557,7 +31594,8 @@
         "8053642",
         "8055109",
         "8060821",
-        "8060788"
+        "8060788",
+        "8051616"
     ],
     "Elastic": [
         "7505982",
@@ -32028,7 +32066,9 @@
         "8054612",
         "8055501",
         "8053209",
-        "8022692"
+        "8022692",
+        "8021466",
+        "8059520"
     ],
     "Asana": [
         "7120496",
@@ -32644,7 +32684,9 @@
         "R170221-1",
         "R170133-1",
         "R170225-1",
-        "R170441-1"
+        "R170441-1",
+        "R170403",
+        "R170480"
     ],
     "Workday": [
         "R-0106509-1",
@@ -33531,7 +33573,9 @@
         "R-0108508",
         "R-0107337",
         "R-0108776",
-        "R-0108747"
+        "R-0108747",
+        "R-0108635",
+        "R-0102969"
     ],
     "CrowdStrike": [
         "R26911",
@@ -37094,7 +37138,8 @@
         "R2021274",
         "R2021044",
         "R2020920",
-        "R1998545"
+        "R1998545",
+        "R2020074-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -42021,7 +42066,8 @@
         "R-107578-2",
         "R-107895-1",
         "R-107743",
-        "R-107760"
+        "R-107760",
+        "R-107830"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -43257,7 +43303,9 @@
         "69b18306-5975-49bd-8282-a5a243faf839",
         "6dff1e48-9022-45ba-ab32-dd9f0dfc1bb7",
         "a958774d-1ba6-481e-b512-f54ec0ef27c4",
-        "ee2530a6-4273-4463-88d0-26e5518abecd"
+        "ee2530a6-4273-4463-88d0-26e5518abecd",
+        "c9530b3b-1716-4395-9731-d8f306b9f39d",
+        "df144c4f-88ff-4b60-94aa-b6824b234e43"
     ],
     "Netskope": [
         "7885748",
@@ -43486,7 +43534,8 @@
         "8035154",
         "8060675",
         "8060854",
-        "8063869"
+        "8063869",
+        "7393562"
     ],
     "Samsara": [
         "5747183",
@@ -44430,7 +44479,8 @@
         "4668069006",
         "4668067006",
         "4270796006",
-        "4689357006"
+        "4689357006",
+        "4680253006"
     ],
     "Duolingo": [
         "8455252002",
@@ -46433,7 +46483,10 @@
         "Senior-Systems-Application-Support---GO_REF084988W",
         "Associate-Tech-Support-Analyst_REF084981W",
         "Assoc-Application-Analyst_REF084984W",
-        "Application-Analyst_REF084781W"
+        "Application-Analyst_REF084781W",
+        "Sr-Director_REF083458W-1",
+        "Visa-Direct---Senior-Global-Ecosystem-Optimization-Consultant_REF084648W",
+        "Financial-Analyst-Contract-Management-Exp-is-mandate-_REF084930W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -47099,7 +47152,8 @@
         "Senior-Principal-Applications-Engineer_26WD99826-1",
         "Principal-Account-Technical-Lead_26WD99494-1",
         "Senior-Program-Manager--GTM-PMO_26WD99789-2",
-        "Sales-Specialist--Enterprise-Emerging-Solutions_26WD99891"
+        "Sales-Specialist--Enterprise-Emerging-Solutions_26WD99891",
+        "Software-Engineer_26WD99674-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -48189,7 +48243,9 @@
         "Senior-Specialist--Corporate-Social-Responsibility_10155209-2",
         "Performance-Marketing-Manager_10155300",
         "Senior-Analyst--Performance-Marketing_10154775",
-        "Project-Manager--National-Geographic-Brand---Franchise-Team_10153899"
+        "Project-Manager--National-Geographic-Brand---Franchise-Team_10153899",
+        "HR-Assistant_10155545",
+        "Manager--Sourcing_10154275"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -48862,7 +48918,8 @@
         "R000106879-1",
         "R000106719-2",
         "R000106956",
-        "R000107058-1"
+        "R000107058-1",
+        "R000106972-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -50130,7 +50187,8 @@
         "R-63885-1",
         "R-64783",
         "R-64679",
-        "R-61131"
+        "R-61131",
+        "R-53798"
     ],
     "Chime": [
         "8391630002",
@@ -52814,7 +52872,9 @@
         "8048165",
         "8045750",
         "8063954",
-        "8054791"
+        "8054791",
+        "8054816",
+        "8059231"
     ],
     "Roku": [
         "8023364",
