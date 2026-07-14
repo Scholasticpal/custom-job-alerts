@@ -2367,7 +2367,8 @@
         "bb9a635a-b40d-4ba5-80ee-524746cf6aa6",
         "04739560-ba62-4c17-9c48-12444f0b40e7",
         "d6e1b954-e04e-4e77-8535-819519694fe2",
-        "7d5e4cf1-0532-4f5b-a389-3d50ca857089"
+        "7d5e4cf1-0532-4f5b-a389-3d50ca857089",
+        "99e1f8ef-d6e8-473b-ac0b-7052b921de7f"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -4204,7 +4205,8 @@
         "4a9f8209-5c3f-4867-aa17-ed9c7bb21eaf",
         "51f3a9e9-1534-4bd6-8aff-52f134e18ae6",
         "50b7f0c1-42ed-454b-be18-5a76388b625b",
-        "e3f616a7-6e5d-4989-a9b5-3da729d9ba03"
+        "e3f616a7-6e5d-4989-a9b5-3da729d9ba03",
+        "84dc34f4-55c5-446a-a868-0a5ca9dce915"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8430,7 +8432,9 @@
         "8027935",
         "8027934",
         "8056660",
-        "8053437"
+        "8053437",
+        "7058588",
+        "8059775"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -8511,7 +8515,9 @@
         "8044380",
         "8048630",
         "8049770",
-        "7980064"
+        "7980064",
+        "8064191",
+        "8010087"
     ],
     "Agoda": [
         "7533345",
@@ -9919,7 +9925,9 @@
         "7797773",
         "8060832",
         "7263610",
-        "8062841"
+        "8062841",
+        "8060470",
+        "7984131"
     ],
     "GitHub": [],
     "Twilio": [
@@ -10694,7 +10702,8 @@
         "8031442",
         "8017513",
         "8017512",
-        "8038750"
+        "8038750",
+        "8053628"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -14820,7 +14829,15 @@
         "R-281696-1",
         "R-281334",
         "R-281541-1",
-        "R-282219"
+        "R-282219",
+        "R-282403-1",
+        "R-282003",
+        "R-281931",
+        "R-282367",
+        "R-281204",
+        "R-281167",
+        "R-282706",
+        "R-282331"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19326,7 +19343,10 @@
         "R349901-1",
         "R351233",
         "R351728",
-        "R351606"
+        "R351606",
+        "R351012",
+        "R351010",
+        "R344273-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20081,7 +20101,8 @@
         "Consultor-de-Viajes-con-experiencia-en-SABRE_J-79925",
         "Products-Support-Analyst_J-82004-1",
         "Senior-Travel-Consultant---Afterhours_J-83606",
-        "Corporate-Travel-Counselor-T4M-Pharma_J-83612"
+        "Corporate-Travel-Counselor-T4M-Pharma_J-83612",
+        "Software-Engineer_J-83421"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -21190,7 +21211,10 @@
         "R264515",
         "R265133-1",
         "R265241",
-        "R265245-1"
+        "R265245-1",
+        "R265115",
+        "R265238",
+        "R265057"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -21397,7 +21421,8 @@
         "Associate---Software-Development-Engineer--Procurement-Technology_43982",
         "XMLNAME-2026-Portfolio-Management-Program_43989",
         "Blackstone-Multi-Asset-Investing--BXMA----Total-Portfolio-Management--Real-Estate-Investment-Associate_42672-1",
-        "Real-Estate---Core--BREIT-Strategy---Management---Senior-Associate_43940"
+        "Real-Estate---Core--BREIT-Strategy---Management---Senior-Associate_43940",
+        "Blackstone-Real-Estate-Debt-Strategies--BREDS--Valuations-and-Investment-Modeling--AVP_41831"
     ],
     "Capital Group": [
         "R6549",
@@ -23209,7 +23234,8 @@
         "R-10396422",
         "R-10398396",
         "R-10397528-1",
-        "R-10397527"
+        "R-10397527",
+        "R-10393124-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -24329,7 +24355,8 @@
         "R0136975-1",
         "R0136976-1",
         "R0137053-1",
-        "R0137020"
+        "R0137020",
+        "R0136825"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -27301,7 +27328,8 @@
         "fff02c39-1185-427c-bf89-70d7eaa5e3db",
         "d1c6cb87-a44d-4d04-92a8-dc40eccd090e",
         "676d359b-0ef6-40a5-81d5-d4f2eb198eab",
-        "5e2089f8-c856-49fb-a379-aa151fb2bba6"
+        "5e2089f8-c856-49fb-a379-aa151fb2bba6",
+        "c6094d81-4be2-40c7-8ae1-62f257fd1d49"
     ],
     "Anthropic": [
         "5101832008",
@@ -30864,7 +30892,9 @@
         "8050418",
         "8025549",
         "8055471",
-        "8043909"
+        "8043909",
+        "8041641",
+        "8056751"
     ],
     "Datadog": [
         "7194969",
@@ -32085,7 +32115,10 @@
         "8053209",
         "8022692",
         "8021466",
-        "8059520"
+        "8059520",
+        "8059793",
+        "8035004",
+        "8055539"
     ],
     "Asana": [
         "7120496",
@@ -37158,7 +37191,13 @@
         "R2021044",
         "R2020920",
         "R1998545",
-        "R2020074-1"
+        "R2020074-1",
+        "R2021243",
+        "R2020814",
+        "R2021226",
+        "R2021000",
+        "R2021142",
+        "R2007569"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -41143,7 +41182,24 @@
         "R0000445580",
         "R0000442056-1",
         "R0000445609",
-        "R0000385381"
+        "R0000385381",
+        "R0000445624",
+        "R0000445608-1",
+        "R0000445623",
+        "R0000445622",
+        "R0000441898",
+        "R0000444877",
+        "R0000445094",
+        "R0000445619",
+        "R0000445617",
+        "R0000445616",
+        "R0000445452",
+        "R0000445615",
+        "R0000445044",
+        "R0000380549-1",
+        "R0000445613",
+        "R0000445612",
+        "R0000445610"
     ],
     "Zoom": [
         "R18188-1",
@@ -42456,7 +42512,8 @@
         "0ec97e5e-b85f-479c-9d7b-00f5fa70007c",
         "a4cce875-778e-4dcf-bc10-59eb27b8f519",
         "9044dc63-bc57-4432-a775-7305e39469b7",
-        "2185d4ce-4f16-4644-926d-0218f9b48994"
+        "2185d4ce-4f16-4644-926d-0218f9b48994",
+        "91793c50-0a5e-485d-b5e3-802173487455"
     ],
     "Airtable": [
         "8403127002",
@@ -42903,7 +42960,8 @@
         "178915c8-8b0c-4735-a428-cd57264280b3",
         "b56bcf8b-9e1b-44be-949d-1349997a94c5",
         "cbb71f8e-bed7-495d-bf16-3fae2f7aedf7",
-        "2afb4605-136a-4f5b-a808-8577f15361df"
+        "2afb4605-136a-4f5b-a808-8577f15361df",
+        "8a2eaded-53a6-46aa-a7d0-d13f0fc45046"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -43557,7 +43615,8 @@
         "8060675",
         "8060854",
         "8063869",
-        "7393562"
+        "7393562",
+        "8049640"
     ],
     "Samsara": [
         "5747183",
@@ -44063,7 +44122,8 @@
         "8041428",
         "8041424",
         "8038153",
-        "8060689"
+        "8060689",
+        "7624120"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -46509,7 +46569,9 @@
         "Sr-Director_REF083458W-1",
         "Visa-Direct---Senior-Global-Ecosystem-Optimization-Consultant_REF084648W",
         "Financial-Analyst-Contract-Management-Exp-is-mandate-_REF084930W",
-        "Associate--Cybersecurity-Analyst_REF085037W"
+        "Associate--Cybersecurity-Analyst_REF085037W",
+        "Consultant--Client-Success_REF084976W",
+        "Data-Science-Manager_REF083377W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -47176,7 +47238,9 @@
         "Principal-Account-Technical-Lead_26WD99494-1",
         "Senior-Program-Manager--GTM-PMO_26WD99789-2",
         "Sales-Specialist--Enterprise-Emerging-Solutions_26WD99891",
-        "Software-Engineer_26WD99674-1"
+        "Software-Engineer_26WD99674-1",
+        "Senior-Product-Manager--AI-ML-Platform_26WD99140-1",
+        "Senior-Technical-Support-Specialist_26WD99920-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -48269,7 +48333,9 @@
         "Project-Manager--National-Geographic-Brand---Franchise-Team_10153899",
         "HR-Assistant_10155545",
         "Manager--Sourcing_10154275",
-        "Managing-Producer_10154158"
+        "Managing-Producer_10154158",
+        "Research-Manager--EMEA--Fixed-Term-Contract---12-Months-_10152514-1",
+        "PR--Publicity---Communication-Intern_10142633"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -50215,7 +50281,20 @@
         "R-61131",
         "R-53798",
         "R-65076",
-        "R-65073"
+        "R-65073",
+        "R-64471",
+        "R-64506",
+        "R-64507",
+        "R-64504",
+        "R-64524",
+        "R-64473",
+        "R-64453",
+        "R-64502",
+        "R-63208",
+        "R-64497",
+        "R-64484",
+        "R-64554-1",
+        "R-64559-1"
     ],
     "Chime": [
         "8391630002",
@@ -50546,7 +50625,8 @@
         "8625237002",
         "8628324002",
         "8545169002",
-        "8628406002"
+        "8628406002",
+        "8540987002"
     ],
     "Sezzle": [
         "7710056003",
@@ -51411,7 +51491,8 @@
         "6017222004",
         "6114389004",
         "6109598004",
-        "6016157004"
+        "6016157004",
+        "6111544004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -51920,7 +52001,8 @@
         "8060765",
         "8049007",
         "8060752",
-        "8060766"
+        "8060766",
+        "7996612"
     ],
     "Propel": [],
     "Canva": [],
@@ -52130,7 +52212,8 @@
         "8631915002",
         "8631918002",
         "8631601002",
-        "8621017002"
+        "8621017002",
+        "8631603002"
     ],
     "Coupang": [
         "7915234",
