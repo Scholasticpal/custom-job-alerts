@@ -1320,7 +1320,8 @@
         "8045340",
         "8064526",
         "8060391",
-        "8064069"
+        "8064069",
+        "8063657"
     ],
     "Figma": [
         "5426468004",
@@ -6882,7 +6883,8 @@
         "8603684002",
         "8622319002",
         "8628080002",
-        "8583083002"
+        "8583083002",
+        "8627553002"
     ],
     "Rubrik": [
         "7310036",
@@ -8439,7 +8441,8 @@
         "8053437",
         "7058588",
         "8059775",
-        "8055118"
+        "8055118",
+        "8049608"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -14847,7 +14850,11 @@
         "R-277665",
         "R-282388",
         "R-280590",
-        "R-279834-2"
+        "R-279834-2",
+        "R-282422-1",
+        "R-282409",
+        "R-282169",
+        "R-282617"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19360,7 +19367,14 @@
         "R351153",
         "R351773",
         "R351122",
-        "R344430"
+        "R344430",
+        "R351085",
+        "R349724",
+        "R351102",
+        "R350872",
+        "R350125",
+        "R351612",
+        "R351545"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21437,7 +21451,8 @@
         "XMLNAME-2026-Portfolio-Management-Program_43989",
         "Blackstone-Multi-Asset-Investing--BXMA----Total-Portfolio-Management--Real-Estate-Investment-Associate_42672-1",
         "Real-Estate---Core--BREIT-Strategy---Management---Senior-Associate_43940",
-        "Blackstone-Real-Estate-Debt-Strategies--BREDS--Valuations-and-Investment-Modeling--AVP_41831"
+        "Blackstone-Real-Estate-Debt-Strategies--BREDS--Valuations-and-Investment-Modeling--AVP_41831",
+        "Global-Treasury--Treasury-Capital-Markets---Fund-Finance----Vice-President_41823"
     ],
     "Capital Group": [
         "R6549",
@@ -23251,7 +23266,9 @@
         "R-10397528-1",
         "R-10397527",
         "R-10393124-1",
-        "R-10393444"
+        "R-10393444",
+        "R-10397773",
+        "R-10398176"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -27348,7 +27365,8 @@
         "d1c6cb87-a44d-4d04-92a8-dc40eccd090e",
         "676d359b-0ef6-40a5-81d5-d4f2eb198eab",
         "5e2089f8-c856-49fb-a379-aa151fb2bba6",
-        "c6094d81-4be2-40c7-8ae1-62f257fd1d49"
+        "c6094d81-4be2-40c7-8ae1-62f257fd1d49",
+        "5834b531-bb89-4471-9253-8c30bc0b26a8"
     ],
     "Anthropic": [
         "5101832008",
@@ -28207,7 +28225,8 @@
         "5319626008",
         "5319624008",
         "5319592008",
-        "5319554008"
+        "5319554008",
+        "5324758008"
     ],
     "Coinbase": [
         "7559052",
@@ -30918,7 +30937,8 @@
         "8043909",
         "8041641",
         "8056751",
-        "8008794"
+        "8008794",
+        "8054250"
     ],
     "Datadog": [
         "7194969",
@@ -37426,7 +37446,9 @@
         "Hardware-Engineer---FPGA_2018837",
         "Principal-Tetragon-Software-Engineer_2012996",
         "Technical-Product-Manager--Cisco-IQ-Link_2018304-1",
-        "Software-Engineering-Manager---Cilium---Isovalent_2019715"
+        "Software-Engineering-Manager---Cilium---Isovalent_2019715",
+        "Senior-Site-Reliability-Engineer_2018630-1",
+        "Leader--Software-Engineering_2017906-1"
     ],
     "Intel": [
         "R0283052",
@@ -41234,7 +41256,14 @@
         "R0000445610",
         "R0000445462",
         "R0000445498",
-        "R0000445632"
+        "R0000445632",
+        "R0000445434",
+        "R0000443599-1",
+        "R0000445329",
+        "R0000445644",
+        "R0000445645",
+        "R0000445532",
+        "R0000445636"
     ],
     "Zoom": [
         "R18188-1",
@@ -43422,7 +43451,10 @@
         "a958774d-1ba6-481e-b512-f54ec0ef27c4",
         "ee2530a6-4273-4463-88d0-26e5518abecd",
         "c9530b3b-1716-4395-9731-d8f306b9f39d",
-        "df144c4f-88ff-4b60-94aa-b6824b234e43"
+        "df144c4f-88ff-4b60-94aa-b6824b234e43",
+        "0c04c51b-f1e3-4fab-bb54-8e4dde977597",
+        "7b032382-f5e5-4eef-ac57-ff2bcf96c76a",
+        "c9585587-c9a6-4610-9ecb-a0b47269c862"
     ],
     "Netskope": [
         "7885748",
@@ -44161,7 +44193,8 @@
         "8041424",
         "8038153",
         "8060689",
-        "7624120"
+        "7624120",
+        "7960373"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -45063,7 +45096,9 @@
         "8029917",
         "7678040",
         "8030911",
-        "8016650"
+        "8016650",
+        "7494991",
+        "8046828"
     ],
     "Twitch": [
         "8334413002",
@@ -46613,7 +46648,10 @@
         "Business-Development-Manager--Marketing-Services-_REF081603W",
         "Director--Large-and-Middle-Market-Segment-Solutions_REF084901W",
         "Senior-Manager---Sales-Enablement---Training_REF085027W",
-        "Staff-SW-Engineer_REF083328W"
+        "Staff-SW-Engineer_REF083328W",
+        "B2B-Marketing-Executive--EU-Visa-Direct_REF084812W-1",
+        "Sr-Manager--Executive-Commnications---Digital-Sales_REF081921W",
+        "Account-Executive--Manager-_REF084795W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -47284,7 +47322,8 @@
         "Senior-Product-Manager--AI-ML-Platform_26WD99140-1",
         "Senior-Technical-Support-Specialist_26WD99920-1",
         "Client-Services-Specialist---Italian-and-Spanish-Speaker--French-would-be-considered-_26WD99951",
-        "Fusion-Sales-Representative--Turkish-_26WD99974-1"
+        "Fusion-Sales-Representative--Turkish-_26WD99974-1",
+        "Senior-Technical-Adoption-Specialist---Construction-with-German_26WD99970-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -48384,7 +48423,8 @@
         "CRM-Coordinator_10155271",
         "Product-Design---Development-Associate--fixed-term-contract-_10152826",
         "Safety-Professional_10155715",
-        "Assoc-Manager--Streaming-Solutions_10154943"
+        "Assoc-Manager--Streaming-Solutions_10154943",
+        "Schedule-Optimization-Analyst_10151076-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -49061,7 +49101,10 @@
         "R000106972-1",
         "R000103745",
         "R000106878",
-        "R000107044-1"
+        "R000107044-1",
+        "R000106804",
+        "R000106465-1",
+        "R000106785"
     ],
     "Kyndryl": [
         "R-61530",
@@ -50348,7 +50391,13 @@
         "R-64559-1",
         "R-64901-1",
         "R-64938-1",
-        "R-64900"
+        "R-64900",
+        "R-64550",
+        "R-64549",
+        "R-64548",
+        "R-64545",
+        "R-64532",
+        "R-64531-1"
     ],
     "Chime": [
         "8391630002",
@@ -51398,7 +51447,8 @@
         "8055360",
         "8052761",
         "8064490",
-        "8064188"
+        "8064188",
+        "8053199"
     ],
     "Kaseya": [
         "6022140004",
@@ -52059,7 +52109,8 @@
         "8060752",
         "8060766",
         "7996612",
-        "8054004"
+        "8054004",
+        "7979309"
     ],
     "Propel": [],
     "Canva": [],
