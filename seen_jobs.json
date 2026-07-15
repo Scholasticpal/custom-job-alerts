@@ -2387,7 +2387,8 @@
         "7d5e4cf1-0532-4f5b-a389-3d50ca857089",
         "99e1f8ef-d6e8-473b-ac0b-7052b921de7f",
         "8e87f225-59e4-4ab1-befd-0f574c6b97c5",
-        "3afd3b1d-5082-4af5-a6c7-9b294921ba41"
+        "3afd3b1d-5082-4af5-a6c7-9b294921ba41",
+        "6beb0972-d958-4418-80fb-a7afe5a05fd0"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -5059,7 +5060,8 @@
         "8060054",
         "8055459",
         "8052721",
-        "8065789"
+        "8065789",
+        "8066760"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -19480,7 +19482,8 @@
         "R335927-1",
         "R349944",
         "R350005",
-        "R351927"
+        "R351927",
+        "R351752"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21357,7 +21360,8 @@
         "R265115",
         "R265238",
         "R265057",
-        "R265314-1"
+        "R265314-1",
+        "R265248"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -22059,7 +22063,8 @@
         "R32644-1",
         "R-2026-_R32694-2",
         "R32218",
-        "R-2026_R32764"
+        "R-2026_R32764",
+        "R32624"
     ],
     "Fiserv": [
         "R-10392824",
@@ -32345,7 +32350,8 @@
         "8066508",
         "7995008",
         "8066646",
-        "8053907"
+        "8053907",
+        "8064782"
     ],
     "Asana": [
         "7120496",
@@ -34614,7 +34620,9 @@
         "R29379",
         "R29383",
         "R29013",
-        "R29337-1"
+        "R29337-1",
+        "R29307",
+        "R29269"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -37491,7 +37499,11 @@
         "R2021137-1",
         "R2021276",
         "R2021223",
-        "R2021234"
+        "R2021234",
+        "R2021275",
+        "R2019965",
+        "R2020912",
+        "R2020485"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -41548,7 +41560,8 @@
         "R0000445744",
         "R0000445743-1",
         "R0000445741",
-        "R0000445740"
+        "R0000445740",
+        "R0000445614"
     ],
     "Zoom": [
         "R18188-1",
@@ -42502,7 +42515,8 @@
         "R-107802",
         "R-102335",
         "R-107734",
-        "R-107259"
+        "R-107259",
+        "R-107886"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -42660,7 +42674,8 @@
         "Director-of-Sales---Ohio-Valley_113249-JOB",
         "Delivery-Architect---Consultant_113250-JOB",
         "Managed-Services-Consultant---Sr_113251-JOB",
-        "Senior-Technical-Program-Manager_113264-JOB"
+        "Senior-Technical-Program-Manager_113264-JOB",
+        "Managed-Services-Consultant---CCaaS_113276-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -43766,7 +43781,8 @@
         "7b032382-f5e5-4eef-ac57-ff2bcf96c76a",
         "c9585587-c9a6-4610-9ecb-a0b47269c862",
         "281024bc-f267-483c-8118-5b69c11ed3d5",
-        "aecd632f-40bd-4ec7-ae8c-cb1dd7dcef57"
+        "aecd632f-40bd-4ec7-ae8c-cb1dd7dcef57",
+        "ed54986a-534e-4907-8052-662f78a4aadd"
     ],
     "Netskope": [
         "7885748",
@@ -45610,7 +45626,8 @@
         "f43a76bd-ec4e-4b4b-a331-93d5d85434a5",
         "3e370c0e-9c98-4cd4-9875-9e219b743b46",
         "542861ab-f44c-4b51-b6c4-496db7821f1b",
-        "2f14b7a2-da7f-42e6-a9d5-72438e23f419"
+        "2f14b7a2-da7f-42e6-a9d5-72438e23f419",
+        "bf5bc2f4-52da-4ae5-b497-e57a7f08acc9"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -46998,7 +47015,11 @@
         "Sr-Credit---Settlement-Risk-Manager_REF085077W",
         "Senior-Manager--Corporate-Communications--UAE_REF084994W",
         "Cybersecurity-Engineer---Cloud_REF080470W",
-        "Cybersecurity-Engineer_REF082260W"
+        "Cybersecurity-Engineer_REF082260W",
+        "Director---Global-Clients_REF085041W",
+        "Marketing-Services---Senior-Manager_REF085001W",
+        "Sr-Software-Engineer--Python--Agentic-AI--JavaScript---3-5-years--experience-_REF084824W-1",
+        "Consulting-Analyst_REF084720W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -48798,7 +48819,8 @@
         "Manager--HR-Business-Partner_10147194-1",
         "Brand-Marketing-Intern_10155183",
         "Marketing-Intern--Disney-Consumer-Products_10149892",
-        "Virtual-Production-Stage-Technician--All-Levels-----ILM-London_10155984"
+        "Virtual-Production-Stage-Technician--All-Levels-----ILM-London_10155984",
+        "Production-Supervisor_10154180"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -49487,7 +49509,12 @@
         "R000107006",
         "R000106811",
         "R000106882",
-        "R000104383"
+        "R000104383",
+        "R000104768",
+        "R000107030",
+        "R000106827",
+        "R000106986",
+        "R000106957"
     ],
     "Kyndryl": [
         "R-61530",
@@ -50806,7 +50833,8 @@
         "R-64780-1",
         "R-64858-1",
         "R-50375",
-        "R-65230"
+        "R-65230",
+        "R-64807"
     ],
     "Chime": [
         "8391630002",
