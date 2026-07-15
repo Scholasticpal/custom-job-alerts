@@ -2388,7 +2388,8 @@
         "99e1f8ef-d6e8-473b-ac0b-7052b921de7f",
         "8e87f225-59e4-4ab1-befd-0f574c6b97c5",
         "3afd3b1d-5082-4af5-a6c7-9b294921ba41",
-        "6beb0972-d958-4418-80fb-a7afe5a05fd0"
+        "6beb0972-d958-4418-80fb-a7afe5a05fd0",
+        "8f7f8aa5-6f56-4dfa-aff9-c6176048095e"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -2873,7 +2874,8 @@
         "4711522005",
         "4713441005",
         "4714873005",
-        "4714900005"
+        "4714900005",
+        "4712114005"
     ],
     "Rippling": [],
     "Slice": [
@@ -4239,7 +4241,8 @@
         "be334b30-f256-4556-8eb3-3b9837a20307",
         "efb90c4a-4278-435c-bee3-b0c637c36d46",
         "3080b709-7213-4a9e-9e04-ea50ff49ff04",
-        "767ad5b8-77ac-4563-af9f-e990cb0814a4"
+        "767ad5b8-77ac-4563-af9f-e990cb0814a4",
+        "dbf7f79d-64f8-415f-b0d3-178a39a0b7e0"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -10913,7 +10916,8 @@
         "7801699003",
         "7798704003",
         "6561542003",
-        "7801476003"
+        "7801476003",
+        "7762097003"
     ],
     "Swiggy": [],
     "Zomato": [],
@@ -14937,7 +14941,10 @@
         "R-282214",
         "R-281358",
         "R-282159",
-        "R-284517"
+        "R-284517",
+        "R-284488",
+        "R-282484",
+        "R-282473"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19483,7 +19490,9 @@
         "R349944",
         "R350005",
         "R351927",
-        "R351752"
+        "R351752",
+        "R344824",
+        "R350501"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20243,7 +20252,8 @@
         "Strategic-Sourcing-Category-Manager_J-83469",
         "Distribution-Manager-EMEA---APAC_J-82279-1",
         "Travel-Consultant_J-83335",
-        "Reiseverkehrs--bzw-Tourismuskaufmann--frau--m-w-d-_J-82577"
+        "Reiseverkehrs--bzw-Tourismuskaufmann--frau--m-w-d-_J-82577",
+        "Travel-Consultant---After-Hours---German-and-English-Speaking-with-Amadeus_J-83627"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -21570,7 +21580,8 @@
         "Blackstone-Multi-Asset-Investing--BXMA----Total-Portfolio-Management--Real-Estate-Investment-Associate_42672-1",
         "Real-Estate---Core--BREIT-Strategy---Management---Senior-Associate_43940",
         "Blackstone-Real-Estate-Debt-Strategies--BREDS--Valuations-and-Investment-Modeling--AVP_41831",
-        "Global-Treasury--Treasury-Capital-Markets---Fund-Finance----Vice-President_41823"
+        "Global-Treasury--Treasury-Capital-Markets---Fund-Finance----Vice-President_41823",
+        "Communications-Analyst---Blackstone-Technology-and-Innovations_44031-1"
     ],
     "Capital Group": [
         "R6549",
@@ -22064,7 +22075,8 @@
         "R-2026-_R32694-2",
         "R32218",
         "R-2026_R32764",
-        "R32624"
+        "R32624",
+        "R32783"
     ],
     "Fiserv": [
         "R-10392824",
@@ -23403,7 +23415,8 @@
         "R-10398109",
         "R-10398108",
         "R-10398660",
-        "R-1-SR-ASSOCIATE-II_R-10398657"
+        "R-1-SR-ASSOCIATE-II_R-10398657",
+        "R-10380464"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -28655,7 +28668,8 @@
         "8060884",
         "8060662",
         "8064692",
-        "8017697"
+        "8017697",
+        "8067033"
     ],
     "Discord": [
         "8289766002",
@@ -31111,7 +31125,9 @@
         "8045688",
         "8066560",
         "8066544",
-        "7996557"
+        "7996557",
+        "8060943",
+        "8012553"
     ],
     "Datadog": [
         "7194969",
@@ -31863,7 +31879,8 @@
         "8064898",
         "8065192",
         "8065187",
-        "8030837"
+        "8030837",
+        "8041598"
     ],
     "Elastic": [
         "7505982",
@@ -32351,7 +32368,10 @@
         "7995008",
         "8066646",
         "8053907",
-        "8064782"
+        "8064782",
+        "8055881",
+        "8067100",
+        "8067101"
     ],
     "Asana": [
         "7120496",
@@ -32709,7 +32729,8 @@
         "6098540004",
         "6105819004",
         "5751617004",
-        "5820454004"
+        "5820454004",
+        "6109402004"
     ],
     "Udemy": [
         "5424719004",
@@ -34622,7 +34643,8 @@
         "R29013",
         "R29337-1",
         "R29307",
-        "R29269"
+        "R29269",
+        "R29361"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -37503,7 +37525,9 @@
         "R2021275",
         "R2019965",
         "R2020912",
-        "R2020485"
+        "R2020485",
+        "R2021299",
+        "R2015277"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -41561,7 +41585,21 @@
         "R0000445743-1",
         "R0000445741",
         "R0000445740",
-        "R0000445614"
+        "R0000445614",
+        "R0000445718",
+        "R0000445662",
+        "R0000431050",
+        "R0000445777",
+        "R0000445627",
+        "R-2026-INTERN-POSTING_R0000442141",
+        "R0000444252-1",
+        "R0000445672",
+        "R0000445552",
+        "R0000445691",
+        "R0000445633",
+        "R0000445634",
+        "R0000445767",
+        "R0000445723"
     ],
     "Zoom": [
         "R18188-1",
@@ -42516,7 +42554,8 @@
         "R-102335",
         "R-107734",
         "R-107259",
-        "R-107886"
+        "R-107886",
+        "R-107956"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -42749,7 +42788,8 @@
         "b566fbf8-2894-4314-9533-8fa920e80c19",
         "f0f277ac-b96c-478a-81ca-7bd80612533f",
         "577bdf6d-f34b-4b9e-8d6b-b96776675c94",
-        "cb04ae3a-3a47-4e21-928f-c2456b7b214e"
+        "cb04ae3a-3a47-4e21-928f-c2456b7b214e",
+        "c3099780-60d5-4b8a-ab08-c701d114cf62"
     ],
     "Hasura": [],
     "Netlify": [
@@ -43782,7 +43822,9 @@
         "c9585587-c9a6-4610-9ecb-a0b47269c862",
         "281024bc-f267-483c-8118-5b69c11ed3d5",
         "aecd632f-40bd-4ec7-ae8c-cb1dd7dcef57",
-        "ed54986a-534e-4907-8052-662f78a4aadd"
+        "ed54986a-534e-4907-8052-662f78a4aadd",
+        "3ee03796-5737-4b76-9677-f120aa0015d3",
+        "d684e19a-6ef9-4fb9-a05e-9736c4027faf"
     ],
     "Netskope": [
         "7885748",
@@ -44852,7 +44894,8 @@
         "cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
         "45241c61-11af-45b5-86a0-a5302c028d6d",
         "9675791e-59c3-4677-ac62-0c80c38da2eb",
-        "ac978161-6f46-4f6b-ad9e-a258e642751c"
+        "ac978161-6f46-4f6b-ad9e-a258e642751c",
+        "76195098-5e66-4b62-96d0-dcaabb6ea009"
     ],
     "Gong": [
         "4395203006",
@@ -44978,7 +45021,9 @@
         "4270796006",
         "4689357006",
         "4680253006",
-        "4695940006"
+        "4695940006",
+        "4672182006",
+        "4697183006"
     ],
     "Duolingo": [
         "8455252002",
@@ -45627,7 +45672,8 @@
         "3e370c0e-9c98-4cd4-9875-9e219b743b46",
         "542861ab-f44c-4b51-b6c4-496db7821f1b",
         "2f14b7a2-da7f-42e6-a9d5-72438e23f419",
-        "bf5bc2f4-52da-4ae5-b497-e57a7f08acc9"
+        "bf5bc2f4-52da-4ae5-b497-e57a7f08acc9",
+        "b77cd6e4-ffd6-44f6-9b7e-18bf34f75b48"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -45827,7 +45873,8 @@
         "R35131-1",
         "R34220",
         "R35142",
-        "R35005"
+        "R35005",
+        "R35183"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -47019,7 +47066,11 @@
         "Director---Global-Clients_REF085041W",
         "Marketing-Services---Senior-Manager_REF085001W",
         "Sr-Software-Engineer--Python--Agentic-AI--JavaScript---3-5-years--experience-_REF084824W-1",
-        "Consulting-Analyst_REF084720W"
+        "Consulting-Analyst_REF084720W",
+        "Sr-Associate-Counsel---Egypt_REF084923W",
+        "SW-Engineer--Depositary_REF085021W-1",
+        "Senior-Director_REF081360W-1",
+        "Sr-Director--Cross-Border-Travel-Partnerships-Lead_REF085035W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -48820,7 +48871,11 @@
         "Brand-Marketing-Intern_10155183",
         "Marketing-Intern--Disney-Consumer-Products_10149892",
         "Virtual-Production-Stage-Technician--All-Levels-----ILM-London_10155984",
-        "Production-Supervisor_10154180"
+        "Production-Supervisor_10154180",
+        "CDD---Responsable-Licence-Textile-F-H_10155188",
+        "Area-Manager---Costume-Production_10146784",
+        "Technical-Inspector-m-f-d--4-years-fixed-term-_10136727",
+        "Senior-Data-Engineer_10149269"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -50834,7 +50889,9 @@
         "R-64858-1",
         "R-50375",
         "R-65230",
-        "R-64807"
+        "R-64807",
+        "R-54923",
+        "R-65067-1"
     ],
     "Chime": [
         "8391630002",
@@ -51904,7 +51961,10 @@
         "8064221",
         "7902410",
         "7781674",
-        "8007704"
+        "8007704",
+        "7589229",
+        "7589284",
+        "7589283"
     ],
     "Kaseya": [
         "6022140004",
@@ -53849,7 +53909,9 @@
         "8002599",
         "8065335",
         "7259126",
-        "8066743"
+        "8066743",
+        "8066943",
+        "8066945"
     ],
     "Spotify": [],
     "Snap": [],
