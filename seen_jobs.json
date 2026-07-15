@@ -1323,7 +1323,11 @@
         "8064069",
         "8063657",
         "8064900",
-        "8065643"
+        "8065643",
+        "7957302",
+        "8066264",
+        "7966029",
+        "7962437"
     ],
     "Figma": [
         "5426468004",
@@ -2606,7 +2610,9 @@
         "7795782003",
         "7792487003",
         "7799538003",
-        "7799494003"
+        "7799494003",
+        "7802280003",
+        "7805493003"
     ],
     "Razorpay": [
         "4665089005",
@@ -4216,7 +4222,11 @@
         "51f3a9e9-1534-4bd6-8aff-52f134e18ae6",
         "50b7f0c1-42ed-454b-be18-5a76388b625b",
         "e3f616a7-6e5d-4989-a9b5-3da729d9ba03",
-        "84dc34f4-55c5-446a-a868-0a5ca9dce915"
+        "84dc34f4-55c5-446a-a868-0a5ca9dce915",
+        "99ceecc9-34d9-499f-9a08-3209197b3dd2",
+        "ef3ed601-d604-4960-bb58-4928ec6b12c4",
+        "6ec7250c-89e7-4b6c-9619-f163db5d47c7",
+        "7f1de931-39c0-49cb-a57b-18a04827fe3b"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -6893,7 +6903,8 @@
         "8583083002",
         "8627553002",
         "8629997002",
-        "8627549002"
+        "8627549002",
+        "8627551002"
     ],
     "Rubrik": [
         "7310036",
@@ -7347,7 +7358,8 @@
         "8048565",
         "8050714",
         "8052077",
-        "7993338"
+        "7993338",
+        "8050691"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -14897,7 +14909,9 @@
         "R-275789-1",
         "R-282392",
         "R-284444",
-        "R-282250-1"
+        "R-282250-1",
+        "R-282626-1",
+        "R-280644"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19432,7 +19446,9 @@
         "R350287",
         "R351529",
         "R351776",
-        "R350938"
+        "R350938",
+        "R351914",
+        "R351167"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23341,7 +23357,9 @@
         "R-10364703",
         "R-10398538",
         "R-10398539",
-        "R-10392708"
+        "R-10392708",
+        "R-10398109",
+        "R-10398108"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -24468,7 +24486,8 @@
         "R0137020",
         "R0136825",
         "R0136847",
-        "R0136827-1"
+        "R0136827-1",
+        "R0137045"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -30126,7 +30145,8 @@
         "8051290",
         "8052609",
         "8054481",
-        "7834459"
+        "7834459",
+        "8054116"
     ],
     "Vercel": [
         "5624231004",
@@ -33794,7 +33814,8 @@
         "R-0108796",
         "R-0108310-1",
         "R-0107001",
-        "R-0108800"
+        "R-0108800",
+        "R-0108490"
     ],
     "CrowdStrike": [
         "R26911",
@@ -37402,7 +37423,9 @@
         "R2020880",
         "R2021354-1",
         "R2020271",
-        "R2020081"
+        "R2020081",
+        "R2005390",
+        "R2005388"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -41435,7 +41458,10 @@
         "R0000445706",
         "R0000445702",
         "R0000445698-1",
-        "R0000445708"
+        "R0000445708",
+        "R0000445714",
+        "R0000445574",
+        "R0000445423"
     ],
     "Zoom": [
         "R18188-1",
@@ -45687,7 +45713,8 @@
         "R35148",
         "R35131-1",
         "R34220",
-        "R35142"
+        "R35142",
+        "R35005"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -46867,7 +46894,9 @@
         "Risk-Governance-Analyst_REF080655W",
         "Director--Product-Management--Visa-Destinations-_REF084782W",
         "Backend-Senior-Software-Engineer_REF081845W",
-        "Director--Digital---Emerging-Technology-Consulting--Visa-Consulting---Analytics_REF085047W"
+        "Director--Digital---Emerging-Technology-Consulting--Visa-Consulting---Analytics_REF085047W",
+        "Data-Engineer_REF077890W",
+        "Sr-Manager--Visa-Government-Solutions--West---Central-Africa_REF084906W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -47542,7 +47571,8 @@
         "Senior-Technical-Adoption-Specialist---Construction-with-German_26WD99970-1",
         "Senior-Digital-Growth-Product-Manager_26WD99889-1",
         "Senior-Product-Manager--Field-Delivery_26WD97680",
-        "Senior-Conversational-Designer--Canada---Remote-_26WD99913"
+        "Senior-Conversational-Designer--Canada---Remote-_26WD99913",
+        "Product-Support-Specialist_26WD99980-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -48661,7 +48691,8 @@
         "Product-Design---Development-Associate_10155200",
         "Editor-de-Audio-y-Video--Operador-de-Radio-_10152650",
         "Security-Associate---Evening-Shift_10155914",
-        "Cast-Services-Assistant---Part-Time_10155230"
+        "Cast-Services-Assistant---Part-Time_10155230",
+        "Manager--HR-Business-Partner_10147194-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -49346,7 +49377,8 @@
         "R000107026-1",
         "R000106970",
         "R000107043-1",
-        "R000106769-1"
+        "R000106769-1",
+        "R000107006"
     ],
     "Kyndryl": [
         "R-61530",
@@ -50656,7 +50688,9 @@
         "R-65148",
         "R-61853",
         "R-65070",
-        "R-64454"
+        "R-64454",
+        "R-55465",
+        "R-62598"
     ],
     "Chime": [
         "8391630002",
@@ -51719,7 +51753,11 @@
         "7980649",
         "8065056",
         "8064889",
-        "8036343"
+        "8036343",
+        "8034876",
+        "8059294",
+        "8066278",
+        "8064221"
     ],
     "Kaseya": [
         "6022140004",
@@ -53382,7 +53420,9 @@
         "8063677",
         "7896778",
         "8054958",
-        "7351582"
+        "7351582",
+        "8063940",
+        "8063942"
     ],
     "Roku": [
         "8023364",
@@ -53656,7 +53696,8 @@
         "8061938",
         "8060927",
         "8002599",
-        "8065335"
+        "8065335",
+        "7259126"
     ],
     "Spotify": [],
     "Snap": [],
