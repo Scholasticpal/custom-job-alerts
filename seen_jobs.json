@@ -6945,7 +6945,12 @@
         "8570001002",
         "8635216002",
         "8635182002",
-        "8635188002"
+        "8635188002",
+        "8632401002",
+        "8632403002",
+        "8635900002",
+        "8617901002",
+        "8584144002"
     ],
     "Rubrik": [
         "7310036",
@@ -7402,7 +7407,8 @@
         "7993338",
         "8050691",
         "8059501",
-        "8064709"
+        "8064709",
+        "7921809"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -8516,7 +8522,8 @@
         "8064055",
         "8055918",
         "8059772",
-        "8064473"
+        "8064473",
+        "8060959"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -19563,7 +19570,10 @@
         "R350310-1",
         "R351996",
         "R351997",
-        "R350760"
+        "R350760",
+        "R352040",
+        "R352048",
+        "R349826-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -28484,7 +28494,8 @@
         "5343907008",
         "5339199008",
         "5326358008",
-        "4959329008"
+        "4959329008",
+        "5097490008"
     ],
     "Coinbase": [
         "7559052",
@@ -32837,7 +32848,8 @@
         "6105819004",
         "5751617004",
         "5820454004",
-        "6109402004"
+        "6109402004",
+        "6020420004"
     ],
     "Udemy": [
         "5424719004",
@@ -33103,7 +33115,8 @@
         "R170403",
         "R170480",
         "R170032",
-        "R162937"
+        "R162937",
+        "R170223-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -41759,7 +41772,12 @@
         "R0000445382",
         "R0000445783",
         "R0000445703-1",
-        "R0000444866"
+        "R0000444866",
+        "R0000445869",
+        "R0000445510",
+        "R0000445836",
+        "R0000445837-1",
+        "R0000445854"
     ],
     "Zoom": [
         "R18188-1",
@@ -42880,7 +42898,8 @@
         "Managed-Services-Consultant---Sr_113251-JOB",
         "Senior-Technical-Program-Manager_113264-JOB",
         "Managed-Services-Consultant---CCaaS_113276-JOB",
-        "Senior-Vice-President--Product-Management--Sprinklr-Service_113262-JOB"
+        "Senior-Vice-President--Product-Management--Sprinklr-Service_113262-JOB",
+        "Strategic-Account-Executive---East_113248-JOB-1"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -43409,7 +43428,8 @@
         "4714509005",
         "4302243005",
         "4715325005",
-        "4712321005"
+        "4712321005",
+        "4674863005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -44757,7 +44777,8 @@
         "8052363",
         "8053814",
         "8046973",
-        "8036387"
+        "8036387",
+        "8068287"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -45675,7 +45696,8 @@
         "8026890",
         "8049076",
         "8052638",
-        "8055301"
+        "8055301",
+        "8042339"
     ],
     "Twitch": [
         "8334413002",
@@ -47262,7 +47284,11 @@
         "Data-Science-Manager_REF084928W",
         "Learning-Project-Manager---Instructional-Designer_REF084864W",
         "Sr-Consultant--Visa-Dispute-Optimization-LAC_REF084918W",
-        "Senior-Cybersecurity-Engineer_REF080650W-1"
+        "Senior-Cybersecurity-Engineer_REF080650W-1",
+        "Workplace-Experience-Manager_REF085059W",
+        "Senior-Director--Account-Executive--Global-Head-of-Stripe-Partnership-_REF085080W",
+        "Sr-Manager--Account-Executive--Growth-Products-and-Partnerships-_REF085081W",
+        "Sr-Recruiter--Talent-Acquisition_REF084863W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -49087,7 +49113,9 @@
         "Partnerships-Strategic-Planning-Analyst_10155550",
         "Manager---Facilities---Operations_10153647",
         "Bundle-Growth-Senior-Manager_10155493-1",
-        "Senior-Data-Analyst_10154789"
+        "Senior-Data-Analyst_10154789",
+        "Sr-Solutions-Analyst_10153390-2",
+        "Lead-Product-Manager--Production-Technology_10155176"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -49790,7 +49818,9 @@
         "R000106508-1",
         "R000106995",
         "R000107067",
-        "R000106524"
+        "R000106524",
+        "R000106966",
+        "R000107088"
     ],
     "Kyndryl": [
         "R-61530",
@@ -51120,7 +51150,11 @@
         "R-65366",
         "R-63991-1",
         "R-64133-1",
-        "R-65010"
+        "R-65010",
+        "R-64141",
+        "R-65099",
+        "R-65092",
+        "R-64379-2"
     ],
     "Chime": [
         "8391630002",
@@ -52206,7 +52240,8 @@
         "8049857",
         "8041857",
         "8068101",
-        "8047795"
+        "8047795",
+        "8067534"
     ],
     "Kaseya": [
         "6022140004",
@@ -53885,7 +53920,8 @@
         "8063940",
         "8063942",
         "8044845",
-        "8065926"
+        "8065926",
+        "8067901"
     ],
     "Roku": [
         "8023364",
@@ -54168,7 +54204,10 @@
         "8067157",
         "8067113",
         "8067004",
-        "8067125"
+        "8067125",
+        "8068165",
+        "7931239",
+        "8068161"
     ],
     "Spotify": [],
     "Snap": [],
