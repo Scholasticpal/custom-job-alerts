@@ -2125,7 +2125,8 @@
         "10472842",
         "10472896",
         "10473312",
-        "10474152"
+        "10474152",
+        "10474808"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -6890,7 +6891,9 @@
         "8622319002",
         "8628080002",
         "8583083002",
-        "8627553002"
+        "8627553002",
+        "8629997002",
+        "8627549002"
     ],
     "Rubrik": [
         "7310036",
@@ -8453,7 +8456,8 @@
         "8055118",
         "8049608",
         "8064514",
-        "8042547"
+        "8042547",
+        "8052785"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -9405,7 +9409,8 @@
         "8064016",
         "8064051",
         "8064064",
-        "8059327"
+        "8059327",
+        "8059386"
     ],
     "DoorDash": [
         "7927511",
@@ -10877,7 +10882,8 @@
         "7789065003",
         "7801699003",
         "7798704003",
-        "6561542003"
+        "6561542003",
+        "7801476003"
     ],
     "Swiggy": [],
     "Zomato": [],
@@ -14890,7 +14896,8 @@
         "R-282066",
         "R-275789-1",
         "R-282392",
-        "R-284444"
+        "R-284444",
+        "R-282250-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19424,7 +19431,8 @@
         "R346837",
         "R350287",
         "R351529",
-        "R351776"
+        "R351776",
+        "R350938"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20334,7 +20342,10 @@
         "Associate---VP---Equity-Derivatives-Strategist--Global-Research--Hong-Kong_26023565-1",
         "Associate--Investment-Banker--Coverage--M-A---Japan-IBK_26023159",
         "Up-to-Vice-President--Credit-Officer--Enterprise-Credit_26023167",
-        "Vice-President--Technology-Manager--International-Technology--Global-Payments-Solutions-Technology_26023796-1"
+        "Vice-President--Technology-Manager--International-Technology--Global-Payments-Solutions-Technology_26023796-1",
+        "Assistant-Vice-President--Bank-Funding-Trader--The-CFO-Group_26024328",
+        "Assistant-Vice-President---Vice-President--Information-Security-Threat-Management-Specialist--Application-Monitoring---Response---Global-Information-Security--Sydney--Australia_26024327",
+        "XMLNAME-6-months-Contract---Cash-Management-Services_26023783-1"
     ],
     "BlackRock": [
         "R263666",
@@ -24456,7 +24467,8 @@
         "R0137053-1",
         "R0137020",
         "R0136825",
-        "R0136847"
+        "R0136847",
+        "R0136827-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -28301,7 +28313,8 @@
         "5343697008",
         "5345466008",
         "5350448008",
-        "5343907008"
+        "5343907008",
+        "5339199008"
     ],
     "Coinbase": [
         "7559052",
@@ -34521,7 +34534,9 @@
         "R29332",
         "R29259-1",
         "R27051-1",
-        "R29168"
+        "R29168",
+        "R29379",
+        "R29383"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -37381,7 +37396,13 @@
         "R2021367",
         "R2021178",
         "R2021355",
-        "R2021133"
+        "R2021133",
+        "R2021172",
+        "R2021147",
+        "R2020880",
+        "R2021354-1",
+        "R2020271",
+        "R2020081"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -42736,7 +42757,9 @@
         "a4cce875-778e-4dcf-bc10-59eb27b8f519",
         "9044dc63-bc57-4432-a775-7305e39469b7",
         "2185d4ce-4f16-4644-926d-0218f9b48994",
-        "91793c50-0a5e-485d-b5e3-802173487455"
+        "91793c50-0a5e-485d-b5e3-802173487455",
+        "9850e566-bd16-4e0d-9291-7d60ace478f9",
+        "9fe27533-a024-40f5-8467-2164112ac68e"
     ],
     "Airtable": [
         "8403127002",
@@ -43044,7 +43067,8 @@
         "4713648005",
         "4714527005",
         "4714509005",
-        "4302243005"
+        "4302243005",
+        "4715325005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -43191,7 +43215,8 @@
         "2afb4605-136a-4f5b-a808-8577f15361df",
         "8a2eaded-53a6-46aa-a7d0-d13f0fc45046",
         "854ce13b-5a63-4d19-99e7-756a6e8bb84b",
-        "1c011283-34f3-4461-bb65-455d65a3ec84"
+        "1c011283-34f3-4461-bb65-455d65a3ec84",
+        "bde93d36-4a41-4c8c-bd98-b4e44f9061e4"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -46841,7 +46866,8 @@
         "Sr-AI-Transformations-and-Data-Engineer----Sr-Consultant-level---PERC_REF085010W",
         "Risk-Governance-Analyst_REF080655W",
         "Director--Product-Management--Visa-Destinations-_REF084782W",
-        "Backend-Senior-Software-Engineer_REF081845W"
+        "Backend-Senior-Software-Engineer_REF081845W",
+        "Director--Digital---Emerging-Technology-Consulting--Visa-Consulting---Analytics_REF085047W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -48634,7 +48660,8 @@
         "Facilities-Coordinator-Sr_10153974-1",
         "Product-Design---Development-Associate_10155200",
         "Editor-de-Audio-y-Video--Operador-de-Radio-_10152650",
-        "Security-Associate---Evening-Shift_10155914"
+        "Security-Associate---Evening-Shift_10155914",
+        "Cast-Services-Assistant---Part-Time_10155230"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -53350,7 +53377,12 @@
         "8063954",
         "8054791",
         "8054816",
-        "8059231"
+        "8059231",
+        "8063679",
+        "8063677",
+        "7896778",
+        "8054958",
+        "7351582"
     ],
     "Roku": [
         "8023364",
