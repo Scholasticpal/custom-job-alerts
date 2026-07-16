@@ -1340,7 +1340,8 @@
         "8066735",
         "8029128",
         "8059299",
-        "8045862"
+        "8045862",
+        "8060152"
     ],
     "Figma": [
         "5426468004",
@@ -2150,7 +2151,8 @@
         "10474959",
         "10475948",
         "10475980",
-        "10476078"
+        "10476078",
+        "10476122"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -5244,7 +5246,8 @@
         "8024138",
         "8024128",
         "8046325",
-        "8049054"
+        "8049054",
+        "8068925"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -8548,7 +8551,8 @@
         "8064473",
         "8060959",
         "8024849",
-        "8050511"
+        "8050511",
+        "8046137"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -9508,7 +9512,8 @@
         "7042889",
         "8068766",
         "8068809",
-        "8064006"
+        "8064006",
+        "8068904"
     ],
     "DoorDash": [
         "7927511",
@@ -15045,7 +15050,10 @@
         "R-282480",
         "R-279472",
         "R-284423",
-        "R-279943"
+        "R-279943",
+        "R-278391-1",
+        "R-282449-1",
+        "R-281867"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19626,7 +19634,9 @@
         "R347004",
         "R351460",
         "R343874",
-        "R351903-1"
+        "R351903-1",
+        "R351574",
+        "R350764"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20392,7 +20402,8 @@
         "Travel-Consultant---After-Hours---German-and-English-Speaking-with-Amadeus_J-83627",
         "Lead-Travel-Consultant_J-83174",
         "MEETING-PLANNER_J-83252",
-        "Meeting-Event-Planner_J-81147"
+        "Meeting-Event-Planner_J-81147",
+        "Senior-Travel-Counsellor_J-83662"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -20554,7 +20565,8 @@
         "Vice-President--Treasury-Sales-Associate--Global-Payments-Solutions--Beijing_26024535",
         "Assistant-Vice-President--GBAM-AML-Analyst_26024533",
         "Assistant-Vice-President--AML-Refresh-Operations_26024531",
-        "Assistant-Vice-President--AML-Refresh-Operations_26024530"
+        "Assistant-Vice-President--AML-Refresh-Operations_26024530",
+        "Vice-President--Sr-Country-Compliance-and-Operational-Risk-Manager_26024537-1"
     ],
     "BlackRock": [
         "R263666",
@@ -24261,7 +24273,8 @@
         "R-13013-1",
         "R-14215",
         "R-14622",
-        "R-14703-1"
+        "R-14703-1",
+        "R-14606"
     ],
     "PayPal": [
         "R0135744-1",
@@ -24712,7 +24725,8 @@
         "R0136847",
         "R0136827-1",
         "R0137045",
-        "R0137006"
+        "R0137006",
+        "R0137025"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -31320,7 +31334,8 @@
         "8060943",
         "8012553",
         "8049846",
-        "8066869"
+        "8066869",
+        "8066684"
     ],
     "Datadog": [
         "7194969",
@@ -32570,7 +32585,8 @@
         "8067211",
         "8035673",
         "8035675",
-        "8065315"
+        "8065315",
+        "7635497"
     ],
     "Asana": [
         "7120496",
@@ -34113,7 +34129,8 @@
         "R-0105399",
         "R-0108792-1",
         "R-0108799",
-        "R-0108745"
+        "R-0108745",
+        "R-0104612"
     ],
     "CrowdStrike": [
         "R26911",
@@ -41927,7 +41944,17 @@
         "R0000445856",
         "R0000445787",
         "R0000445847",
-        "R0000445327"
+        "R0000445327",
+        "R0000445926",
+        "R0000445925",
+        "R0000445924",
+        "R0000445923",
+        "R0000445922",
+        "R0000445921",
+        "R0000445920",
+        "R0000445919",
+        "R0000445778",
+        "R0000445638"
     ],
     "Zoom": [
         "R18188-1",
@@ -43161,7 +43188,8 @@
         "ddb7032a-f85f-4029-b17f-790c612fec6d",
         "f8af3807-3595-4580-a65c-dad2e268ace5",
         "84de4a11-ad69-4b1d-abf9-c7d7b46152d9",
-        "0d1b6a32-6a21-4933-a33a-303b0e49302e"
+        "0d1b6a32-6a21-4933-a33a-303b0e49302e",
+        "a4e7b7bc-e22a-4b4a-8797-5ea8e2186756"
     ],
     "HashiCorp": [],
     "DigitalOcean": [],
@@ -43220,7 +43248,9 @@
         "6112208004",
         "6113629004",
         "6112170004",
-        "6116731004"
+        "6116731004",
+        "6116404004",
+        "6110329004"
     ],
     "Miro": [
         "030b1911-6146-4780-ad1d-f0b45d3ca791",
@@ -47457,7 +47487,9 @@
         "Director--Product-Development-Management_REF085045W",
         "Director--Commercial-Payments--Visa-Government-Solutions---CEMEA_REF085018W-1",
         "Staff-Software-Engineer_REF073645W",
-        "Senior-Director---Head-of-Marketing-NALP_REF082925W-1"
+        "Senior-Director---Head-of-Marketing-NALP_REF082925W-1",
+        "Corporate-Comms-Specialist_REF085016W-1",
+        "Senior-Manager---Account-Executive_REF085015W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -49294,7 +49326,8 @@
         "Look-Dev-Technical-Director_10155332-1",
         "Sr-Look-Dev-Technical-Director_10155202-1",
         "Senior-Technology-Portfolio-Manager_10155787",
-        "Finance-Analyst--Sports-and-Ad-Sales_10155810"
+        "Finance-Analyst--Sports-and-Ad-Sales_10155810",
+        "Site-Executive-Show-Manager--Director-level----4-years-fixed-term-contract_10155231"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -51340,7 +51373,17 @@
         "R-64229-1",
         "R-64931",
         "R-58476-1",
-        "R-65316"
+        "R-65316",
+        "R-57221",
+        "R-60960-1",
+        "R-52704",
+        "R-65513",
+        "R-54641",
+        "R-65512",
+        "R-64183-1",
+        "R-64325",
+        "R-65510",
+        "R-65506"
     ],
     "Chime": [
         "8391630002",
@@ -52588,7 +52631,8 @@
         "6117152004",
         "6117151004",
         "6107437004",
-        "6117155004"
+        "6117155004",
+        "6117329004"
     ],
     "Acryl Data": [
         "5111757007",
