@@ -2895,7 +2895,8 @@
         "4714873005",
         "4714900005",
         "4712114005",
-        "4715340005"
+        "4715340005",
+        "4715775005"
     ],
     "Rippling": [],
     "Slice": [
@@ -5104,7 +5105,9 @@
         "8067929",
         "8066835",
         "8066843",
-        "8066840"
+        "8066840",
+        "7962002",
+        "7962001"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -7434,7 +7437,8 @@
         "8059501",
         "8064709",
         "7921809",
-        "8030308"
+        "8030308",
+        "8056247"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -10074,7 +10078,8 @@
         "8068444",
         "8060855",
         "8065509",
-        "8064759"
+        "8064759",
+        "8067997"
     ],
     "GitHub": [],
     "Twilio": [
@@ -10576,7 +10581,8 @@
         "8067500",
         "8067501",
         "8052668",
-        "8015771"
+        "8015771",
+        "8065032"
     ],
     "Dropbox": [
         "7646405",
@@ -11169,7 +11175,8 @@
         "36aea181-8eac-438f-8331-2f86e95c88df",
         "9e5eca47-258b-4b3e-83a6-938ae51792fc",
         "de6cf222-9dd6-4c8b-ab6f-45fa1b9b4c62",
-        "a41c0426-e542-4ed8-98ba-37a19890eb4e"
+        "a41c0426-e542-4ed8-98ba-37a19890eb4e",
+        "2b1ae28e-627b-40fd-8ed8-219c864178fa"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -15053,7 +15060,13 @@
         "R-279943",
         "R-278391-1",
         "R-282449-1",
-        "R-281867"
+        "R-281867",
+        "R-282389",
+        "R-284407",
+        "R-282788-1",
+        "R-282787",
+        "R-279924",
+        "R-281539"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19636,7 +19649,9 @@
         "R343874",
         "R351903-1",
         "R351574",
-        "R350764"
+        "R350764",
+        "R351522",
+        "R350648"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24274,7 +24289,8 @@
         "R-14215",
         "R-14622",
         "R-14703-1",
-        "R-14606"
+        "R-14606",
+        "R-14576"
     ],
     "PayPal": [
         "R0135744-1",
@@ -34881,7 +34897,9 @@
         "R29323",
         "R29416-1",
         "R29373",
-        "R29353"
+        "R29353",
+        "R29398-1",
+        "R29357"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -41954,7 +41972,13 @@
         "R0000445920",
         "R0000445919",
         "R0000445778",
-        "R0000445638"
+        "R0000445638",
+        "R0000445942",
+        "R0000445849",
+        "R0000445650",
+        "R0000445929",
+        "R0000445928",
+        "R0000445927"
     ],
     "Zoom": [
         "R18188-1",
@@ -42919,7 +42943,8 @@
         "R-107898",
         "R-107860-1",
         "R-107208",
-        "R-107900-1"
+        "R-107900-1",
+        "R-107489"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -44203,7 +44228,9 @@
         "d684e19a-6ef9-4fb9-a05e-9736c4027faf",
         "2684e267-3e91-40cf-b501-42c98c4ac2dc",
         "8089e2ea-d307-4659-ab14-695bcc8c2baa",
-        "520d3170-8d3c-480a-bc79-7ddd9cc65632"
+        "520d3170-8d3c-480a-bc79-7ddd9cc65632",
+        "8d9ef48d-e6cb-44e6-ab45-9b66bb2f0a1f",
+        "f6fb0d05-600b-4582-88a7-af77020fef9c"
     ],
     "Netskope": [
         "7885748",
@@ -45411,7 +45438,8 @@
         "4695940006",
         "4672182006",
         "4697183006",
-        "4627298006"
+        "4627298006",
+        "4692730006"
     ],
     "Duolingo": [
         "8455252002",
@@ -47489,7 +47517,9 @@
         "Staff-Software-Engineer_REF073645W",
         "Senior-Director---Head-of-Marketing-NALP_REF082925W-1",
         "Corporate-Comms-Specialist_REF085016W-1",
-        "Senior-Manager---Account-Executive_REF085015W"
+        "Senior-Manager---Account-Executive_REF085015W",
+        "AML-Manager--Tink_REF084878W",
+        "Senior-Manager-Consumer-Solutions_REF079460W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -48171,7 +48201,8 @@
         "Software-Engineer_26WD99922-1",
         "Software-Developer--GCPay_26WD99917-1",
         "Lead-Consultant---AECO-Technical-Advisory-_26WD99708-1",
-        "Senior-Full-Stack-Engineer--React--Node-Java-_26WD99667-1"
+        "Senior-Full-Stack-Engineer--React--Node-Java-_26WD99667-1",
+        "Senior-Software-Engineer_26WD99895-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -49327,7 +49358,10 @@
         "Sr-Look-Dev-Technical-Director_10155202-1",
         "Senior-Technology-Portfolio-Manager_10155787",
         "Finance-Analyst--Sports-and-Ad-Sales_10155810",
-        "Site-Executive-Show-Manager--Director-level----4-years-fixed-term-contract_10155231"
+        "Site-Executive-Show-Manager--Director-level----4-years-fixed-term-contract_10155231",
+        "Senior-Brand-Commercialisation-Manager_10155241",
+        "Technicien-ne--Oprateur-trice--Lumire--F-H-NB---CDD_10145713",
+        "VP-New-Builds---Dry-Docks--Disney-Cruise-Line-_10155821-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -50034,7 +50068,8 @@
         "R000106966",
         "R000107088",
         "R000107098",
-        "R000105633"
+        "R000105633",
+        "R000106868"
     ],
     "Kyndryl": [
         "R-61530",
@@ -53162,7 +53197,8 @@
         "8067601",
         "8067675",
         "6909101",
-        "7392504"
+        "7392504",
+        "8069033"
     ],
     "Propel": [],
     "Canva": [],
