@@ -7032,7 +7032,8 @@
         "8603711002",
         "8629113002",
         "8626215002",
-        "8638732002"
+        "8638732002",
+        "8639477002"
     ],
     "Rubrik": [
         "7310036",
@@ -10166,7 +10167,9 @@
         "8059973",
         "8010621",
         "8064257",
-        "7960785"
+        "7960785",
+        "8073192",
+        "8073181"
     ],
     "GitHub": [],
     "Twilio": [
@@ -10677,7 +10680,9 @@
         "8071710",
         "8056278",
         "8056276",
-        "8067270"
+        "8067270",
+        "8067440",
+        "7942214"
     ],
     "Dropbox": [
         "7646405",
@@ -15222,7 +15227,8 @@
         "R-282072",
         "R-282195",
         "R-278125-1",
-        "R-286284"
+        "R-286284",
+        "R-286255"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22003,7 +22009,8 @@
         "Communications-Analyst---Blackstone-Technology-and-Innovations_44031-1",
         "Legal---Compliance---BXMA-Compliance--AVP_44039",
         "Blackstone-Credit---Insurance--BXCI---Origination-Principal_44035-1",
-        "Executive-Assistant--Institutional-Client-Solutions---Sydney_43965"
+        "Executive-Assistant--Institutional-Client-Solutions---Sydney_43965",
+        "Blackstone-Credit---Insurance---LCS--Restructuring--Senior-Associate_44073"
     ],
     "Capital Group": [
         "R6549",
@@ -28005,7 +28012,10 @@
         "78c2a68b-cc77-4c62-8891-96afb603650a",
         "88b93f91-7548-42a1-8d5b-7d37090e480f",
         "f4720507-3c44-4162-af21-206ac3a78007",
-        "3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c"
+        "3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c",
+        "3fd0ca32-e787-437d-985a-b9f7e3299ef4",
+        "9bbea80a-7336-48f1-9dca-554f4354a5cf",
+        "000cf0f2-090d-40c6-b9f8-1699db9a4c68"
     ],
     "Anthropic": [
         "5101832008",
@@ -31668,7 +31678,9 @@
         "8067706",
         "8071152",
         "8044218",
-        "8069479"
+        "8069479",
+        "8054311",
+        "8017410"
     ],
     "Datadog": [
         "7194969",
@@ -33575,7 +33587,8 @@
         "R170480",
         "R170032",
         "R162937",
-        "R170223-1"
+        "R170223-1",
+        "R170157-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -38265,7 +38278,20 @@
         "R2020957",
         "R2021529",
         "R2021534",
-        "R2021525"
+        "R2021525",
+        "R2021284",
+        "R2010247",
+        "R2020131",
+        "R2021401",
+        "R2021404",
+        "R2021478",
+        "R2020644-1",
+        "R2021254",
+        "R2021102",
+        "R2021039",
+        "R2021287",
+        "R2021543",
+        "R2021335"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -42484,7 +42510,9 @@
         "R0000445663",
         "R0000446149",
         "R0000446151",
-        "R0000441703"
+        "R0000441703",
+        "R0000446173",
+        "R0000445992"
     ],
     "Zoom": [
         "R18188-1",
@@ -43465,7 +43493,8 @@
         "R-107533",
         "R-107244",
         "R-108015",
-        "R-106033"
+        "R-106033",
+        "R-107350"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -48140,7 +48169,9 @@
         "Marketing-Analyst--Visa-Direct-Field-Marketing--LAC-_REF085007W",
         "Sr-Product-Manager--Authentication---Identity-Products_REF084821W",
         "Senior-Consultant--Client-Success_REF084902W",
-        "Analyst--GTM-Strategy--Operations---AI-Enablement--NA-VAS-_REF084911W"
+        "Analyst--GTM-Strategy--Operations---AI-Enablement--NA-VAS-_REF084911W",
+        "Work-Force-Planning-Analyst_REF084666W",
+        "Manager--Account-Executive_REF083213W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -53285,7 +53316,8 @@
         "8068504",
         "8070149",
         "8072490",
-        "7784503"
+        "7784503",
+        "8073062"
     ],
     "Kaseya": [
         "6022140004",
