@@ -10158,7 +10158,15 @@
         "7967861",
         "8072202",
         "8071822",
-        "8068491"
+        "8068491",
+        "7984848",
+        "8026959",
+        "8026932",
+        "8055684",
+        "8059973",
+        "8010621",
+        "8064257",
+        "7960785"
     ],
     "GitHub": [],
     "Twilio": [
@@ -10668,7 +10676,8 @@
         "8060160",
         "8071710",
         "8056278",
-        "8056276"
+        "8056276",
+        "8067270"
     ],
     "Dropbox": [
         "7646405",
@@ -15211,7 +15220,9 @@
         "R-282740",
         "R-281266",
         "R-282072",
-        "R-282195"
+        "R-282195",
+        "R-278125-1",
+        "R-286284"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19858,7 +19869,9 @@
         "R352370",
         "R352362",
         "R349463-1",
-        "R352405"
+        "R352405",
+        "R351830",
+        "R351524"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -27990,7 +28003,9 @@
         "d0956b18-4f80-4c67-b94b-313181a16be6",
         "3f696fe7-6a85-40e9-9514-6833a228a030",
         "78c2a68b-cc77-4c62-8891-96afb603650a",
-        "88b93f91-7548-42a1-8d5b-7d37090e480f"
+        "88b93f91-7548-42a1-8d5b-7d37090e480f",
+        "f4720507-3c44-4162-af21-206ac3a78007",
+        "3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c"
     ],
     "Anthropic": [
         "5101832008",
@@ -31652,7 +31667,8 @@
         "8069203",
         "8067706",
         "8071152",
-        "8044218"
+        "8044218",
+        "8069479"
     ],
     "Datadog": [
         "7194969",
@@ -32413,7 +32429,8 @@
         "8069508",
         "8069340",
         "6690499",
-        "8064226"
+        "8064226",
+        "8059723"
     ],
     "Elastic": [
         "7505982",
@@ -34492,7 +34509,8 @@
         "R-0108681",
         "R-0108302",
         "R-0108761",
-        "R-0108571-1"
+        "R-0108571-1",
+        "R-0107605-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -38243,7 +38261,11 @@
         "R2015955",
         "R2021400",
         "R2012501",
-        "R2021231-1"
+        "R2021231-1",
+        "R2020957",
+        "R2021529",
+        "R2021534",
+        "R2021525"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -42461,7 +42483,8 @@
         "R0000446161",
         "R0000445663",
         "R0000446149",
-        "R0000446151"
+        "R0000446151",
+        "R0000441703"
     ],
     "Zoom": [
         "R18188-1",
@@ -43441,7 +43464,8 @@
         "R-107980-1",
         "R-107533",
         "R-107244",
-        "R-108015"
+        "R-108015",
+        "R-106033"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -45542,7 +45566,8 @@
         "8053373",
         "7989914",
         "8052685",
-        "7967689"
+        "7967689",
+        "8067829"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -48114,7 +48139,8 @@
         "Senior-Finance-Manager---VIK---Deal-Support_REF085086W",
         "Marketing-Analyst--Visa-Direct-Field-Marketing--LAC-_REF085007W",
         "Sr-Product-Manager--Authentication---Identity-Products_REF084821W",
-        "Senior-Consultant--Client-Success_REF084902W"
+        "Senior-Consultant--Client-Success_REF084902W",
+        "Analyst--GTM-Strategy--Operations---AI-Enablement--NA-VAS-_REF084911W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -48811,7 +48837,9 @@
         "Senior-Platform-Engineer_26WD95285-1",
         "R-2027_26WD100046",
         "Customer-Success-Manager_26WD99990-1",
-        "Senior-Data-Scientist--Customer-Analytics_26WD97732-1"
+        "Senior-Data-Scientist--Customer-Analytics_26WD97732-1",
+        "HyperSpecialist--Sales-Development-Representative---Construction-Ops--Colombia-_26WD100047",
+        "Senior-Manager--Sales-Strategy---Planning_26WD99832"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -50007,7 +50035,10 @@
         "Manager-Castle-Club---Lounge-Excutif---Disneyland-Hotel---CDI---F-H-NB_10148933",
         "Studio-Workforce-Planning-Graduate-Intern--Fall-2026---Spring-2027_10155698",
         "Teaching-Artist--Recurring-Part-Time-_10155441",
-        "Vice-President--Business-Affairs--Disney-Entertainment-Television-_10155877"
+        "Vice-President--Business-Affairs--Disney-Entertainment-Television-_10155877",
+        "Manager--Projects---Electrical_10154762",
+        "Production-Manager--Internal-Assignment-Project-Hire-_10155769",
+        "Associate-Manager--Partnerships-Marketing--Disney-Entertainment-Television-_10153163"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -53253,7 +53284,8 @@
         "8066241",
         "8068504",
         "8070149",
-        "8072490"
+        "8072490",
+        "7784503"
     ],
     "Kaseya": [
         "6022140004",
@@ -54179,7 +54211,9 @@
         "8636580002",
         "8630918002",
         "8634427002",
-        "8634346002"
+        "8634346002",
+        "8639202002",
+        "8639265002"
     ],
     "Coupang": [
         "7915234",
