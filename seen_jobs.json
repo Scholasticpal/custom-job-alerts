@@ -1350,7 +1350,8 @@
         "8070648",
         "8047789",
         "8040940",
-        "8049722"
+        "8049722",
+        "8053417"
     ],
     "Figma": [
         "5426468004",
@@ -1700,7 +1701,9 @@
         "6105678004",
         "6115082004",
         "6117173004",
-        "6117563004"
+        "6117563004",
+        "6116486004",
+        "5991338004"
     ],
     "Amazon": [
         "3198115",
@@ -2916,7 +2919,8 @@
         "4714900005",
         "4712114005",
         "4715340005",
-        "4715775005"
+        "4715775005",
+        "4715361005"
     ],
     "Rippling": [],
     "Slice": [
@@ -4300,7 +4304,8 @@
         "6a58ff15-c57c-40bc-948f-e958875bc2a7",
         "4a1dbadf-f673-4949-aea8-7f67cde4fdad",
         "25aea6d1-c6fe-463e-906d-555bdf99b9f8",
-        "2ce02ec9-f5c2-4be6-a0b9-1f0dd1c97b14"
+        "2ce02ec9-f5c2-4be6-a0b9-1f0dd1c97b14",
+        "c468f1c9-60b3-4d5f-a582-a4000a33b463"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -10638,7 +10643,8 @@
         "8015771",
         "8065032",
         "8054764",
-        "8055895"
+        "8055895",
+        "8048661"
     ],
     "Dropbox": [
         "7646405",
@@ -15162,7 +15168,11 @@
         "R-284573",
         "R-284452",
         "R-284486",
-        "R-282615"
+        "R-282615",
+        "R-284524",
+        "R-2_R-284458",
+        "R-282764",
+        "R-282605-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19786,7 +19796,10 @@
         "R352273",
         "R351561",
         "R351178-1",
-        "R351741"
+        "R351741",
+        "R352286",
+        "R352283",
+        "R283555"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20557,7 +20570,9 @@
         "Meeting-Event-Planner_J-81147",
         "Senior-Travel-Counsellor_J-83662",
         "Cvent-System-Admin_J-83351",
-        "Practicante-Tcnico-o-Tecnlogo-en-Administracin--Finanzas--Contabilidad--Economa-o-afines_J-83232"
+        "Practicante-Tcnico-o-Tecnlogo-en-Administracin--Finanzas--Contabilidad--Economa-o-afines_J-83232",
+        "Technical-Support-Analyst--BSA----Travel-Technology_J-83690",
+        "Engineer-I---Front-End-Dot-Net_J-82454"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -21694,7 +21709,9 @@
         "R265341",
         "R264991",
         "R265257-1",
-        "R265346"
+        "R265346",
+        "R265371",
+        "R265237"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -24451,7 +24468,8 @@
         "R-14703-1",
         "R-14606",
         "R-14576",
-        "R-14330"
+        "R-14330",
+        "R-11444-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -35141,7 +35159,9 @@
         "R29192",
         "R29249",
         "R29372",
-        "R29363"
+        "R29363",
+        "R29414",
+        "R29235"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -42288,7 +42308,11 @@
         "R0000446029",
         "R0000445829",
         "R0000446052",
-        "R0000446013"
+        "R0000446013",
+        "R0000446088",
+        "R0000445876",
+        "R0000445896",
+        "R0000446046-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -43421,7 +43445,8 @@
         "Senior-Technical-Program-Manager_113264-JOB",
         "Managed-Services-Consultant---CCaaS_113276-JOB",
         "Senior-Vice-President--Product-Management--Sprinklr-Service_113262-JOB",
-        "Strategic-Account-Executive---East_113248-JOB-1"
+        "Strategic-Account-Executive---East_113248-JOB-1",
+        "Principal-Solutions-Architect---CCaaS_113254-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -43496,7 +43521,8 @@
         "f0f277ac-b96c-478a-81ca-7bd80612533f",
         "577bdf6d-f34b-4b9e-8d6b-b96776675c94",
         "cb04ae3a-3a47-4e21-928f-c2456b7b214e",
-        "c3099780-60d5-4b8a-ab08-c701d114cf62"
+        "c3099780-60d5-4b8a-ab08-c701d114cf62",
+        "b75ba81e-54cc-4393-a575-bc41776b0113"
     ],
     "Hasura": [],
     "Netlify": [
@@ -45791,7 +45817,8 @@
         "4627298006",
         "4692730006",
         "4679941006",
-        "4579771006"
+        "4579771006",
+        "4693499006"
     ],
     "Duolingo": [
         "8455252002",
@@ -48593,7 +48620,8 @@
         "Product-Marketing-Manager--Informed-Design_26WD99932-1",
         "Partner-Solutions-Executive_26WD99161",
         "Graduate-Software-Engineer_26WD100002-1",
-        "Software-Engineer--C----CAD-CAM-_26WD99923-1"
+        "Software-Engineer--C----CAD-CAM-_26WD99923-1",
+        "Senior-Platform-Engineer_26WD95285-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -49776,7 +49804,10 @@
         "Creature-Technical-Director--Character-Technical-Artist---Rigger----Expression-of-Interest---ILM-San-Francisco--Project-Hire-_10156277",
         "Financial-Analyst--14-month-contract-_10155560-1",
         "Senior-Analyst--Financial-System--5-month-contract-_10155559",
-        "Finance-Analyst_10155462"
+        "Finance-Analyst_10155462",
+        "Principal-Product-Software-Engineer_10152054",
+        "Supervisor--Digital-Marketing--Measurement---Analytics_10155514",
+        "Peintre-Dcorateur-trice--Scnographe-F-H-NB---CDD-jusqu-au-31-05-2027_10155048-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -50503,7 +50534,10 @@
         "R000088067",
         "R000107099",
         "R000107090",
-        "R000106744-1"
+        "R000106744-1",
+        "R000107132",
+        "R000104995",
+        "R000106851"
     ],
     "Kyndryl": [
         "R-61530",
@@ -51880,7 +51914,9 @@
         "R-65222",
         "R-65319",
         "R-65265",
-        "R-64842-1"
+        "R-64842-1",
+        "R-64112-1",
+        "R-64121-1"
     ],
     "Chime": [
         "8391630002",
@@ -52982,7 +53018,8 @@
         "7997944",
         "8070608",
         "8064186",
-        "7840415"
+        "7840415",
+        "8070902"
     ],
     "Kaseya": [
         "6022140004",
