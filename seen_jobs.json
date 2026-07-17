@@ -1346,7 +1346,8 @@
         "8069506",
         "8069155",
         "8065818",
-        "8070054"
+        "8070054",
+        "8070648"
     ],
     "Figma": [
         "5426468004",
@@ -1695,7 +1696,8 @@
         "6110219004",
         "6105678004",
         "6115082004",
-        "6117173004"
+        "6117173004",
+        "6117563004"
     ],
     "Amazon": [
         "3198115",
@@ -5130,7 +5132,8 @@
         "8065827",
         "8068640",
         "8065451",
-        "8070641"
+        "8070641",
+        "8070597"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -9548,7 +9551,14 @@
         "8068766",
         "8068809",
         "8064006",
-        "8068904"
+        "8068904",
+        "8063981",
+        "8070836",
+        "8070837",
+        "8070835",
+        "8064440",
+        "8070846",
+        "8050392"
     ],
     "DoorDash": [
         "7927511",
@@ -11052,7 +11062,8 @@
         "7798704003",
         "6561542003",
         "7801476003",
-        "7762097003"
+        "7762097003",
+        "7770445003"
     ],
     "Swiggy": [],
     "Zomato": [],
@@ -19747,7 +19758,8 @@
         "R351886",
         "R347890",
         "R346962",
-        "R352207"
+        "R352207",
+        "R347776"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20681,7 +20693,8 @@
         "Assistant-Vice-President--GBAM-AML-Analyst_26024533",
         "Assistant-Vice-President--AML-Refresh-Operations_26024531",
         "Assistant-Vice-President--AML-Refresh-Operations_26024530",
-        "Vice-President--Sr-Country-Compliance-and-Operational-Risk-Manager_26024537-1"
+        "Vice-President--Sr-Country-Compliance-and-Operational-Risk-Manager_26024537-1",
+        "AVP---VP---Operations-Manager---Data-and-Reporting-Operations-Management_26023762"
     ],
     "BlackRock": [
         "R263666",
@@ -21648,7 +21661,9 @@
         "R265312",
         "R265317",
         "R265347-1",
-        "R265367"
+        "R265367",
+        "R265148",
+        "R265341"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -27848,7 +27863,11 @@
         "2e645639-3362-42f7-b0b9-e99380c48d29",
         "6d642115-b495-4119-818d-cdef2003ae93",
         "362a91cc-8e64-4922-a650-68161de60daa",
-        "fced529d-4523-436d-9559-cf1a8321b0fa"
+        "fced529d-4523-436d-9559-cf1a8321b0fa",
+        "107f0409-73b2-4959-baf1-4003de245b47",
+        "71c4dd25-bfff-419b-913f-5ff81d8aede3",
+        "d0956b18-4f80-4c67-b94b-313181a16be6",
+        "3f696fe7-6a85-40e9-9514-6833a228a030"
     ],
     "Anthropic": [
         "5101832008",
@@ -29733,7 +29752,8 @@
         "a9d4a192-d31c-48d2-8156-e2a75d98eec1",
         "dc87f28a-5666-4c51-b1f5-f539c6a5ce2b",
         "c1324c38-abc7-4bcf-9b62-2e1f86d5aa72",
-        "6ccbc30c-2de0-4395-af14-3641cd15961b"
+        "6ccbc30c-2de0-4395-af14-3641cd15961b",
+        "7793e862-50fa-4357-a4bc-2328440f8d68"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -32248,7 +32268,8 @@
         "8053105",
         "8053714",
         "8069508",
-        "8069340"
+        "8069340",
+        "6690499"
     ],
     "Elastic": [
         "7505982",
@@ -34312,7 +34333,9 @@
         "R-0108337",
         "R-0108701",
         "R-0108510",
-        "R-0105392"
+        "R-0105392",
+        "R-0108843",
+        "R-0108350"
     ],
     "CrowdStrike": [
         "R26911",
@@ -35076,7 +35099,10 @@
         "R29169",
         "R29175",
         "R29352",
-        "R29405"
+        "R29405",
+        "R29385",
+        "R29215-1",
+        "R29391"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -38242,7 +38268,8 @@
         "Customer-Project-Manager_2018067",
         "Technical-Leader---Network-Solution-Testing_2019759",
         "Hardware-Engineering-Program-Manager_2019008",
-        "Consulting-Engineer_2018052"
+        "Consulting-Engineer_2018052",
+        "Product-Manager_2019664"
     ],
     "Intel": [
         "R0283052",
@@ -43177,7 +43204,8 @@
         "R-107900-1",
         "R-107489",
         "R-107538-1",
-        "R-107939"
+        "R-107939",
+        "R-107974"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -46576,7 +46604,8 @@
         "R35142",
         "R35005",
         "R35183",
-        "R35184-1"
+        "R35184-1",
+        "R32416"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -47806,7 +47835,9 @@
         "Director---LAC-Policy-Strategy_REF084914W",
         "Senior-Manager---Visa-Direct-Specialized-Sales_REF080860W",
         "Senior-Director--Marketing-Services--Strategy_REF085023W",
-        "Sr-Consultant--Solutions-Management_REF084730W-1"
+        "Sr-Consultant--Solutions-Management_REF084730W-1",
+        "Software-Engineer--Site-Reliability-Engineer_REF085121W",
+        "Senior-Consultant--Client-Success_REF085051W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -51771,7 +51802,11 @@
         "R-59453",
         "R-64393-1",
         "R-65371-1",
-        "R-65468"
+        "R-65468",
+        "R-65264",
+        "R-65261-1",
+        "R-65263",
+        "R-65221"
     ],
     "Chime": [
         "8391630002",
@@ -54587,7 +54622,9 @@
         "8068894",
         "8066502",
         "8063893",
-        "8070738"
+        "8070738",
+        "8045579",
+        "8066248"
     ],
     "Roku": [
         "8023364",
@@ -55194,7 +55231,9 @@
         "6085856004",
         "5789278004",
         "5789276004",
-        "6117647004"
+        "6117647004",
+        "6118355004",
+        "6117889004"
     ],
     "Booking.com": [],
     "Myntra": [],
