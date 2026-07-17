@@ -1347,7 +1347,8 @@
         "8069155",
         "8065818",
         "8070054",
-        "8070648"
+        "8070648",
+        "8047789"
     ],
     "Figma": [
         "5426468004",
@@ -2422,7 +2423,9 @@
         "16deaac2-9163-4c4c-bb93-15041b4e46ad",
         "28ada73f-52a5-4de0-a15f-f6954175c787",
         "d77b34ad-20f9-4926-a29e-493d4749a90f",
-        "29b8378c-3cb6-430e-9a4f-1ec0615c65cd"
+        "29b8378c-3cb6-430e-9a4f-1ec0615c65cd",
+        "341d50f9-933d-45c2-b251-7a4de201c992",
+        "987e902a-d05d-4aa7-8c5e-daef560690e7"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -7010,7 +7013,8 @@
         "7586263002",
         "6883068002",
         "8636157002",
-        "8637143002"
+        "8637143002",
+        "8438975002"
     ],
     "Rubrik": [
         "7310036",
@@ -8589,7 +8593,8 @@
         "8060959",
         "8024849",
         "8050511",
-        "8046137"
+        "8046137",
+        "8066589"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -8616,7 +8621,8 @@
         "3e7cc935-18d5-431f-ac94-dbcf0e819ccc",
         "7015c4bc-765f-4c4b-913c-e314fced7966",
         "e5f69583-dd88-4b86-af6b-5582df1548d8",
-        "8c8700a4-5020-4c8a-a324-ac7cac0ab804"
+        "8c8700a4-5020-4c8a-a324-ac7cac0ab804",
+        "3ce036e8-d4f9-4086-bec4-186676ea109e"
     ],
     "Cleartax": [
         "7931994",
@@ -15140,7 +15146,14 @@
         "R-282405",
         "R-281813",
         "R-281816",
-        "R-282821"
+        "R-282821",
+        "R-282429",
+        "R-284428",
+        "R-281390",
+        "R-281679",
+        "R-286198",
+        "R-282712",
+        "R-280580"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19759,7 +19772,9 @@
         "R347890",
         "R346962",
         "R352207",
-        "R347776"
+        "R347776",
+        "R310367",
+        "R352273"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20694,7 +20709,8 @@
         "Assistant-Vice-President--AML-Refresh-Operations_26024531",
         "Assistant-Vice-President--AML-Refresh-Operations_26024530",
         "Vice-President--Sr-Country-Compliance-and-Operational-Risk-Manager_26024537-1",
-        "AVP---VP---Operations-Manager---Data-and-Reporting-Operations-Management_26023762"
+        "AVP---VP---Operations-Manager---Data-and-Reporting-Operations-Management_26023762",
+        "Operations-Team-lead_26021132"
     ],
     "BlackRock": [
         "R263666",
@@ -21663,7 +21679,9 @@
         "R265347-1",
         "R265367",
         "R265148",
-        "R265341"
+        "R265341",
+        "R264991",
+        "R265257-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -22218,7 +22236,8 @@
         "Security-Engineer-III---VMT---India_34609-1",
         "Quant-Risk-Intern_34590",
         "Mgr-Customer-Marketing_34494",
-        "Software-Engineer-II---India_34641"
+        "Software-Engineer-II---India_34641",
+        "Staff-Software-Engineer_34333-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -35102,7 +35121,9 @@
         "R29405",
         "R29385",
         "R29215-1",
-        "R29391"
+        "R29391",
+        "R29192",
+        "R29249"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -38065,7 +38086,8 @@
         "R2008541",
         "R2021512",
         "R2002548",
-        "R2021303"
+        "R2021303",
+        "R2021320"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -42234,7 +42256,8 @@
         "R0000446030",
         "R0000445991",
         "R0000446059-1",
-        "R0000446056"
+        "R0000446056",
+        "R0000444974"
     ],
     "Zoom": [
         "R18188-1",
@@ -47837,7 +47860,8 @@
         "Senior-Director--Marketing-Services--Strategy_REF085023W",
         "Sr-Consultant--Solutions-Management_REF084730W-1",
         "Software-Engineer--Site-Reliability-Engineer_REF085121W",
-        "Senior-Consultant--Client-Success_REF085051W"
+        "Senior-Consultant--Client-Success_REF085051W",
+        "Sr-Client-Consulting-Manager--Cards-Benefits_REF085003W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -48529,7 +48553,8 @@
         "Corporate-Communications-Manager_26WD99963-2",
         "Product-Marketing-Manager--Informed-Design_26WD99932-1",
         "Partner-Solutions-Executive_26WD99161",
-        "Graduate-Software-Engineer_26WD100002-1"
+        "Graduate-Software-Engineer_26WD100002-1",
+        "Software-Engineer--C----CAD-CAM-_26WD99923-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -49709,7 +49734,10 @@
         "Rockwork-Engineer-Sr--PH-_10136952",
         "People---Culture-Advisor_10155696",
         "Executive-Assistant--Disney-Theatrical-Group_10155130-1",
-        "Creature-Technical-Director--Character-Technical-Artist---Rigger----Expression-of-Interest---ILM-San-Francisco--Project-Hire-_10156277"
+        "Creature-Technical-Director--Character-Technical-Artist---Rigger----Expression-of-Interest---ILM-San-Francisco--Project-Hire-_10156277",
+        "Financial-Analyst--14-month-contract-_10155560-1",
+        "Senior-Analyst--Financial-System--5-month-contract-_10155559",
+        "Finance-Analyst_10155462"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -51806,7 +51834,11 @@
         "R-65264",
         "R-65261-1",
         "R-65263",
-        "R-65221"
+        "R-65221",
+        "R-63209",
+        "R-59940",
+        "R-65222",
+        "R-65319"
     ],
     "Chime": [
         "8391630002",
@@ -52154,7 +52186,8 @@
         "8610519002",
         "8632974002",
         "8633005002",
-        "8632984002"
+        "8632984002",
+        "8637106002"
     ],
     "Sezzle": [
         "7710056003",
@@ -52905,7 +52938,8 @@
         "8067420",
         "7983532",
         "7997944",
-        "8070608"
+        "8070608",
+        "8064186"
     ],
     "Kaseya": [
         "6022140004",
@@ -53604,7 +53638,8 @@
         "8070222",
         "8070333",
         "8070328",
-        "8067483"
+        "8067483",
+        "8066771"
     ],
     "Propel": [],
     "Canva": [],
@@ -54624,7 +54659,9 @@
         "8063893",
         "8070738",
         "8045579",
-        "8066248"
+        "8066248",
+        "8070900",
+        "8070884"
     ],
     "Roku": [
         "8023364",
