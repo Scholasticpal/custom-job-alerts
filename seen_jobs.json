@@ -2440,7 +2440,9 @@
         "341d50f9-933d-45c2-b251-7a4de201c992",
         "987e902a-d05d-4aa7-8c5e-daef560690e7",
         "a96d985c-fbc8-46c1-90c5-96a0486fd585",
-        "ddee2efd-01fd-4bee-82ca-2930503581e1"
+        "ddee2efd-01fd-4bee-82ca-2930503581e1",
+        "7f05e133-17cd-495b-843a-ff152fb47677",
+        "dc0e292e-8dc1-4e78-9981-c7626df7dc2e"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -5165,7 +5167,8 @@
         "8071684",
         "7862110",
         "7862109",
-        "8070678"
+        "8070678",
+        "8074303"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -5309,7 +5312,8 @@
         "8046325",
         "8049054",
         "8068925",
-        "8055190"
+        "8055190",
+        "8074310"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -7614,7 +7618,8 @@
         "R103153",
         "R103209",
         "R103525",
-        "R103157"
+        "R103157",
+        "R103533"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -10711,7 +10716,8 @@
         "8067440",
         "7942214",
         "8065040",
-        "8073683"
+        "8073683",
+        "8064090"
     ],
     "Dropbox": [
         "7646405",
@@ -15278,7 +15284,8 @@
         "R-282791",
         "R-282746",
         "R-282436",
-        "R-279409-1"
+        "R-279409-1",
+        "R-284538"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19941,7 +19948,10 @@
         "R352311",
         "R352318",
         "R352317",
-        "R350942-1"
+        "R350942-1",
+        "R352465",
+        "R352265",
+        "R351737"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20721,7 +20731,8 @@
         "Specialized-Travel-Counselor---Production_J-83560",
         "Specialized-Travel-Counselor---Production_J-83561",
         "Team-Coach_J-83703",
-        "Senior-Travel-Consultant_J-83704"
+        "Senior-Travel-Consultant_J-83704",
+        "Project-Manager_J-79614-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -21871,7 +21882,8 @@
         "R265103",
         "R265374",
         "R265022-1",
-        "R261400"
+        "R261400",
+        "R264299"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -30535,7 +30547,9 @@
         "7806683003",
         "7799329003",
         "7807363003",
-        "7807367003"
+        "7807367003",
+        "7806679003",
+        "7806681003"
     ],
     "Robinhood": [
         "7799902",
@@ -31805,7 +31819,8 @@
         "8072861",
         "8066559",
         "8074078",
-        "8073907"
+        "8073907",
+        "8074220"
     ],
     "Datadog": [
         "7194969",
@@ -33715,7 +33730,8 @@
         "R162937",
         "R170223-1",
         "R170157-1",
-        "R170509"
+        "R170509",
+        "R170554"
     ],
     "Workday": [
         "R-0106509-1",
@@ -34650,7 +34666,9 @@
         "R-0108302",
         "R-0108761",
         "R-0108571-1",
-        "R-0107605-1"
+        "R-0107605-1",
+        "R-0107648-1",
+        "R-0108223"
     ],
     "CrowdStrike": [
         "R26911",
@@ -38449,7 +38467,8 @@
         "R2021372",
         "R2020407",
         "R2021210",
-        "R2020964"
+        "R2020964",
+        "R2008156"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -42721,7 +42740,11 @@
         "R0000446227",
         "R0000446273",
         "R0000446144",
-        "R0000444494"
+        "R0000444494",
+        "R0000446174-1",
+        "R0000446297-1",
+        "R0000446296",
+        "R0000445973"
     ],
     "Zoom": [
         "R18188-1",
@@ -45820,7 +45843,8 @@
         "8073236",
         "8073247",
         "8073245",
-        "8073246"
+        "8073246",
+        "8066320"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -48410,7 +48434,9 @@
         "Associate-Technical-Program-Analyst_REF084974W",
         "Marketing-Services-Manager_REF085139W",
         "Controllership--Geo-Lead---South-and-Southern-Africa_REF085135W",
-        "Mainframe-Data-Center-Engineer_REF081110W"
+        "Mainframe-Data-Center-Engineer_REF081110W",
+        "Senior-Software-Engineer_REF077612W",
+        "Cybersecurity-Engineer_REF070982W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -50317,7 +50343,8 @@
         "Sous-Chef---Cotino--A-Storyliving-by-Disney-Community_10155770",
         "Head-Chef---Cotino--A-Storyliving-by-Disney-Community_10155864",
         "Disneyland-Construction-Project-Management-Intern--Spring-2027_10155115",
-        "Disneyland-Construction-Superintendent-Intern--Spring-2027_10155117"
+        "Disneyland-Construction-Superintendent-Intern--Spring-2027_10155117",
+        "Creative-Producer--Disney-_10154757"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -51052,7 +51079,8 @@
         "R000107123",
         "R000106869-1",
         "R000107092",
-        "R000105240"
+        "R000105240",
+        "R000107064"
     ],
     "Kyndryl": [
         "R-61530",
@@ -52451,7 +52479,13 @@
         "R-64855-1",
         "R-57951",
         "R-60248",
-        "R-65626"
+        "R-65626",
+        "R-64561-1",
+        "R-34747-1",
+        "R-58946-1",
+        "R-60928",
+        "R-64205-1",
+        "R-65237"
     ],
     "Chime": [
         "8391630002",
@@ -53575,7 +53609,8 @@
         "8070149",
         "8072490",
         "7784503",
-        "8073062"
+        "8073062",
+        "7892783"
     ],
     "Kaseya": [
         "6022140004",
@@ -54282,7 +54317,8 @@
         "8071846",
         "8060431",
         "8071841",
-        "8069221"
+        "8069221",
+        "8072138"
     ],
     "Propel": [],
     "Canva": [],
@@ -55607,7 +55643,8 @@
         "8069796",
         "8070389",
         "8008410",
-        "8070230"
+        "8070230",
+        "8074225"
     ],
     "Spotify": [],
     "Snap": [],
