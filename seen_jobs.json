@@ -1352,7 +1352,8 @@
         "8040940",
         "8049722",
         "8053417",
-        "8070480"
+        "8070480",
+        "8066310"
     ],
     "Figma": [
         "5426468004",
@@ -2926,7 +2927,9 @@
         "4712114005",
         "4715340005",
         "4715775005",
-        "4715361005"
+        "4715361005",
+        "4716521005",
+        "4716524005"
     ],
     "Rippling": [],
     "Slice": [
@@ -7501,7 +7504,8 @@
         "8056247",
         "8064148",
         "8025839",
-        "8071484"
+        "8071484",
+        "8068786"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -9594,7 +9598,11 @@
         "8064440",
         "8070846",
         "8050392",
-        "8070871"
+        "8070871",
+        "8071219",
+        "8071189",
+        "8071238",
+        "8070842"
     ],
     "DoorDash": [
         "7927511",
@@ -15244,7 +15252,14 @@
         "R-284435",
         "R-284408",
         "R-286321",
-        "R-280999"
+        "R-280999",
+        "R-282772",
+        "R-280996",
+        "R-281909",
+        "R-281863",
+        "R-282000",
+        "R-281011",
+        "R-282618"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -19903,7 +19918,10 @@
         "R350958",
         "R350960",
         "R350790",
-        "R351176"
+        "R351176",
+        "R352311",
+        "R352318",
+        "R352317"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20681,7 +20699,8 @@
         "Senior-Network-Architect_J-83061",
         "Pharma-Event-Planner-with-English-and-German_J-83060",
         "Specialized-Travel-Counselor---Production_J-83560",
-        "Specialized-Travel-Counselor---Production_J-83561"
+        "Specialized-Travel-Counselor---Production_J-83561",
+        "Team-Coach_J-83703"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -20846,7 +20865,8 @@
         "Assistant-Vice-President--AML-Refresh-Operations_26024530",
         "Vice-President--Sr-Country-Compliance-and-Operational-Risk-Manager_26024537-1",
         "AVP---VP---Operations-Manager---Data-and-Reporting-Operations-Management_26023762",
-        "Operations-Team-lead_26021132"
+        "Operations-Team-lead_26021132",
+        "Associate--Equity-Research--Global-Research--Japan_26024734"
     ],
     "BlackRock": [
         "R263666",
@@ -21823,7 +21843,8 @@
         "R265237",
         "R265110",
         "R265220",
-        "R265103"
+        "R265103",
+        "R265374"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -22253,7 +22274,8 @@
         "R6826",
         "R6929",
         "R6895",
-        "R6936"
+        "R6936",
+        "R6897"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -24159,7 +24181,8 @@
         "Intern_868669",
         "Senior-Analyst-Middle-Office-Client-Service_868489",
         "VP-Business-Development---Crypto-Markets_868271",
-        "Associate-Director--Research-Analyst_868861"
+        "Associate-Director--Research-Analyst_868861",
+        "Senior-Financial-Analyst---Workday-Financials-Support_868491"
     ],
     "Invesco": [
         "R-13647",
@@ -28077,7 +28100,8 @@
         "3fd0ca32-e787-437d-985a-b9f7e3299ef4",
         "9bbea80a-7336-48f1-9dca-554f4354a5cf",
         "000cf0f2-090d-40c6-b9f8-1699db9a4c68",
-        "713a9469-fb35-49db-809e-36f67c920880"
+        "713a9469-fb35-49db-809e-36f67c920880",
+        "0fae998b-5295-4567-b4b5-b20cf0346da3"
     ],
     "Anthropic": [
         "5101832008",
@@ -33658,7 +33682,8 @@
         "R170032",
         "R162937",
         "R170223-1",
-        "R170157-1"
+        "R170157-1",
+        "R170509"
     ],
     "Workday": [
         "R-0106509-1",
@@ -38382,7 +38407,10 @@
         "R2021548",
         "R2021364",
         "R2021547",
-        "R2020356"
+        "R2020356",
+        "R2021486",
+        "R2021549",
+        "R2020980"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -42622,7 +42650,19 @@
         "R0000445797",
         "R0000446157",
         "R0000445425-1",
-        "R0000446236"
+        "R0000446236",
+        "R0000445546",
+        "R0000446216",
+        "R0000445346-1",
+        "R0000446185",
+        "R0000446145",
+        "R0000446205",
+        "R0000446215",
+        "R0000446245",
+        "R0000445780",
+        "R0000446188",
+        "R0000446178-1",
+        "R0000446108"
     ],
     "Zoom": [
         "R18188-1",
@@ -43994,7 +44034,8 @@
         "9850e566-bd16-4e0d-9291-7d60ace478f9",
         "9fe27533-a024-40f5-8467-2164112ac68e",
         "00f7e25d-894d-450c-adfd-6d286913f78a",
-        "c4dd4896-f3ee-405a-8ce5-bf44b1fba694"
+        "c4dd4896-f3ee-405a-8ce5-bf44b1fba694",
+        "5f8eef0d-86fc-4c24-95b5-ae22dfd7e423"
     ],
     "Airtable": [
         "8403127002",
@@ -48299,7 +48340,9 @@
         "Manager--FX---Cross-Border-Commercialization_REF084728W-1",
         "Sr-Manager--Visa-Consulting-and-Analytics--VCA---Implementation-Services_REF085128W",
         "Director_REF085112W",
-        "Lead-SW-Engineer_REF084919W"
+        "Lead-SW-Engineer_REF084919W",
+        "Associate-Technical-Program-Analyst_REF084974W",
+        "Marketing-Services-Manager_REF085139W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -50201,7 +50244,9 @@
         "Front-Office-Guest-Experience-Manager_10155304",
         "Financial-Systems-Manager_10156241",
         "Sous-Chef---Cotino--A-Storyliving-by-Disney-Community_10155770",
-        "Head-Chef---Cotino--A-Storyliving-by-Disney-Community_10155864"
+        "Head-Chef---Cotino--A-Storyliving-by-Disney-Community_10155864",
+        "Disneyland-Construction-Project-Management-Intern--Spring-2027_10155115",
+        "Disneyland-Construction-Superintendent-Intern--Spring-2027_10155117"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -52332,7 +52377,9 @@
         "R-65158",
         "R-64280",
         "R-64785",
-        "R-64855-1"
+        "R-64855-1",
+        "R-57951",
+        "R-60248"
     ],
     "Chime": [
         "8391630002",
@@ -52683,7 +52730,8 @@
         "8633005002",
         "8632984002",
         "8637106002",
-        "8638235002"
+        "8638235002",
+        "8623910002"
     ],
     "Sezzle": [
         "7710056003",
@@ -55188,7 +55236,8 @@
         "8070884",
         "8069141",
         "8048116",
-        "8043142"
+        "8043142",
+        "8073928"
     ],
     "Roku": [
         "8023364",
