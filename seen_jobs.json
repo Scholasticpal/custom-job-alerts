@@ -1360,7 +1360,10 @@
         "8070570",
         "8074923",
         "8060387",
-        "8072213"
+        "8072213",
+        "8069941",
+        "8070260",
+        "8075469"
     ],
     "Figma": [
         "5426468004",
@@ -7547,7 +7550,8 @@
         "8071484",
         "8068786",
         "8053478",
-        "8069527"
+        "8069527",
+        "8069567"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -15338,7 +15342,8 @@
         "R-286251-1",
         "R-284431",
         "R-282546-2",
-        "R-286173"
+        "R-286173",
+        "R-277538"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20020,7 +20025,9 @@
         "R352081",
         "R351812",
         "R345631-1",
-        "R351491-1"
+        "R351491-1",
+        "R352240",
+        "R339777-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20802,7 +20809,8 @@
         "Team-Coach_J-83703",
         "Senior-Travel-Consultant_J-83704",
         "Project-Manager_J-79614-1",
-        "Senior-Lead-Engineer_J-83564-1"
+        "Senior-Lead-Engineer_J-83564-1",
+        "Customer-Success-Specialist--Remote-_J-83017"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -22680,7 +22688,8 @@
         "R32218",
         "R-2026_R32764",
         "R32624",
-        "R32783"
+        "R32783",
+        "R32807"
     ],
     "Fiserv": [
         "R-10392824",
@@ -31112,7 +31121,9 @@
         "6113157004",
         "6115991004",
         "6117204004",
-        "6117209004"
+        "6117209004",
+        "6119846004",
+        "6119988004"
     ],
     "MongoDB": [
         "7574659",
@@ -31925,7 +31936,8 @@
         "8071805",
         "8070484",
         "8072504",
-        "8072506"
+        "8072506",
+        "8072839"
     ],
     "Datadog": [
         "7194969",
@@ -32688,7 +32700,8 @@
         "6690499",
         "8064226",
         "8059723",
-        "8074318"
+        "8074318",
+        "8075709"
     ],
     "Elastic": [
         "7505982",
@@ -34795,7 +34808,8 @@
         "R-0108687",
         "R-0108771-1",
         "R-0108746",
-        "R-0108773"
+        "R-0108773",
+        "R-0108807"
     ],
     "CrowdStrike": [
         "R26911",
@@ -35577,7 +35591,8 @@
         "R29427",
         "R29375",
         "R29382-1",
-        "R29401"
+        "R29401",
+        "R29479"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -38626,7 +38641,8 @@
         "R2021290",
         "R2021109",
         "R2021671",
-        "R2012287"
+        "R2012287",
+        "R2015071"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -38839,7 +38855,8 @@
         "ASIC-Link-Modeling-Technical-Leader_2012338",
         "ASIC-Design-Verification-Technical-Leader_2012214",
         "ASIC-Design-Verification-Engineer_2010971-1",
-        "IC-Package-Design-Engineer_2011083"
+        "IC-Package-Design-Engineer_2011083",
+        "Senior-Software-Engineering-Manager---DPU---AI-Cloud-Infrastructure_2019843"
     ],
     "Intel": [
         "R0283052",
@@ -42923,7 +42940,10 @@
         "R0000446349",
         "R0000446338",
         "R0000445948",
-        "R0000441626"
+        "R0000441626",
+        "R0000446313-1",
+        "R0000446331",
+        "R0000446003"
     ],
     "Zoom": [
         "R18188-1",
@@ -43214,7 +43234,8 @@
         "R19394-1",
         "R19393-1",
         "R19381-1",
-        "R19382"
+        "R19382",
+        "R19400"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -43915,7 +43936,9 @@
         "R-107935-1",
         "R-107862-1",
         "R-107903",
-        "R-107951"
+        "R-107951",
+        "R-108056",
+        "R-105638-2"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -44785,7 +44808,8 @@
         "afd7e838-bd5e-4697-94ea-5d31fe1b00fd",
         "4dfb4360-330b-4cdc-a427-72f24389f947",
         "1e6c4acf-d98a-46ac-bacb-d609ca1326c1",
-        "e49063ea-b829-4718-be74-02f36fa3d983"
+        "e49063ea-b829-4718-be74-02f36fa3d983",
+        "fc5cb642-23df-430e-ae84-67215384be1c"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -47130,7 +47154,8 @@
         "dd44652f-b7a6-47f5-9794-2ca10f77717f",
         "763f56e4-c87d-4257-8b72-cc827ef44abc",
         "797ac2bb-fd37-4943-8513-55d2d4ef9259",
-        "5a85a8a8-c0b2-480a-aaaf-ac90667b90ab"
+        "5a85a8a8-c0b2-480a-aaaf-ac90667b90ab",
+        "f1fe10fc-c3b3-44ad-bb10-31b8e85344b2"
     ],
     "Smallcase": [],
     "KreditBee": [],
@@ -48648,7 +48673,9 @@
         "Sr-Manager--Marketing-Services-Delivery_REF084780W-1",
         "Senior-Software-Engineer--Credit-Cycle_REF085091W",
         "Director--Automation-and-Reporting_REF082301W",
-        "Sr-ML-Engineer_REF083236W"
+        "Sr-ML-Engineer_REF083236W",
+        "Consulting-Project-Manager_REF085078W",
+        "Director--Product-Solutioning---Go-To-Market--Visa-Direct-Canada_REF084703W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -49355,7 +49382,9 @@
         "DevSecOps-Engineer_26WD96805",
         "Research-Engineer_26WD97952-1",
         "Renewals-Representative--Account-Based--Nordics--AP102545-_26WD100001-2",
-        "Software-QA-Engineer_26WD99678-1"
+        "Software-QA-Engineer_26WD99678-1",
+        "Senior-Applied-AI-ML-Developer_26WD99788-1",
+        "Accounts-Representative--Expansion_26WD100030"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -50566,7 +50595,9 @@
         "Planner-Contract-Management_10154872",
         "Analyst--Regional-Treasury_10155290",
         "Lead-Product-Software-Engineer_10154443",
-        "Club-33-Event-Design---Delivery-Manager_10154450-1"
+        "Club-33-Event-Design---Delivery-Manager_10154450-1",
+        "Production-Associate---Disney-Television-Animation_10151461-2",
+        "Manager--Product-Management_10146083"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -53851,7 +53882,9 @@
         "7892783",
         "7926482",
         "8073066",
-        "8075386"
+        "8075386",
+        "8072698",
+        "8069707"
     ],
     "Kaseya": [
         "6022140004",
@@ -54789,7 +54822,8 @@
         "8634427002",
         "8634346002",
         "8639202002",
-        "8639265002"
+        "8639265002",
+        "8639200002"
     ],
     "Coupang": [
         "7915234",
@@ -55892,7 +55926,8 @@
         "8070389",
         "8008410",
         "8070230",
-        "8074225"
+        "8074225",
+        "8075786"
     ],
     "Spotify": [],
     "Snap": [],
