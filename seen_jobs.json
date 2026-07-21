@@ -1368,7 +1368,8 @@
         "8074892",
         "8074125",
         "8044391",
-        "8076108"
+        "8076108",
+        "8007738"
     ],
     "Figma": [
         "5426468004",
@@ -2200,7 +2201,8 @@
         "10479626",
         "10479627",
         "10479653",
-        "10479788"
+        "10479788",
+        "10479936"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -7576,7 +7578,8 @@
         "8068786",
         "8053478",
         "8069527",
-        "8069567"
+        "8069567",
+        "8071123"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -8704,7 +8707,8 @@
         "8067630",
         "8068479",
         "8066716",
-        "8045313"
+        "8045313",
+        "7544182"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -10277,7 +10281,11 @@
         "8075182",
         "8073139",
         "8075920",
-        "8070723"
+        "8070723",
+        "8076002",
+        "8074781",
+        "8074768",
+        "7336853"
     ],
     "GitHub": [],
     "Twilio": [
@@ -15406,7 +15414,13 @@
         "R-286223",
         "R-286222",
         "R-286224",
-        "R-2_R-286225"
+        "R-2_R-286225",
+        "R-284455",
+        "R-281017",
+        "R-282472",
+        "R-281590",
+        "R-286406",
+        "R-282375"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20898,7 +20912,9 @@
         "Senior-Lead-Engineer_J-83564-1",
         "Customer-Success-Specialist--Remote-_J-83017",
         "ETL-Developer_J-81501",
-        "Senior-Travel-Counselor_J-83719"
+        "Senior-Travel-Counselor_J-83719",
+        "HR-Administration-Coordinator-with-French_J-83745",
+        "Middleware-Platform-Engineer_J-83571"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -22062,7 +22078,8 @@
         "R265233",
         "R264724",
         "R265319-1",
-        "R257614"
+        "R257614",
+        "R264722"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -24145,7 +24162,8 @@
         "R-10399192",
         "R-10399107",
         "R-10398712",
-        "R-10398711"
+        "R-10398711",
+        "R-10398481"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -24415,7 +24433,8 @@
         "Investment-Technology-Business-Solutions-Lead----Franklin-Equity-_868656",
         "Lead-Fund-Accounting-Analyst_868665-1",
         "Senior-Specialist---Middle-Office-Client-Services_868558-1",
-        "Fund-Administration---Oversight-Lead-Analyst_868547-1"
+        "Fund-Administration---Oversight-Lead-Analyst_868547-1",
+        "Investment-Risk-Consultant--Risk-Management--CFA-FRM--SQL--Python-_868825"
     ],
     "Invesco": [
         "R-13647",
@@ -32060,7 +32079,8 @@
         "8072506",
         "8072839",
         "7615794",
-        "8053153"
+        "8053153",
+        "8050412"
     ],
     "Datadog": [
         "7194969",
@@ -32825,7 +32845,9 @@
         "8059723",
         "8074318",
         "8075709",
-        "8074211"
+        "8074211",
+        "8076871",
+        "8067190"
     ],
     "Elastic": [
         "7505982",
@@ -33676,7 +33698,8 @@
         "8054689",
         "8075658",
         "8072508",
-        "8055062"
+        "8055062",
+        "7950878"
     ],
     "Coursera": [
         "5839408004",
@@ -34943,7 +34966,8 @@
         "R-0108807",
         "R-0108777",
         "R-0108885-1",
-        "R-0108826"
+        "R-0108826",
+        "R-0108752"
     ],
     "CrowdStrike": [
         "R26911",
@@ -35731,7 +35755,9 @@
         "R29406",
         "R29446",
         "R29444",
-        "R29402"
+        "R29402",
+        "R29174",
+        "R29211"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -38814,7 +38840,8 @@
         "R2020281",
         "R2020607",
         "R2009523",
-        "R2003703"
+        "R2003703",
+        "R2017552"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -43142,7 +43169,23 @@
         "R0000445872",
         "R0000446362",
         "R0000445772",
-        "R0000446422"
+        "R0000446422",
+        "R0000446443",
+        "R0000446433",
+        "R0000446475",
+        "R0000400326-1",
+        "R0000446376",
+        "R0000446366",
+        "R0000446356",
+        "R0000441165",
+        "R0000446465",
+        "R0000446464",
+        "R0000446462",
+        "R0000446460",
+        "R0000446459",
+        "R0000446458",
+        "R0000446457",
+        "R0000446456"
     ],
     "Zoom": [
         "R18188-1",
@@ -44140,7 +44183,8 @@
         "R-107903",
         "R-107951",
         "R-108056",
-        "R-105638-2"
+        "R-105638-2",
+        "R-107922"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -45727,7 +45771,8 @@
         "8066567",
         "8070840",
         "8070841",
-        "8072229"
+        "8072229",
+        "8074168"
     ],
     "Samsara": [
         "5747183",
@@ -46274,7 +46319,8 @@
         "8073246",
         "8066320",
         "7377416",
-        "8068007"
+        "8068007",
+        "8065389"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -47619,7 +47665,8 @@
         "R35166",
         "R34791",
         "R35162",
-        "R35212"
+        "R35212",
+        "R34968"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -48896,7 +48943,9 @@
         "Product-Manager--Digital-Solutions-_REF085132W",
         "Software-Engineer---Sr-Consultant-level--Java---Python--GenAI--Cloud--11-15-years--experience-_REF084892W-1",
         "Office---Event-Administrator_REF085134W",
-        "Analyst--Government-Affairs_REF085107W"
+        "Analyst--Government-Affairs_REF085107W",
+        "Staff-Site-Reliability-Engineer_REF082591W",
+        "Work-Force-Planning-Analyst_REF084609W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -49608,7 +49657,10 @@
         "Accounts-Representative--Expansion_26WD100030",
         "Manager--Technical-Adoption--India_26WD99870-1",
         "Software-Engineer--Java-Node--AWS-_26WD99744-1",
-        "Principal-Engineer---Agentic-AI_26WD99827"
+        "Principal-Engineer---Agentic-AI_26WD99827",
+        "HR--People-Senior-Advisor-FTC---6-months_26WD100081",
+        "Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
+        "Senior-Software-Engineer_26WD98312"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -50829,7 +50881,10 @@
         "Assistant-Sourcing-Manager--Global-Merchandise-Sourcing--Apparel---Disney-Consumer-Products_10148150-1",
         "Health-Data-Analyst--Project-Hire-Internal-Assignment-_10155719",
         "Werkstudent--w-m-d--im-Bereich-Media-Organization---Broadcastmanagement-_10154751",
-        "Supervisor--Social-Media---Influencers---UK---EMEA_10155517"
+        "Supervisor--Social-Media---Influencers---UK---EMEA_10155517",
+        "Construction-Field-Fire-Systems-Technician_10155056",
+        "Disney-Vacation-Club-Guide_10156531",
+        "Technicien-ne--de-Maintenance-Htel-CDD---F-H-NB_10156523"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -51578,7 +51633,8 @@
         "R000107082",
         "R000107103",
         "R000106987-1",
-        "R000107160"
+        "R000107160",
+        "R000105787"
     ],
     "Kyndryl": [
         "R-61530",
@@ -53009,7 +53065,8 @@
         "R-64897-1",
         "R-65174",
         "R-65233",
-        "R-65193-1"
+        "R-65193-1",
+        "R-61305"
     ],
     "Chime": [
         "8391630002",
@@ -54143,7 +54200,8 @@
         "8075386",
         "8072698",
         "8069707",
-        "8070157"
+        "8070157",
+        "8075147"
     ],
     "Kaseya": [
         "6022140004",
@@ -54308,7 +54366,8 @@
         "5969615004",
         "6118985004",
         "6119812004",
-        "6115377004"
+        "6115377004",
+        "6107388004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -54859,7 +54918,8 @@
         "8069747",
         "7949869",
         "8071780",
-        "8076637"
+        "8076637",
+        "8076756"
     ],
     "Propel": [],
     "Canva": [],
