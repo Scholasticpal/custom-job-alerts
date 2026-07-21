@@ -1367,7 +1367,8 @@
         "8068521",
         "8074892",
         "8074125",
-        "8044391"
+        "8044391",
+        "8076108"
     ],
     "Figma": [
         "5426468004",
@@ -2197,7 +2198,8 @@
         "10479624",
         "10479625",
         "10479626",
-        "10479627"
+        "10479627",
+        "10479653"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -7097,7 +7099,8 @@
         "8567993002",
         "8638644002",
         "8637368002",
-        "7294953002"
+        "7294953002",
+        "8632383002"
     ],
     "Rubrik": [
         "7310036",
@@ -9667,7 +9670,8 @@
         "8070842",
         "8073930",
         "8073959",
-        "8071173"
+        "8071173",
+        "8076325"
     ],
     "DoorDash": [
         "7927511",
@@ -10776,7 +10780,8 @@
         "8064090",
         "8071712",
         "8065930",
-        "8016422"
+        "8016422",
+        "8072907"
     ],
     "Dropbox": [
         "7646405",
@@ -15362,7 +15367,12 @@
         "R-282546-2",
         "R-286173",
         "R-277538",
-        "R-286392"
+        "R-286392",
+        "R-277971-1",
+        "R-286176",
+        "R-286279",
+        "R-286127-1",
+        "R-282020"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20055,7 +20065,9 @@
         "R352071-1",
         "R352224",
         "R352488",
-        "R350276"
+        "R350276",
+        "R351237-1",
+        "R350932"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20838,7 +20850,8 @@
         "Senior-Travel-Consultant_J-83704",
         "Project-Manager_J-79614-1",
         "Senior-Lead-Engineer_J-83564-1",
-        "Customer-Success-Specialist--Remote-_J-83017"
+        "Customer-Success-Specialist--Remote-_J-83017",
+        "ETL-Developer_J-81501"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -21008,7 +21021,9 @@
         "Associate--Investment-Banking---Sydney-Melbourne--Perth_26024928",
         "VP--Investment-Banking---Sydney-Melbourne--Perth_26024927",
         "VP--Investment-Banking_26024923",
-        "VP--Investment-Banking_26024922"
+        "VP--Investment-Banking_26024922",
+        "Vice-President--Global-Liquidity-Solutioning--Global-Payments-Solutions--Hong-Kong-Singapore_26025183-1",
+        "Associate--Treasury-Sales-Associate--FI-Sales---Global-Payments-Solutions--Hong-Kong_26025182"
     ],
     "BlackRock": [
         "R263666",
@@ -21994,7 +22009,9 @@
         "R265384",
         "R265383-1",
         "R264902",
-        "R264974"
+        "R264974",
+        "R265233",
+        "R264724"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -24073,7 +24090,8 @@
         "R-10398121-1",
         "R-10396758",
         "R-10396755",
-        "R-10399192"
+        "R-10399192",
+        "R-10399107"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -24340,7 +24358,8 @@
         "Payroll-Analyst_868642",
         "Analyst---Institutional-Client-Reporting_868511",
         "Compliance-Officer--Business-Analyst-_868519",
-        "Investment-Technology-Business-Solutions-Lead----Franklin-Equity-_868656"
+        "Investment-Technology-Business-Solutions-Lead----Franklin-Equity-_868656",
+        "Lead-Fund-Accounting-Analyst_868665-1"
     ],
     "Invesco": [
         "R-13647",
@@ -31031,7 +31050,9 @@
         "8068377",
         "7737164",
         "8072766",
-        "8072899"
+        "8072899",
+        "8074057",
+        "8074011"
     ],
     "Vercel": [
         "5624231004",
@@ -33267,7 +33288,8 @@
         "8074854",
         "8074886",
         "8074889",
-        "8074894"
+        "8074894",
+        "8067205"
     ],
     "Asana": [
         "7120496",
@@ -34856,7 +34878,9 @@
         "R-0108771-1",
         "R-0108746",
         "R-0108773",
-        "R-0108807"
+        "R-0108807",
+        "R-0108777",
+        "R-0108885-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -35639,7 +35663,8 @@
         "R29375",
         "R29382-1",
         "R29401",
-        "R29479"
+        "R29479",
+        "R29421"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -38708,7 +38733,9 @@
         "R2021605",
         "R2021603",
         "R2021196",
-        "R2021692"
+        "R2021692",
+        "R2021341",
+        "R2020983"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -43019,7 +43046,15 @@
         "R0000445549",
         "R0000446319",
         "R0000446128-1",
-        "R0000446355"
+        "R0000446355",
+        "R0000446427",
+        "R0000446247",
+        "R0000445297",
+        "R0000446371",
+        "R0000446320",
+        "R0000446354",
+        "R0000446365",
+        "R0000446405"
     ],
     "Zoom": [
         "R18188-1",
@@ -43311,7 +43346,8 @@
         "R19393-1",
         "R19381-1",
         "R19382",
-        "R19400"
+        "R19400",
+        "R19402-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -48755,7 +48791,10 @@
         "Sr-ML-Engineer_REF083236W",
         "Consulting-Project-Manager_REF085078W",
         "Director--Product-Solutioning---Go-To-Market--Visa-Direct-Canada_REF084703W",
-        "Senior-Director--Head-of-Tech-Partnerships--Korea---Mongolia_REF084855W-1"
+        "Senior-Director--Head-of-Tech-Partnerships--Korea---Mongolia_REF084855W-1",
+        "Systems-Analyst-Storage-Engineer_REF085024W",
+        "Financial-Analyst-Experience-in-O2C-is-a-must-_REF083191W",
+        "Manager--Visa-Direct-Field-Marketing_REF084612W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -49464,7 +49503,8 @@
         "Renewals-Representative--Account-Based--Nordics--AP102545-_26WD100001-2",
         "Software-QA-Engineer_26WD99678-1",
         "Senior-Applied-AI-ML-Developer_26WD99788-1",
-        "Accounts-Representative--Expansion_26WD100030"
+        "Accounts-Representative--Expansion_26WD100030",
+        "Manager--Technical-Adoption--India_26WD99870-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -52851,7 +52891,12 @@
         "R-65155-1",
         "R-65144-1",
         "R-64775-1",
-        "R-64754"
+        "R-64754",
+        "R-64949-1",
+        "R-65102-1",
+        "R-65101-1",
+        "R-64945-1",
+        "R-64897-1"
     ],
     "Chime": [
         "8391630002",
@@ -53208,7 +53253,8 @@
         "8638235002",
         "8623910002",
         "8632676002",
-        "8641552002"
+        "8641552002",
+        "8609318002"
     ],
     "Sezzle": [
         "7710056003",
@@ -55742,7 +55788,11 @@
         "8040785",
         "8063732",
         "8074135",
-        "8076295"
+        "8076295",
+        "8073830",
+        "8073832",
+        "8076303",
+        "8073876"
     ],
     "Roku": [
         "8023364",
