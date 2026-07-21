@@ -5237,7 +5237,8 @@
         "8074765",
         "8077683",
         "8077612",
-        "8077506"
+        "8077506",
+        "8077787"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -7604,7 +7605,8 @@
         "8053478",
         "8069527",
         "8069567",
-        "8071123"
+        "8071123",
+        "8074751"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -10317,7 +10319,8 @@
         "8074768",
         "7336853",
         "7794002",
-        "8076663"
+        "8076663",
+        "8077028"
     ],
     "GitHub": [],
     "Twilio": [
@@ -10840,7 +10843,8 @@
         "8072907",
         "8065030",
         "8045978",
-        "8069245"
+        "8069245",
+        "8069243"
     ],
     "Dropbox": [
         "7646405",
@@ -15468,7 +15472,8 @@
         "R-281889",
         "R-286319",
         "R-286340",
-        "R-286448"
+        "R-286448",
+        "R-282464"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20182,7 +20187,8 @@
         "R352466",
         "R351307",
         "R352955",
-        "R352952"
+        "R352952",
+        "R352922-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22573,7 +22579,8 @@
         "R6936",
         "R6897",
         "R6949",
-        "R6857-1"
+        "R6857-1",
+        "R6925"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -29332,7 +29339,8 @@
         "5305402008",
         "5364336008",
         "5363352008",
-        "5363469008"
+        "5363469008",
+        "5365524008"
     ],
     "Coinbase": [
         "7559052",
@@ -32187,7 +32195,8 @@
         "8051379",
         "8051387",
         "8075611",
-        "8077553"
+        "8077553",
+        "8054597"
     ],
     "Datadog": [
         "7194969",
@@ -33812,7 +33821,8 @@
         "8055062",
         "7950878",
         "7964275",
-        "8024052"
+        "8024052",
+        "8065753"
     ],
     "Coursera": [
         "5839408004",
@@ -35088,7 +35098,8 @@
         "R-0107329",
         "R-0108743-1",
         "R-0108227-1",
-        "R-0108772"
+        "R-0108772",
+        "R-0106669"
     ],
     "CrowdStrike": [
         "R26911",
@@ -35883,7 +35894,8 @@
         "R29453",
         "R29388",
         "R29056",
-        "R27101"
+        "R27101",
+        "R29410"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -38975,7 +38987,12 @@
         "R2020098",
         "R2021611",
         "R2021360",
-        "R2021066"
+        "R2021066",
+        "R1994884",
+        "R1996377",
+        "R1998106",
+        "R2012806",
+        "R2020068"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -43330,7 +43347,9 @@
         "R0000446384",
         "R0000445649",
         "R0000446345",
-        "R0000446469-1"
+        "R0000446469-1",
+        "R0000446543",
+        "R0000446527"
     ],
     "Zoom": [
         "R18188-1",
@@ -43626,7 +43645,8 @@
         "R19402-1",
         "R19404-1",
         "R19406",
-        "R19407"
+        "R19407",
+        "R19399-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -44332,7 +44352,8 @@
         "R-105638-2",
         "R-107922",
         "R-108036",
-        "R-107813-CUSTOMER-SERVICE-ASSOCIATE---PORTUGUESE-ENGLISH-SUPPORT--6-MONTH-TEMPORARY-ASSIGNMENT-_R-108151"
+        "R-107813-CUSTOMER-SERVICE-ASSOCIATE---PORTUGUESE-ENGLISH-SUPPORT--6-MONTH-TEMPORARY-ASSIGNMENT-_R-108151",
+        "R-108184-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -46475,7 +46496,8 @@
         "8068007",
         "8065389",
         "8074109",
-        "8065687"
+        "8065687",
+        "8042166"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -47824,7 +47846,8 @@
         "R35162",
         "R35212",
         "R34968",
-        "R34951"
+        "R34951",
+        "R34824"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -49106,7 +49129,12 @@
         "Work-Force-Planning-Analyst_REF084609W",
         "Sr-Manager--Client-Consulting_REF078953W",
         "Product-Analyst_REF081144W-1",
-        "Senior-Manager--Visa-Consulting-and-Analytics--VCA--Core-Consulting-Practice_REF078596W-1"
+        "Senior-Manager--Visa-Consulting-and-Analytics--VCA--Core-Consulting-Practice_REF078596W-1",
+        "Senior-Director--Real-Estate---Latin-America---Caribbean_REF080215W-1",
+        "Sr-Manager---Product-Compliance--Visa-Acceptance-Solutions_REF074297W",
+        "Manager--Enablers-and-Processors-Partnerships--LAC_REF085048W-1",
+        "Senior-Product-Manager---Visa-Commercial-Virtual-Cards_REF082908W",
+        "Director--Visa-Direct-FI-Sales_REF085147W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -51064,7 +51092,8 @@
         "Photo-Production-Coordinator--National-Geographic-_10156271",
         "Manager--Photo---Special-Projects--National-Geographic-_10156262-1",
         "Producer-Editor--Preditor---National-Geographic-_10156492",
-        "Sr-Software-Engineer---Content-Platform-Engineering_10142399-1"
+        "Sr-Software-Engineer---Content-Platform-Engineering_10142399-1",
+        "Analyst--Live-Sports---Forecasting--ESPN-Research_10155329"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -54564,7 +54593,9 @@
         "6119812004",
         "6115377004",
         "6107388004",
-        "6115950004"
+        "6115950004",
+        "6115948004",
+        "6115958004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -55119,7 +55150,11 @@
         "8076756",
         "8076812",
         "8066938",
-        "8065231"
+        "8065231",
+        "8077955",
+        "8077952",
+        "8077927",
+        "8077956"
     ],
     "Propel": [],
     "Canva": [],
