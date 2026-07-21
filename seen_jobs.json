@@ -5384,7 +5384,8 @@
         "8068925",
         "8055190",
         "8074310",
-        "8069686"
+        "8069686",
+        "8078008"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -8740,7 +8741,9 @@
         "8076565",
         "8076538",
         "8075795",
-        "8075719"
+        "8075719",
+        "8077614",
+        "8075765"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -8826,7 +8829,8 @@
         "8064191",
         "8010087",
         "8067982",
-        "8068665"
+        "8068665",
+        "8078027"
     ],
     "Agoda": [
         "7533345",
@@ -10844,7 +10848,8 @@
         "8065030",
         "8045978",
         "8069245",
-        "8069243"
+        "8069243",
+        "8065928"
     ],
     "Dropbox": [
         "7646405",
@@ -15473,7 +15478,8 @@
         "R-286319",
         "R-286340",
         "R-286448",
-        "R-282464"
+        "R-282464",
+        "R-286317"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20188,7 +20194,10 @@
         "R351307",
         "R352955",
         "R352952",
-        "R352922-1"
+        "R352922-1",
+        "R352971",
+        "R352442",
+        "R350092"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22360,7 +22369,10 @@
         "Blackstone-Credit---Insurance--BXCI---Origination-Principal_44035-1",
         "Executive-Assistant--Institutional-Client-Solutions---Sydney_43965",
         "Blackstone-Credit---Insurance---LCS--Restructuring--Senior-Associate_44073",
-        "Blackstone-Credit---Insurance---Infrastructure-and-Asset-Based-Credit--Quant-Senior-Associate_44082"
+        "Blackstone-Credit---Insurance---Infrastructure-and-Asset-Based-Credit--Quant-Senior-Associate_44082",
+        "Product-Control-and-Reporting--Assistant-Vice-President--Blackstone-Credit---Insurance_44114",
+        "Legal---Compliance---Conflicts-Clearance--VP_44116-1",
+        "Blackstone-Private-Wealth---Investor-Services--Associate_44115"
     ],
     "Capital Group": [
         "R6549",
@@ -28459,7 +28471,10 @@
         "fd5522f1-8e39-4d60-8b8a-34fae61104cb",
         "d2164371-83b0-4a39-86b1-f6c497bad175",
         "b29816ed-6ffc-4ab4-a98c-7f0e051762e5",
-        "5edd5a13-2fc9-427c-ad88-2b67c97a0afe"
+        "5edd5a13-2fc9-427c-ad88-2b67c97a0afe",
+        "f0874e25-67f7-4cfd-988b-f37f3added51",
+        "aeeabb7a-f6e0-4e8d-a9ad-ae3464288125",
+        "b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea"
     ],
     "Anthropic": [
         "5101832008",
@@ -29340,7 +29355,9 @@
         "5364336008",
         "5363352008",
         "5363469008",
-        "5365524008"
+        "5365524008",
+        "5358112008",
+        "5364804008"
     ],
     "Coinbase": [
         "7559052",
@@ -29780,7 +29797,8 @@
         "8637648002",
         "8637188002",
         "8597656002",
-        "8643403002"
+        "8643403002",
+        "8635949002"
     ],
     "Reddit": [
         "7011741",
@@ -33822,7 +33840,9 @@
         "7950878",
         "7964275",
         "8024052",
-        "8065753"
+        "8065753",
+        "8078094",
+        "8078097"
     ],
     "Coursera": [
         "5839408004",
@@ -35895,7 +35915,11 @@
         "R29388",
         "R29056",
         "R27101",
-        "R29410"
+        "R29410",
+        "R29434",
+        "R29483",
+        "R29418",
+        "R29478"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -38992,7 +39016,9 @@
         "R1996377",
         "R1998106",
         "R2012806",
-        "R2020068"
+        "R2020068",
+        "R2021615",
+        "R2021765-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -43349,7 +43375,8 @@
         "R0000446345",
         "R0000446469-1",
         "R0000446543",
-        "R0000446527"
+        "R0000446527",
+        "R0000446540"
     ],
     "Zoom": [
         "R18188-1",
@@ -43646,7 +43673,8 @@
         "R19404-1",
         "R19406",
         "R19407",
-        "R19399-1"
+        "R19399-1",
+        "R19408"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -45231,7 +45259,8 @@
         "e49063ea-b829-4718-be74-02f36fa3d983",
         "fc5cb642-23df-430e-ae84-67215384be1c",
         "cd987666-aeda-4da6-a23c-d84d4231d33b",
-        "10306789-4fd5-4f1d-90aa-8132c2df2848"
+        "10306789-4fd5-4f1d-90aa-8132c2df2848",
+        "28239d75-5dd9-41fb-ba43-cb08b491be2b"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -49134,7 +49163,9 @@
         "Sr-Manager---Product-Compliance--Visa-Acceptance-Solutions_REF074297W",
         "Manager--Enablers-and-Processors-Partnerships--LAC_REF085048W-1",
         "Senior-Product-Manager---Visa-Commercial-Virtual-Cards_REF082908W",
-        "Director--Visa-Direct-FI-Sales_REF085147W"
+        "Director--Visa-Direct-FI-Sales_REF085147W",
+        "Director--Client-Success_REF076078W",
+        "Sr-IT-Auditor_REF082912W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -51093,7 +51124,8 @@
         "Manager--Photo---Special-Projects--National-Geographic-_10156262-1",
         "Producer-Editor--Preditor---National-Geographic-_10156492",
         "Sr-Software-Engineer---Content-Platform-Engineering_10142399-1",
-        "Analyst--Live-Sports---Forecasting--ESPN-Research_10155329"
+        "Analyst--Live-Sports---Forecasting--ESPN-Research_10155329",
+        "Charg-e--Marketing-F-H-NB---CDI_10154936"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -53282,7 +53314,8 @@
         "R-64975",
         "R-64997-1",
         "R-64899",
-        "R-65387-1"
+        "R-65387-1",
+        "R-58983"
     ],
     "Chime": [
         "8391630002",
@@ -53393,7 +53426,8 @@
         "4620432005",
         "4680827005",
         "4704489005",
-        "4713572005"
+        "4713572005",
+        "4587190005"
     ],
     "Fireblocks": [
         "4655907006",
@@ -54426,7 +54460,8 @@
         "8075147",
         "8069591",
         "8077517",
-        "8064877"
+        "8064877",
+        "8078084"
     ],
     "Kaseya": [
         "6022140004",
@@ -56212,7 +56247,8 @@
         "8076371",
         "8068982",
         "8076178",
-        "8076612"
+        "8076612",
+        "8056265"
     ],
     "Roku": [
         "8023364",
