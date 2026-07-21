@@ -10849,7 +10849,9 @@
         "8045978",
         "8069245",
         "8069243",
-        "8065928"
+        "8065928",
+        "8078099",
+        "8077538"
     ],
     "Dropbox": [
         "7646405",
@@ -15479,7 +15481,9 @@
         "R-286340",
         "R-286448",
         "R-282464",
-        "R-286317"
+        "R-286317",
+        "R-278868",
+        "R-277417"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20985,7 +20989,8 @@
         "Senior-Travel-Counselor_J-83719",
         "HR-Administration-Coordinator-with-French_J-83745",
         "Middleware-Platform-Engineer_J-83571",
-        "Travel-Counselor-I-Army_J-83584"
+        "Travel-Counselor-I-Army_J-83584",
+        "Regional-Client-Management-Executive_J-83521-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -28474,7 +28479,8 @@
         "5edd5a13-2fc9-427c-ad88-2b67c97a0afe",
         "f0874e25-67f7-4cfd-988b-f37f3added51",
         "aeeabb7a-f6e0-4e8d-a9ad-ae3464288125",
-        "b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea"
+        "b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
+        "699906ce-a9fd-4a33-9d02-342bc3b90690"
     ],
     "Anthropic": [
         "5101832008",
@@ -29357,7 +29363,8 @@
         "5363469008",
         "5365524008",
         "5358112008",
-        "5364804008"
+        "5364804008",
+        "5324349008"
     ],
     "Coinbase": [
         "7559052",
@@ -29798,7 +29805,8 @@
         "8637188002",
         "8597656002",
         "8643403002",
-        "8635949002"
+        "8635949002",
+        "8642085002"
     ],
     "Reddit": [
         "7011741",
@@ -35919,7 +35927,8 @@
         "R29434",
         "R29483",
         "R29418",
-        "R29478"
+        "R29478",
+        "R29360"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -39018,7 +39027,8 @@
         "R2012806",
         "R2020068",
         "R2021615",
-        "R2021765-1"
+        "R2021765-1",
+        "R2021841"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -43376,7 +43386,8 @@
         "R0000446469-1",
         "R0000446543",
         "R0000446527",
-        "R0000446540"
+        "R0000446540",
+        "R0000446550"
     ],
     "Zoom": [
         "R18188-1",
@@ -45098,7 +45109,10 @@
         "4715970005",
         "4715976005",
         "4716453005",
-        "4716836005"
+        "4716836005",
+        "4716908005",
+        "4716784005",
+        "4716772005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -46526,7 +46540,8 @@
         "8065389",
         "8074109",
         "8065687",
-        "8042166"
+        "8042166",
+        "8068410"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -47474,7 +47489,8 @@
         "8016632",
         "8030915",
         "8016728",
-        "8067109"
+        "8067109",
+        "8078223"
     ],
     "Twitch": [
         "8334413002",
@@ -47592,7 +47608,10 @@
         "8635694002",
         "8639417002",
         "8639346002",
-        "8639416002"
+        "8639416002",
+        "8643303002",
+        "8643819002",
+        "8643818002"
     ],
     "Yelp": [],
     "Jupiter Money": [],
@@ -51125,7 +51144,10 @@
         "Producer-Editor--Preditor---National-Geographic-_10156492",
         "Sr-Software-Engineer---Content-Platform-Engineering_10142399-1",
         "Analyst--Live-Sports---Forecasting--ESPN-Research_10155329",
-        "Charg-e--Marketing-F-H-NB---CDI_10154936"
+        "Charg-e--Marketing-F-H-NB---CDI_10154936",
+        "Executive-Assistant--Marketing-Operations---Technology--DET-_10155446",
+        "Multiplatform-Partnerships-Associate--Disney-Entertainment-_10155125",
+        "Senior-International-Trade-Finance-Analyst_10156222"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -54461,7 +54483,9 @@
         "8069591",
         "8077517",
         "8064877",
-        "8078084"
+        "8078084",
+        "8077649",
+        "7268314"
     ],
     "Kaseya": [
         "6022140004",
@@ -56544,7 +56568,8 @@
         "8075786",
         "8010107",
         "7985027",
-        "8076861"
+        "8076861",
+        "8078096"
     ],
     "Spotify": [],
     "Snap": [],
