@@ -2983,7 +2983,8 @@
         "4716152005",
         "4702163005",
         "4716514005",
-        "4716967005"
+        "4716967005",
+        "4715768005"
     ],
     "Rippling": [],
     "Slice": [
@@ -4386,7 +4387,8 @@
         "c468f1c9-60b3-4d5f-a582-a4000a33b463",
         "3f86f13d-14a1-42b6-a36f-b238325c7ff8",
         "324abad0-0cfa-44bc-bef3-210150b50239",
-        "1be413d0-093a-4667-8737-8343d0b60a24"
+        "1be413d0-093a-4667-8737-8343d0b60a24",
+        "837c89a3-3598-410c-a0a3-3af4927a42ed"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -7150,7 +7152,8 @@
         "8641242002",
         "8643979002",
         "8637783002",
-        "8644185002"
+        "8644185002",
+        "8643452002"
     ],
     "Rubrik": [
         "7310036",
@@ -8755,7 +8758,8 @@
         "8075795",
         "8075719",
         "8077614",
-        "8075765"
+        "8075765",
+        "8007815"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -9739,7 +9743,8 @@
         "8076549",
         "8076550",
         "8076608",
-        "8076605"
+        "8076605",
+        "8071053"
     ],
     "DoorDash": [
         "7927511",
@@ -15506,7 +15511,9 @@
         "R-277417",
         "R-282625",
         "R-282049",
-        "R-286181"
+        "R-286181",
+        "R-282262",
+        "R-282249"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20228,7 +20235,11 @@
         "R352702",
         "R352909",
         "R351721",
-        "R349577"
+        "R349577",
+        "R352935",
+        "R353024",
+        "R324494-1",
+        "R353016"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21018,7 +21029,9 @@
         "Middleware-Platform-Engineer_J-83571",
         "Travel-Counselor-I-Army_J-83584",
         "Regional-Client-Management-Executive_J-83521-1",
-        "Meeting-Planner-H-F_J-81908-1"
+        "Meeting-Planner-H-F_J-81908-1",
+        "Middleware-Platform-Engineer_J-83684",
+        "Cloud-DevOps-Engineer_J-83685"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -21194,7 +21207,8 @@
         "Director-Vice-President--Treasury-Sales-Associate--FI-Sales---Global-Payments-Solutions--Hong-Kong_26025190",
         "Managing-Director--Head-of-Product--Global-Payments-Solutions--Japan_26025184",
         "Vice-Presient--Treasury-Sales--Global-Commercial-Banking---Global-Payments-Solutions---Mumbai_26025402",
-        "Director--Treasury-Sales--Global-Commercial-Banking---Global-Payments-Solutions---Singapore_26025401"
+        "Director--Treasury-Sales--Global-Commercial-Banking---Global-Payments-Solutions---Singapore_26025401",
+        "Director--Associate-General-Counsel--India_26025403"
     ],
     "BlackRock": [
         "R263666",
@@ -22191,7 +22205,9 @@
         "R265263",
         "R265222",
         "R265348-1",
-        "R261645"
+        "R261645",
+        "R260689",
+        "R265363-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -24999,7 +25015,9 @@
         "R-14087",
         "R-14464",
         "R-14459",
-        "R-14604"
+        "R-14604",
+        "R-14824",
+        "R-14738"
     ],
     "PayPal": [
         "R0135744-1",
@@ -33895,7 +33913,9 @@
         "8065753",
         "8078094",
         "8078097",
-        "8052235"
+        "8052235",
+        "7964297",
+        "7964361"
     ],
     "Coursera": [
         "5839408004",
@@ -34219,7 +34239,8 @@
         "R170310",
         "R170030",
         "R169987-1",
-        "R170650"
+        "R170650",
+        "R170346-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -35973,7 +35994,8 @@
         "R29483",
         "R29418",
         "R29478",
-        "R29360"
+        "R29360",
+        "R29096"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -39082,7 +39104,12 @@
         "R2012348",
         "R2012350",
         "R1995824",
-        "R2016441"
+        "R2016441",
+        "R2014982",
+        "R2021649",
+        "R2021558",
+        "R2021723",
+        "R2021101"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -43449,7 +43476,14 @@
         "R0000446508",
         "R0000446504",
         "R0000446554",
-        "R0000445914-1"
+        "R0000445914-1",
+        "R0000385951",
+        "R0000446564",
+        "R0000446563",
+        "R0000444272",
+        "R0000446503",
+        "R0000445977",
+        "R0000446357"
     ],
     "Zoom": [
         "R18188-1",
@@ -43747,7 +43781,8 @@
         "R19406",
         "R19407",
         "R19399-1",
-        "R19408"
+        "R19408",
+        "R19413-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -44619,7 +44654,8 @@
         "Strategic-Account-Executive---East_113248-JOB-1",
         "Principal-Solutions-Architect---CCaaS_113254-JOB",
         "Implementation-Consultant---Lead_113252-JOB",
-        "Senior-Helpdesk-Analyst_112834-JOB-1"
+        "Senior-Helpdesk-Analyst_112834-JOB-1",
+        "Lead-UX-Writer_113298-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -45175,7 +45211,8 @@
         "4716836005",
         "4716908005",
         "4716784005",
-        "4716772005"
+        "4716772005",
+        "4717101005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -46052,7 +46089,12 @@
         "8070840",
         "8070841",
         "8072229",
-        "8074168"
+        "8074168",
+        "8078752",
+        "8078761",
+        "8078769",
+        "8078767",
+        "8078773"
     ],
     "Samsara": [
         "5747183",
@@ -47553,7 +47595,10 @@
         "8030915",
         "8016728",
         "8067109",
-        "8078223"
+        "8078223",
+        "8074878",
+        "8074880",
+        "8074872"
     ],
     "Twitch": [
         "8334413002",
@@ -49252,7 +49297,8 @@
         "Director--Visa-Direct-FI-Sales_REF085147W",
         "Director--Client-Success_REF076078W",
         "Sr-IT-Auditor_REF082912W",
-        "Vice-President---Chief-Financial-Officer--KSA--Bahrain---Oman--KBO--Region_REF085137W-1"
+        "Vice-President---Chief-Financial-Officer--KSA--Bahrain---Oman--KBO--Region_REF085137W-1",
+        "Director--FinTech-Thailand_REF085098W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -49969,7 +50015,8 @@
         "Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
         "Senior-Software-Engineer_26WD98312",
         "Senior-Account-Executive--Expansion_26WD99843-2",
-        "Senior-Full-Stack-Software-Developer_26WD100035"
+        "Senior-Full-Stack-Software-Developer_26WD100035",
+        "Digital-Renewal-Sales-Rep--Turkish-Speaker_26WD100453"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -51969,7 +52016,9 @@
         "R000106987-1",
         "R000107160",
         "R000105787",
-        "R000105589-1"
+        "R000105589-1",
+        "R000107163",
+        "R000107214"
     ],
     "Kyndryl": [
         "R-61530",
@@ -53410,7 +53459,12 @@
         "R-64899",
         "R-65387-1",
         "R-58983",
-        "R-58389"
+        "R-58389",
+        "R-65430",
+        "R-63233",
+        "R-65749-1",
+        "R-60668",
+        "R-64745-1"
     ],
     "Chime": [
         "8391630002",
@@ -54560,7 +54614,8 @@
         "8078084",
         "8077649",
         "7268314",
-        "8078400"
+        "8078400",
+        "8077108"
     ],
     "Kaseya": [
         "6022140004",
@@ -56358,7 +56413,15 @@
         "8078329",
         "8059291",
         "8068625",
-        "8078707"
+        "8078707",
+        "8009397",
+        "8078327",
+        "8076329",
+        "8078735",
+        "8066663",
+        "8078844",
+        "8073912",
+        "8078820"
     ],
     "Roku": [
         "8023364",
