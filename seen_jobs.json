@@ -1371,7 +1371,8 @@
         "8076108",
         "8007738",
         "8066953",
-        "8054241"
+        "8054241",
+        "8040825"
     ],
     "Figma": [
         "5426468004",
@@ -2210,7 +2211,8 @@
         "10479936",
         "10480632",
         "10480524",
-        "10480520"
+        "10480520",
+        "10481046"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -2980,7 +2982,8 @@
         "4716960005",
         "4716152005",
         "4702163005",
-        "4716514005"
+        "4716514005",
+        "4716967005"
     ],
     "Rippling": [],
     "Slice": [
@@ -4382,7 +4385,8 @@
         "2ce02ec9-f5c2-4be6-a0b9-1f0dd1c97b14",
         "c468f1c9-60b3-4d5f-a582-a4000a33b463",
         "3f86f13d-14a1-42b6-a36f-b238325c7ff8",
-        "324abad0-0cfa-44bc-bef3-210150b50239"
+        "324abad0-0cfa-44bc-bef3-210150b50239",
+        "1be413d0-093a-4667-8737-8343d0b60a24"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -7144,7 +7148,9 @@
         "8633741002",
         "8632282002",
         "8641242002",
-        "8643979002"
+        "8643979002",
+        "8637783002",
+        "8644185002"
     ],
     "Rubrik": [
         "7310036",
@@ -10331,7 +10337,12 @@
         "7794002",
         "8076663",
         "8077028",
-        "8078242"
+        "8078242",
+        "8078714",
+        "8070993",
+        "8071021",
+        "8078713",
+        "8070969"
     ],
     "GitHub": [],
     "Twilio": [
@@ -15493,7 +15504,9 @@
         "R-286317",
         "R-278868",
         "R-277417",
-        "R-282625"
+        "R-282625",
+        "R-282049",
+        "R-286181"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20213,7 +20226,9 @@
         "R352442",
         "R350092",
         "R352702",
-        "R352909"
+        "R352909",
+        "R351721",
+        "R349577"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21002,7 +21017,8 @@
         "HR-Administration-Coordinator-with-French_J-83745",
         "Middleware-Platform-Engineer_J-83571",
         "Travel-Counselor-I-Army_J-83584",
-        "Regional-Client-Management-Executive_J-83521-1"
+        "Regional-Client-Management-Executive_J-83521-1",
+        "Meeting-Planner-H-F_J-81908-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -22173,7 +22189,9 @@
         "R265047",
         "R265318",
         "R265263",
-        "R265222"
+        "R265222",
+        "R265348-1",
+        "R261645"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -22904,7 +22922,8 @@
         "R32624",
         "R32783",
         "R32807",
-        "R31883"
+        "R31883",
+        "R32607"
     ],
     "Fiserv": [
         "R-10392824",
@@ -32245,7 +32264,9 @@
         "8051387",
         "8075611",
         "8077553",
-        "8054597"
+        "8054597",
+        "8076599",
+        "8070880"
     ],
     "Datadog": [
         "7194969",
@@ -39057,7 +39078,11 @@
         "R2021612",
         "R2021406",
         "R2021852",
-        "R2009924"
+        "R2009924",
+        "R2012348",
+        "R2012350",
+        "R1995824",
+        "R2016441"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -43417,7 +43442,14 @@
         "R0000446527",
         "R0000446540",
         "R0000446550",
-        "R0000446553"
+        "R0000446553",
+        "R0000446381",
+        "R0000446551",
+        "R0000445351",
+        "R0000446508",
+        "R0000446504",
+        "R0000446554",
+        "R0000445914-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -47926,7 +47958,11 @@
         "R35212",
         "R34968",
         "R34951",
-        "R34824"
+        "R34824",
+        "R35191",
+        "R35189",
+        "R35192",
+        "R35193"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -49215,7 +49251,8 @@
         "Senior-Product-Manager---Visa-Commercial-Virtual-Cards_REF082908W",
         "Director--Visa-Direct-FI-Sales_REF085147W",
         "Director--Client-Success_REF076078W",
-        "Sr-IT-Auditor_REF082912W"
+        "Sr-IT-Auditor_REF082912W",
+        "Vice-President---Chief-Financial-Officer--KSA--Bahrain---Oman--KBO--Region_REF085137W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -51180,7 +51217,8 @@
         "Multiplatform-Partnerships-Associate--Disney-Entertainment-_10155125",
         "Senior-International-Trade-Finance-Analyst_10156222",
         "Senior-Creature-Technical-Director--Simulations----Expression-of-Interest---ILM-Vancouver_10156609",
-        "Creature-Technical-Director--Simulations----Expression-of-Interest---ILM-Vancouver_10156611"
+        "Creature-Technical-Director--Simulations----Expression-of-Interest---ILM-Vancouver_10156611",
+        "Manager--Merchandising_10155667-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -51930,7 +51968,8 @@
         "R000107103",
         "R000106987-1",
         "R000107160",
-        "R000105787"
+        "R000105787",
+        "R000105589-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -53370,7 +53409,8 @@
         "R-64997-1",
         "R-64899",
         "R-65387-1",
-        "R-58983"
+        "R-58983",
+        "R-58389"
     ],
     "Chime": [
         "8391630002",
@@ -54519,7 +54559,8 @@
         "8064877",
         "8078084",
         "8077649",
-        "7268314"
+        "7268314",
+        "8078400"
     ],
     "Kaseya": [
         "6022140004",
@@ -55247,7 +55288,8 @@
         "8077955",
         "8077952",
         "8077927",
-        "8077956"
+        "8077956",
+        "8059342"
     ],
     "Propel": [],
     "Canva": [],
@@ -56313,7 +56355,10 @@
         "8073848",
         "8078331",
         "8078335",
-        "8078329"
+        "8078329",
+        "8059291",
+        "8068625",
+        "8078707"
     ],
     "Roku": [
         "8023364",
