@@ -3714,7 +3714,12 @@
         "8642813002",
         "8643415002",
         "8643416002",
-        "8615152002"
+        "8615152002",
+        "8646194002",
+        "8645769002",
+        "8645962002",
+        "8645961002",
+        "8645963002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -5277,7 +5282,9 @@
         "8077995",
         "8078406",
         "8079072",
-        "8079378"
+        "8079378",
+        "8077451",
+        "8074897"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -7194,7 +7201,9 @@
         "8645169002",
         "8645165002",
         "8615045002",
-        "8633152002"
+        "8633152002",
+        "8636159002",
+        "8643053002"
     ],
     "Rubrik": [
         "7310036",
@@ -7663,7 +7672,8 @@
         "8069527",
         "8069567",
         "8071123",
-        "8074751"
+        "8074751",
+        "8076167"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -8894,7 +8904,8 @@
         "8010087",
         "8067982",
         "8068665",
-        "8078027"
+        "8078027",
+        "8080577"
     ],
     "Agoda": [
         "7533345",
@@ -10940,7 +10951,8 @@
         "8067913",
         "8067909",
         "8076802",
-        "8074762"
+        "8074762",
+        "8079364"
     ],
     "Dropbox": [
         "7646405",
@@ -15600,7 +15612,8 @@
         "R-286530-1",
         "R-286513",
         "R-286510",
-        "R-284470"
+        "R-284470",
+        "R-286142"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20364,7 +20377,10 @@
         "R348876",
         "R352711-1",
         "R353101",
-        "R351520-1"
+        "R351520-1",
+        "R352756",
+        "R352961",
+        "R349895-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22344,7 +22360,8 @@
         "R264768",
         "R265458",
         "R265311",
-        "R265265-1"
+        "R265265-1",
+        "R265558"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -24451,7 +24468,9 @@
         "R-10399249-1",
         "R-10398187",
         "R-10398517",
-        "R-10399171"
+        "R-10399171",
+        "R-10398186",
+        "R-10398185"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -24723,7 +24742,8 @@
         "Senior-Specialist---Middle-Office-Client-Services_868558-1",
         "Fund-Administration---Oversight-Lead-Analyst_868547-1",
         "Investment-Risk-Consultant--Risk-Management--CFA-FRM--SQL--Python-_868825",
-        "Specialist-Institutional-Portfolio-Accounting_868344"
+        "Specialist-Institutional-Portfolio-Accounting_868344",
+        "Compliance-Officer--Transfer-Agent-Registration-_868560"
     ],
     "Invesco": [
         "R-13647",
@@ -28701,7 +28721,9 @@
         "d63285eb-8ba4-46a4-bc66-6ea4776e9abb",
         "6ba0ce24-ad32-4c3b-b49c-b373be9a8480",
         "1dc6d2b7-e89f-4d76-8b26-c085b6f4d827",
-        "278990f1-59be-41ee-aad2-a9c69c5c7064"
+        "278990f1-59be-41ee-aad2-a9c69c5c7064",
+        "21734593-6318-4e55-a685-53c52c0bbfe9",
+        "c3783e22-c6b6-41d6-b0d4-2b648912268f"
     ],
     "Anthropic": [
         "5101832008",
@@ -29591,7 +29613,9 @@
         "5366138008",
         "5290838008",
         "5365762008",
-        "5362838008"
+        "5362838008",
+        "5367417008",
+        "5367026008"
     ],
     "Coinbase": [
         "7559052",
@@ -29884,7 +29908,8 @@
         "8075021",
         "8051871",
         "8078239",
-        "8072932"
+        "8072932",
+        "8064875"
     ],
     "Discord": [
         "8289766002",
@@ -33783,7 +33808,9 @@
         "8079439",
         "8080263",
         "8080260",
-        "8080264"
+        "8080264",
+        "8048317",
+        "8080011"
     ],
     "Asana": [
         "7120496",
@@ -34121,7 +34148,8 @@
         "7964361",
         "8044811",
         "8027454",
-        "8027400"
+        "8027400",
+        "8054355"
     ],
     "Coursera": [
         "5839408004",
@@ -35403,7 +35431,8 @@
         "R-0108772",
         "R-0106669",
         "R-0108913",
-        "R-0108918"
+        "R-0108918",
+        "R-0104958"
     ],
     "CrowdStrike": [
         "R26911",
@@ -36209,7 +36238,8 @@
         "R29433",
         "R29443",
         "R29439",
-        "R29424"
+        "R29424",
+        "R29454"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -39330,7 +39360,21 @@
         "R2011295",
         "R2021625",
         "R2012082",
-        "R2010881"
+        "R2010881",
+        "R2021610-1",
+        "R2006674",
+        "R2021844",
+        "R2021779",
+        "R2021815",
+        "R2008990",
+        "R2021828",
+        "R2021802",
+        "R2021708",
+        "R2020869",
+        "R2021322",
+        "R2020974",
+        "R2020902-1",
+        "R2021053-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -43722,7 +43766,8 @@
         "R0000446626",
         "R0000444025",
         "R0000446606",
-        "R0000446461"
+        "R0000446461",
+        "R0000446657"
     ],
     "Zoom": [
         "R18188-1",
@@ -44906,7 +44951,8 @@
         "Lead-UX-Writer_113298-JOB",
         "Product-Designer-II_113301-JOB-1",
         "Senior-Product-Designer_113300-JOB",
-        "Lead-Product-Designer_113299-JOB"
+        "Lead-Product-Designer_113299-JOB",
+        "Sr-Managed-Services-Consultant_113319-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -46355,7 +46401,8 @@
         "8078769",
         "8078767",
         "8078773",
-        "8045249"
+        "8045249",
+        "8080431"
     ],
     "Samsara": [
         "5747183",
@@ -47235,7 +47282,11 @@
         "e5869901-d578-4229-a856-47af76a8f39a",
         "b5362bc1-8a07-44e2-9ddc-cb4236aa0f20",
         "b908b3e4-81f9-47b3-9088-ee8dd3932003",
-        "e76eaef3-f240-467d-8260-1d6d92ed5c41"
+        "e76eaef3-f240-467d-8260-1d6d92ed5c41",
+        "bba1ecbc-e56d-48b0-b33a-aefcbffbd655",
+        "d40d5d19-8f9e-4e6b-b4d3-b7457c90adec",
+        "d7030550-f80f-422c-965f-3120db433dea",
+        "168e1345-913c-4826-a926-a07d5cf10bba"
     ],
     "Gong": [
         "4395203006",
@@ -48281,7 +48332,9 @@
         "R35193",
         "R33154",
         "R34728-1",
-        "R34800"
+        "R34800",
+        "R35209",
+        "R35207"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -49582,7 +49635,8 @@
         "Senior-Product-Manager---Global-Authentication-Product-Solutioning_REF084885W",
         "ATM-Analyst_REF084972W-1",
         "SW-Engineer---Sr-Consultant-level_REF077566W",
-        "Senior-Managing-Counsel_REF085205W"
+        "Senior-Managing-Counsel_REF085205W",
+        "Client-Care-Quality-Analyst_REF081432W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -50305,7 +50359,8 @@
         "Licensing-Compliance-Inside-Sales-Representative--Thailand-_26WD99969",
         "Maya-Software-Engineer_26WD99864",
         "Director--Business-Development_26WD100094",
-        "Senior-Digital-Workplace-Services-Professional_26WD100090-2"
+        "Senior-Digital-Workplace-Services-Professional_26WD100090-2",
+        "Principal-Product-Manager_26WD100112-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -51568,7 +51623,10 @@
         "Senior-Manager--Corporate-FP-A_10156439",
         "Financial-Analyst---AFRP--Project-Hire-Internal-Assignment-_10153456",
         "Associate-Character-Interaction-Designer--Internal-Assignment-Project-Hire-_10155969",
-        "Principal-Enterprise-Architect--Disney-Experiences-_10154962"
+        "Principal-Enterprise-Architect--Disney-Experiences-_10154962",
+        "Director--HR-Business-Partner_10155932",
+        "Security-Officer_10153122",
+        "Executive-Assistant--National-Geographic_10156360"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -57254,7 +57312,12 @@
         "7947506",
         "8074453",
         "8060210",
-        "8077679"
+        "8077679",
+        "8080512",
+        "8080532",
+        "8080474",
+        "8080312",
+        "8080310"
     ],
     "Zillow": [],
     "Epic Games": [
