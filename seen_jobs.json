@@ -2480,7 +2480,8 @@
         "dc0e292e-8dc1-4e78-9981-c7626df7dc2e",
         "cd60e006-2ef2-4f8a-92a5-7f1da02a8f0b",
         "46041f01-7e41-4c33-8c15-f8f6445120ce",
-        "6986e498-10b9-4d89-963b-ed5d06c27fcc"
+        "6986e498-10b9-4d89-963b-ed5d06c27fcc",
+        "3bf972cc-259d-4ac2-a2b7-8972b3c9b59e"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -2984,7 +2985,8 @@
         "4702163005",
         "4716514005",
         "4716967005",
-        "4715768005"
+        "4715768005",
+        "4715755005"
     ],
     "Rippling": [],
     "Slice": [
@@ -4388,7 +4390,9 @@
         "3f86f13d-14a1-42b6-a36f-b238325c7ff8",
         "324abad0-0cfa-44bc-bef3-210150b50239",
         "1be413d0-093a-4667-8737-8343d0b60a24",
-        "837c89a3-3598-410c-a0a3-3af4927a42ed"
+        "837c89a3-3598-410c-a0a3-3af4927a42ed",
+        "a937e21d-fa41-48b5-bf67-e2e407388396",
+        "1155c0e3-bf03-4b46-97f0-44673b6518f7"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -5249,7 +5253,8 @@
         "8077612",
         "8077506",
         "8077787",
-        "8077995"
+        "8077995",
+        "8078406"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -8759,7 +8764,8 @@
         "8075719",
         "8077614",
         "8075765",
-        "8007815"
+        "8007815",
+        "8071416"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -15513,7 +15519,10 @@
         "R-282049",
         "R-286181",
         "R-282262",
-        "R-282249"
+        "R-282249",
+        "R-282361",
+        "R-286301",
+        "R-286514"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20239,7 +20248,13 @@
         "R352935",
         "R353024",
         "R324494-1",
-        "R353016"
+        "R353016",
+        "R352919",
+        "R352420",
+        "R352831",
+        "R352744",
+        "R353031",
+        "R352187"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21208,7 +21223,8 @@
         "Managing-Director--Head-of-Product--Global-Payments-Solutions--Japan_26025184",
         "Vice-Presient--Treasury-Sales--Global-Commercial-Banking---Global-Payments-Solutions---Mumbai_26025402",
         "Director--Treasury-Sales--Global-Commercial-Banking---Global-Payments-Solutions---Singapore_26025401",
-        "Director--Associate-General-Counsel--India_26025403"
+        "Director--Associate-General-Counsel--India_26025403",
+        "Vice-President--China-Asia-Economist--Research-Analyst--Global-Research--Hong-Kong_26025405-1"
     ],
     "BlackRock": [
         "R263666",
@@ -22207,7 +22223,10 @@
         "R265348-1",
         "R261645",
         "R260689",
-        "R265363-1"
+        "R265363-1",
+        "R265063",
+        "R265366",
+        "R264687"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -22777,7 +22796,8 @@
         "Staff-Software-Engineer_34333-1",
         "Software-Engineer-II---India_34581-1",
         "Platform-Engineer-III_34659-1",
-        "Software-Engineer-III--India_34648-1"
+        "Software-Engineer-III--India_34648-1",
+        "Security-Engineer-II---Vulnerability-Patch-Management_34646-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -24574,7 +24594,8 @@
         "Lead-Fund-Accounting-Analyst_868665-1",
         "Senior-Specialist---Middle-Office-Client-Services_868558-1",
         "Fund-Administration---Oversight-Lead-Analyst_868547-1",
-        "Investment-Risk-Consultant--Risk-Management--CFA-FRM--SQL--Python-_868825"
+        "Investment-Risk-Consultant--Risk-Management--CFA-FRM--SQL--Python-_868825",
+        "Specialist-Institutional-Portfolio-Accounting_868344"
     ],
     "Invesco": [
         "R-13647",
@@ -25505,7 +25526,8 @@
         "R0137094",
         "R0137075",
         "R0137079",
-        "R0136954-1"
+        "R0136954-1",
+        "R0136984-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -32284,7 +32306,8 @@
         "8077553",
         "8054597",
         "8076599",
-        "8070880"
+        "8070880",
+        "8071475"
     ],
     "Datadog": [
         "7194969",
@@ -33054,7 +33077,8 @@
         "8067190",
         "8050591",
         "8077142",
-        "8077676"
+        "8077676",
+        "8076595"
     ],
     "Elastic": [
         "7505982",
@@ -35193,7 +35217,8 @@
         "R-0108743-1",
         "R-0108227-1",
         "R-0108772",
-        "R-0106669"
+        "R-0106669",
+        "R-0108913"
     ],
     "CrowdStrike": [
         "R26911",
@@ -39109,7 +39134,8 @@
         "R2021649",
         "R2021558",
         "R2021723",
-        "R2021101"
+        "R2021101",
+        "R2001631"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -43483,7 +43509,9 @@
         "R0000444272",
         "R0000446503",
         "R0000445977",
-        "R0000446357"
+        "R0000446357",
+        "R0000445936",
+        "R0000446472"
     ],
     "Zoom": [
         "R18188-1",
@@ -43782,7 +43810,8 @@
         "R19407",
         "R19399-1",
         "R19408",
-        "R19413-1"
+        "R19413-1",
+        "R19416-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -44655,7 +44684,10 @@
         "Principal-Solutions-Architect---CCaaS_113254-JOB",
         "Implementation-Consultant---Lead_113252-JOB",
         "Senior-Helpdesk-Analyst_112834-JOB-1",
-        "Lead-UX-Writer_113298-JOB"
+        "Lead-UX-Writer_113298-JOB",
+        "Product-Designer-II_113301-JOB-1",
+        "Senior-Product-Designer_113300-JOB",
+        "Lead-Product-Designer_113299-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -44732,7 +44764,8 @@
         "cb04ae3a-3a47-4e21-928f-c2456b7b214e",
         "c3099780-60d5-4b8a-ab08-c701d114cf62",
         "b75ba81e-54cc-4393-a575-bc41776b0113",
-        "715ba1ea-bd0b-4960-9d5a-defca99f2e24"
+        "715ba1ea-bd0b-4960-9d5a-defca99f2e24",
+        "97fe8e68-28c5-42db-a763-60113f0b31fd"
     ],
     "Hasura": [],
     "Netlify": [
@@ -45836,7 +45869,9 @@
         "872c850e-fa17-441e-97a9-22d9c492427a",
         "6b2792f3-cfe1-4a28-83de-eb8cc920dca1",
         "652466d2-187d-49a1-b1a1-0dc371374623",
-        "56decdb8-53ed-4d6a-a752-ba223385ce08"
+        "56decdb8-53ed-4d6a-a752-ba223385ce08",
+        "3e3e3e2b-7b68-4ddd-ac3c-b4fb557adeb8",
+        "ec686a5b-4c5d-4114-9ac2-556ff9a1c35d"
     ],
     "Netskope": [
         "7885748",
@@ -46646,7 +46681,8 @@
         "8074109",
         "8065687",
         "8042166",
-        "8068410"
+        "8068410",
+        "8069713"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -47792,7 +47828,9 @@
         "2f14b7a2-da7f-42e6-a9d5-72438e23f419",
         "bf5bc2f4-52da-4ae5-b497-e57a7f08acc9",
         "b77cd6e4-ffd6-44f6-9b7e-18bf34f75b48",
-        "500c585f-65ba-4f6a-b515-7d73680038c3"
+        "500c585f-65ba-4f6a-b515-7d73680038c3",
+        "e21ca17d-7bf2-4781-94bb-bcfc8943aae0",
+        "45ff5e5b-cf5d-4a95-8f4d-866fbae542c2"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -48007,7 +48045,8 @@
         "R35191",
         "R35189",
         "R35192",
-        "R35193"
+        "R35193",
+        "R33154"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -49298,7 +49337,10 @@
         "Director--Client-Success_REF076078W",
         "Sr-IT-Auditor_REF082912W",
         "Vice-President---Chief-Financial-Officer--KSA--Bahrain---Oman--KBO--Region_REF085137W-1",
-        "Director--FinTech-Thailand_REF085098W-1"
+        "Director--FinTech-Thailand_REF085098W-1",
+        "Senior-Director--Product-Lead---Data---Risk-Products-and-Business-Enablement_REF085043W",
+        "Sr-Client-Consulting-Manager_REF083022W-1",
+        "Manager--Core-Consulting---Visa-Consulting---Analytics--Korea_REF085153W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -50016,7 +50058,9 @@
         "Senior-Software-Engineer_26WD98312",
         "Senior-Account-Executive--Expansion_26WD99843-2",
         "Senior-Full-Stack-Software-Developer_26WD100035",
-        "Digital-Renewal-Sales-Rep--Turkish-Speaker_26WD100453"
+        "Digital-Renewal-Sales-Rep--Turkish-Speaker_26WD100453",
+        "License-Compliance-Sales-Representative_26WD99971-1",
+        "Licensing-Compliance-Inside-Sales-Representative--Thailand-_26WD99969"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -51265,7 +51309,8 @@
         "Senior-International-Trade-Finance-Analyst_10156222",
         "Senior-Creature-Technical-Director--Simulations----Expression-of-Interest---ILM-Vancouver_10156609",
         "Creature-Technical-Director--Simulations----Expression-of-Interest---ILM-Vancouver_10156611",
-        "Manager--Merchandising_10155667-1"
+        "Manager--Merchandising_10155667-1",
+        "Senior-Manager--Commerce--DTC_10155729"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -52018,7 +52063,8 @@
         "R000105787",
         "R000105589-1",
         "R000107163",
-        "R000107214"
+        "R000107214",
+        "R000107009-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -53464,7 +53510,9 @@
         "R-63233",
         "R-65749-1",
         "R-60668",
-        "R-64745-1"
+        "R-64745-1",
+        "R-65573-1",
+        "R-65572"
     ],
     "Chime": [
         "8391630002",
@@ -55344,7 +55392,8 @@
         "8077952",
         "8077927",
         "8077956",
-        "8059342"
+        "8059342",
+        "7838652"
     ],
     "Propel": [],
     "Canva": [],
@@ -56421,7 +56470,10 @@
         "8066663",
         "8078844",
         "8073912",
-        "8078820"
+        "8078820",
+        "8068623",
+        "8076600",
+        "8078703"
     ],
     "Roku": [
         "8023364",
