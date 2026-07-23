@@ -7242,7 +7242,8 @@
         "8647675002",
         "8647670002",
         "8647668002",
-        "8647677002"
+        "8647677002",
+        "8611108002"
     ],
     "Rubrik": [
         "7310036",
@@ -7716,7 +7717,8 @@
         "8073594",
         "8076301",
         "7949886",
-        "8080023"
+        "8080023",
+        "8075065"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -8867,7 +8869,9 @@
         "8076494",
         "8045292",
         "8080187",
-        "8078323"
+        "8078323",
+        "8078210",
+        "8082556"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -11019,7 +11023,8 @@
         "8067909",
         "8076802",
         "8074762",
-        "8079364"
+        "8079364",
+        "7689461"
     ],
     "Dropbox": [
         "7646405",
@@ -15720,7 +15725,8 @@
         "R-284520-1",
         "R-286335-1",
         "R-275745",
-        "R-286496"
+        "R-286496",
+        "R-286675"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20531,7 +20537,10 @@
         "R352321",
         "R353383",
         "R351949",
-        "R353004"
+        "R353004",
+        "R353221-1",
+        "R347374",
+        "R351110"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21335,7 +21344,10 @@
         "Travel-Consultant-II-Virtual_J-83565",
         "Travel-Consultant-I_J-83329",
         "Product-Manager_J-83186",
-        "Corporate-Sales-Manager--Remote-_J-83759"
+        "Corporate-Sales-Manager--Remote-_J-83759",
+        "Travel-Experience-Counselor-III_J-82103",
+        "Travel-Consultant-II_J-83471",
+        "Corporate-Sales-Manager--Remote-_J-83758"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -24665,7 +24677,8 @@
         "R-10398814-1",
         "R-10399325",
         "R-10398720",
-        "R-10398501"
+        "R-10398501",
+        "R-10399451"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -28947,7 +28960,8 @@
         "ef84553e-e02b-4904-a348-710ea8e37346",
         "10c7fcdc-1f07-41e3-8e37-4d930898a648",
         "118b71ad-0daa-497d-9061-68e90ea03368",
-        "e99105f1-0a15-4f25-9538-60312568f835"
+        "e99105f1-0a15-4f25-9538-60312568f835",
+        "c9135e66-e49e-4bdc-be89-5d45aad23865"
     ],
     "Anthropic": [
         "5101832008",
@@ -29845,7 +29859,8 @@
         "5368023008",
         "5368074008",
         "5368041008",
-        "5368166008"
+        "5368166008",
+        "5356621008"
     ],
     "Coinbase": [
         "7559052",
@@ -31417,7 +31432,8 @@
         "7807506003",
         "7803078003",
         "7803080003",
-        "7808142003"
+        "7808142003",
+        "7808667003"
     ],
     "Robinhood": [
         "7799902",
@@ -31763,7 +31779,8 @@
         "7799655",
         "8035713",
         "8079744",
-        "8082056"
+        "8082056",
+        "8060585"
     ],
     "Vercel": [
         "5624231004",
@@ -33533,7 +33550,8 @@
         "8035530",
         "8081537",
         "7773320",
-        "8075664"
+        "8075664",
+        "8081477"
     ],
     "Elastic": [
         "7505982",
@@ -34079,7 +34097,11 @@
         "8079636",
         "8079412",
         "8011777",
-        "8078791"
+        "8078791",
+        "8082602",
+        "8082598",
+        "8082617",
+        "8082612"
     ],
     "Asana": [
         "7120496",
@@ -34467,7 +34489,8 @@
         "6020420004",
         "5751613004",
         "6122497004",
-        "6120396004"
+        "6120396004",
+        "6122176004"
     ],
     "Udemy": [
         "5424719004",
@@ -36531,7 +36554,9 @@
         "R29231",
         "R29248",
         "R29198",
-        "R29529"
+        "R29529",
+        "R29530",
+        "R29463"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -39704,7 +39729,9 @@
         "R2021306",
         "R2020085",
         "R2020967-1",
-        "R2021748"
+        "R2021748",
+        "R2021516-1",
+        "R2021591"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -44155,7 +44182,16 @@
         "R0000446645",
         "R0000446750",
         "R0000446617",
-        "R0000446792"
+        "R0000446792",
+        "R0000446819",
+        "R0000446818-1",
+        "R0000446727",
+        "R0000446729",
+        "R0000446812",
+        "R0000446761",
+        "R0000446760",
+        "R0000446762",
+        "R0000446759"
     ],
     "Zoom": [
         "R18188-1",
@@ -50098,7 +50134,11 @@
         "Software-Engineer---Corporate-GenAI_REF085070W",
         "Senior-Accounting-Analyst_REF082880W",
         "Consultant--Implementation_REF079477W",
-        "Technical-Support-Analyst_REF082492W"
+        "Technical-Support-Analyst_REF082492W",
+        "Audit-Manager_REF085269W",
+        "Senior-Manager--Product-Strategy_REF085226W-1",
+        "Director--Finance-Transformation-Program-Manager_REF085148W",
+        "Manager--VAS-Pricing-and-Deal-Operations_REF085223W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -50833,7 +50873,8 @@
         "Sr-Consulting-Project-Manager_26WD99722-2",
         "Senior-Associate--Digital-Renewal-Sales-Representative_26WD100143",
         "Senior-Program-Manager--GTM-PMO_26WD99757-1",
-        "Senior-Software-Developer_26WD100028-1"
+        "Senior-Software-Developer_26WD100028-1",
+        "Principal-Journey-Manager-and-Experience-Researcher---US---Canada--Remote-_26WD100013-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -52917,7 +52958,8 @@
         "R000107158",
         "R000106714",
         "R000105202",
-        "R000104090"
+        "R000104090",
+        "R000107172"
     ],
     "Kyndryl": [
         "R-61530",
@@ -55587,7 +55629,8 @@
         "8080748",
         "7859596",
         "8082240",
-        "7759383"
+        "7759383",
+        "8072057"
     ],
     "Kaseya": [
         "6022140004",
