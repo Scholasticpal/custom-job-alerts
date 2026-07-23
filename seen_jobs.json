@@ -7208,7 +7208,8 @@
         "8633152002",
         "8636159002",
         "8643053002",
-        "8643542002"
+        "8643542002",
+        "8641892002"
     ],
     "Rubrik": [
         "7310036",
@@ -7678,7 +7679,8 @@
         "8069567",
         "8071123",
         "8074751",
-        "8076167"
+        "8076167",
+        "8073594"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -9811,7 +9813,8 @@
         "8076608",
         "8076605",
         "8071053",
-        "8053082"
+        "8053082",
+        "8076622"
     ],
     "DoorDash": [
         "7927511",
@@ -10423,7 +10426,8 @@
         "8079886",
         "8079890",
         "8075091",
-        "7706051"
+        "7706051",
+        "8070957"
     ],
     "GitHub": [],
     "Twilio": [
@@ -15623,7 +15627,9 @@
         "R-286513",
         "R-286510",
         "R-284470",
-        "R-286142"
+        "R-286142",
+        "R-276651",
+        "R-284477"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20393,7 +20399,8 @@
         "R349895-1",
         "R352907-1",
         "R351958",
-        "R352990"
+        "R352990",
+        "R353150"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21187,7 +21194,8 @@
         "Meeting-Planner-H-F_J-81908-1",
         "Middleware-Platform-Engineer_J-83684",
         "Cloud-DevOps-Engineer_J-83685",
-        "Lead-Travel-Consultant_J-83465"
+        "Lead-Travel-Consultant_J-83465",
+        "Corporate-Travel-Counselor_J-83801"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -21366,7 +21374,9 @@
         "Director--Treasury-Sales--Global-Commercial-Banking---Global-Payments-Solutions---Singapore_26025401",
         "Director--Associate-General-Counsel--India_26025403",
         "Vice-President--China-Asia-Economist--Research-Analyst--Global-Research--Hong-Kong_26025405-1",
-        "Vice-President--Director--APAC-GCIB-Business-Controls-Officer_26025413"
+        "Vice-President--Director--APAC-GCIB-Business-Controls-Officer_26025413",
+        "VP--Client-Servicing-Specialist--ETD---Global-Markets-Operations_26024791",
+        "VP--Markets-Support-Specialist--Collateral-Operations---Global-Markets-Operations_26024733"
     ],
     "BlackRock": [
         "R263666",
@@ -24486,7 +24496,8 @@
         "R-10399171",
         "R-10398186",
         "R-10398185",
-        "R-10398729"
+        "R-10398729",
+        "R-10398474"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -28752,7 +28763,9 @@
         "c3783e22-c6b6-41d6-b0d4-2b648912268f",
         "51f1d6a0-2e53-4554-8abe-a100da87978b",
         "dd7443fe-a7b8-4794-8dd5-cb7d14c00c64",
-        "c59b0375-805a-46eb-803d-5e7aa62ab0da"
+        "c59b0375-805a-46eb-803d-5e7aa62ab0da",
+        "194a69ed-d7a2-4af8-9bec-67a4b7b58451",
+        "9bb10253-dd50-41a2-a56e-c9204c32d235"
     ],
     "Anthropic": [
         "5101832008",
@@ -34283,7 +34296,8 @@
         "6104497004",
         "6104494004",
         "6107987004",
-        "6117543004"
+        "6117543004",
+        "6119864004"
     ],
     "Grammarly": [],
     "Unacademy": [],
@@ -35475,7 +35489,10 @@
         "R-0106669",
         "R-0108913",
         "R-0108918",
-        "R-0104958"
+        "R-0104958",
+        "R-0108883-1",
+        "R-0108813",
+        "R-0108830"
     ],
     "CrowdStrike": [
         "R26911",
@@ -44132,7 +44149,8 @@
         "R19413-1",
         "R19416-1",
         "R18866-1",
-        "R19420-2"
+        "R19420-2",
+        "R19412"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -47986,7 +48004,9 @@
         "8023269",
         "8046824",
         "8080469",
-        "8052603"
+        "8052603",
+        "8016652",
+        "8016673"
     ],
     "Twitch": [
         "8334413002",
@@ -48403,7 +48423,9 @@
         "R34728-1",
         "R34800",
         "R35209",
-        "R35207"
+        "R35207",
+        "R35219-1",
+        "R35221"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -49705,7 +49727,8 @@
         "ATM-Analyst_REF084972W-1",
         "SW-Engineer---Sr-Consultant-level_REF077566W",
         "Senior-Managing-Counsel_REF085205W",
-        "Client-Care-Quality-Analyst_REF081432W"
+        "Client-Care-Quality-Analyst_REF081432W",
+        "Client-Consulting-Manager_REF084992W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -51699,7 +51722,9 @@
         "Security-Officer_10153122",
         "Executive-Assistant--National-Geographic_10156360",
         "Seasonal-Production-Assistant_10156364",
-        "Sr-Business-Operations-Analyst--DCL-and-A-E_10153725-1"
+        "Sr-Business-Operations-Analyst--DCL-and-A-E_10153725-1",
+        "Manager--HR-Business-Partner_10155581",
+        "Sr-Manager--Retail-Marketing_10155783"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -52461,7 +52486,27 @@
         "R000107021",
         "R000106964-1",
         "R000107226",
-        "R000106998-1"
+        "R000106998-1",
+        "R000107151",
+        "R000107152",
+        "R000107118",
+        "R000107124",
+        "R000107125",
+        "R000107126",
+        "R000107145",
+        "R000107127",
+        "R000107128",
+        "R000107139",
+        "R000107140",
+        "R000107141",
+        "R000107142",
+        "R000107143",
+        "R000107144",
+        "R000107146",
+        "R000107147",
+        "R000107148",
+        "R000107149",
+        "R000107153"
     ],
     "Kyndryl": [
         "R-61530",
@@ -56907,7 +56952,16 @@
         "8068623",
         "8076600",
         "8078703",
-        "8080809"
+        "8080809",
+        "8078788",
+        "8044865",
+        "7525415",
+        "8065839",
+        "8044861",
+        "8080836",
+        "8073936",
+        "8043060",
+        "8076186"
     ],
     "Roku": [
         "8023364",
@@ -57404,7 +57458,9 @@
         "8080532",
         "8080474",
         "8080312",
-        "8080310"
+        "8080310",
+        "8077510",
+        "8077512"
     ],
     "Zillow": [],
     "Epic Games": [
