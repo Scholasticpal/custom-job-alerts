@@ -5312,7 +5312,8 @@
         "8056124",
         "8081180",
         "8073189",
-        "8076299"
+        "8076299",
+        "8081925"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -8871,7 +8872,8 @@
         "8080187",
         "8078323",
         "8078210",
-        "8082556"
+        "8082556",
+        "8080851"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -10484,7 +10486,8 @@
         "8081721",
         "8082005",
         "8076068",
-        "8028658"
+        "8028658",
+        "8082739"
     ],
     "GitHub": [],
     "Twilio": [
@@ -11472,7 +11475,9 @@
         "7762097003",
         "7770445003",
         "7810518003",
-        "7802294003"
+        "7802294003",
+        "7814498003",
+        "7814508003"
     ],
     "Swiggy": [],
     "Zomato": [],
@@ -30908,7 +30913,8 @@
         "c1324c38-abc7-4bcf-9b62-2e1f86d5aa72",
         "6ccbc30c-2de0-4395-af14-3641cd15961b",
         "7793e862-50fa-4357-a4bc-2328440f8d68",
-        "33b89576-201f-4127-b8e4-b6e8d9894774"
+        "33b89576-201f-4127-b8e4-b6e8d9894774",
+        "d8640b6e-37fb-426d-b35c-e249bd855b0f"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -36565,7 +36571,8 @@
         "R29463",
         "R29562",
         "R29487",
-        "R29467"
+        "R29467",
+        "R29462-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -39747,7 +39754,12 @@
         "R2021719",
         "R2021616",
         "R2017742",
-        "R2021175"
+        "R2021175",
+        "R2021932-1",
+        "R2021628",
+        "R2021170",
+        "R2021766-1",
+        "R2021715"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -44516,7 +44528,8 @@
         "R19423",
         "R19424",
         "R19425",
-        "R19429-1"
+        "R19429-1",
+        "R19432-2"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -46868,7 +46881,8 @@
         "8045249",
         "8080431",
         "8080635",
-        "7457444"
+        "7457444",
+        "8082693"
     ],
     "Samsara": [
         "5747183",
@@ -50157,7 +50171,8 @@
         "Audit-Manager_REF085269W",
         "Senior-Manager--Product-Strategy_REF085226W-1",
         "Director--Finance-Transformation-Program-Manager_REF085148W",
-        "Manager--VAS-Pricing-and-Deal-Operations_REF085223W"
+        "Manager--VAS-Pricing-and-Deal-Operations_REF085223W",
+        "Lead-Software-Engineer_REF084840W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -52179,7 +52194,8 @@
         "Director--Software-Engineering---Emerging-Technology_10143046-2",
         "Systems-Architect_10148926",
         "Lead-Graphic-Designer_10155151",
-        "Production-Manager--Internal-Assignment---Project-Hire-_10155652"
+        "Production-Manager--Internal-Assignment---Project-Hire-_10155652",
+        "Data-Product-Mgr_10155281-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
