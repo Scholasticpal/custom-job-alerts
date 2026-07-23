@@ -1385,7 +1385,8 @@
         "8080240",
         "8080238",
         "8080614",
-        "8024033"
+        "8024033",
+        "8081418"
     ],
     "Figma": [
         "5426468004",
@@ -2228,7 +2229,11 @@
         "10480632",
         "10480524",
         "10480520",
-        "10481046"
+        "10481046",
+        "10482367",
+        "10482365",
+        "10482362",
+        "10482303"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -7218,7 +7223,9 @@
         "8636159002",
         "8643053002",
         "8643542002",
-        "8641892002"
+        "8641892002",
+        "8647017002",
+        "8646989002"
     ],
     "Rubrik": [
         "7310036",
@@ -10441,7 +10448,12 @@
         "8079890",
         "8075091",
         "7706051",
-        "8070957"
+        "8070957",
+        "8079346",
+        "8080849",
+        "8079777",
+        "8070776",
+        "8080871"
     ],
     "GitHub": [],
     "Twilio": [
@@ -15661,7 +15673,14 @@
         "R-277108",
         "R-286532",
         "R-277785-1",
-        "R-286559"
+        "R-286559",
+        "R-282322",
+        "R-286492",
+        "R-282729",
+        "R-282390",
+        "R-286467",
+        "R-286537",
+        "R-282690"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20443,7 +20462,12 @@
         "R345212",
         "R345216",
         "R353218-1",
-        "R348218"
+        "R348218",
+        "R353288",
+        "R352808",
+        "R352546",
+        "R353170",
+        "R351419-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -20585,7 +20609,8 @@
         "7847009",
         "8021872",
         "8042596",
-        "8079537"
+        "8079537",
+        "8071050"
     ],
     "PayU": [],
     "American Express": [
@@ -21240,7 +21265,9 @@
         "Lead-Travel-Consultant_J-83465",
         "Corporate-Travel-Counselor_J-83801",
         "Sr-Observability-Platform-Engineer_J-83572-1",
-        "Quality-Tester_J-82193"
+        "Quality-Tester_J-82193",
+        "Sales-Representative_J-83796",
+        "Full-Stack-Developer_J-83573"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -22433,7 +22460,9 @@
         "R265265-1",
         "R265558",
         "R265080",
-        "R265439"
+        "R265439",
+        "R262349",
+        "R265444"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -23175,7 +23204,8 @@
         "R31883",
         "R32607",
         "R-2026-_R32812",
-        "R32820"
+        "R32820",
+        "R32653"
     ],
     "Fiserv": [
         "R-10392824",
@@ -24548,7 +24578,9 @@
         "R-10398729",
         "R-10398474",
         "R-10398826",
-        "R-10391685-1"
+        "R-10391685-1",
+        "R-10399410",
+        "R-10399409-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -25269,7 +25301,8 @@
         "R-14595",
         "R-14597",
         "R-14840",
-        "R-14821"
+        "R-14821",
+        "R-14771"
     ],
     "PayPal": [
         "R0135744-1",
@@ -32612,7 +32645,10 @@
         "8075787",
         "8065812",
         "8074863",
-        "8079676"
+        "8079676",
+        "8079914",
+        "8076975",
+        "8077145"
     ],
     "Datadog": [
         "7194969",
@@ -33387,7 +33423,8 @@
         "8078805",
         "8052114",
         "8077474",
-        "8081251"
+        "8081251",
+        "8035530"
     ],
     "Elastic": [
         "7505982",
@@ -33928,7 +33965,8 @@
         "8081013",
         "8081012",
         "8081011",
-        "8067977"
+        "8067977",
+        "8065898"
     ],
     "Asana": [
         "7120496",
@@ -36369,7 +36407,8 @@
         "R29102",
         "R29309",
         "R29390",
-        "R29522"
+        "R29522",
+        "R29350"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -39531,7 +39570,8 @@
         "R2021332",
         "R2021814",
         "R2021700-1",
-        "R2014212"
+        "R2014212",
+        "R2013314"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -43961,7 +44001,13 @@
         "R0000446707",
         "R0000446596",
         "R0000446226",
-        "R0000446608"
+        "R0000446608",
+        "R0000446738",
+        "R0000446737",
+        "R0000446478",
+        "R0000446599",
+        "R0000446505",
+        "R0000446124"
     ],
     "Zoom": [
         "R18188-1",
@@ -44266,7 +44312,8 @@
         "R19420-2",
         "R19412",
         "R19423",
-        "R19424"
+        "R19424",
+        "R19425"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -44981,7 +45028,8 @@
         "R-107835",
         "R-102545",
         "R-108072",
-        "R-107837-1"
+        "R-107837-1",
+        "R-108063"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -45714,7 +45762,8 @@
         "4716784005",
         "4716772005",
         "4717101005",
-        "4717648005"
+        "4717648005",
+        "4717642005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -46345,7 +46394,9 @@
         "ec686a5b-4c5d-4114-9ac2-556ff9a1c35d",
         "70697702-ea50-4be3-a55b-58e6ccece84e",
         "7bd38af0-e002-44cb-a0af-32040b1ec0af",
-        "34f28e7d-9fef-4133-ba78-7ada33f22c74"
+        "34f28e7d-9fef-4133-ba78-7ada33f22c74",
+        "c1900c9b-6af1-4615-afa4-ec97f9d51616",
+        "c733fd70-d29d-4dfc-83e2-07d3317a978c"
     ],
     "Netskope": [
         "7885748",
@@ -47492,7 +47543,8 @@
         "d7030550-f80f-422c-965f-3120db433dea",
         "168e1345-913c-4826-a926-a07d5cf10bba",
         "67110929-adea-41c3-851a-8882e222d9e4",
-        "31d461a1-4327-4317-8555-04e2a2fe74b8"
+        "31d461a1-4327-4317-8555-04e2a2fe74b8",
+        "73d1a90c-162d-4cb6-9e0c-4c8de9561ad0"
     ],
     "Gong": [
         "4395203006",
@@ -48130,7 +48182,8 @@
         "8080469",
         "8052603",
         "8016652",
-        "8016673"
+        "8016673",
+        "8075678"
     ],
     "Twitch": [
         "8334413002",
@@ -49866,7 +49919,13 @@
         "Senior-Product-Manager---Visa-Payment-Passkey_REF077945W",
         "Client-Services-Implementation-Project-Manager_REF085243W",
         "Senior-Director--Head-of-Sourcing---CEMEA_REF085241W-1",
-        "Infrastructure-Engineer--Storage-Backup-_REF080868W"
+        "Infrastructure-Engineer--Storage-Backup-_REF080868W",
+        "Senior-Manager---Strategic-Planning--Performance-and-Execution_REF085115W",
+        "Senior-Manager--VCA-Implementation-Services--VIS-_REF085176W-1",
+        "Sr-Finance-Manager---VCS-B2B-Travel-and-VGS-FBP_REF085088W",
+        "Director--Super-Regional-Issuers--Cardholder-Growth---Lifecycle-Marketing_REF085219W",
+        "Senior-Manager--Sales-Enablement---Training_REF085065W",
+        "Senior-Manager--Insurance-Center-of-Excellence_REF085213W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -51871,7 +51930,10 @@
         "Security-Manager--Mainland-China_10156730",
         "Hair---Makeup-Assistant--The-Lion-King_10156726",
         "Electrical---Mechanical-Engineering-Manager--2-year-Contract-_10146261",
-        "Senior-Business-Development-Manager--Greater-China_10156734"
+        "Senior-Business-Development-Manager--Greater-China_10156734",
+        "Bureau-Producer-I_10156423-1",
+        "Employ-e--de-Costumes---CDD---F-H-NB_10156751",
+        "XMLNAME---Alternance---Couvreur--se--Zingueur--se--F-H-NB_10148722"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -54132,7 +54194,11 @@
         "R-65652",
         "R-65651",
         "R-64902",
-        "R-64827"
+        "R-64827",
+        "R-65645",
+        "R-65646",
+        "R-65641",
+        "R-65642"
     ],
     "Chime": [
         "8391630002",
@@ -54736,7 +54802,13 @@
         "7813341003",
         "7813342003",
         "7813343003",
-        "7813339003"
+        "7813339003",
+        "7612007003",
+        "7612263003",
+        "7611783003",
+        "7612006003",
+        "7612047003",
+        "7612267003"
     ],
     "Earnin": [
         "8013281",
