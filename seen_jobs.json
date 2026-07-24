@@ -1399,7 +1399,8 @@
         "8084193",
         "8072257",
         "8079132",
-        "8084277"
+        "8084277",
+        "8084476"
     ],
     "Figma": [
         "5426468004",
@@ -20681,7 +20682,8 @@
         "R353509-1",
         "R353506",
         "R352560",
-        "R352468"
+        "R352468",
+        "R353136"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -29171,7 +29173,9 @@
         "0c0fe7aa-24fb-4bad-aa30-3f68f1418e37",
         "83b3ef17-5211-403d-b763-850e1c60faa0",
         "584fc51a-1107-457c-b499-a94fe5ef02b4",
-        "0ec3c7aa-38fe-425c-a704-411067bca9d9"
+        "0ec3c7aa-38fe-425c-a704-411067bca9d9",
+        "ee6b7ece-ffcb-4546-8b4c-ef755ec21c14",
+        "ecbb5567-ce0b-4c8b-b1b3-726dc2344f8b"
     ],
     "Anthropic": [
         "5101832008",
@@ -30081,7 +30085,8 @@
         "4017544008",
         "5370555008",
         "5370167008",
-        "5370615008"
+        "5370615008",
+        "5370669008"
     ],
     "Coinbase": [
         "7559052",
@@ -30537,7 +30542,8 @@
         "8635949002",
         "8642085002",
         "8644780002",
-        "8642220002"
+        "8642220002",
+        "8641295002"
     ],
     "Reddit": [
         "7011741",
@@ -33016,7 +33022,8 @@
         "8060719",
         "8053599",
         "8079816",
-        "8077491"
+        "8077491",
+        "8083383"
     ],
     "Datadog": [
         "7194969",
@@ -35032,7 +35039,8 @@
         "R162131",
         "R167142-1",
         "R170388",
-        "R169899"
+        "R169899",
+        "R160344"
     ],
     "Workday": [
         "R-0106509-1",
@@ -36000,7 +36008,8 @@
         "R-0108811",
         "R-0108860",
         "R-0108820",
-        "R-0108389"
+        "R-0108389",
+        "R-0108986-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -40057,7 +40066,16 @@
         "R2021469-1",
         "R2021789-1",
         "R2021804-1",
-        "R2021994"
+        "R2021994",
+        "R2011473",
+        "R2018949",
+        "R2021733",
+        "R2021898-1",
+        "R2022039",
+        "R2021784-1",
+        "R2022030",
+        "R2021838",
+        "R2021953"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -44576,7 +44594,10 @@
         "R0000446773",
         "R0000446876-1",
         "R0000446790",
-        "R0000446916-1"
+        "R0000446916-1",
+        "R0000446988",
+        "R0000445347",
+        "R0000446990"
     ],
     "Zoom": [
         "R18188-1",
@@ -48315,7 +48336,8 @@
         "4672117006",
         "4672097006",
         "4678938006",
-        "4696734006"
+        "4696734006",
+        "4686257006"
     ],
     "Duolingo": [
         "8455252002",
@@ -50602,7 +50624,8 @@
         "Sr-Associate-Counsel_REF085245W",
         "B2B-Marketing-Manager_REF085248W",
         "Senior-Manager-AE---Merchant-Retail-CoE_REF085275W",
-        "Trilingual-Client-Care-Consultant--ES-EN-PORT--_REF085221W"
+        "Trilingual-Client-Care-Consultant--ES-EN-PORT--_REF085221W",
+        "SW-Engineer--Developer-Systems-Reliability-Engineering_REF084823W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -52652,7 +52675,9 @@
         "Contrleur-de-gestion-Marketing-CDD---F-H-NB_10156653",
         "Executive-Assistant--Comedy--ABC-Hulu-_10156354",
         "Director--Production---Development--National-Geographic-_10156074-1",
-        "Manager--NAM-Softlines_10155041"
+        "Manager--NAM-Softlines_10155041",
+        "Supervisor--Content-Experience---Operations_10154073",
+        "Sr-Analyst--Content-Analytics_10154102"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
