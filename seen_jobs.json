@@ -3024,7 +3024,8 @@
         "4715755005",
         "4717436005",
         "4713401005",
-        "4717790005"
+        "4717790005",
+        "4717369005"
     ],
     "Rippling": [],
     "Slice": [
@@ -8874,7 +8875,8 @@
         "8078210",
         "8082556",
         "8080851",
-        "8081039"
+        "8081039",
+        "8081027"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -15734,7 +15736,16 @@
         "R-275745",
         "R-286496",
         "R-286675",
-        "R-281373"
+        "R-281373",
+        "R-286276",
+        "R-286432",
+        "R-286574",
+        "R-282440",
+        "R-281105",
+        "R-281104",
+        "R-281103",
+        "R-281079",
+        "R-280737"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20555,7 +20566,12 @@
         "R353240",
         "R281671",
         "R353265-1",
-        "R353409-1"
+        "R353409-1",
+        "R350293",
+        "R352796-1",
+        "R353414",
+        "R353238",
+        "R352769"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23143,7 +23159,10 @@
         "Software-Engineer-III--India_34648-1",
         "Security-Engineer-II---Vulnerability-Patch-Management_34646-1",
         "Clearing-Compliance-Associate_34661",
-        "Manager-Product-Owner_34671-1"
+        "Manager-Product-Owner_34671-1",
+        "Dir-CMEG-Foundation-Services_34662-1",
+        "Dir-Corporate-Communications_34672-1",
+        "Risk-Mgmt-Policy-Analyst_34651"
     ],
     "FactSet": [
         "R32107-1",
@@ -23309,7 +23328,8 @@
         "R-2026-_R32812",
         "R32820",
         "R32653",
-        "R32845"
+        "R32845",
+        "R32080"
     ],
     "Fiserv": [
         "R-10392824",
@@ -24698,7 +24718,9 @@
         "R-10398501",
         "R-10399451",
         "R-10398489",
-        "R-10398825"
+        "R-10398825",
+        "R-10398466",
+        "R-10386844"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -24972,7 +24994,8 @@
         "Investment-Risk-Consultant--Risk-Management--CFA-FRM--SQL--Python-_868825",
         "Specialist-Institutional-Portfolio-Accounting_868344",
         "Compliance-Officer--Transfer-Agent-Registration-_868560",
-        "Credit-Research-Intern_868913"
+        "Credit-Research-Intern_868913",
+        "Customer-Service-Representative_868026-1"
     ],
     "Invesco": [
         "R-13647",
@@ -31806,7 +31829,10 @@
         "8035713",
         "8079744",
         "8082056",
-        "8060585"
+        "8060585",
+        "8080181",
+        "8080182",
+        "8080179"
     ],
     "Vercel": [
         "5624231004",
@@ -33578,7 +33604,9 @@
         "8081537",
         "7773320",
         "8075664",
-        "8081477"
+        "8081477",
+        "8054902",
+        "8054774"
     ],
     "Elastic": [
         "7505982",
@@ -39781,7 +39809,8 @@
         "R2021715",
         "R2014711",
         "R2021220",
-        "R2021909"
+        "R2021909",
+        "R2021602-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -44244,7 +44273,19 @@
         "R0000446760",
         "R0000446762",
         "R0000446759",
-        "R0000446823"
+        "R0000446823",
+        "R0000446656",
+        "R0000446106",
+        "R0000446826",
+        "R0000446836-1",
+        "R0000446841",
+        "R0000446780",
+        "R0000446140-1",
+        "R0000446299",
+        "R0000446755",
+        "R0000446789-1",
+        "R0000446369",
+        "R0000441561"
     ],
     "Zoom": [
         "R18188-1",
@@ -45270,7 +45311,9 @@
         "R-108072",
         "R-107837-1",
         "R-108063",
-        "R-107567-1"
+        "R-107567-1",
+        "R-108134",
+        "R-108133"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -45441,7 +45484,9 @@
         "Lead-Product-Designer_113299-JOB",
         "Sr-Managed-Services-Consultant_113319-JOB",
         "Platinum-Support-Account-Manager---Lead_113286-JOB",
-        "Senior-Technical-Support-Engineer_113326-JOB"
+        "Senior-Technical-Support-Engineer_113326-JOB",
+        "Research-Intern_113313-JOB",
+        "Design-Intern_113310-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -46172,7 +46217,9 @@
         "cd987666-aeda-4da6-a23c-d84d4231d33b",
         "10306789-4fd5-4f1d-90aa-8132c2df2848",
         "28239d75-5dd9-41fb-ba43-cb08b491be2b",
-        "e4603bb7-5bbe-4f73-9556-02c93f78b2af"
+        "e4603bb7-5bbe-4f73-9556-02c93f78b2af",
+        "85e808ab-ee45-4944-bedc-832bf933d0b6",
+        "c0bed981-0439-4bd6-9fa1-7f90efae3168"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -46644,7 +46691,9 @@
         "c1900c9b-6af1-4615-afa4-ec97f9d51616",
         "c733fd70-d29d-4dfc-83e2-07d3317a978c",
         "fc68577b-4f5f-4854-a152-b8fe153f46a3",
-        "48d6823d-b3e9-4e81-96a9-44bb9a6e21e5"
+        "48d6823d-b3e9-4e81-96a9-44bb9a6e21e5",
+        "0ff9480a-2c3b-4191-8b70-0ef19e5167e5",
+        "ca580fb5-2b1b-4cd2-a0e2-cf0d7737d4ac"
     ],
     "Netskope": [
         "7885748",
@@ -48874,7 +48923,8 @@
         "R35219-1",
         "R35221",
         "R35243",
-        "R35247"
+        "R35247",
+        "R35240"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -50208,7 +50258,10 @@
         "Manager--VAS-Pricing-and-Deal-Operations_REF085223W",
         "Lead-Software-Engineer_REF084840W",
         "Manager_REF085238W",
-        "Analyst--Demand-Management_REF082012W"
+        "Analyst--Demand-Management_REF082012W",
+        "Director--Commercial-Effectiveness---Initiatives_REF085061W-1",
+        "Sr-Manager--Software-Engineering_REF081070W",
+        "Sr-Associate-Counsel_REF085245W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -50944,7 +50997,8 @@
         "Senior-Associate--Digital-Renewal-Sales-Representative_26WD100143",
         "Senior-Program-Manager--GTM-PMO_26WD99757-1",
         "Senior-Software-Developer_26WD100028-1",
-        "Principal-Journey-Manager-and-Experience-Researcher---US---Canada--Remote-_26WD100013-1"
+        "Principal-Journey-Manager-and-Experience-Researcher---US---Canada--Remote-_26WD100013-1",
+        "Software-Engineer-in-Test---AutoCAD_26WD100040-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -55709,7 +55763,8 @@
         "8080585",
         "8081732",
         "8078681",
-        "8079016"
+        "8079016",
+        "8077094"
     ],
     "Kaseya": [
         "6022140004",
@@ -57561,7 +57616,10 @@
         "8082818",
         "8078685",
         "8082963",
-        "8037176"
+        "8037176",
+        "8083014",
+        "8083026",
+        "8081073"
     ],
     "Roku": [
         "8023364",
