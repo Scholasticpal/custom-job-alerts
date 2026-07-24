@@ -1391,7 +1391,8 @@
         "8072764",
         "8079918",
         "8069629",
-        "8082149"
+        "8082149",
+        "8076623"
     ],
     "Figma": [
         "5426468004",
@@ -9889,7 +9890,8 @@
         "7855441",
         "8082911",
         "8082890",
-        "7529815"
+        "7529815",
+        "8083244"
     ],
     "DoorDash": [
         "7927511",
@@ -15782,7 +15784,10 @@
         "R-281107",
         "R-281102",
         "R-281101",
-        "R-281100-1"
+        "R-281100-1",
+        "R-286686",
+        "R-282682-1",
+        "R-281585-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20609,7 +20614,8 @@
         "R353414",
         "R353238",
         "R352769",
-        "R353428"
+        "R353428",
+        "R343604"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22618,7 +22624,9 @@
         "R265463",
         "R265326",
         "R262317-1",
-        "R265277"
+        "R265277",
+        "R264363",
+        "R265355"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -22840,7 +22848,8 @@
         "Channel-Marketer--Canada--AVP---Corporate-Affairs_44134",
         "BXCI--Asset-Management--Risk-Analytics--VP_44132",
         "Institutional-Client-Solutions---Executive-Assistant---Sydney_44159",
-        "Anti-Money-Laundering--Associate-AVP_44158"
+        "Anti-Money-Laundering--Associate-AVP_44158",
+        "Real-Estate-Finance---Strategic-Analytics---Product-Management--Associate_44099-2"
     ],
     "Capital Group": [
         "R6549",
@@ -24765,7 +24774,10 @@
         "R-10386844",
         "R-10376613",
         "R-10392710",
-        "R-10399399"
+        "R-10399399",
+        "R-10399494",
+        "R-10397776",
+        "R-10395368"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -29953,7 +29965,8 @@
         "5368041008",
         "5368166008",
         "5356621008",
-        "5368642008"
+        "5368642008",
+        "5368076008"
     ],
     "Coinbase": [
         "7559052",
@@ -35851,7 +35864,8 @@
         "R-0108952",
         "R-0108428",
         "R-0108811",
-        "R-0108860"
+        "R-0108860",
+        "R-0108820"
     ],
     "CrowdStrike": [
         "R26911",
@@ -36677,7 +36691,8 @@
         "R29462-1",
         "R29471",
         "R29492",
-        "R29476"
+        "R29476",
+        "R28864"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -39872,7 +39887,8 @@
         "R2021873",
         "R2021774",
         "R2021652",
-        "R2020253-1"
+        "R2020253-1",
+        "R2021783"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -44362,7 +44378,20 @@
         "R0000446872",
         "R0000446871",
         "R0000446870",
-        "R0000446833"
+        "R0000446833",
+        "R0000446451",
+        "R0000446882",
+        "R0000446880",
+        "R0000446879",
+        "R0000446869",
+        "R0000442723",
+        "R0000446741",
+        "R0000446041-1",
+        "R0000446771",
+        "R0000446681",
+        "R0000446781",
+        "R0000446821",
+        "R0000446801"
     ],
     "Zoom": [
         "R18188-1",
@@ -44671,7 +44700,8 @@
         "R19425",
         "R19429-1",
         "R19432-2",
-        "R19433-1"
+        "R19433-1",
+        "R19435-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -45643,7 +45673,8 @@
         "b75ba81e-54cc-4393-a575-bc41776b0113",
         "715ba1ea-bd0b-4960-9d5a-defca99f2e24",
         "97fe8e68-28c5-42db-a763-60113f0b31fd",
-        "23c9ce7e-6b7b-4316-8f00-8f318e902441"
+        "23c9ce7e-6b7b-4316-8f00-8f318e902441",
+        "180257c0-ad46-4fae-b34f-36d8ddc2fe2e"
     ],
     "Hasura": [],
     "Netlify": [
@@ -46773,7 +46804,9 @@
         "fc68577b-4f5f-4854-a152-b8fe153f46a3",
         "48d6823d-b3e9-4e81-96a9-44bb9a6e21e5",
         "0ff9480a-2c3b-4191-8b70-0ef19e5167e5",
-        "ca580fb5-2b1b-4cd2-a0e2-cf0d7737d4ac"
+        "ca580fb5-2b1b-4cd2-a0e2-cf0d7737d4ac",
+        "006531a3-e72d-4b70-ab0d-7f1ec0a896d9",
+        "389b6680-6ff5-4659-b0af-1995e26b3474"
     ],
     "Netskope": [
         "7885748",
@@ -51086,7 +51119,10 @@
         "Principal-Journey-Manager-and-Experience-Researcher---US---Canada--Remote-_26WD100013-1",
         "Software-Engineer-in-Test---AutoCAD_26WD100040-1",
         "Fusion-Demand-Generation-Manager---Japan---APAC-_26WD99738",
-        "Senior-Software-Engineer_26WD96466-1"
+        "Senior-Software-Engineer_26WD96466-1",
+        "Principal-Machine-Learning-Developer--AI-ML-Platform_26WD99908-2",
+        "Account-Representative-Territory-Expansion_26WD100039-1",
+        "Software-Architect_26WD94957-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -52375,7 +52411,8 @@
         "Production-Manager--Internal-Assignment---Project-Hire-_10155652",
         "Data-Product-Mgr_10155281-1",
         "Senior-Manager--Product-Integrity--APAC_10155807",
-        "Construction-Manager--m-f-d----4-years-fixed-term_10155711-2"
+        "Construction-Manager--m-f-d----4-years-fixed-term_10155711-2",
+        "Specialist--Marketing-Operations---EMEA_10155837"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -53177,7 +53214,8 @@
         "R000105202",
         "R000104090",
         "R000107172",
-        "R000107265"
+        "R000107265",
+        "R000107253"
     ],
     "Kyndryl": [
         "R-61530",
@@ -54662,7 +54700,8 @@
         "R-64648",
         "R-65741-1",
         "R-59769",
-        "R-65668"
+        "R-65668",
+        "R-60936"
     ],
     "Chime": [
         "8391630002",
@@ -57717,7 +57756,8 @@
         "8083021",
         "8083154",
         "8083152",
-        "8082809"
+        "8082809",
+        "8073901"
     ],
     "Roku": [
         "8023364",
@@ -58025,7 +58065,8 @@
         "8079861",
         "8081709",
         "8050555",
-        "8050577"
+        "8050577",
+        "8081511"
     ],
     "Spotify": [],
     "Snap": [],
