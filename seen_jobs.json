@@ -7295,7 +7295,8 @@
         "8611108002",
         "8642617002",
         "8649279002",
-        "8632399002"
+        "8632399002",
+        "8620285002"
     ],
     "Rubrik": [
         "7310036",
@@ -9929,7 +9930,8 @@
         "8082890",
         "7529815",
         "8083244",
-        "8071015"
+        "8071015",
+        "8087916"
     ],
     "DoorDash": [
         "7927511",
@@ -15858,7 +15860,8 @@
         "R-282173",
         "R-281771",
         "R-2_R-281154-1",
-        "R-282759"
+        "R-282759",
+        "R-281599"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20705,7 +20708,10 @@
         "R353113",
         "R274065",
         "R353415",
-        "R350893"
+        "R350893",
+        "R346840",
+        "R353220",
+        "R353573-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22725,7 +22731,9 @@
         "R265434",
         "R265322",
         "R265399-1",
-        "R265398"
+        "R265398",
+        "R265338",
+        "R265433-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -24890,7 +24898,8 @@
         "R-10399231",
         "R-10399516",
         "R-10399530",
-        "R-10399531"
+        "R-10399531",
+        "R-10380920-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -25620,7 +25629,8 @@
         "R-14675",
         "R-14695-1",
         "R-14292",
-        "R-14736"
+        "R-14736",
+        "R-14855"
     ],
     "PayPal": [
         "R0135744-1",
@@ -44648,7 +44658,10 @@
         "R0000446911",
         "R0000446112",
         "R0000447054",
-        "R0000446842"
+        "R0000446842",
+        "R0000446838",
+        "R0000447069",
+        "R0000447068"
     ],
     "Zoom": [
         "R18188-1",
@@ -46605,7 +46618,11 @@
         "85e808ab-ee45-4944-bedc-832bf933d0b6",
         "c0bed981-0439-4bd6-9fa1-7f90efae3168",
         "a7321948-288c-4e9f-9fbe-2f9ccda07ffa",
-        "bb0c781f-b2ca-47fb-90bf-ee13dbf58718"
+        "bb0c781f-b2ca-47fb-90bf-ee13dbf58718",
+        "372e94d9-fc43-445e-8a96-62caf98366c6",
+        "fdf2e205-0c85-4940-9450-aa024379746a",
+        "e588a0ac-6a84-42fd-808f-6474fd8ff6f0",
+        "fcf20b30-cab9-4aba-a848-45e28d24030f"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -50684,7 +50701,8 @@
         "B2B-Marketing-Manager_REF085248W",
         "Senior-Manager-AE---Merchant-Retail-CoE_REF085275W",
         "Trilingual-Client-Care-Consultant--ES-EN-PORT--_REF085221W",
-        "SW-Engineer--Developer-Systems-Reliability-Engineering_REF084823W-1"
+        "SW-Engineer--Developer-Systems-Reliability-Engineering_REF084823W-1",
+        "Business-Sales-Support-Manager_REF085152W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -51428,7 +51446,8 @@
         "Account-Representative-Territory-Expansion_26WD100039-1",
         "Software-Architect_26WD94957-1",
         "Fusion-Sales-Representative_26WD100173",
-        "Account-Technical-Lead--Regional-Accounts_26WD100066-1"
+        "Account-Technical-Lead--Regional-Accounts_26WD100066-1",
+        "Senior-Data-Engineer_26WD100084-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -52740,7 +52759,9 @@
         "Manager---HR-Business-Partner_10156348",
         "Senior-Tech-Recruiter--12-Month-Temp-Role-_10154035",
         "Technicien-ne--Oprateur-rice--Effets-Spciaux-F-H-NB---CDD_10156923-1",
-        "Creative-Venue-Technician-Apprentice--Level-3----Disney-Theatrical-Group_10156858"
+        "Creative-Venue-Technician-Apprentice--Level-3----Disney-Theatrical-Group_10156858",
+        "Senior-Manager--Business-Affairs--Disney-Music-Group_10156937",
+        "Associate-Specialist--Human-Resources-Information-Solutions_10156403"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -55037,7 +55058,11 @@
         "R-65271-1",
         "R-65231-1",
         "R-65846",
-        "R-66056-1"
+        "R-66056-1",
+        "R-65436-1",
+        "R-65439-1",
+        "R-65452-1",
+        "R-65380"
     ],
     "Chime": [
         "8391630002",
@@ -58131,7 +58156,12 @@
         "8073920",
         "8082816",
         "7931249",
-        "8083019"
+        "8083019",
+        "8087868",
+        "8087919",
+        "8087903",
+        "8083141",
+        "8078889"
     ],
     "Roku": [
         "8023364",
