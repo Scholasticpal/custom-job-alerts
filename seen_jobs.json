@@ -1411,7 +1411,8 @@
         "8069694",
         "8081754",
         "8075473",
-        "8081673"
+        "8081673",
+        "8089069"
     ],
     "Figma": [
         "5426468004",
@@ -5385,7 +5386,8 @@
         "8084251",
         "8082161",
         "8082854",
-        "8088050"
+        "8088050",
+        "8089765"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -7809,7 +7811,8 @@
         "8087768",
         "8083126",
         "8078992",
-        "8084242"
+        "8084242",
+        "8081698"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -10618,7 +10621,8 @@
         "8079494",
         "7993370",
         "7482108",
-        "8089677"
+        "8089677",
+        "8060482"
     ],
     "GitHub": [],
     "Twilio": [
@@ -15944,7 +15948,9 @@
         "R-286242",
         "R-286253",
         "R-286707",
-        "R-284370-1"
+        "R-284370-1",
+        "R-284514",
+        "R-286999"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20820,7 +20826,9 @@
         "R353659",
         "R351328",
         "R352354-1",
-        "R353197"
+        "R353197",
+        "R353695",
+        "R337787"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21636,7 +21644,9 @@
         "Remote-Travel-Consultant--Sabre-Experience_J-83590-1",
         "PAM-Engineer_J-83503-1",
         "Lead-Travel-Counsultant_J-83848",
-        "Solutions-Engineer_J-83663"
+        "Solutions-Engineer_J-83663",
+        "Senior-Engineer_J-83852",
+        "Software-Development-Engineer-III_J-83850"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -25037,7 +25047,10 @@
         "R-10398713",
         "R-10398942",
         "R-10398499",
-        "R-10397883"
+        "R-10397883",
+        "R-10399590",
+        "R-10398127",
+        "R-10399440-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -29367,7 +29380,8 @@
         "c20ea3d3-76a6-438d-9bb5-c9be97917975",
         "8adb1529-bca1-4aad-b539-04f83924a111",
         "3b70ebc9-9d9a-4930-ad7b-52c9229f6a52",
-        "70aaaafa-fe2f-4409-9a72-c0faf50d7d01"
+        "70aaaafa-fe2f-4409-9a72-c0faf50d7d01",
+        "05280201-16cc-4d82-ac90-336badb001ca"
     ],
     "Anthropic": [
         "5101832008",
@@ -30739,7 +30753,8 @@
         "8642085002",
         "8644780002",
         "8642220002",
-        "8641295002"
+        "8641295002",
+        "8649856002"
     ],
     "Reddit": [
         "7011741",
@@ -31895,7 +31910,8 @@
         "7817804003",
         "7796534003",
         "7796536003",
-        "7796530003"
+        "7796530003",
+        "7812982003"
     ],
     "Robinhood": [
         "7799902",
@@ -32249,7 +32265,8 @@
         "8060600",
         "8076097",
         "8083951",
-        "8083811"
+        "8083811",
+        "8088954"
     ],
     "Vercel": [
         "5624231004",
@@ -36257,7 +36274,8 @@
         "R-0108989",
         "R-0106731",
         "R-0108893",
-        "R-0108767"
+        "R-0108767",
+        "R-0108943-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -44962,7 +44980,10 @@
         "R0000447140",
         "R0000446749",
         "R0000446682-1",
-        "R0000447015-1"
+        "R0000447015-1",
+        "R0000444637-1",
+        "R0000447227",
+        "R0000447230"
     ],
     "Zoom": [
         "R18188-1",
@@ -45280,7 +45301,8 @@
         "R16487-1",
         "R19442-1",
         "R19446-1",
-        "R19444-1"
+        "R19444-1",
+        "R19447"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -46009,7 +46031,8 @@
         "R-107958",
         "R-107210",
         "R-108003",
-        "R-108215-1"
+        "R-108215-1",
+        "R-108173-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -48596,7 +48619,8 @@
         "0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
         "33243fb5-6907-40c7-930c-968b25d825d0",
         "5a28f3a5-8655-47f2-ab19-a79b8a319da8",
-        "91117724-9389-48dc-912f-98e48d4d45d8"
+        "91117724-9389-48dc-912f-98e48d4d45d8",
+        "a194220b-684a-4b4e-b918-1f70154b464c"
     ],
     "Gong": [
         "4395203006",
@@ -51056,7 +51080,8 @@
         "Senior-Director--Global-Brand-Management-Systems---Operations_REF085268W",
         "Loyalty-Product-Manager_REF085194W-2",
         "Lead-Technical-Program-Manager_REF085151W-1",
-        "Manager--Visa-Consulting-and-Analytics--VCA---Digital-Practices_REF085165W"
+        "Manager--Visa-Consulting-and-Analytics--VCA---Digital-Practices_REF085165W",
+        "Director--Visa-Consulting---Analytics_REF083003W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -53142,7 +53167,10 @@
         "Part-time-Production-Assistant_10156310",
         "Supervisor--PTP_10155958",
         "Sr-Analyst--Product-Marketing_10154574",
-        "Sr-Mgr--Software-Engineering_10155944"
+        "Sr-Mgr--Software-Engineering_10155944",
+        "Freelance-DGA-Production-Associate--ABC-News--Expression-of-Interest-_10157011",
+        "Lead-Enterprise-Architect--Disney-Experiences-_10154964-1",
+        "KGO---Freelance-News-Photographers--Expression-Of-Interest-_10157010"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -53964,7 +53992,9 @@
         "R000105241",
         "R000105680",
         "R000107283",
-        "R000107278"
+        "R000107278",
+        "R000107208",
+        "R000107072"
     ],
     "Kyndryl": [
         "R-61530",
@@ -55474,7 +55504,8 @@
         "R-66038-1",
         "R-65451-1",
         "R-64310",
-        "R-65084-1"
+        "R-65084-1",
+        "R-65662"
     ],
     "Chime": [
         "8391630002",
@@ -56102,7 +56133,8 @@
         "7815992003",
         "7815994003",
         "7815998003",
-        "7816001003"
+        "7816001003",
+        "7742208003"
     ],
     "Earnin": [
         "8013281",
@@ -57457,7 +57489,8 @@
         "8089144",
         "8083375",
         "8080225",
-        "7838464"
+        "7838464",
+        "8060303"
     ],
     "Propel": [],
     "Canva": [],
@@ -58919,7 +58952,11 @@
         "8089356",
         "8077235",
         "8089350",
-        "8089352"
+        "8089352",
+        "8075790",
+        "8075797",
+        "8079699",
+        "8075800"
     ],
     "Spotify": [],
     "Snap": [],
