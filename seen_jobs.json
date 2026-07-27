@@ -1404,7 +1404,8 @@
         "8083464",
         "8068744",
         "8068746",
-        "8076966"
+        "8076966",
+        "8081423"
     ],
     "Figma": [
         "5426468004",
@@ -5365,7 +5366,8 @@
         "8080954",
         "8084251",
         "8082161",
-        "8082854"
+        "8082854",
+        "8088050"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -7300,7 +7302,8 @@
         "8642617002",
         "8649279002",
         "8632399002",
-        "8620285002"
+        "8620285002",
+        "8651161002"
     ],
     "Rubrik": [
         "7310036",
@@ -7779,7 +7782,8 @@
         "8067182",
         "8053682",
         "8077160",
-        "8087768"
+        "8087768",
+        "8083126"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -9936,7 +9940,8 @@
         "7529815",
         "8083244",
         "8071015",
-        "8087916"
+        "8087916",
+        "8083241"
     ],
     "DoorDash": [
         "7927511",
@@ -11416,7 +11421,8 @@
         "8067364",
         "8074707",
         "8074704",
-        "8074709"
+        "8074709",
+        "8075216"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -15870,7 +15876,13 @@
         "R-282759",
         "R-281599",
         "R-286197",
-        "R-286793"
+        "R-286793",
+        "R-286727",
+        "R-286790",
+        "R-286268",
+        "R-286592",
+        "R-286976",
+        "R-286194-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20724,7 +20736,10 @@
         "R348871",
         "R348870",
         "R353601",
-        "R353598"
+        "R353598",
+        "R353616-1",
+        "R353311",
+        "R346083"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21537,7 +21552,8 @@
         "Lead---Registration-Website---Mobile-App-Build-Specialist_J-80397",
         "Meeting-Manager---Pharma--Life-Sciences_J-83328",
         "Remote-Travel-Consultant--Sabre-Experience_J-83590-1",
-        "PAM-Engineer_J-83503-1"
+        "PAM-Engineer_J-83503-1",
+        "Lead-Travel-Counsultant_J-83848"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -21718,7 +21734,8 @@
         "Vice-President--China-Asia-Economist--Research-Analyst--Global-Research--Hong-Kong_26025405-1",
         "Vice-President--Director--APAC-GCIB-Business-Controls-Officer_26025413",
         "VP--Client-Servicing-Specialist--ETD---Global-Markets-Operations_26024791",
-        "VP--Markets-Support-Specialist--Collateral-Operations---Global-Markets-Operations_26024733"
+        "VP--Markets-Support-Specialist--Collateral-Operations---Global-Markets-Operations_26024733",
+        "Director-Vice-President--Sr-Country-Compliance-and-Operational-Risk-Manager--Seoul--Korea-_26026167"
     ],
     "BlackRock": [
         "R263666",
@@ -22748,7 +22765,9 @@
         "R265338",
         "R265433-1",
         "R265259",
-        "R265234"
+        "R265234",
+        "R265689",
+        "R265255"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -24921,7 +24940,8 @@
         "R-1_R-10399322",
         "R-10375466",
         "R-1_R-10399323",
-        "R-10399442"
+        "R-10399442",
+        "R-10399391"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -33879,7 +33899,8 @@
         "8059382",
         "8080601",
         "8016279",
-        "8074700"
+        "8074700",
+        "7180265"
     ],
     "Elastic": [
         "7505982",
@@ -36084,7 +36105,8 @@
         "R-0108986-1",
         "R-0105493",
         "R-0105486",
-        "R-0105488"
+        "R-0105488",
+        "R-0108989"
     ],
     "CrowdStrike": [
         "R26911",
@@ -36924,7 +36946,10 @@
         "R29521-1",
         "R29445",
         "R29552",
-        "R29475"
+        "R29475",
+        "R29490",
+        "R29285",
+        "R29458"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -40173,7 +40198,11 @@
         "R2021883",
         "R2021888",
         "R2021956",
-        "R2021928"
+        "R2021928",
+        "R2010510",
+        "R2009176",
+        "R2009271",
+        "R2021893"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -44723,7 +44752,10 @@
         "R0000447026",
         "R0000447056",
         "R0000447072",
-        "R0000443235-1"
+        "R0000443235-1",
+        "R0000441670",
+        "R0000447103",
+        "R0000446542"
     ],
     "Zoom": [
         "R18188-1",
@@ -45038,7 +45070,8 @@
         "R19418-1",
         "R19427-1",
         "R19401-1",
-        "R16487-1"
+        "R16487-1",
+        "R19442-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -46015,7 +46048,8 @@
         "97fe8e68-28c5-42db-a763-60113f0b31fd",
         "23c9ce7e-6b7b-4316-8f00-8f318e902441",
         "180257c0-ad46-4fae-b34f-36d8ddc2fe2e",
-        "79dd0887-e54c-484c-a988-c8720040dd0b"
+        "79dd0887-e54c-484c-a988-c8720040dd0b",
+        "f6035bf8-4f44-4425-9944-d5509a3c8652"
     ],
     "Hasura": [],
     "Netlify": [
@@ -47167,7 +47201,8 @@
         "8d5e9285-1de8-43ff-802c-5aac8a83dbe1",
         "e6b2f6ef-b4fc-4298-8d4d-fe728ce444c1",
         "c21430ee-855d-4871-9844-8c5acc0ca593",
-        "85061c65-01c8-4073-9ac2-96d75348d624"
+        "85061c65-01c8-4073-9ac2-96d75348d624",
+        "d16eb7a2-fc52-4dfa-86f8-627d6b5a6349"
     ],
     "Netskope": [
         "7885748",
@@ -47997,7 +48032,8 @@
         "8083934",
         "8063736",
         "8055217",
-        "8050373"
+        "8050373",
+        "8088205"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -49198,7 +49234,8 @@
         "45ff5e5b-cf5d-4a95-8f4d-866fbae542c2",
         "803792f5-0e9c-45bc-82ce-c0a552ce0cf8",
         "5eb7a75b-312c-4759-8813-70e67b5d4109",
-        "f140e9d7-8d0c-4e24-bace-8568385b6f5c"
+        "f140e9d7-8d0c-4e24-bace-8568385b6f5c",
+        "892ad297-ed0e-4f9c-98b8-fd30358a5517"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -49425,7 +49462,8 @@
         "R35247",
         "R35240",
         "R35108",
-        "R35170"
+        "R35170",
+        "R35213"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -50769,7 +50807,12 @@
         "SW-Engineer--Developer-Systems-Reliability-Engineering_REF084823W-1",
         "Business-Sales-Support-Manager_REF085152W-1",
         "Senior-Manager--Acceptance-Development_REF085287W",
-        "Manager--Marketing_REF085193W"
+        "Manager--Marketing_REF085193W",
+        "Director--SMB-Solutioning---Premium---Loyalty_REF085284W",
+        "Consulting-Analyst_REF085163W",
+        "Compliance-Analyst_REF084649W",
+        "Director--Agentic-Commerce_REF083032W-1",
+        "Director---Fintech-Strategy---Market-Enablement_REF085281W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -51515,7 +51558,8 @@
         "Fusion-Sales-Representative_26WD100173",
         "Account-Technical-Lead--Regional-Accounts_26WD100066-1",
         "Senior-Data-Engineer_26WD100084-1",
-        "Implementation-Consultant---AEC-Evergreen-_21WD52655"
+        "Implementation-Consultant---AEC-Evergreen-_21WD52655",
+        "Account-Based-Territory-Sales-Representative-MFG-DACH_26WD100024-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -52829,7 +52873,12 @@
         "Technicien-ne--Oprateur-rice--Effets-Spciaux-F-H-NB---CDD_10156923-1",
         "Creative-Venue-Technician-Apprentice--Level-3----Disney-Theatrical-Group_10156858",
         "Senior-Manager--Business-Affairs--Disney-Music-Group_10156937",
-        "Associate-Specialist--Human-Resources-Information-Solutions_10156403"
+        "Associate-Specialist--Human-Resources-Information-Solutions_10156403",
+        "Senior-Manager-HRBP----CDI---F-H-NB_10156292",
+        "Sr-Product-Manager-II_10153956",
+        "Technology-Helpdesk-Executive_10155503-1",
+        "Talent-Coordinator--Contract-Employment-_10156939",
+        "Production-Coordinator_10151262-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -53637,7 +53686,8 @@
         "R000107211",
         "R000107120",
         "R000106876",
-        "R000107288"
+        "R000107288",
+        "R000105998"
     ],
     "Kyndryl": [
         "R-61530",
@@ -55135,7 +55185,13 @@
         "R-65435",
         "R-65744",
         "R-65577",
-        "R-65576"
+        "R-65576",
+        "R-58949",
+        "R-65718",
+        "R-62778-1",
+        "R-63912",
+        "R-60229",
+        "R-65997"
     ],
     "Chime": [
         "8391630002",
@@ -56347,7 +56403,9 @@
         "8084173",
         "8081048",
         "8053679",
-        "8059472"
+        "8059472",
+        "7765038",
+        "7602340"
     ],
     "Kaseya": [
         "6022140004",
@@ -58246,7 +58304,9 @@
         "8087987",
         "8087929",
         "8082845",
-        "8088014"
+        "8088014",
+        "8078705",
+        "8087881"
     ],
     "Roku": [
         "8023364",
