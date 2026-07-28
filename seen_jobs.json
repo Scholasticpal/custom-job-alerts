@@ -1419,7 +1419,8 @@
         "7998031",
         "8049099",
         "8078333",
-        "7454647"
+        "7454647",
+        "8092411"
     ],
     "Figma": [
         "5426468004",
@@ -7382,7 +7383,9 @@
         "8567957002",
         "8653775002",
         "8632188002",
-        "8652590002"
+        "8652590002",
+        "8633743002",
+        "8643831002"
     ],
     "Rubrik": [
         "7310036",
@@ -10694,7 +10697,8 @@
         "8090114",
         "8089089",
         "8090184",
-        "8092311"
+        "8092311",
+        "8090089"
     ],
     "GitHub": [],
     "Twilio": [
@@ -16064,7 +16068,12 @@
         "R-285269",
         "R-286653",
         "R-286558",
-        "R-284512"
+        "R-284512",
+        "R-286485-1",
+        "R-286487-1",
+        "R-286486-1",
+        "R-282421",
+        "R-286249"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20976,7 +20985,11 @@
         "R353817",
         "R353816",
         "R353660-1",
-        "R353865"
+        "R353865",
+        "R351733",
+        "R352499",
+        "R353436",
+        "R353867"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21124,7 +21137,8 @@
         "7156979",
         "8088259",
         "8089986",
-        "8089950"
+        "8089950",
+        "8092531"
     ],
     "PayU": [],
     "American Express": [
@@ -21805,7 +21819,8 @@
         "Manager-Business-Development_J-83201",
         "Pricing-Analyst_J-83863",
         "Specialized-Travel-Counselor_J-81944-1",
-        "Global---Regional-Client-Manager_J-83713"
+        "Global---Regional-Client-Manager_J-83713",
+        "Senior-Meeting-Manager--The-Experience-Studio_J-83580"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -23267,7 +23282,8 @@
         "Real-Estate-Debt-Strategies--Operations---Finance_41786",
         "Blackstone-Physical-Security---Managing-Director--Security-Intelligence_43070",
         "Real-Estate---Asset-Management--Associate_43209-4",
-        "DevOps-Engineer--AVP---Data--Cloud--and-Developer-Experience_44223-1"
+        "DevOps-Engineer--AVP---Data--Cloud--and-Developer-Experience_44223-1",
+        "MD--Global-Head-of-Corporate-Real-Estate-Performance---Strategy_44237"
     ],
     "Capital Group": [
         "R6549",
@@ -25246,7 +25262,9 @@
         "R-10398686",
         "R-10395304",
         "R-10398699-1",
-        "R-10399672"
+        "R-10399672",
+        "R-10397286-1",
+        "R-10398792"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -26494,7 +26512,8 @@
         "R0137014",
         "R0137161",
         "R0137141-1",
-        "R0132102-1"
+        "R0132102-1",
+        "R0136942"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -29591,7 +29610,8 @@
         "a10cc96f-1584-4927-91c1-8fc71ae14de8",
         "802613d6-afcf-4a87-bccf-b5f0a8b8ab30",
         "3229b152-015f-49ad-9921-9c9de95570c8",
-        "f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6"
+        "f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6",
+        "1d80776d-c6ee-486e-8674-2cfe2a692e0e"
     ],
     "Anthropic": [
         "5101832008",
@@ -30810,7 +30830,8 @@
         "8084049",
         "8082199",
         "8083051",
-        "8088201"
+        "8088201",
+        "8092651"
     ],
     "Discord": [
         "8289766002",
@@ -31587,7 +31608,8 @@
         "adb34b7e-89f3-4365-9f8f-4c98d50cc0fd",
         "4b543db7-650d-4fea-a379-7181f65de144",
         "4967b1cf-a1f7-417b-b650-feebbff767a3",
-        "54312e76-4e41-436e-9a01-fe1f8f4d90f2"
+        "54312e76-4e41-436e-9a01-fe1f8f4d90f2",
+        "d8ece3fa-37ca-40c8-9092-ebccdbdadd5a"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -34855,7 +34877,11 @@
         "8091449",
         "8091526",
         "8066481",
-        "8089443"
+        "8089443",
+        "8089274",
+        "8089245",
+        "8089240",
+        "8089242"
     ],
     "Asana": [
         "7120496",
@@ -40692,7 +40718,10 @@
         "R2021826",
         "R2014754",
         "R2021429",
-        "R2021854"
+        "R2021854",
+        "R2021860",
+        "R2021537",
+        "R2021856-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -40913,7 +40942,8 @@
         "IC-Package-Layout-Team-Leader_2020301",
         "Software-Engineer-Technical-Leader---Network-Data-Plane---Hypershield_2019261",
         "Software-Engineer_2019105-1",
-        "Software-Engineer_2014802"
+        "Software-Engineer_2014802",
+        "Software-Engineer---Rust_2020688"
     ],
     "Intel": [
         "R0283052",
@@ -45342,7 +45372,11 @@
         "R0000447351",
         "R0000447323",
         "R0000447363",
-        "R0000444318"
+        "R0000444318",
+        "R0000447287",
+        "R0000447228",
+        "R0000447324",
+        "R0000447374"
     ],
     "Zoom": [
         "R18188-1",
@@ -45664,7 +45698,8 @@
         "R19447",
         "R19449-1",
         "R19450-1",
-        "R19367-2"
+        "R19367-2",
+        "R19451-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -46887,7 +46922,8 @@
         "8606309002",
         "8177765002",
         "8625370002",
-        "8642104002"
+        "8642104002",
+        "8654173002"
     ],
     "Scale AI": [
         "4654510005",
@@ -47172,7 +47208,8 @@
         "4716445005",
         "4716431005",
         "4718618005",
-        "4718559005"
+        "4718559005",
+        "4718940005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -47343,7 +47380,8 @@
         "372e94d9-fc43-445e-8a96-62caf98366c6",
         "fdf2e205-0c85-4940-9450-aa024379746a",
         "e588a0ac-6a84-42fd-808f-6474fd8ff6f0",
-        "fcf20b30-cab9-4aba-a848-45e28d24030f"
+        "fcf20b30-cab9-4aba-a848-45e28d24030f",
+        "f57ae62a-791b-43d9-b59f-91f338ca61f4"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -49670,7 +49708,10 @@
         "8016737",
         "7305880",
         "8083868",
-        "8026888"
+        "8026888",
+        "8089250",
+        "7771049",
+        "8084337"
     ],
     "Twitch": [
         "8334413002",
@@ -49801,7 +49842,9 @@
         "8648174002",
         "8648175002",
         "8649365002",
-        "8649504002"
+        "8649504002",
+        "8654191002",
+        "8654152002"
     ],
     "Yelp": [],
     "Jupiter Money": [],
@@ -51485,7 +51528,8 @@
         "Senior-Product-Manager--Cyber-Product-Management_REF085004W",
         "Director--Co-Brand-Strategic-Partnerships-NA_REF086845W",
         "Senior-Manager---Media-CarCam_REF085225W",
-        "Consultant--Technical-Solutions_REF084766W"
+        "Consultant--Technical-Solutions_REF084766W",
+        "Compliance---Risk-Consultant_REF086874W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -53597,7 +53641,10 @@
         "Recurring-Remote-Production-Support-Graphics-Interface-Coordinator--GIC-_10157058",
         "Analyst--International-Consumer-Payments_10155028",
         "Casting-Administrator--Disney-Entertainment-Television-_10156717",
-        "Lead-Data-Engineer_10155496"
+        "Lead-Data-Engineer_10155496",
+        "Coordinator--Social-Media-Marketing--Kids---Family-_10155964",
+        "Supervisor--Operations-Studio-PCR_10155845",
+        "Recurring-Remote-Production-Support-Content--STATS-_10156957"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -54430,7 +54477,8 @@
         "R000107284",
         "R000107223",
         "R000107306",
-        "R000100406"
+        "R000100406",
+        "R000107135"
     ],
     "Kyndryl": [
         "R-61530",
@@ -55969,7 +56017,18 @@
         "R-64828",
         "R-64903",
         "R-64905",
-        "R-66236"
+        "R-66236",
+        "R-55660",
+        "R-55673",
+        "R-55647",
+        "R-55671",
+        "R-55667",
+        "R-55654",
+        "R-55666",
+        "R-59095",
+        "R-59094",
+        "R-55669",
+        "R-55524"
     ],
     "Chime": [
         "8391630002",
@@ -57215,7 +57274,9 @@
         "8088491",
         "8088417",
         "8076030",
-        "8082028"
+        "8082028",
+        "8092728",
+        "8051063"
     ],
     "Kaseya": [
         "6022140004",
@@ -57982,7 +58043,9 @@
         "8090625",
         "8079399",
         "8038726",
-        "7977158"
+        "7977158",
+        "8077263",
+        "8088329"
     ],
     "Propel": [],
     "Canva": [],
@@ -58233,7 +58296,8 @@
         "8652711002",
         "8653819002",
         "8653816002",
-        "8653821002"
+        "8653821002",
+        "8648043002"
     ],
     "Coupang": [
         "7915234",
@@ -59467,7 +59531,10 @@
         "8075790",
         "8075797",
         "8079699",
-        "8075800"
+        "8075800",
+        "8089620",
+        "8089550",
+        "8089613"
     ],
     "Spotify": [],
     "Snap": [],
