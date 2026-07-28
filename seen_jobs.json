@@ -2800,7 +2800,10 @@
         "7812477003",
         "7812607003",
         "7812478003",
-        "7812590003"
+        "7812590003",
+        "7812614003",
+        "7812613003",
+        "7812483003"
     ],
     "Razorpay": [
         "4665089005",
@@ -7817,7 +7820,8 @@
         "8083126",
         "8078992",
         "8084242",
-        "8081698"
+        "8081698",
+        "8083118"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -11635,7 +11639,8 @@
         "7818135003",
         "7818168003",
         "7812973003",
-        "7817966003"
+        "7817966003",
+        "7818501003"
     ],
     "Swiggy": [],
     "Zomato": [],
@@ -15965,7 +15970,8 @@
         "R-286999",
         "R-286461",
         "R-279031",
-        "R-282088"
+        "R-282088",
+        "R-282328"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20848,7 +20854,9 @@
         "R350765",
         "R353404",
         "R353226-1",
-        "R318163"
+        "R318163",
+        "R331928",
+        "R351402"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21852,7 +21860,8 @@
         "Vice-President--Director--APAC-GCIB-Business-Controls-Officer_26025413",
         "VP--Client-Servicing-Specialist--ETD---Global-Markets-Operations_26024791",
         "VP--Markets-Support-Specialist--Collateral-Operations---Global-Markets-Operations_26024733",
-        "Director-Vice-President--Sr-Country-Compliance-and-Operational-Risk-Manager--Seoul--Korea-_26026167"
+        "Director-Vice-President--Sr-Country-Compliance-and-Operational-Risk-Manager--Seoul--Korea-_26026167",
+        "Vice-President-Director--APAC-Country-COO_26026325"
     ],
     "BlackRock": [
         "R263666",
@@ -22888,7 +22897,11 @@
         "R265436",
         "R265717",
         "R265714",
-        "R265432"
+        "R265432",
+        "R265061",
+        "R265264",
+        "R265316",
+        "R265631"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -25811,7 +25824,9 @@
         "R-14736",
         "R-14855",
         "R-14631",
-        "R-14373-1"
+        "R-14373-1",
+        "R-14816",
+        "R-14566"
     ],
     "PayPal": [
         "R0135744-1",
@@ -35331,7 +35346,8 @@
         "R169899",
         "R160344",
         "R170641",
-        "R170498-1"
+        "R170498-1",
+        "R170230-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -40440,7 +40456,21 @@
         "R2022037",
         "R2021473",
         "R2022042",
-        "R2021751"
+        "R2021751",
+        "R2021864",
+        "R2021644",
+        "R2021902",
+        "R2022097",
+        "R2022204",
+        "R2021866",
+        "R2009401",
+        "R2021984",
+        "R2021988",
+        "R2021574",
+        "R2021971",
+        "R2021555",
+        "R2021465",
+        "R2021952"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -45040,7 +45070,12 @@
         "R0000447262",
         "R0000447261",
         "R0000447250-1",
-        "R0000447129"
+        "R0000447129",
+        "R0000447265",
+        "R0000447178-1",
+        "R0000447208",
+        "R0000447018",
+        "R0000445251"
     ],
     "Zoom": [
         "R18188-1",
@@ -51141,7 +51176,8 @@
         "Loyalty-Product-Manager_REF085194W-2",
         "Lead-Technical-Program-Manager_REF085151W-1",
         "Manager--Visa-Consulting-and-Analytics--VCA---Digital-Practices_REF085165W",
-        "Director--Visa-Consulting---Analytics_REF083003W-1"
+        "Director--Visa-Consulting---Analytics_REF083003W-1",
+        "Product-Manager_REF085044W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -53232,7 +53268,9 @@
         "Sr-Mgr--Software-Engineering_10155944",
         "Freelance-DGA-Production-Associate--ABC-News--Expression-of-Interest-_10157011",
         "Lead-Enterprise-Architect--Disney-Experiences-_10154964-1",
-        "KGO---Freelance-News-Photographers--Expression-Of-Interest-_10157010"
+        "KGO---Freelance-News-Photographers--Expression-Of-Interest-_10157010",
+        "Manager--Digital--Integrated-Marketing_10156620",
+        "Sr-Specialist--Promotion-Partnerships--Integrated-Marketing_10156508"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -54056,7 +54094,8 @@
         "R000107283",
         "R000107278",
         "R000107208",
-        "R000107072"
+        "R000107072",
+        "R000107249"
     ],
     "Kyndryl": [
         "R-61530",
@@ -55568,7 +55607,8 @@
         "R-64310",
         "R-65084-1",
         "R-65662",
-        "R-64316"
+        "R-64316",
+        "R-65673"
     ],
     "Chime": [
         "8391630002",
@@ -58709,7 +58749,9 @@
         "8044863",
         "8090231",
         "8087873",
-        "8090211"
+        "8090211",
+        "8090450",
+        "7912287"
     ],
     "Roku": [
         "8023364",
@@ -59406,7 +59448,9 @@
         "8467259002",
         "8551045002",
         "8647303002",
-        "8647264002"
+        "8647264002",
+        "8147900002",
+        "8470887002"
     ],
     "Mistral": [
         "7894fd8a-ffc9-4c89-87f0-f8a7b695cf01",
