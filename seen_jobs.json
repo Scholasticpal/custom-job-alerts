@@ -5425,7 +5425,8 @@
         "8080766",
         "8080626",
         "8080625",
-        "8078019"
+        "8078019",
+        "8092414"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -7931,7 +7932,8 @@
         "39143513-ad4c-41fb-86ed-b939a66e53d2",
         "ce64fe49-184c-44b1-9abf-dc5ce0dc9381",
         "47920ccd-db54-4ed4-a865-70857e865fff",
-        "80a47c3e-a160-4277-a452-1eef9c689167"
+        "80a47c3e-a160-4277-a452-1eef9c689167",
+        "46f3f467-8728-47b4-8fad-06e18ffbe552"
     ],
     "Glean": [],
     "BrowserStack": [
@@ -9049,7 +9051,8 @@
         "8079544",
         "8089418",
         "8089400",
-        "8089379"
+        "8089379",
+        "8084358"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -10698,7 +10701,11 @@
         "8089089",
         "8090184",
         "8092311",
-        "8090089"
+        "8090089",
+        "8071755",
+        "8073148",
+        "8079479",
+        "7994302"
     ],
     "GitHub": [],
     "Twilio": [
@@ -11251,7 +11258,8 @@
         "8088440",
         "8089290",
         "8088729",
-        "8044650"
+        "8044650",
+        "8088775"
     ],
     "Dropbox": [
         "7646405",
@@ -16073,7 +16081,9 @@
         "R-286487-1",
         "R-286486-1",
         "R-282421",
-        "R-286249"
+        "R-286249",
+        "R-286837",
+        "R-286739"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20989,7 +20999,9 @@
         "R351733",
         "R352499",
         "R353436",
-        "R353867"
+        "R353867",
+        "R353393-1",
+        "R349769-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21820,7 +21832,8 @@
         "Pricing-Analyst_J-83863",
         "Specialized-Travel-Counselor_J-81944-1",
         "Global---Regional-Client-Manager_J-83713",
-        "Senior-Meeting-Manager--The-Experience-Studio_J-83580"
+        "Senior-Meeting-Manager--The-Experience-Studio_J-83580",
+        "Regional-Account-Manager--Remote-_J-82966"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -23283,7 +23296,8 @@
         "Blackstone-Physical-Security---Managing-Director--Security-Intelligence_43070",
         "Real-Estate---Asset-Management--Associate_43209-4",
         "DevOps-Engineer--AVP---Data--Cloud--and-Developer-Experience_44223-1",
-        "MD--Global-Head-of-Corporate-Real-Estate-Performance---Strategy_44237"
+        "MD--Global-Head-of-Corporate-Real-Estate-Performance---Strategy_44237",
+        "Legal---Compliance---BXMA-Compliance--AVP_44239-1"
     ],
     "Capital Group": [
         "R6549",
@@ -25264,7 +25278,9 @@
         "R-10398699-1",
         "R-10399672",
         "R-10397286-1",
-        "R-10398792"
+        "R-10398792",
+        "R-10369664",
+        "R-10397778"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -25544,7 +25560,8 @@
         "Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_868815",
         "Data-and-Reporting-Analyst---Investment-Risk_868912-1",
         "Intern---Intermediary-Lifecycle-Management_868911",
-        "Senior-Analyst-Investment-Performance---Risk_868362"
+        "Senior-Analyst-Investment-Performance---Risk_868362",
+        "Senior-Trust-Settlement-Officer_868896"
     ],
     "Invesco": [
         "R-13647",
@@ -32155,7 +32172,8 @@
         "7796536003",
         "7796530003",
         "7812982003",
-        "7813362003"
+        "7813362003",
+        "7819181003"
     ],
     "Robinhood": [
         "7799902",
@@ -35230,7 +35248,8 @@
         "8088588",
         "7629755",
         "8072574",
-        "6923544"
+        "6923544",
+        "8078121"
     ],
     "Coursera": [
         "5839408004",
@@ -35571,7 +35590,10 @@
         "R160344",
         "R170641",
         "R170498-1",
-        "R170230-1"
+        "R170230-1",
+        "R170754-1",
+        "R170680-1",
+        "R170750-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -36555,7 +36577,9 @@
         "R-0107776",
         "R-0108938",
         "R-0108942",
-        "R-0108467"
+        "R-0108467",
+        "R-0108957",
+        "R-0108699-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -37418,7 +37442,8 @@
         "R29528",
         "R29284",
         "R29508",
-        "R29440"
+        "R29440",
+        "R26800"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -45376,7 +45401,13 @@
         "R0000447287",
         "R0000447228",
         "R0000447324",
-        "R0000447374"
+        "R0000447374",
+        "R0000440450",
+        "R0000447357-1",
+        "R0000447388",
+        "R0000447391",
+        "R0000447387",
+        "R0000447366"
     ],
     "Zoom": [
         "R18188-1",
@@ -45699,7 +45730,9 @@
         "R19449-1",
         "R19450-1",
         "R19367-2",
-        "R19451-1"
+        "R19451-1",
+        "R19453",
+        "R19205-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -48711,7 +48744,8 @@
         "8068005",
         "8079982",
         "7580157",
-        "8083905"
+        "8083905",
+        "8092981"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -49187,7 +49221,8 @@
         "4678938006",
         "4696734006",
         "4686257006",
-        "4697159006"
+        "4697159006",
+        "4697442006"
     ],
     "Duolingo": [
         "8455252002",
@@ -49311,7 +49346,9 @@
         "8637300002",
         "8638482002",
         "8649527002",
-        "8653419002"
+        "8653419002",
+        "8654321002",
+        "8654296002"
     ],
     "Pinterest": [
         "7808602",
@@ -52292,7 +52329,8 @@
         "Senior-Customer-Success-Manager_26WD100140-1",
         "Senior-Platform-Support-Engineer_26WD95293-1",
         "Senior-Manager--Learning-Technology---Innovation_26WD99630",
-        "Senior-Associate-Digital-Renewal-Representative_26WD99939-1"
+        "Senior-Associate-Digital-Renewal-Representative_26WD99939-1",
+        "Software-Engineer--Ingnieur-Logiciel---Platform---Emerging-Technologies_26WD99401"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -53644,7 +53682,10 @@
         "Lead-Data-Engineer_10155496",
         "Coordinator--Social-Media-Marketing--Kids---Family-_10155964",
         "Supervisor--Operations-Studio-PCR_10155845",
-        "Recurring-Remote-Production-Support-Content--STATS-_10156957"
+        "Recurring-Remote-Production-Support-Content--STATS-_10156957",
+        "Product-Development-Manager--Marvel-Games_10156418",
+        "Principal-Data-Scientist---Games_10154423-2",
+        "Senior-Manager--Creative-Content---Searchlight-Pictures_10156289"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -57492,7 +57533,8 @@
         "8042246",
         "8042236",
         "8053562",
-        "8083410"
+        "8083410",
+        "8092907"
     ],
     "Instead": [
         "7761475003",
@@ -58045,7 +58087,10 @@
         "8038726",
         "7977158",
         "8077263",
-        "8088329"
+        "8088329",
+        "8088325",
+        "8093044",
+        "8093040"
     ],
     "Propel": [],
     "Canva": [],
@@ -59534,7 +59579,8 @@
         "8075800",
         "8089620",
         "8089550",
-        "8089613"
+        "8089613",
+        "8092326"
     ],
     "Spotify": [],
     "Snap": [],
