@@ -1417,7 +1417,9 @@
         "8090141",
         "8074127",
         "7998031",
-        "8049099"
+        "8049099",
+        "8078333",
+        "7454647"
     ],
     "Figma": [
         "5426468004",
@@ -2557,7 +2559,8 @@
         "6479a8b6-99fe-42b1-ae24-9ba2603cbf11",
         "5298220c-68b8-4063-a2b9-107e3aa61c69",
         "562a5f31-e3b7-43aa-a3de-cdd7706d8b0d",
-        "310eec35-05b1-41c6-888e-e2a2371bd742"
+        "310eec35-05b1-41c6-888e-e2a2371bd742",
+        "23f8284a-22aa-400f-afa3-87093a15ab36"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -7377,7 +7380,9 @@
         "8617101002",
         "8639995002",
         "8567957002",
-        "8653775002"
+        "8653775002",
+        "8632188002",
+        "8652590002"
     ],
     "Rubrik": [
         "7310036",
@@ -7864,7 +7869,8 @@
         "8083118",
         "8071396",
         "8007286",
-        "8076692"
+        "8076692",
+        "8073821"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -9130,7 +9136,8 @@
         "8078027",
         "8080577",
         "8070543",
-        "8083837"
+        "8083837",
+        "8092389"
     ],
     "Agoda": [
         "7533345",
@@ -11539,7 +11546,8 @@
         "8074707",
         "8074704",
         "8074709",
-        "8075216"
+        "8075216",
+        "8067362"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -16050,7 +16058,13 @@
         "R-280134-1",
         "R-286565",
         "R-281112-1",
-        "R-286332"
+        "R-286332",
+        "R-286482-1",
+        "R-286481",
+        "R-285269",
+        "R-286653",
+        "R-286558",
+        "R-284512"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -20961,7 +20975,8 @@
         "R353450",
         "R353817",
         "R353816",
-        "R353660-1"
+        "R353660-1",
+        "R353865"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -25229,7 +25244,9 @@
         "R-10397775",
         "R-10396801",
         "R-10398686",
-        "R-10395304"
+        "R-10395304",
+        "R-10398699-1",
+        "R-10399672"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -25508,7 +25525,8 @@
         "Talent-Acquisition-Partner--6-Month-Contract-_868875-1",
         "Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_868815",
         "Data-and-Reporting-Analyst---Investment-Risk_868912-1",
-        "Intern---Intermediary-Lifecycle-Management_868911"
+        "Intern---Intermediary-Lifecycle-Management_868911",
+        "Senior-Analyst-Investment-Performance---Risk_868362"
     ],
     "Invesco": [
         "R-13647",
@@ -29572,7 +29590,8 @@
         "5c4fec38-39d8-4f03-b67e-891893ce2550",
         "a10cc96f-1584-4927-91c1-8fc71ae14de8",
         "802613d6-afcf-4a87-bccf-b5f0a8b8ab30",
-        "3229b152-015f-49ad-9921-9c9de95570c8"
+        "3229b152-015f-49ad-9921-9c9de95570c8",
+        "f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6"
     ],
     "Anthropic": [
         "5101832008",
@@ -31370,7 +31389,12 @@
         "8082867",
         "8081271",
         "8084032",
-        "7762079"
+        "7762079",
+        "8092375",
+        "8092376",
+        "8092374",
+        "8044493",
+        "8044494"
     ],
     "Notion": [
         "03143d98-a561-44c6-96a5-fc9bfaf8d18d",
@@ -31560,7 +31584,10 @@
         "72b88913-8b3d-4f89-ace9-5596d3ee9798",
         "9cded2a2-2666-4108-a2bb-23cb63c92a24",
         "00f42dd8-c3b3-45cf-829e-550b675b3dd8",
-        "adb34b7e-89f3-4365-9f8f-4c98d50cc0fd"
+        "adb34b7e-89f3-4365-9f8f-4c98d50cc0fd",
+        "4b543db7-650d-4fea-a379-7181f65de144",
+        "4967b1cf-a1f7-417b-b650-feebbff767a3",
+        "54312e76-4e41-436e-9a01-fe1f8f4d90f2"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -33469,7 +33496,8 @@
         "8076452",
         "8081378",
         "8066812",
-        "8092253"
+        "8092253",
+        "8089892"
     ],
     "Datadog": [
         "7194969",
@@ -34263,7 +34291,9 @@
         "8075583",
         "8082007",
         "8082391",
-        "8091868"
+        "8091868",
+        "8081939",
+        "8092004"
     ],
     "Elastic": [
         "7505982",
@@ -40660,7 +40690,9 @@
         "R2018178-3",
         "R2021797",
         "R2021826",
-        "R2014754"
+        "R2014754",
+        "R2021429",
+        "R2021854"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -45307,7 +45339,10 @@
         "R0000447356",
         "R0000446499",
         "R0000446498",
-        "R0000447351"
+        "R0000447351",
+        "R0000447323",
+        "R0000447363",
+        "R0000444318"
     ],
     "Zoom": [
         "R18188-1",
@@ -45628,7 +45663,8 @@
         "R19444-1",
         "R19447",
         "R19449-1",
-        "R19450-1"
+        "R19450-1",
+        "R19367-2"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -46367,7 +46403,8 @@
         "R-107899-2",
         "R-107928-1",
         "R-108069-1",
-        "R-107555-1"
+        "R-107555-1",
+        "R-108068"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -47458,7 +47495,9 @@
         "1b6a5a22-d6ed-4591-987d-6cc5b7bca8e1",
         "6c68ed4b-dab8-4e2d-b677-a7b6ddca0272",
         "2e47b59f-f68f-4266-80ff-eb92c8116f1a",
-        "ea9f6e2d-8981-417a-ac96-87d421ccbf4c"
+        "ea9f6e2d-8981-417a-ac96-87d421ccbf4c",
+        "6a20b3b8-8111-4cbd-be4b-423b60660738",
+        "b614563f-3ce6-4dca-b5ba-0e5a6c8bda27"
     ],
     "Deel": [],
     "Polygon": [],
@@ -48633,7 +48672,8 @@
         "8077147",
         "8068005",
         "8079982",
-        "7580157"
+        "7580157",
+        "8083905"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -49629,7 +49669,8 @@
         "8016626",
         "8016737",
         "7305880",
-        "8083868"
+        "8083868",
+        "8026888"
     ],
     "Twitch": [
         "8334413002",
@@ -49786,7 +49827,8 @@
         "763f56e4-c87d-4257-8b72-cc827ef44abc",
         "797ac2bb-fd37-4943-8513-55d2d4ef9259",
         "5a85a8a8-c0b2-480a-aaaf-ac90667b90ab",
-        "f1fe10fc-c3b3-44ad-bb10-31b8e85344b2"
+        "f1fe10fc-c3b3-44ad-bb10-31b8e85344b2",
+        "62f020db-2f45-4b9a-b1a9-742f62159bb9"
     ],
     "Smallcase": [],
     "KreditBee": [],
@@ -51440,7 +51482,10 @@
         "Senior-Director-Consulting-Practices_REF066496W",
         "Executive-Assistant_REF085265W",
         "Director_REF084793W-1",
-        "Senior-Product-Manager--Cyber-Product-Management_REF085004W"
+        "Senior-Product-Manager--Cyber-Product-Management_REF085004W",
+        "Director--Co-Brand-Strategic-Partnerships-NA_REF086845W",
+        "Senior-Manager---Media-CarCam_REF085225W",
+        "Consultant--Technical-Solutions_REF084766W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -52202,7 +52247,8 @@
         "Technical-Success-Manager---ASEAN_26WD100021-1",
         "Senior-Customer-Success-Manager_26WD100140-1",
         "Senior-Platform-Support-Engineer_26WD95293-1",
-        "Senior-Manager--Learning-Technology---Innovation_26WD99630"
+        "Senior-Manager--Learning-Technology---Innovation_26WD99630",
+        "Senior-Associate-Digital-Renewal-Representative_26WD99939-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -53549,7 +53595,9 @@
         "Technical-Business-Development-Manager--Partner-Growth_10156645-1",
         "Executive-Assistant--4-years-fixed-term-_10156630",
         "Recurring-Remote-Production-Support-Graphics-Interface-Coordinator--GIC-_10157058",
-        "Analyst--International-Consumer-Payments_10155028"
+        "Analyst--International-Consumer-Payments_10155028",
+        "Casting-Administrator--Disney-Entertainment-Television-_10156717",
+        "Lead-Data-Engineer_10155496"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -56304,7 +56352,8 @@
         "8643137002",
         "8652627002",
         "8644396002",
-        "8643120002"
+        "8643120002",
+        "8643123002"
     ],
     "Sezzle": [
         "7710056003",
@@ -57163,7 +57212,10 @@
         "8089409",
         "7305744",
         "8092242",
-        "8088491"
+        "8088491",
+        "8088417",
+        "8076030",
+        "8082028"
     ],
     "Kaseya": [
         "6022140004",
@@ -57929,7 +57981,8 @@
         "8060303",
         "8090625",
         "8079399",
-        "8038726"
+        "8038726",
+        "7977158"
     ],
     "Propel": [],
     "Canva": [],
@@ -58177,7 +58230,10 @@
         "8649938002",
         "8649426002",
         "8648040002",
-        "8652711002"
+        "8652711002",
+        "8653819002",
+        "8653816002",
+        "8653821002"
     ],
     "Coupang": [
         "7915234",
