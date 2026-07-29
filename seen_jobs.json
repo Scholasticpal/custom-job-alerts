@@ -2287,7 +2287,8 @@
         "10484876",
         "10484877",
         "10485882",
-        "10486766"
+        "10486766",
+        "10486910"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -2823,7 +2824,10 @@
         "7818780003",
         "7818777003",
         "7812476003",
-        "7818779003"
+        "7818779003",
+        "7815187003",
+        "7815324003",
+        "7815192003"
     ],
     "Razorpay": [
         "4665089005",
@@ -3098,7 +3102,8 @@
         "4717790005",
         "4717369005",
         "4718683005",
-        "4717420005"
+        "4717420005",
+        "4719040005"
     ],
     "Rippling": [],
     "Slice": [
@@ -5585,7 +5590,8 @@
         "8069686",
         "8078008",
         "7956165",
-        "8091777"
+        "8091777",
+        "8091833"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -11279,7 +11285,11 @@
         "8088729",
         "8044650",
         "8088775",
-        "8077540"
+        "8077540",
+        "8089122",
+        "8026201",
+        "8088950",
+        "8088055"
     ],
     "Dropbox": [
         "7646405",
@@ -16105,7 +16115,9 @@
         "R-286837",
         "R-286739",
         "R-284379",
-        "R-286426"
+        "R-286426",
+        "R-286452",
+        "R-287093"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21024,7 +21036,10 @@
         "R353867",
         "R353393-1",
         "R349769-1",
-        "R352901-1"
+        "R352901-1",
+        "R352724",
+        "R353944-1",
+        "R351810"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22045,7 +22060,8 @@
         "Assistant-Vice-President--Compliance-and-Operational-Risk-Specialist--Korea_26026334",
         "Associate--Product-Manager--Global-Payments-Solutions--Hong-Kong_26026332",
         "Vice-President--TFX-Product-Manager--Global-Payments-Solutions--Hong-Kong-Singapore_26026329",
-        "Vice-President-Director--Treasury-Product-Manager--Global-Payments-Solutions--Japan_26026342"
+        "Vice-President-Director--Treasury-Product-Manager--Global-Payments-Solutions--Japan_26026342",
+        "Vice-President-Director--North-Asia-FX---Rates-Strategist--Global-Research--Hong-Kong-Singapore_26026592"
     ],
     "BlackRock": [
         "R263666",
@@ -23092,7 +23108,9 @@
         "R265555",
         "R265325",
         "R265119",
-        "R265454"
+        "R265454",
+        "R264433-1",
+        "R263878"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -23862,7 +23880,8 @@
         "R32820",
         "R32653",
         "R32845",
-        "R32080"
+        "R32080",
+        "R31289-5"
     ],
     "Fiserv": [
         "R-10392824",
@@ -31467,7 +31486,8 @@
         "8092374",
         "8044493",
         "8044494",
-        "8092545"
+        "8092545",
+        "8089959"
     ],
     "Notion": [
         "03143d98-a561-44c6-96a5-fc9bfaf8d18d",
@@ -34937,7 +34957,9 @@
         "8089245",
         "8089240",
         "8089242",
-        "8091862"
+        "8091862",
+        "8083459",
+        "8093637"
     ],
     "Asana": [
         "7120496",
@@ -36625,7 +36647,8 @@
         "R-0108926",
         "R-0109034-1",
         "R-0108419",
-        "R-0105674"
+        "R-0105674",
+        "R-0108369"
     ],
     "CrowdStrike": [
         "R26911",
@@ -37493,7 +37516,10 @@
         "R27393",
         "R27395",
         "R28642",
-        "R29073"
+        "R29073",
+        "R29559",
+        "R29579-1",
+        "R29572"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -40812,7 +40838,8 @@
         "R2022150-1",
         "R2016355-1",
         "R2022350",
-        "R2022257"
+        "R2022257",
+        "R2021943"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -45478,7 +45505,10 @@
         "R0000447197",
         "R0000446549-1",
         "R0000447398",
-        "R0000447293"
+        "R0000447293",
+        "R0000447381",
+        "R0000447344-1",
+        "R0000447375"
     ],
     "Zoom": [
         "R18188-1",
@@ -46721,7 +46751,8 @@
         "Strategic-Technical-Program-Manager_113331-JOB",
         "Senior-Revenue-Accountant_113334-JOB",
         "Large-Enterprise-Account-Executive---Strategic-Accounts_113292-JOB",
-        "Director---Product-Design_113308-JOB"
+        "Director---Product-Design_113308-JOB",
+        "Lead-Implementation-Consultant_113340-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -48821,7 +48852,8 @@
         "8079982",
         "7580157",
         "8083905",
-        "8092981"
+        "8092981",
+        "8076414"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -50268,7 +50300,8 @@
         "R35170",
         "R35213",
         "R35199-1",
-        "R33983"
+        "R33983",
+        "R34154"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -53773,7 +53806,8 @@
         "Special-Effects-Designer_10157108",
         "Associate-Special-Effects-Designer_10157105",
         "Distribution-Operations-Billing-Manager-Mastering_10155120-1",
-        "Manager-Product-Management---Marketing-Technology-Data_10154167-1"
+        "Manager-Product-Management---Marketing-Technology-Data_10154167-1",
+        "Director--Sales---Business-Development_10156931"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -54607,7 +54641,8 @@
         "R000107223",
         "R000107306",
         "R000100406",
-        "R000107135"
+        "R000107135",
+        "R000107300"
     ],
     "Kyndryl": [
         "R-61530",
@@ -56162,7 +56197,12 @@
         "R-65522",
         "R-65375",
         "R-62594-1",
-        "R-65382"
+        "R-65382",
+        "R-65694-1",
+        "R-65693-1",
+        "R-65417-1",
+        "R-50699-1",
+        "R-50583"
     ],
     "Chime": [
         "8391630002",
@@ -59356,7 +59396,12 @@
         "8093292",
         "8093392",
         "8093322",
-        "8078891"
+        "8078891",
+        "7991739",
+        "8087939",
+        "8083008",
+        "8093644",
+        "8093378"
     ],
     "Roku": [
         "8023364",
