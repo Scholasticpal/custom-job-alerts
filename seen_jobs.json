@@ -1420,7 +1420,9 @@
         "8049099",
         "8078333",
         "7454647",
-        "8092411"
+        "8092411",
+        "8078168",
+        "8054121"
     ],
     "Figma": [
         "5426468004",
@@ -10063,7 +10065,9 @@
         "8083244",
         "8071015",
         "8087916",
-        "8083241"
+        "8083241",
+        "8093369",
+        "8093370"
     ],
     "DoorDash": [
         "7927511",
@@ -10719,7 +10723,8 @@
         "7994302",
         "8093131",
         "8082760",
-        "8089963"
+        "8089963",
+        "8071680"
     ],
     "GitHub": [],
     "Twilio": [
@@ -23317,7 +23322,8 @@
         "Real-Estate---Asset-Management--Associate_43209-4",
         "DevOps-Engineer--AVP---Data--Cloud--and-Developer-Experience_44223-1",
         "MD--Global-Head-of-Corporate-Real-Estate-Performance---Strategy_44237",
-        "Legal---Compliance---BXMA-Compliance--AVP_44239-1"
+        "Legal---Compliance---BXMA-Compliance--AVP_44239-1",
+        "Private-Wealth---Sales---Promotions--Vice-President-Principal_41305"
     ],
     "Capital Group": [
         "R6549",
@@ -25304,7 +25310,8 @@
         "R-10399679",
         "R-10399678",
         "R-10399677",
-        "R-10399183"
+        "R-10399183",
+        "R-10397442"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -29652,7 +29659,9 @@
         "802613d6-afcf-4a87-bccf-b5f0a8b8ab30",
         "3229b152-015f-49ad-9921-9c9de95570c8",
         "f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6",
-        "1d80776d-c6ee-486e-8674-2cfe2a692e0e"
+        "1d80776d-c6ee-486e-8674-2cfe2a692e0e",
+        "da4a6959-0a9a-4090-ae12-e06e45fe2f28",
+        "d8915225-1d6b-4de5-96e3-e8e8511f1288"
     ],
     "Anthropic": [
         "5101832008",
@@ -35624,7 +35633,8 @@
         "R170754-1",
         "R170680-1",
         "R170750-1",
-        "R170711-1"
+        "R170711-1",
+        "R170344"
     ],
     "Workday": [
         "R-0106509-1",
@@ -36614,7 +36624,8 @@
         "R-0107879",
         "R-0108926",
         "R-0109034-1",
-        "R-0108419"
+        "R-0108419",
+        "R-0105674"
     ],
     "CrowdStrike": [
         "R26911",
@@ -37481,7 +37492,8 @@
         "R26800",
         "R27393",
         "R27395",
-        "R28642"
+        "R28642",
+        "R29073"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -40784,7 +40796,23 @@
         "R2021854",
         "R2021860",
         "R2021537",
-        "R2021856-1"
+        "R2021856-1",
+        "R2021924",
+        "R2021859",
+        "R2022026",
+        "R2022028",
+        "R2021923",
+        "R2021385",
+        "R2021926-1",
+        "R2021847",
+        "R2021915",
+        "R2020430",
+        "R2022002",
+        "R2021957",
+        "R2022150-1",
+        "R2016355-1",
+        "R2022350",
+        "R2022257"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -45449,7 +45477,8 @@
         "R0000447365",
         "R0000447197",
         "R0000446549-1",
-        "R0000447398"
+        "R0000447398",
+        "R0000447293"
     ],
     "Zoom": [
         "R18188-1",
@@ -46691,7 +46720,8 @@
         "Senior-Accounts-Payable-Analyst_112284-JOB",
         "Strategic-Technical-Program-Manager_113331-JOB",
         "Senior-Revenue-Accountant_113334-JOB",
-        "Large-Enterprise-Account-Executive---Strategic-Accounts_113292-JOB"
+        "Large-Enterprise-Account-Executive---Strategic-Accounts_113292-JOB",
+        "Director---Product-Design_113308-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -46875,7 +46905,8 @@
         "6119666004",
         "6119664004",
         "6123025004",
-        "6126952004"
+        "6126952004",
+        "6115582004"
     ],
     "Miro": [
         "030b1911-6146-4780-ad1d-f0b45d3ca791",
@@ -48215,7 +48246,9 @@
         "7661638",
         "8074121",
         "8071038",
-        "8074173"
+        "8074173",
+        "8093236",
+        "8093248"
     ],
     "Samsara": [
         "5747183",
@@ -53739,7 +53772,8 @@
         "Senior-Special-Effects-Designer_10157112",
         "Special-Effects-Designer_10157108",
         "Associate-Special-Effects-Designer_10157105",
-        "Distribution-Operations-Billing-Manager-Mastering_10155120-1"
+        "Distribution-Operations-Billing-Manager-Mastering_10155120-1",
+        "Manager-Product-Management---Marketing-Technology-Data_10154167-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -56126,7 +56160,9 @@
         "R-55524",
         "R-65521",
         "R-65522",
-        "R-65375"
+        "R-65375",
+        "R-62594-1",
+        "R-65382"
     ],
     "Chime": [
         "8391630002",
@@ -59316,7 +59352,11 @@
         "8063871",
         "8090619",
         "8090150",
-        "8090530"
+        "8090530",
+        "8093292",
+        "8093392",
+        "8093322",
+        "8078891"
     ],
     "Roku": [
         "8023364",
@@ -59639,7 +59679,9 @@
         "8089550",
         "8089613",
         "8092326",
-        "8093203"
+        "8093203",
+        "8092230",
+        "8092231"
     ],
     "Spotify": [],
     "Snap": [],
