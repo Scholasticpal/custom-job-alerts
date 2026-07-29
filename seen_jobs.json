@@ -29828,7 +29828,9 @@
         "26e373b4-3774-44d2-bad3-e559d7c206a9",
         "5cfe7d92-83bb-4676-aeb4-dcb69fa3e095",
         "ad35a6fe-29ef-4c9b-9bd2-65144e444801",
-        "cbfe37aa-7074-4a18-834e-30f8d879c6d4"
+        "cbfe37aa-7074-4a18-834e-30f8d879c6d4",
+        "d2e1f1e6-e1dd-4dc3-9a8d-73bce0114a28",
+        "94d132c8-3749-42dc-a0b6-ea19c875c77a"
     ],
     "Anthropic": [
         "5101832008",
@@ -46119,7 +46121,8 @@
         "R19463",
         "R19452-1",
         "R19465-1",
-        "R19466-1"
+        "R19466-1",
+        "R19462-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -46865,7 +46868,8 @@
         "R-108243",
         "R-107410",
         "R-108326-1",
-        "R-108163"
+        "R-108163",
+        "R-108278-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -48586,7 +48590,8 @@
         "8085115",
         "8085113",
         "8075199",
-        "8064456"
+        "8064456",
+        "8095464"
     ],
     "Samsara": [
         "5747183",
@@ -50180,7 +50185,9 @@
         "7940391",
         "7770939",
         "7771029",
-        "7770953"
+        "7770953",
+        "7648648",
+        "8093282"
     ],
     "Twitch": [
         "8334413002",
@@ -54167,7 +54174,11 @@
         "Senior-Network-Engineer--Project-Hire-_10157158",
         "Business-Operations-Associate_10156446",
         "Manager-Construction_10156254",
-        "Sr-Workflow-Integration-Engineer---Skywalker-Sound_10157198"
+        "Sr-Workflow-Integration-Engineer---Skywalker-Sound_10157198",
+        "Walt-Disney-Television-Labor-Relations-JD-Intern--Fall-2026_10156498-1",
+        "KABC-Reporter--Inland-Empire-_10157079",
+        "KABC-Meteorologist-Weather-Reporter_10157080",
+        "Sr-Product-Manager_10154988"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -57858,7 +57869,9 @@
         "8092855",
         "8093704",
         "8094082",
-        "8087739"
+        "8087739",
+        "8095465",
+        "8095459"
     ],
     "Kaseya": [
         "6022140004",
@@ -58905,7 +58918,8 @@
         "8653821002",
         "8648043002",
         "8654514002",
-        "8657256002"
+        "8657256002",
+        "8654564002"
     ],
     "Coupang": [
         "7915234",
