@@ -1431,7 +1431,9 @@
         "8094869",
         "8078337",
         "8075570",
-        "8075577"
+        "8075577",
+        "8076652",
+        "8070949"
     ],
     "Figma": [
         "5426468004",
@@ -7443,7 +7445,8 @@
         "8652521002",
         "8466807002",
         "8638648002",
-        "6456686002"
+        "6456686002",
+        "8632126002"
     ],
     "Rubrik": [
         "7310036",
@@ -7934,7 +7937,8 @@
         "8073821",
         "8060074",
         "8092042",
-        "8094549"
+        "8094549",
+        "8083001"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -11350,7 +11354,8 @@
         "8079323",
         "8088451",
         "8088442",
-        "8054408"
+        "8054408",
+        "8079708"
     ],
     "Dropbox": [
         "7646405",
@@ -16200,7 +16205,11 @@
         "R-281086-1",
         "R-286731-1",
         "R-287029",
-        "R-279736"
+        "R-279736",
+        "R-286710",
+        "R-286382",
+        "R-284382",
+        "R-286175"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21144,7 +21153,9 @@
         "R353751",
         "R346296",
         "R353575",
-        "R353933-1"
+        "R353933-1",
+        "R354108",
+        "R353970"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21982,7 +21993,8 @@
         "Travel-Consultant-II_J-83911",
         "Travel-Consultant-II--Emergency-Service-Center_J-83910-1",
         "MI-Analyst_J-83765",
-        "Travel-Consultant---Entry-Level_J-83925"
+        "Travel-Consultant---Entry-Level_J-83925",
+        "Product-Owner_J-82184"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -22170,7 +22182,8 @@
         "Associate--Product-Manager--Global-Payments-Solutions--Hong-Kong_26026332",
         "Vice-President--TFX-Product-Manager--Global-Payments-Solutions--Hong-Kong-Singapore_26026329",
         "Vice-President-Director--Treasury-Product-Manager--Global-Payments-Solutions--Japan_26026342",
-        "Vice-President-Director--North-Asia-FX---Rates-Strategist--Global-Research--Hong-Kong-Singapore_26026592"
+        "Vice-President-Director--North-Asia-FX---Rates-Strategist--Global-Research--Hong-Kong-Singapore_26026592",
+        "Associate--Investment-Banker--Coverage--M-A---Japan-IBK_26023160"
     ],
     "BlackRock": [
         "R263666",
@@ -23224,7 +23237,9 @@
         "R265420",
         "R265829",
         "R260863",
-        "R265369"
+        "R265369",
+        "R265822",
+        "R265556"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -23460,7 +23475,8 @@
         "International-Finance--Fund-Finance---VP_39484-1",
         "UX-Designer--AVP---Finance-and-Operations-Technology_44254-3",
         "Front-office-Senior-Software-Engineer--VP---Liquid-Credit_44253-1",
-        "Security-Engineer-Manager--SVP---Application---Product-Security_44252"
+        "Security-Engineer-Manager--SVP---Application---Product-Security_44252",
+        "Compliance---VP-SVP_44258"
     ],
     "Capital Group": [
         "R6549",
@@ -23836,7 +23852,8 @@
         "Risk-Mgmt-Policy-Analyst_34651",
         "Post-Trade-Services---Risk-Associate---India_34655-1",
         "Staff-Software-Engineering_34649-1",
-        "Corporate-Tax-Intern---Year-Round_34675"
+        "Corporate-Tax-Intern---Year-Round_34675",
+        "MD-Clearing---Post-Trade-Product-Management_34679-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -24008,7 +24025,13 @@
         "R32217",
         "R32870",
         "R32862",
-        "R32707"
+        "R32707",
+        "R32866",
+        "R32775",
+        "R32639-1",
+        "R32656",
+        "R32541",
+        "R32571-1"
     ],
     "Fiserv": [
         "R-10392824",
@@ -25762,7 +25785,8 @@
         "Intern---Intermediary-Lifecycle-Management_868911",
         "Senior-Analyst-Investment-Performance---Risk_868362",
         "Senior-Trust-Settlement-Officer_868896",
-        "Relationship-Associate---Custody_868502"
+        "Relationship-Associate---Custody_868502",
+        "Fund-Administration---Oversight-Lead-Analyst_868835"
     ],
     "Invesco": [
         "R-13647",
@@ -37761,7 +37785,10 @@
         "R29601-1",
         "R29602",
         "R29566-1",
-        "R29604"
+        "R29604",
+        "R29569",
+        "R29568-1",
+        "R29555"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -41113,7 +41140,15 @@
         "R2022370-1",
         "R2021955",
         "R2021985",
-        "R2022180"
+        "R2022180",
+        "R2022322",
+        "R2021877-1",
+        "R2021575",
+        "R2022241",
+        "R2012230",
+        "R2022337",
+        "R2022446",
+        "R2007026-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -45819,7 +45854,23 @@
         "R0000447500",
         "R0000447358",
         "R0000447538",
-        "R0000447534"
+        "R0000447534",
+        "R0000447288",
+        "R0000447468",
+        "R0000446978-1",
+        "R0000447472",
+        "R0000447532",
+        "R0000447508",
+        "R0000447523",
+        "R0000447443",
+        "R0000447513",
+        "R0000447405",
+        "R0000447515",
+        "R0000447449",
+        "R0000447499",
+        "R0000447380",
+        "R0000447530",
+        "R0000447525"
     ],
     "Zoom": [
         "R18188-1",
@@ -52057,7 +52108,8 @@
         "Manager--Visa-Consulting-and-Analytics--VCA---Digital-Practices_REF086889W",
         "Risk-Management-Analyst_REF086869W-1",
         "Senior-Program-Manager--Sanctions-Compliance_REF087013W",
-        "Staff-Systems-Engineer--Messaging-Technologies_REF085131W"
+        "Staff-Systems-Engineer--Messaging-Technologies_REF085131W",
+        "Data-Engineer_REF085104W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -52834,7 +52886,8 @@
         "Digital-Workplace-Services-Specialist_26WD99733-1",
         "Senior-FP-A-Solutions-Analyst--Adaptive-Planning_26WD100237-1",
         "Senior-Software-Engineer--Field-Delivery_26WD100056-1",
-        "Senior-Technical-Account-Manager---Civil-Infrastructure_26WD100148"
+        "Senior-Technical-Account-Manager---Civil-Infrastructure_26WD100148",
+        "Anaplan-Sr-SW-Applications-Engineer_26WD100209"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -55060,7 +55113,10 @@
         "R000107183",
         "R000107325",
         "R000107089",
-        "R000107308"
+        "R000107308",
+        "R000107195",
+        "R000107341",
+        "R000107340"
     ],
     "Kyndryl": [
         "R-61530",
@@ -56640,7 +56696,12 @@
         "R-65406",
         "R-65509-1",
         "R-59454",
-        "R-59643"
+        "R-59643",
+        "R-65365-1",
+        "R-65259",
+        "R-65258",
+        "R-65282",
+        "R-60706-1"
     ],
     "Chime": [
         "8391630002",
@@ -59896,7 +59957,15 @@
         "8095580",
         "8095577",
         "8069101",
-        "8093975"
+        "8093975",
+        "8080988",
+        "8095770",
+        "8093306",
+        "8095700",
+        "8095782",
+        "8095779",
+        "8080818",
+        "8090538"
     ],
     "Roku": [
         "8023364",
