@@ -1434,7 +1434,11 @@
         "8075577",
         "8076652",
         "8070949",
-        "8023928"
+        "8023928",
+        "8092304",
+        "8089882",
+        "8090244",
+        "8094669"
     ],
     "Figma": [
         "5426468004",
@@ -2310,7 +2314,8 @@
         "10487903",
         "10488071",
         "10488109",
-        "10488045"
+        "10488045",
+        "10488199"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -2634,7 +2639,8 @@
         "4780793101",
         "4875246101",
         "4875247101",
-        "4939393101"
+        "4939393101",
+        "4941406101"
     ],
     "PhonePe": [
         "7650503003",
@@ -7458,7 +7464,8 @@
         "8632126002",
         "8637736002",
         "8656202002",
-        "8656210002"
+        "8656210002",
+        "8568009002"
     ],
     "Rubrik": [
         "7310036",
@@ -16231,7 +16238,14 @@
         "R-280405",
         "R-287173",
         "R-287060",
-        "R-286635"
+        "R-286635",
+        "R-287154",
+        "R-286556",
+        "R-284401",
+        "R-287099",
+        "R-286847",
+        "R-287031",
+        "R-287021"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21183,7 +21197,17 @@
         "R354110",
         "R354050",
         "R353810",
-        "R353975"
+        "R353975",
+        "R352151",
+        "R352818",
+        "R352565",
+        "R351690",
+        "R354124-1",
+        "R353122",
+        "R354025",
+        "R353963",
+        "R351596",
+        "R353632"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22023,7 +22047,8 @@
         "MI-Analyst_J-83765",
         "Travel-Consultant---Entry-Level_J-83925",
         "Product-Owner_J-82184",
-        "Integration-Benefits-Manager_J-77522-1"
+        "Integration-Benefits-Manager_J-77522-1",
+        "Senior-Travel-Counselor_J-80720"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -22212,7 +22237,8 @@
         "Vice-President--TFX-Product-Manager--Global-Payments-Solutions--Hong-Kong-Singapore_26026329",
         "Vice-President-Director--Treasury-Product-Manager--Global-Payments-Solutions--Japan_26026342",
         "Vice-President-Director--North-Asia-FX---Rates-Strategist--Global-Research--Hong-Kong-Singapore_26026592",
-        "Associate--Investment-Banker--Coverage--M-A---Japan-IBK_26023160"
+        "Associate--Investment-Banker--Coverage--M-A---Japan-IBK_26023160",
+        "Vice-President--Feature-Lead---Technology--Global-Market-Technology_26026788-1"
     ],
     "BlackRock": [
         "R263666",
@@ -23273,7 +23299,8 @@
         "R265409",
         "R265410",
         "R265396",
-        "R265397"
+        "R265397",
+        "R265429"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -23747,7 +23774,9 @@
         "R6989",
         "R6991",
         "R6899",
-        "R5913-1"
+        "R5913-1",
+        "R6883",
+        "R6901"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -25543,7 +25572,13 @@
         "R-10397539",
         "R-10399574",
         "R-10397448",
-        "R-10397525"
+        "R-10397525",
+        "R-10397417",
+        "R-10398459",
+        "R-10398458",
+        "R-10399381",
+        "R-10399395",
+        "R-10399398"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -31141,7 +31176,8 @@
         "8092651",
         "8093264",
         "8051630",
-        "8095207"
+        "8095207",
+        "8095252"
     ],
     "Discord": [
         "8289766002",
@@ -32844,7 +32880,9 @@
         "8082579",
         "8090105",
         "8072892",
-        "7489707"
+        "7489707",
+        "8083818",
+        "8093155"
     ],
     "Vercel": [
         "5624231004",
@@ -35250,7 +35288,8 @@
         "8089209",
         "8093275",
         "8067200",
-        "8091978"
+        "8091978",
+        "8092122"
     ],
     "Asana": [
         "7120496",
@@ -36954,7 +36993,8 @@
         "R-0108369",
         "R-0108911",
         "R-0109017",
-        "R-0108718-1"
+        "R-0108718-1",
+        "R-0108816"
     ],
     "CrowdStrike": [
         "R26911",
@@ -41201,7 +41241,8 @@
         "R2012230",
         "R2022337",
         "R2022446",
-        "R2007026-1"
+        "R2007026-1",
+        "R2016204"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -45954,7 +45995,17 @@
         "R0000447602",
         "R0000447596-1",
         "R0000447598",
-        "R0000447592"
+        "R0000447592",
+        "R0000447433",
+        "R0000447679",
+        "R0000447683",
+        "R0000447315-1",
+        "R0000447236",
+        "R0000447235",
+        "R0000447234",
+        "R0000447232",
+        "R0000447676",
+        "R0000446894"
     ],
     "Zoom": [
         "R18188-1",
@@ -46287,7 +46338,8 @@
         "R19452-1",
         "R19465-1",
         "R19466-1",
-        "R19462-1"
+        "R19462-1",
+        "R19389-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -47035,7 +47087,10 @@
         "R-108326-1",
         "R-108163",
         "R-108278-1",
-        "R-108291"
+        "R-108291",
+        "R-108283-1",
+        "R-108076-1",
+        "R-108280"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -48486,7 +48541,8 @@
         "ccb1fbf7-561d-4213-8211-6ec0e54e0711",
         "0143964a-a856-4b73-a3d8-40d251d30e37",
         "4021781c-9faf-4a99-8c6b-89bb638eb6f8",
-        "302b1125-5576-4760-a368-026fb3042953"
+        "302b1125-5576-4760-a368-026fb3042953",
+        "140f4935-9d86-422b-a0a1-544aa500f250"
     ],
     "Netskope": [
         "7885748",
@@ -49820,7 +49876,8 @@
         "4697159006",
         "4697442006",
         "4699925006",
-        "4699486006"
+        "4699486006",
+        "4627272006"
     ],
     "Duolingo": [
         "8455252002",
@@ -52202,7 +52259,8 @@
         "Marketing-Manager--Sponsorship-Activation-Strategy---Enablement_REF087021W",
         "Senior-Event-Manager-and-Content-Producer_REF085255W",
         "Business-Development-Director_REF087049W",
-        "Demand-Generation-Ops-Director_REF085278W"
+        "Demand-Generation-Ops-Director_REF085278W",
+        "Senior-Technical-Program-Manager_REF086866W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -52982,7 +53040,8 @@
         "Senior-Technical-Account-Manager---Civil-Infrastructure_26WD100148",
         "Anaplan-Sr-SW-Applications-Engineer_26WD100209",
         "Product-Owner--Autodesk-Civil-3D_26WD100095-2",
-        "Senior-Consulting-Project-Manager--French-Speaker_26WD100044-1"
+        "Senior-Consulting-Project-Manager--French-Speaker_26WD100044-1",
+        "Principal-Partner-Solution-Specialist--Partner-Sales--AP97197-_26WD100265-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -54363,7 +54422,10 @@
         "Sr-Product-Manager_10154988",
         "Executive-Assistant--Main-Street---Creative-Operations_10156357",
         "Senior-Executive-Assistant--Development--FX-_10156833",
-        "Executive-Assistant--Disney-Experiences--DX--Finance_10154993"
+        "Executive-Assistant--Disney-Experiences--DX--Finance_10154993",
+        "Associate-Manager--Visual-Strategy_10155251",
+        "Senior-Manager--Retail--Brand-Commercialization_10156924",
+        "Manager--Corporate-Strategy---Business-Development_10156935"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -55218,7 +55280,8 @@
         "R000107270",
         "R000107298-1",
         "R000103886",
-        "R000106983-1"
+        "R000106983-1",
+        "R000107312"
     ],
     "Kyndryl": [
         "R-61530",
@@ -56811,7 +56874,10 @@
         "R-65780-1",
         "R-65777-1",
         "R-61501",
-        "R-50701-1"
+        "R-50701-1",
+        "R-65877-1",
+        "R-64726",
+        "R-65850-1"
     ],
     "Chime": [
         "8391630002",
@@ -57461,7 +57527,15 @@
         "7742208003",
         "7818186003",
         "7818145003",
-        "7820867003"
+        "7820867003",
+        "7820893003",
+        "7820897003",
+        "7820896003",
+        "7820895003",
+        "7820894003",
+        "7820900003",
+        "7820898003",
+        "7820899003"
     ],
     "Earnin": [
         "8013281",
@@ -58082,7 +58156,8 @@
         "8095465",
         "8095459",
         "8087945",
-        "8095712"
+        "8095712",
+        "8088065"
     ],
     "Kaseya": [
         "6022140004",
@@ -58262,7 +58337,8 @@
         "6000416004",
         "6112582004",
         "6130073004",
-        "6130388004"
+        "6130388004",
+        "5824998004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -58877,7 +58953,10 @@
         "8089678",
         "8095396",
         "8095392",
-        "8068781"
+        "8068781",
+        "7904054",
+        "7985062",
+        "8096162"
     ],
     "Propel": [],
     "Canva": [],
@@ -59133,7 +59212,8 @@
         "8654514002",
         "8657256002",
         "8654564002",
-        "8656826002"
+        "8656826002",
+        "8657527002"
     ],
     "Coupang": [
         "7915234",
