@@ -2327,7 +2327,8 @@
         "10488045",
         "10488199",
         "10488846",
-        "10488839"
+        "10488839",
+        "10489048"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -4634,7 +4635,8 @@
         "125b8412-aa4a-4a9d-8800-9c4ecc113493",
         "9afb1ec6-d38e-45ea-b906-7fc7c54ca6dd",
         "d8a35136-a41e-4593-ad67-a9a619de7133",
-        "6cee2f1c-6cae-4e46-9533-d62283f56734"
+        "6cee2f1c-6cae-4e46-9533-d62283f56734",
+        "feb33510-9ea7-4b69-b69d-87a41f7c2c2c"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8119,7 +8121,8 @@
         "R103536",
         "R103537",
         "R103534",
-        "R103545"
+        "R103545",
+        "R103552"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -10215,7 +10218,8 @@
         "8093888",
         "8098338",
         "8098438",
-        "7478051"
+        "7478051",
+        "8076593"
     ],
     "DoorDash": [
         "7927511",
@@ -16329,7 +16333,17 @@
         "R-286666",
         "R-286667",
         "R-286849",
-        "R-286139"
+        "R-286139",
+        "R-287047-1",
+        "R-276509",
+        "R-287030",
+        "R-287219",
+        "R-282027",
+        "R-282026",
+        "R-281108",
+        "R-286607",
+        "R-286839",
+        "R-287256"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21326,7 +21340,9 @@
         "R353708",
         "R325049-1",
         "R345404",
-        "R354374-2"
+        "R354374-2",
+        "R327679",
+        "R335896"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22172,7 +22188,9 @@
         "Customer-Resolution-specialist_J-83610",
         "Sales-Manager_J-83473",
         "Corporate-Travel-Consultant_J-83949",
-        "Corporate-Travel-Consultant_J-83948"
+        "Corporate-Travel-Consultant_J-83948",
+        "Accounts---Commission-Specialist_J-83769",
+        "Finance-Analyst--FP-A_J-83542"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -25744,7 +25762,10 @@
         "R-10397893",
         "R-10398107",
         "R-10396000",
-        "R-10373014"
+        "R-10373014",
+        "R-10395347",
+        "R-10399186",
+        "R-10342928"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -26507,7 +26528,8 @@
         "R-14641",
         "R-14799",
         "R-14719",
-        "R-14925-1"
+        "R-14925-1",
+        "R-14831"
     ],
     "PayPal": [
         "R0135744-1",
@@ -34107,7 +34129,8 @@
         "8069976",
         "8097618",
         "8089399",
-        "8083346"
+        "8083346",
+        "8077182"
     ],
     "Datadog": [
         "7194969",
@@ -35512,7 +35535,8 @@
         "8066479",
         "8098417",
         "8098418",
-        "8098422"
+        "8098422",
+        "8090553"
     ],
     "Asana": [
         "7120496",
@@ -37229,7 +37253,8 @@
         "R-0108809-1",
         "R-0108829",
         "R-0108723-1",
-        "R-0109048"
+        "R-0109048",
+        "R-0108863-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -41511,7 +41536,13 @@
         "R2010141-1",
         "R2022433",
         "R2022406",
-        "R2022443"
+        "R2022443",
+        "R2020208-1",
+        "R2022419",
+        "R2021876",
+        "R2021820",
+        "R2022211",
+        "R2022310"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -41735,7 +41766,10 @@
         "Software-Engineer_2014802",
         "Software-Engineer---Rust_2020688",
         "Memory-Layout-Design-Engineer_2020232",
-        "ASIC-Engineer_2016761"
+        "ASIC-Engineer_2016761",
+        "Site-Reliability-Engineer_2020336",
+        "Senior-Site-Reliability-Engineer_2020341",
+        "Software-Engineer---Webex-Web-Clients_2020808"
     ],
     "Intel": [
         "R0283052",
@@ -46344,7 +46378,9 @@
         "R0000447654",
         "R0000447655",
         "R0000447622",
-        "R0000447697"
+        "R0000447697",
+        "R0000446593-1",
+        "R0000447766"
     ],
     "Zoom": [
         "R18188-1",
@@ -48911,7 +48947,8 @@
         "0ccbe088-2f91-4f49-8990-d090dca173ee",
         "bcd7fc86-2af6-491b-a010-03a008c7c021",
         "b6780670-c857-4820-baa6-9f2ce0db0e7c",
-        "4413a037-267e-45ee-b519-7eaba9cd616c"
+        "4413a037-267e-45ee-b519-7eaba9cd616c",
+        "480c9bde-2d49-454b-bc8f-30e2ddda04d4"
     ],
     "Netskope": [
         "7885748",
@@ -51264,7 +51301,8 @@
         "R35173-1",
         "R35214",
         "R35262",
-        "R35252"
+        "R35252",
+        "R35248"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -52669,7 +52707,9 @@
         "Talent-Acquisition-Coordinator--Fixed-Term-Contract-_REF087080W",
         "Staff-SW-Engineer--7-10-years-exp--RAG--AI-Native-Development--Java-Python-Full-stack-_REF086890W",
         "Commercial-Product-Lead---Visa-Commercial-Solutions--Fleet-_REF080668W",
-        "Director---Commercial-Product-Lead---Visa-Commercial-Solutions---CEMEA_REF087045W"
+        "Director---Commercial-Product-Lead---Visa-Commercial-Solutions---CEMEA_REF087045W",
+        "Sr-Director---Global-VCA-Strategy_REF085072W-1",
+        "Sr-Director---Change-Management_REF085071W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -53458,7 +53498,9 @@
         "Senior-QA-Engineer_26WD100126",
         "Senior-Software-Engineer--Localization-Engineering_26WD95474-1",
         "Client-Services-Specialist_26WD99914",
-        "Senior-Cybersecurity-Engineer--Enterprise-Identity_26WD100006-1"
+        "Senior-Cybersecurity-Engineer--Enterprise-Identity_26WD100006-1",
+        "Full-Stack-Software-Development-Engineer_26WD100101-1",
+        "Senior-Full-Stack-Software-Development-Engineer_26WD100103-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -57349,7 +57391,8 @@
         "R-65251-1",
         "R-65795-1",
         "R-65750-1",
-        "R-60994-1"
+        "R-60994-1",
+        "R-66268"
     ],
     "Chime": [
         "8391630002",
@@ -60675,7 +60718,8 @@
         "8095814",
         "8098130",
         "8098140",
-        "8070831"
+        "8070831",
+        "7940403"
     ],
     "Roku": [
         "8023364",
@@ -61010,7 +61054,8 @@
         "8096201",
         "8065793",
         "8096228",
-        "7348956"
+        "7348956",
+        "8096018"
     ],
     "Spotify": [],
     "Snap": [],
