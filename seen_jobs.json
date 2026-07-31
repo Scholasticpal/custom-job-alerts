@@ -1444,7 +1444,8 @@
         "8090126",
         "8073092",
         "8097731",
-        "8023773"
+        "8023773",
+        "8052736"
     ],
     "Figma": [
         "5426468004",
@@ -2615,7 +2616,8 @@
         "150186f5-4eaf-4afe-ae08-bb36c71abb83",
         "8c5a9539-2ef0-45f3-8136-ce9c654df803",
         "fd4bac8c-94ba-4549-bc10-41d942b0481c",
-        "b532b595-bc8d-4b51-a2e6-7228ef1cabfc"
+        "b532b595-bc8d-4b51-a2e6-7228ef1cabfc",
+        "f846af12-7da9-4737-a0b1-3770c55830fc"
     ],
     "Groww": [
         "4787037101",
@@ -2869,7 +2871,8 @@
         "7815187003",
         "7815324003",
         "7815192003",
-        "7799414003"
+        "7799414003",
+        "7821190003"
     ],
     "Razorpay": [
         "4665089005",
@@ -4625,7 +4628,10 @@
         "43012b57-cae9-42e3-b4c2-b4b2a208b343",
         "fec8e98b-d09b-4edb-b5a9-fe04aa079a3c",
         "cbece8b7-5505-4904-b079-166f18346c88",
-        "125b8412-aa4a-4a9d-8800-9c4ecc113493"
+        "125b8412-aa4a-4a9d-8800-9c4ecc113493",
+        "9afb1ec6-d38e-45ea-b906-7fc7c54ca6dd",
+        "d8a35136-a41e-4593-ad67-a9a619de7133",
+        "6cee2f1c-6cae-4e46-9533-d62283f56734"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -10198,7 +10204,10 @@
         "8088028",
         "8093904",
         "8080873",
-        "8081050"
+        "8081050",
+        "8081034",
+        "8080914",
+        "8093888"
     ],
     "DoorDash": [
         "7927511",
@@ -11896,7 +11905,8 @@
         "7817966003",
         "7818501003",
         "7762102003",
-        "7820052003"
+        "7820052003",
+        "7821117003"
     ],
     "Swiggy": [],
     "Zomato": [],
@@ -16306,7 +16316,11 @@
         "R-286580",
         "R-286504",
         "R-281295",
-        "R-281296"
+        "R-281296",
+        "R-286736",
+        "R-286666",
+        "R-286667",
+        "R-286849"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21293,7 +21307,10 @@
         "R352642",
         "R351305-1",
         "R354231",
-        "R351999"
+        "R351999",
+        "R353526",
+        "R354334",
+        "R354366"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22325,7 +22342,8 @@
         "Vice-President-Director--Treasury-Product-Manager--Global-Payments-Solutions--Japan_26026342",
         "Vice-President-Director--North-Asia-FX---Rates-Strategist--Global-Research--Hong-Kong-Singapore_26026592",
         "Associate--Investment-Banker--Coverage--M-A---Japan-IBK_26023160",
-        "Vice-President--Feature-Lead---Technology--Global-Market-Technology_26026788-1"
+        "Vice-President--Feature-Lead---Technology--Global-Market-Technology_26026788-1",
+        "Vice-President--Technology-Development-Lead--International-Technology--Global-Payments-Solutions-Technology_26026996"
     ],
     "BlackRock": [
         "R263666",
@@ -25702,7 +25720,8 @@
         "R-10399524",
         "R-10399492",
         "R-10397893",
-        "R-10398107"
+        "R-10398107",
+        "R-10396000"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -25990,7 +26009,9 @@
         "Fund-Administration---Oversight-Manager_868834",
         "Graphic-Designer_868869",
         "NBS-Onboarding-Manager_868712",
-        "Digital-Product-Manager_868790"
+        "Digital-Product-Manager_868790",
+        "Associate-Distribution-Enablement-Consultant_868670",
+        "Analyst---Investment-Performance---Risk_868831"
     ],
     "Invesco": [
         "R-13647",
@@ -26460,7 +26481,8 @@
         "R-14747",
         "R-14642",
         "R-14641",
-        "R-14799"
+        "R-14799",
+        "R-14719"
     ],
     "PayPal": [
         "R0135744-1",
@@ -32667,7 +32689,8 @@
         "7809767003",
         "7821440003",
         "7814576003",
-        "7819571003"
+        "7819571003",
+        "7812099003"
     ],
     "Robinhood": [
         "7799902",
@@ -41446,7 +41469,9 @@
         "R2021324",
         "R2021693",
         "R2021169",
-        "R2022559"
+        "R2022559",
+        "R2005131",
+        "R2010141-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -46243,7 +46268,27 @@
         "R0000447785",
         "R0000447815",
         "R0000447831",
-        "R0000447722"
+        "R0000447722",
+        "R0000447608",
+        "R0000447601",
+        "R0000447580",
+        "R0000447524",
+        "R0000447384",
+        "R0000447784",
+        "R0000447653",
+        "R0000447526",
+        "R0000447761-1",
+        "R0000447796",
+        "R0000447751",
+        "R0000447628",
+        "R0000447816",
+        "R0000447561",
+        "R0000447771-1",
+        "R0000446141",
+        "R0000447519",
+        "R0000447799",
+        "R0000445939",
+        "R0000447789"
     ],
     "Zoom": [
         "R18188-1",
@@ -46585,7 +46630,8 @@
         "R19469-1",
         "R19473",
         "R19474",
-        "R19470"
+        "R19470",
+        "R19477-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -47520,7 +47566,11 @@
         "Director---Product-Design_113308-JOB",
         "Lead-Implementation-Consultant_113340-JOB",
         "Principal-Engagement-Manager_113333-JOB",
-        "Principal-Program-Manager---CCaaS_113338-JOB"
+        "Principal-Program-Manager---CCaaS_113338-JOB",
+        "Customer-Success-Lead_113374-JOB",
+        "Sr-Solutions-Consultant_113372-JOB-1",
+        "Sr-Solutions-Consultant_113373-JOB-1",
+        "Senior-Cloud-Engineer--Voice-Network-_113348-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -48800,7 +48850,8 @@
         "4021781c-9faf-4a99-8c6b-89bb638eb6f8",
         "302b1125-5576-4760-a368-026fb3042953",
         "140f4935-9d86-422b-a0a1-544aa500f250",
-        "fdd6ca0a-02b9-4a2a-aa38-8fd1c284cef3"
+        "fdd6ca0a-02b9-4a2a-aa38-8fd1c284cef3",
+        "0e4b219e-b223-4146-9984-beb1bd09f8d8"
     ],
     "Netskope": [
         "7885748",
@@ -52544,7 +52595,10 @@
         "Director--Service-Experience-Enablement_REF087060W",
         "Fintech-Client-Success-Manager--Sr-Consultant-Level-_REF087058W",
         "Director_REF087015W",
-        "Benefits-Consultant_REF086894W"
+        "Benefits-Consultant_REF086894W",
+        "Technical-Program-Manager_REF086868W",
+        "Talent-Acquisition-Coordinator--Fixed-Term-Contract-_REF087080W",
+        "Staff-SW-Engineer--7-10-years-exp--RAG--AI-Native-Development--Java-Python-Full-stack-_REF086890W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -53331,7 +53385,8 @@
         "Employee-Relations-Manager--Fixed-Term-_26WD100230-1",
         "QA-Engineer--Install-Automation-_26WD100125",
         "Senior-QA-Engineer_26WD100126",
-        "Senior-Software-Engineer--Localization-Engineering_26WD95474-1"
+        "Senior-Software-Engineer--Localization-Engineering_26WD95474-1",
+        "Client-Services-Specialist_26WD99914"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -54730,7 +54785,8 @@
         "Associate-Editor-APP_10157144-1",
         "Manager--Trip-Operations-Private-Jet--Adventures---Expeditions_10156708",
         "Senior-Regional-Security-Manager_10157346",
-        "Trainee--Corp-Strategy---Business-Development_10157221"
+        "Trainee--Corp-Strategy---Business-Development_10157221",
+        "Senior-Facilities-Coordinator_10157349-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -57209,7 +57265,14 @@
         "R-65692-1",
         "R-65690",
         "R-58888",
-        "R-65722"
+        "R-65722",
+        "R-65423",
+        "R-56375",
+        "R-65063-1",
+        "R-65064-1",
+        "R-65251-1",
+        "R-65795-1",
+        "R-65750-1"
     ],
     "Chime": [
         "8391630002",
@@ -60531,7 +60594,10 @@
         "8093669",
         "8093667",
         "8093661",
-        "8076145"
+        "8076145",
+        "8095814",
+        "8098130",
+        "8098140"
     ],
     "Roku": [
         "8023364",
@@ -60865,7 +60931,8 @@
         "8096194",
         "8096201",
         "8065793",
-        "8096228"
+        "8096228",
+        "7348956"
     ],
     "Spotify": [],
     "Snap": [],
