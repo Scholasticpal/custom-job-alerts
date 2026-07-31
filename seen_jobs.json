@@ -2604,7 +2604,8 @@
         "310eec35-05b1-41c6-888e-e2a2371bd742",
         "23f8284a-22aa-400f-afa3-87093a15ab36",
         "9ad0a14f-7e17-4d61-9ea5-2bf7c4a1bde8",
-        "e39da561-1caa-4664-a327-8d59a122e7f1"
+        "e39da561-1caa-4664-a327-8d59a122e7f1",
+        "7c2ac755-7c70-4768-921a-9e8a7821f047"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -3905,7 +3906,8 @@
         "8659953002",
         "8659948002",
         "8660043002",
-        "8660039002"
+        "8660039002",
+        "8660218002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -7503,7 +7505,8 @@
         "8642263002",
         "8567849002",
         "8304676002",
-        "8604587002"
+        "8604587002",
+        "8654620002"
     ],
     "Rubrik": [
         "7310036",
@@ -9187,7 +9190,8 @@
         "8071056",
         "8070722",
         "8094826",
-        "8071586"
+        "8071586",
+        "8092731"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -10193,7 +10197,8 @@
         "8093370",
         "8088028",
         "8093904",
-        "8080873"
+        "8080873",
+        "8081050"
     ],
     "DoorDash": [
         "7927511",
@@ -11427,7 +11432,8 @@
         "8079708",
         "8088385",
         "8096642",
-        "8097672"
+        "8097672",
+        "8092234"
     ],
     "Dropbox": [
         "7646405",
@@ -21286,7 +21292,8 @@
         "R345218",
         "R352642",
         "R351305-1",
-        "R354231"
+        "R354231",
+        "R351999"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22127,7 +22134,8 @@
         "Travel-Consultant---Entry-Level_J-83925",
         "Product-Owner_J-82184",
         "Integration-Benefits-Manager_J-77522-1",
-        "Senior-Travel-Counselor_J-80720"
+        "Senior-Travel-Counselor_J-80720",
+        "Compleat-Developer_J-81034"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -23393,7 +23401,8 @@
         "R265408",
         "R265407",
         "R265405",
-        "R265404"
+        "R265404",
+        "R265856-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -25692,7 +25701,8 @@
         "R-10399523",
         "R-10399524",
         "R-10399492",
-        "R-10397893"
+        "R-10397893",
+        "R-10398107"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -25978,7 +25988,9 @@
         "Fund-Administration---Oversight-Lead-Analyst_868835",
         "Portfolio-Compliance-Analyst_868840",
         "Fund-Administration---Oversight-Manager_868834",
-        "Graphic-Designer_868869"
+        "Graphic-Designer_868869",
+        "NBS-Onboarding-Manager_868712",
+        "Digital-Product-Manager_868790"
     ],
     "Invesco": [
         "R-13647",
@@ -33169,7 +33181,8 @@
         "5984039004",
         "6128387004",
         "6131210004",
-        "6020852004"
+        "6020852004",
+        "6119765004"
     ],
     "MongoDB": [
         "7574659",
@@ -34852,7 +34865,8 @@
         "8095963",
         "8091967",
         "8080606",
-        "8096140"
+        "8096140",
+        "8095826"
     ],
     "Elastic": [
         "7505982",
@@ -35439,7 +35453,9 @@
         "8080876",
         "8080932",
         "8080862",
-        "8097064"
+        "8097064",
+        "8053896",
+        "8066505"
     ],
     "Asana": [
         "7120496",
@@ -41422,7 +41438,15 @@
         "R2022482",
         "R2022248",
         "R2022247",
-        "R2021976"
+        "R2021976",
+        "R2022308",
+        "R2022307",
+        "R2022387",
+        "R2020823",
+        "R2021324",
+        "R2021693",
+        "R2021169",
+        "R2022559"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -46215,7 +46239,11 @@
         "R0000447769-1",
         "R0000447767",
         "R0000447268",
-        "R0000447808-1"
+        "R0000447808-1",
+        "R0000447785",
+        "R0000447815",
+        "R0000447831",
+        "R0000447722"
     ],
     "Zoom": [
         "R18188-1",
@@ -47491,7 +47519,8 @@
         "Large-Enterprise-Account-Executive---Strategic-Accounts_113292-JOB",
         "Director---Product-Design_113308-JOB",
         "Lead-Implementation-Consultant_113340-JOB",
-        "Principal-Engagement-Manager_113333-JOB"
+        "Principal-Engagement-Manager_113333-JOB",
+        "Principal-Program-Manager---CCaaS_113338-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -49047,7 +49076,9 @@
         "8064456",
         "8095464",
         "8095510",
-        "8088812"
+        "8088812",
+        "8095455",
+        "8043291"
     ],
     "Samsara": [
         "5747183",
@@ -49626,7 +49657,8 @@
         "8076689",
         "8095996",
         "8021301",
-        "8092918"
+        "8092918",
+        "8083539"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -52510,7 +52542,9 @@
         "Senior-Data---Insights-Consultant_REF086847W",
         "Software-Engineer---Sr-Consultant-level_REF085157W",
         "Director--Service-Experience-Enablement_REF087060W",
-        "Fintech-Client-Success-Manager--Sr-Consultant-Level-_REF087058W"
+        "Fintech-Client-Success-Manager--Sr-Consultant-Level-_REF087058W",
+        "Director_REF087015W",
+        "Benefits-Consultant_REF086894W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -54694,7 +54728,9 @@
         "Mcanicien-ne--Maintenance-Attraction-CDI--CDD-35H-F-H-NB_10157282",
         "Digital-Video-Producer-I--Spanish-_10156971",
         "Associate-Editor-APP_10157144-1",
-        "Manager--Trip-Operations-Private-Jet--Adventures---Expeditions_10156708"
+        "Manager--Trip-Operations-Private-Jet--Adventures---Expeditions_10156708",
+        "Senior-Regional-Security-Manager_10157346",
+        "Trainee--Corp-Strategy---Business-Development_10157221"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -57172,7 +57208,8 @@
         "R-65691",
         "R-65692-1",
         "R-65690",
-        "R-58888"
+        "R-58888",
+        "R-65722"
     ],
     "Chime": [
         "8391630002",
