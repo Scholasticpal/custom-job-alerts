@@ -10255,7 +10255,9 @@
         "8098438",
         "7478051",
         "8076593",
-        "8090218"
+        "8090218",
+        "8098285",
+        "8083102"
     ],
     "DoorDash": [
         "7927511",
@@ -16423,7 +16425,8 @@
         "R-286501",
         "R-286591",
         "R-287425",
-        "R-276707"
+        "R-276707",
+        "R-287001"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21456,7 +21459,9 @@
         "R351635",
         "R354598",
         "R353498",
-        "R354599"
+        "R354599",
+        "R347407",
+        "R354606-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21606,7 +21611,8 @@
         "8089986",
         "8089950",
         "8092531",
-        "8076970"
+        "8076970",
+        "8098658"
     ],
     "PayU": [],
     "American Express": [
@@ -23829,7 +23835,11 @@
         "Front-office-Senior-Software-Engineer--VP---Liquid-Credit_44253-1",
         "Security-Engineer-Manager--SVP---Application---Product-Security_44252",
         "Compliance---VP-SVP_44258",
-        "Real-Estate---Administrative-Assistant_44199-1"
+        "Real-Estate---Administrative-Assistant_44199-1",
+        "Blackstone-Credit---Insurance---Asset-Allocation---Senior-Associate_44257-1",
+        "Blackstone-Credit---Insurance---QDR-Quant---Senior-Associate_44256-2",
+        "Blackstone-Credit-and-Insurance---Private-Credit-Strategies--Senior-Associate_44255-1",
+        "Blackstone-Technology---Innovations---Vice-President_44272-1"
     ],
     "Capital Group": [
         "R6549",
@@ -30330,7 +30340,8 @@
         "96de8acb-556e-451b-bc84-7124bb4b0a20",
         "0432731c-f229-476e-92b6-d53491e79096",
         "a6ab3111-7092-4da2-a7a6-71e01351bfda",
-        "60b4b0f0-c5f1-48af-ad9b-716f2b5ce040"
+        "60b4b0f0-c5f1-48af-ad9b-716f2b5ce040",
+        "fd8c0f71-da99-4d1a-97f7-ff6b72420689"
     ],
     "Anthropic": [
         "5101832008",
@@ -32359,7 +32370,8 @@
         "b06005d2-e24b-467b-b7ea-783bac7366da",
         "bb0c4e16-ac1b-478c-aa92-ef3c542a9dcd",
         "a67088f2-4432-4ec6-b747-c5e47720a718",
-        "a31170a3-a951-4794-a61f-56640dce1aee"
+        "a31170a3-a951-4794-a61f-56640dce1aee",
+        "34a5e41b-1457-46ca-8e35-5cfc4ad81b3f"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -37468,7 +37480,8 @@
         "R-0108998",
         "R-0108984-1",
         "R-0108961",
-        "R-0109106-1"
+        "R-0109106-1",
+        "R-0109070"
     ],
     "CrowdStrike": [
         "R26911",
@@ -38366,7 +38379,8 @@
         "R29612",
         "R29578-1",
         "R29606",
-        "R29484"
+        "R29484",
+        "R26685"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -41802,7 +41816,12 @@
         "R2022440",
         "R2022441",
         "R2022444",
-        "R2022442-1"
+        "R2022442-1",
+        "R2022532",
+        "R2022556",
+        "R2021878",
+        "R2022346",
+        "R2021581"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -42031,7 +42050,8 @@
         "Senior-Site-Reliability-Engineer_2020341",
         "Software-Engineer---Webex-Web-Clients_2020808",
         "Enterprise-Hardware-Engineering-Technical-Lead_2021051",
-        "Pricing---Strategy-Analyst_2019962"
+        "Pricing---Strategy-Analyst_2019962",
+        "Consulting-Enginer_2018055"
     ],
     "Intel": [
         "R0283052",
@@ -46670,7 +46690,9 @@
         "R0000447803",
         "R0000447932",
         "R0000447852",
-        "R0000447804"
+        "R0000447804",
+        "R0000447763-1",
+        "R0000447926-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -47957,7 +47979,8 @@
         "Sr-Solutions-Consultant_113373-JOB-1",
         "Senior-Cloud-Engineer--Voice-Network-_113348-JOB",
         "Sr-Platinum-Support-Account-Manager_113346-JOB",
-        "Large-Enterprise-Account-Executive---San-Francisco-Bay-Area_113293-JOB-1"
+        "Large-Enterprise-Account-Executive---San-Francisco-Bay-Area_113293-JOB-1",
+        "Enterprise-Sales-Development-Representative_113383-JOB-1"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -49542,7 +49565,8 @@
         "8043291",
         "8100002",
         "8064580",
-        "8100253"
+        "8100253",
+        "8093633"
     ],
     "Samsara": [
         "5747183",
@@ -51646,7 +51670,8 @@
         "R35262",
         "R35252",
         "R35248",
-        "R35259"
+        "R35259",
+        "R34718"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -53060,7 +53085,9 @@
         "Visa-Pay-Marketing-Manager_REF087083W",
         "Senior-Manager--Data-Science_REF085211W",
         "Senior-Technical-Program-Manager_REF085286W",
-        "Analyst--CS-Compliance---Risk-Management_REF085233W-1"
+        "Analyst--CS-Compliance---Risk-Management_REF085233W-1",
+        "Senior-Consultant--Client-Program-Manager---CS-Advisory-Services_REF084719W",
+        "Manager--Digital-Solutions_REF087079W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -55274,7 +55301,8 @@
         "Sr-Product-Manager_10156691-1",
         "Senior-Sound-Designer_10155659",
         "Director--Creator-Content-and-Partnerships_10156997",
-        "Counsel---Senior-Counsel--Legal--Japan_10157044"
+        "Counsel---Senior-Counsel--Legal--Japan_10157044",
+        "Senior-Specialist--Cast-Engagement_10156502"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -57796,7 +57824,8 @@
         "R-64435",
         "R-64436",
         "R-64297",
-        "R-64298"
+        "R-64298",
+        "R-65666"
     ],
     "Chime": [
         "8391630002",
@@ -57893,7 +57922,8 @@
         "8657239002",
         "8657011002",
         "8609159002",
-        "8606649002"
+        "8606649002",
+        "8609485002"
     ],
     "FalconX": [
         "4677684005",
@@ -59097,7 +59127,8 @@
         "8099061",
         "8093199",
         "8097489",
-        "7818862"
+        "7818862",
+        "8079078"
     ],
     "Kaseya": [
         "6022140004",
@@ -61147,7 +61178,8 @@
         "8070831",
         "7940403",
         "8095677",
-        "8095692"
+        "8095692",
+        "8098013"
     ],
     "Roku": [
         "8023364",
