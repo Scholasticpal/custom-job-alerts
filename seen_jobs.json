@@ -16522,7 +16522,8 @@
         "R-282734-1",
         "R-284565",
         "R-287109",
-        "R-286586-1"
+        "R-286586-1",
+        "R-281924"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21584,7 +21585,8 @@
         "R353534",
         "R-2027-_JR351508-1",
         "R354685",
-        "R354311"
+        "R354311",
+        "R354726-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -26088,7 +26090,11 @@
         "R-10399084",
         "R-10399094",
         "R-10399085",
-        "R-10392222"
+        "R-10392222",
+        "R-10399849",
+        "R-10399848",
+        "R-10399978",
+        "R-10399976"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -26873,7 +26879,8 @@
         "R-14735",
         "R-14699",
         "R-14793-1",
-        "R-14752"
+        "R-14752",
+        "R-14441"
     ],
     "PayPal": [
         "R0135744-1",
@@ -30519,7 +30526,9 @@
         "c13877eb-1685-4744-acbf-94c6a0f28961",
         "d990222d-ecf1-417f-a248-6e962b5a18e0",
         "ceef522f-2ee2-49c7-b3a0-2a227e759a72",
-        "c0cfe3a1-f5a5-40f9-8365-b14a213e4148"
+        "c0cfe3a1-f5a5-40f9-8365-b14a213e4148",
+        "29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
+        "1bf678c5-1058-45ca-b9bd-b0029fccd60e"
     ],
     "Anthropic": [
         "5101832008",
@@ -31436,7 +31445,8 @@
         "5367436008",
         "5205735008",
         "5371065008",
-        "5374778008"
+        "5374778008",
+        "5378146008"
     ],
     "Coinbase": [
         "7559052",
@@ -31754,7 +31764,8 @@
         "8088912",
         "8097880",
         "8095526",
-        "8100066"
+        "8100066",
+        "8089161"
     ],
     "Discord": [
         "8289766002",
@@ -31915,7 +31926,8 @@
         "8614971002",
         "8659978002",
         "8656854002",
-        "8652914002"
+        "8652914002",
+        "8674411002"
     ],
     "Reddit": [
         "7011741",
@@ -34524,7 +34536,8 @@
         "8099122",
         "8083366",
         "8088171",
-        "8098695"
+        "8098695",
+        "8103967"
     ],
     "Datadog": [
         "7194969",
@@ -37687,7 +37700,9 @@
         "R-0109087",
         "R-0109059",
         "R-0109086",
-        "R-0109121"
+        "R-0109121",
+        "R-0109063",
+        "R-0109052"
     ],
     "CrowdStrike": [
         "R26911",
@@ -47012,7 +47027,14 @@
         "R0000447872",
         "R0000448039",
         "R0000447870-1",
-        "R0000448038"
+        "R0000448038",
+        "R0000446954",
+        "R0000448083-1",
+        "R0000447873",
+        "R0000448077",
+        "R0000442734",
+        "R0000448075",
+        "R0000448067"
     ],
     "Zoom": [
         "R18188-1",
@@ -48123,7 +48145,8 @@
         "R-108259",
         "R-108410",
         "R-108365",
-        "R-108353"
+        "R-108353",
+        "R-108331"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -48931,7 +48954,8 @@
         "4720478005",
         "4720487005",
         "4611448005",
-        "4720163005"
+        "4720163005",
+        "4720900005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -50496,7 +50520,9 @@
         "8097343",
         "8082091",
         "8082093",
-        "8084045"
+        "8084045",
+        "7578952",
+        "8104166"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -51564,7 +51590,8 @@
         "8051472",
         "8081335",
         "4916795",
-        "8026607"
+        "8026607",
+        "8083603"
     ],
     "Twitch": [
         "8334413002",
@@ -53447,7 +53474,9 @@
         "Senior-Director--Marketing---Southern---Eastern-Africa_REF087113W",
         "Senior-Product-Manager--US-Consumer-CreditUS-Credit--_REF085209W",
         "Sr-Software-Engineer---Core-Automation-Platform_REF085123W",
-        "Senior-Dispute-Consultant_REF084989W"
+        "Senior-Dispute-Consultant_REF084989W",
+        "Director--AI-Governance--Risk---Resilience_REF087009W",
+        "Senior-Learning-Consultant--Visa-University-LAC_REF086861W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -55676,7 +55705,11 @@
         "Sr-Building-Manager_10155679",
         "Senior-Manager--Production-Operations--National-Geographic-_10156257",
         "Production-Department-Secretary---Disney-Television-Animation_10151460-1",
-        "Associate-Producer---Disney-Television-Animation_10150771"
+        "Associate-Producer---Disney-Television-Animation_10150771",
+        "Sr-Technical-Project-Manager_10154369-2",
+        "Associate-Editor--Disney-Publishing_10157178",
+        "Coordinator--Creative-Marketing_10153935",
+        "KTRK-Meteorologist--Expression-Of-Interest-_10157404-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
