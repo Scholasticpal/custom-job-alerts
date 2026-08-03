@@ -1454,7 +1454,8 @@
         "8090203",
         "8099304",
         "8099239",
-        "8053933"
+        "8053933",
+        "8090473"
     ],
     "Figma": [
         "5426468004",
@@ -2340,7 +2341,8 @@
         "10489048",
         "10489114",
         "10489776",
-        "10489852"
+        "10489852",
+        "10490003"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -3172,7 +3174,8 @@
         "4718601005",
         "4716555005",
         "4718628005",
-        "4719358005"
+        "4719358005",
+        "4719810005"
     ],
     "Rippling": [],
     "Slice": [
@@ -9268,7 +9271,8 @@
         "e5f69583-dd88-4b86-af6b-5582df1548d8",
         "8c8700a4-5020-4c8a-a324-ac7cac0ab804",
         "3ce036e8-d4f9-4086-bec4-186676ea109e",
-        "9cdd2a84-394e-42c1-83ac-3017ad987b70"
+        "9cdd2a84-394e-42c1-83ac-3017ad987b70",
+        "16489251-0662-4dae-8f20-10a92cf3812a"
     ],
     "Cleartax": [
         "7931994",
@@ -10257,7 +10261,10 @@
         "8076593",
         "8090218",
         "8098285",
-        "8083102"
+        "8083102",
+        "8101808",
+        "8101818",
+        "8101822"
     ],
     "DoorDash": [
         "7927511",
@@ -16426,7 +16433,12 @@
         "R-286591",
         "R-287425",
         "R-276707",
-        "R-287001"
+        "R-287001",
+        "R-287319",
+        "R-274998",
+        "R-286931",
+        "R-284422",
+        "R-280868"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21461,7 +21473,11 @@
         "R353498",
         "R354599",
         "R347407",
-        "R354606-1"
+        "R354606-1",
+        "R352634",
+        "R346560",
+        "R354619",
+        "R351673"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -21612,7 +21628,12 @@
         "8089950",
         "8092531",
         "8076970",
-        "8098658"
+        "8098658",
+        "8027946",
+        "8027955",
+        "8027939",
+        "8027941",
+        "8027952"
     ],
     "PayU": [],
     "American Express": [
@@ -22318,7 +22339,8 @@
         "Client-Solutions-Manager_J-83594",
         "Client-Solutions-Manager_J-83024",
         "Payroll-Coordinator-with-German_J-83740",
-        "Travel-Consultant---After-Hours---German-and-English-Speaking-with-Amadeus_J-81040"
+        "Travel-Consultant---After-Hours---German-and-English-Speaking-with-Amadeus_J-81040",
+        "Regional-Account-Manager--Strategic_J-83588"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -23597,7 +23619,8 @@
         "R265422",
         "R265901",
         "R265416",
-        "R265417"
+        "R265417",
+        "R265258"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -25927,7 +25950,10 @@
         "R-10399075",
         "R-10399062",
         "R-10399102",
-        "R-10399588"
+        "R-10399588",
+        "R-10399606-1",
+        "R-10399569",
+        "R-10399756"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -26222,7 +26248,9 @@
         "Head-of-Global-Talent-Acquisition_868769-1",
         "Specialist--Middle-Office-Client-Services_868561",
         "Director--Digital-Audience-Engagement_868418",
-        "Program-Manager--Digital-Audience-Engagement_868421"
+        "Program-Manager--Digital-Audience-Engagement_868421",
+        "HR-Employee-Partner_868847",
+        "Senior-Institutional-Sales-Director--SEA_868947"
     ],
     "Invesco": [
         "R-13647",
@@ -30341,7 +30369,8 @@
         "0432731c-f229-476e-92b6-d53491e79096",
         "a6ab3111-7092-4da2-a7a6-71e01351bfda",
         "60b4b0f0-c5f1-48af-ad9b-716f2b5ce040",
-        "fd8c0f71-da99-4d1a-97f7-ff6b72420689"
+        "fd8c0f71-da99-4d1a-97f7-ff6b72420689",
+        "bf036b23-cd23-46d0-a02f-4b1483f4698a"
     ],
     "Anthropic": [
         "5101832008",
@@ -34336,7 +34365,8 @@
         "8039113",
         "8094523",
         "8089124",
-        "8089185"
+        "8089185",
+        "8099122"
     ],
     "Datadog": [
         "7194969",
@@ -38380,7 +38410,13 @@
         "R29578-1",
         "R29606",
         "R29484",
-        "R26685"
+        "R26685",
+        "R28949",
+        "R29557",
+        "R29135",
+        "R29591",
+        "R29543",
+        "R29616"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -41821,7 +41857,25 @@
         "R2022556",
         "R2021878",
         "R2022346",
-        "R2021581"
+        "R2021581",
+        "R2021987",
+        "R2021762",
+        "R2020850",
+        "R2022357",
+        "R2022411",
+        "R2022623-1",
+        "R2022582",
+        "R2017640",
+        "R2022621",
+        "R2021105",
+        "R2022408-1",
+        "R2022206-1",
+        "R2021213",
+        "R2022617",
+        "R2022103",
+        "R2022518",
+        "R2022470",
+        "R2022626"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -46692,7 +46746,25 @@
         "R0000447852",
         "R0000447804",
         "R0000447763-1",
-        "R0000447926-1"
+        "R0000447926-1",
+        "R0000447571",
+        "R0000447562",
+        "R0000447937",
+        "R0000447927",
+        "R0000447987",
+        "R0000447664",
+        "R0000447631",
+        "R0000447969",
+        "R0000447879",
+        "R0000447859",
+        "R0000447889",
+        "R0000447829",
+        "R0000447949",
+        "R0000447663",
+        "R0000447874",
+        "R0000447954",
+        "R0000447934-1",
+        "R0000447660-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -47980,7 +48052,8 @@
         "Senior-Cloud-Engineer--Voice-Network-_113348-JOB",
         "Sr-Platinum-Support-Account-Manager_113346-JOB",
         "Large-Enterprise-Account-Executive---San-Francisco-Bay-Area_113293-JOB-1",
-        "Enterprise-Sales-Development-Representative_113383-JOB-1"
+        "Enterprise-Sales-Development-Representative_113383-JOB-1",
+        "Product-Designer-I_113295-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -49566,7 +49639,8 @@
         "8100002",
         "8064580",
         "8100253",
-        "8093633"
+        "8093633",
+        "8088811"
     ],
     "Samsara": [
         "5747183",
@@ -51213,7 +51287,8 @@
         "8035163",
         "8011719",
         "8015539",
-        "8016665"
+        "8016665",
+        "8022863"
     ],
     "Twitch": [
         "8334413002",
@@ -53087,7 +53162,9 @@
         "Senior-Technical-Program-Manager_REF085286W",
         "Analyst--CS-Compliance---Risk-Management_REF085233W-1",
         "Senior-Consultant--Client-Program-Manager---CS-Advisory-Services_REF084719W",
-        "Manager--Digital-Solutions_REF087079W"
+        "Manager--Digital-Solutions_REF087079W",
+        "Implementation-Analyst_REF085236W",
+        "Senior-Manager--Sales-Enablement---Training--Value-Added-Services_REF085029W-2"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -53880,7 +53957,9 @@
         "Full-Stack-Software-Development-Engineer_26WD100101-1",
         "Senior-Full-Stack-Software-Development-Engineer_26WD100103-1",
         "Scaled-Customer-Success---AEC-Industry-Advisor--UK-I_26WD99959-1",
-        "Technical-Specialist--Construction_26WD100286-2"
+        "Technical-Specialist--Construction_26WD100286-2",
+        "R-100574_26WD97260-1",
+        "Candidate-Support-Advisor_26WD100000"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -56176,7 +56255,8 @@
         "R000107346",
         "R000104387-1",
         "R000107368-1",
-        "R000106670"
+        "R000106670",
+        "R000105441-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -57825,7 +57905,19 @@
         "R-64436",
         "R-64297",
         "R-64298",
-        "R-65666"
+        "R-65666",
+        "R-65404-1",
+        "R-65332-1",
+        "R-65360-1",
+        "R-65364-1",
+        "R-65352-1",
+        "R-65358-1",
+        "R-65349-1",
+        "R-66460-1",
+        "R-65773-1",
+        "R-60145",
+        "R-65665-1",
+        "R-65281"
     ],
     "Chime": [
         "8391630002",
@@ -58048,7 +58140,9 @@
         "4697483006",
         "4685364006",
         "4700949006",
-        "4700935006"
+        "4700935006",
+        "4698039006",
+        "4699779006"
     ],
     "Addepar": [
         "8594217002",
@@ -61179,7 +61273,11 @@
         "7940403",
         "8095677",
         "8095692",
-        "8098013"
+        "8098013",
+        "8096016",
+        "8098044",
+        "8102263",
+        "8059287"
     ],
     "Roku": [
         "8023364",
