@@ -1459,7 +1459,8 @@
         "8098394",
         "8081670",
         "8103750",
-        "8036761"
+        "8036761",
+        "8104767"
     ],
     "Figma": [
         "5426468004",
@@ -2904,7 +2905,8 @@
         "7821190003",
         "7781240003",
         "7823958003",
-        "7823889003"
+        "7823889003",
+        "7821471003"
     ],
     "Razorpay": [
         "4665089005",
@@ -5579,7 +5581,9 @@
         "8102684",
         "8095268",
         "8095390",
-        "8104102"
+        "8104102",
+        "8102361",
+        "8102725"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -5775,7 +5779,8 @@
         "8598183002",
         "8622004002",
         "8622142002",
-        "8642299002"
+        "8642299002",
+        "8675415002"
     ],
     "Databricks": [
         "8437000002",
@@ -16535,7 +16540,10 @@
         "R-287109",
         "R-286586-1",
         "R-281924",
-        "R-280317-1"
+        "R-280317-1",
+        "R-286791-1",
+        "R-287177",
+        "R-287147-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21604,7 +21612,8 @@
         "R354371",
         "R354642-1",
         "R353734",
-        "R354360"
+        "R354360",
+        "R353624"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -26901,7 +26910,8 @@
         "R-14699",
         "R-14793-1",
         "R-14752",
-        "R-14441"
+        "R-14441",
+        "R-14935"
     ],
     "PayPal": [
         "R0135744-1",
@@ -32597,7 +32607,8 @@
         "bb0c4e16-ac1b-478c-aa92-ef3c542a9dcd",
         "a67088f2-4432-4ec6-b747-c5e47720a718",
         "a31170a3-a951-4794-a61f-56640dce1aee",
-        "34a5e41b-1457-46ca-8e35-5cfc4ad81b3f"
+        "34a5e41b-1457-46ca-8e35-5cfc4ad81b3f",
+        "86138d2b-2e7a-4cbb-b108-549280cc4f03"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -38649,7 +38660,8 @@
         "R29543",
         "R29616",
         "R27595",
-        "R29267"
+        "R29267",
+        "R27946-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -42140,7 +42152,9 @@
         "R2021680",
         "R2021029-1",
         "R2022644",
-        "R2022619"
+        "R2022619",
+        "R2013673",
+        "R2022672"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -42371,7 +42385,9 @@
         "Enterprise-Hardware-Engineering-Technical-Lead_2021051",
         "Pricing---Strategy-Analyst_2019962",
         "Consulting-Enginer_2018055",
-        "Leader--Customer-Delivery---Professional-Services_2020755"
+        "Leader--Customer-Delivery---Professional-Services_2020755",
+        "Lifecycle-Services---Consulting-Engineer--Japanese-speaker_2018064",
+        "Software-Consulting-Engineer_2018066"
     ],
     "Intel": [
         "R0283052",
@@ -47096,7 +47112,21 @@
         "R0000446531-1",
         "R0000447495",
         "R0000447982",
-        "R0000448123"
+        "R0000448123",
+        "R0000447703",
+        "R0000447688",
+        "R0000448109",
+        "R0000448068",
+        "R0000448099",
+        "R0000448089",
+        "R0000448129",
+        "R0000447848",
+        "R0000448128",
+        "R0000448105",
+        "R0000448045",
+        "R0000448095",
+        "R0000448125",
+        "R0000448043"
     ],
     "Zoom": [
         "R18188-1",
@@ -48211,7 +48241,9 @@
         "R-108365",
         "R-108353",
         "R-108331",
-        "R-108429-1"
+        "R-108429-1",
+        "R-107904",
+        "R-108452-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -51665,7 +51697,9 @@
         "4916795",
         "8026607",
         "8083603",
-        "8102744"
+        "8102744",
+        "8102740",
+        "8102742"
     ],
     "Twitch": [
         "8334413002",
@@ -53552,7 +53586,8 @@
         "Director--AI-Governance--Risk---Resilience_REF087009W",
         "Senior-Learning-Consultant--Visa-University-LAC_REF086861W-1",
         "Client-Consulting-Manager_REF087117W",
-        "Contracts-Director_REF085144W"
+        "Contracts-Director_REF085144W",
+        "Senior-Manager--Consulting---Visa-Consulting-and-Analytics_REF079001W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -54350,7 +54385,9 @@
         "Candidate-Support-Advisor_26WD100000",
         "Principal-Network-Security-Engineer_26WD100041",
         "Senior-Full-Stack-Software-Development-Engineer_26WD96549-1",
-        "Senior-Software-Developer--Platform---Emerging-Technologies_26WD100072-1"
+        "Senior-Software-Developer--Platform---Emerging-Technologies_26WD100072-1",
+        "Senior-Software-Engineer_26WD100194-2",
+        "Enterprise-Account-Executive_26WD100255-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -56664,7 +56701,8 @@
         "R000105441-1",
         "R000107384",
         "R000107014-1",
-        "R000107210"
+        "R000107210",
+        "R000106864"
     ],
     "Kyndryl": [
         "R-61530",
@@ -58343,7 +58381,9 @@
         "R-65995-1",
         "R-65996",
         "R-66502-1",
-        "R-66503-1"
+        "R-66503-1",
+        "R-65420-1",
+        "R-65701"
     ],
     "Chime": [
         "8391630002",
@@ -61743,7 +61783,8 @@
         "8097855",
         "8104461",
         "8102517",
-        "8066533"
+        "8066533",
+        "8102677"
     ],
     "Roku": [
         "8023364",
@@ -62082,7 +62123,8 @@
         "8096018",
         "7868713",
         "8099220",
-        "7741950"
+        "7741950",
+        "8104779"
     ],
     "Spotify": [],
     "Snap": [],
