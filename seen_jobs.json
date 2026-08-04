@@ -1460,7 +1460,9 @@
         "8081670",
         "8103750",
         "8036761",
-        "8104767"
+        "8104767",
+        "8099206",
+        "8099216"
     ],
     "Figma": [
         "5426468004",
@@ -2637,7 +2639,8 @@
         "9e07199b-8d52-4502-9c98-97a5150834db",
         "cf659680-f2b2-4d79-92aa-8b3be7719040",
         "82ec732c-ffb1-4c60-825e-a2c6203ad1a8",
-        "7333709f-b144-4231-bf6c-835b5c509bce"
+        "7333709f-b144-4231-bf6c-835b5c509bce",
+        "2fcb5327-577d-4929-bb2a-6bef43262178"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -3335,7 +3338,8 @@
         "7547313",
         "8090633",
         "8094284",
-        "8095929"
+        "8095929",
+        "6576731"
     ],
     "Upstox": [],
     "Brex": [
@@ -4680,7 +4684,8 @@
         "f5a73863-3c86-4274-9916-e97cb73de8ba",
         "2e0d10a7-a185-4f02-8f89-792900c0d592",
         "715e52dd-0a51-4ff7-be68-855112e56b99",
-        "8b5804bd-1513-4beb-b69a-53c634cb2963"
+        "8b5804bd-1513-4beb-b69a-53c634cb2963",
+        "7fe2d26d-8f6b-4d89-a125-9be71b5bdeca"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8097,7 +8102,8 @@
         "8077569",
         "8071013",
         "8072156",
-        "8073777"
+        "8073777",
+        "8076551"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -8208,7 +8214,8 @@
         "R103534",
         "R103545",
         "R103552",
-        "R103565"
+        "R103565",
+        "R103568"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -9302,7 +9309,8 @@
         "7902104",
         "8104138",
         "8104024",
-        "8099937"
+        "8099937",
+        "8092138"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -16558,7 +16566,19 @@
         "R-287448-1",
         "R-282512-1",
         "R-281371",
-        "R-287152-1"
+        "R-287152-1",
+        "R-282720",
+        "R-286870",
+        "R-287052-1",
+        "R-287013-1",
+        "R-284496",
+        "R-282616",
+        "R-286480-1",
+        "R-286441",
+        "R-287405",
+        "R-287338",
+        "R-287054",
+        "R-282665"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21628,7 +21648,13 @@
         "R354642-1",
         "R353734",
         "R354360",
-        "R353624"
+        "R353624",
+        "R354308",
+        "R354563",
+        "R354806",
+        "R331701",
+        "R354372",
+        "R353953"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22495,7 +22521,8 @@
         "Junior-Meetings---Events-Business-Analyst_J-81846",
         "Corporate-Travel-Counselor_J-84003",
         "Sales-Development-Representative-Mid-Market_J-83683",
-        "Team-Coach_J-82911"
+        "Team-Coach_J-82911",
+        "Technical-Consultant_J-82224"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -24269,7 +24296,8 @@
         "R6935",
         "R6982",
         "R7017",
-        "R7019"
+        "R7019",
+        "R7009"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -24597,7 +24625,9 @@
         "R32876",
         "R32753",
         "R32806-1",
-        "R31338"
+        "R31338",
+        "R32485",
+        "R30668"
     ],
     "Fiserv": [
         "R-10392824",
@@ -26143,7 +26173,8 @@
         "R-10399976",
         "R-10399994",
         "R-10398718-1",
-        "R-10399572"
+        "R-10399572",
+        "R-10380339"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -26445,7 +26476,8 @@
         "Senior-RFP-DDQ-Specialist_868706",
         "Senior-IS-Analyst-IT-Security_868213",
         "Head-of-Global-Talent-Acquisition_869052",
-        "VP--Market-Leader_868945"
+        "VP--Market-Leader_868945",
+        "Data-Analyst---Enterprise-Relationship-Mgmt_868867"
     ],
     "Invesco": [
         "R-13647",
@@ -34604,7 +34636,9 @@
         "8098695",
         "8103967",
         "8054102",
-        "8055356"
+        "8055356",
+        "8094513",
+        "8094522"
     ],
     "Datadog": [
         "7194969",
@@ -35426,7 +35460,10 @@
         "8102794",
         "8083563",
         "8103045",
-        "8103585"
+        "8103585",
+        "8102152",
+        "8096181",
+        "8097533"
     ],
     "Elastic": [
         "7505982",
@@ -37778,7 +37815,8 @@
         "R-0109052",
         "R-0109129",
         "R-0109130",
-        "R-0109047"
+        "R-0109047",
+        "R-0108915"
     ],
     "CrowdStrike": [
         "R26911",
@@ -42182,7 +42220,14 @@
         "R2022672",
         "R2009538",
         "R1995098",
-        "R2021104"
+        "R2021104",
+        "R2021944",
+        "R2019901",
+        "R2022562",
+        "R2022093",
+        "R2022715",
+        "R2022699",
+        "R2021407"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -47169,7 +47214,16 @@
         "R0000448100",
         "R0000447077",
         "R0000442396-1",
-        "R0000447097"
+        "R0000447097",
+        "R0000448126",
+        "R0000448108",
+        "R0000448079",
+        "R0000448142",
+        "R0000432923",
+        "R0000438517",
+        "R0000448112",
+        "R0000448148",
+        "R0000448146"
     ],
     "Zoom": [
         "R18188-1",
@@ -48569,7 +48623,8 @@
         "590a0742-97f1-47f4-81a2-567efc939ae2",
         "3b5d54ca-741b-45ac-bd3f-31605a0d3541",
         "dcf09dfe-55bc-44ba-b5db-1a2de7f33216",
-        "8229db66-dc3f-4ffe-8d86-90ce9ffb4c90"
+        "8229db66-dc3f-4ffe-8d86-90ce9ffb4c90",
+        "f048dd68-63f8-4f98-9860-3d5a43c09a01"
     ],
     "Hasura": [],
     "Netlify": [
@@ -48739,7 +48794,9 @@
         "70dddd7e-a90a-4aef-b84e-757c11ba00d7",
         "03210308-5822-4799-a76b-207ad25241a2",
         "50b215e3-14bf-43fc-aa23-dd1fa668baab",
-        "2701b589-4c6e-4bcf-97d4-0e86e9e089f3"
+        "2701b589-4c6e-4bcf-97d4-0e86e9e089f3",
+        "478881c7-1a19-4b52-b76b-53356521f0d6",
+        "444f2997-715e-4a80-ba4d-9cb58eadfc69"
     ],
     "Airtable": [
         "8403127002",
@@ -49275,7 +49332,8 @@
         "dbe76343-a8ae-445c-b2f9-c5a304d54f6a",
         "9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
         "f959be10-be25-4918-bcf3-39e1a83d2957",
-        "e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2"
+        "e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2",
+        "334b2a07-0c6a-4764-b4a8-c8bf68513cde"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -49793,7 +49851,8 @@
         "eb83a36f-297a-4440-ac80-e85afbc76973",
         "dc408aee-2aea-483f-8ad1-0511d464d149",
         "025258c6-301e-462b-9927-61815277d9dc",
-        "309770a4-40c1-4293-894c-52214708c472"
+        "309770a4-40c1-4293-894c-52214708c472",
+        "e4e36bb0-6c20-44b8-a26b-7501cf2dd0ee"
     ],
     "Netskope": [
         "7885748",
@@ -53635,7 +53694,8 @@
         "Senior-Manager--Consulting---Visa-Consulting-and-Analytics_REF079001W",
         "Senior-Business-Development-Manager--Italy_REF085159W",
         "Sr-SW-Engineer---SDET---Automation--GenAI-tooling--API-Testing_REF080993W",
-        "Sr-Associate-Counsel---Kazakhstan_REF087054W"
+        "Sr-Associate-Counsel---Kazakhstan_REF087054W",
+        "Sr-Client-Consulting-Manager_REF087114W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -54435,7 +54495,9 @@
         "Senior-Full-Stack-Software-Development-Engineer_26WD96549-1",
         "Senior-Software-Developer--Platform---Emerging-Technologies_26WD100072-1",
         "Senior-Software-Engineer_26WD100194-2",
-        "Enterprise-Account-Executive_26WD100255-1"
+        "Enterprise-Account-Executive_26WD100255-1",
+        "Senior-Technical-Sales-Manager--India_26WD100107",
+        "Full-Stack-Software-Development-Engineer_26WD96550-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -58436,7 +58498,13 @@
         "R-66203-1",
         "R-66209-1",
         "R-66210-1",
-        "R-66204-1"
+        "R-66204-1",
+        "R-66213-1",
+        "R-66216-1",
+        "R-65564",
+        "R-66164-1",
+        "R-66221-1",
+        "R-65583"
     ],
     "Chime": [
         "8391630002",
@@ -61843,7 +61911,11 @@
         "8095790",
         "8095792",
         "8071130",
-        "8104792"
+        "8104792",
+        "8104508",
+        "8104773",
+        "8104777",
+        "8105038"
     ],
     "Roku": [
         "8023364",
