@@ -2640,7 +2640,8 @@
         "cf659680-f2b2-4d79-92aa-8b3be7719040",
         "82ec732c-ffb1-4c60-825e-a2c6203ad1a8",
         "7333709f-b144-4231-bf6c-835b5c509bce",
-        "2fcb5327-577d-4929-bb2a-6bef43262178"
+        "2fcb5327-577d-4929-bb2a-6bef43262178",
+        "2d903016-0c0e-4243-b73b-de7de8fadb8c"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -3192,7 +3193,9 @@
         "4718628005",
         "4719358005",
         "4719810005",
-        "4720228005"
+        "4720228005",
+        "4721044005",
+        "4718620005"
     ],
     "Rippling": [],
     "Slice": [
@@ -5742,7 +5745,8 @@
         "8078008",
         "7956165",
         "8091777",
-        "8091833"
+        "8091833",
+        "7989358"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -9310,7 +9314,8 @@
         "8104138",
         "8104024",
         "8099937",
-        "8092138"
+        "8092138",
+        "8102768"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -16578,7 +16583,8 @@
         "R-287405",
         "R-287338",
         "R-287054",
-        "R-282665"
+        "R-282665",
+        "R-286258"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21654,7 +21660,8 @@
         "R354806",
         "R331701",
         "R354372",
-        "R353953"
+        "R353953",
+        "R348637-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22522,7 +22529,8 @@
         "Corporate-Travel-Counselor_J-84003",
         "Sales-Development-Representative-Mid-Market_J-83683",
         "Team-Coach_J-82911",
-        "Technical-Consultant_J-82224"
+        "Technical-Consultant_J-82224",
+        "Specialized-Travel-Consultant_J-83693-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -23811,7 +23819,8 @@
         "R265919",
         "R265918",
         "R265917",
-        "R265427"
+        "R265427",
+        "R265313"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -26174,7 +26183,11 @@
         "R-10399994",
         "R-10398718-1",
         "R-10399572",
-        "R-10380339"
+        "R-10380339",
+        "R-10385787",
+        "R-10399115",
+        "R-10399507",
+        "R-10399380"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -26477,7 +26490,8 @@
         "Senior-IS-Analyst-IT-Security_868213",
         "Head-of-Global-Talent-Acquisition_869052",
         "VP--Market-Leader_868945",
-        "Data-Analyst---Enterprise-Relationship-Mgmt_868867"
+        "Data-Analyst---Enterprise-Relationship-Mgmt_868867",
+        "Strategy---Corporate-Development-Director_868816"
     ],
     "Invesco": [
         "R-13647",
@@ -42227,7 +42241,8 @@
         "R2022093",
         "R2022715",
         "R2022699",
-        "R2021407"
+        "R2021407",
+        "R2016645"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -47223,7 +47238,9 @@
         "R0000438517",
         "R0000448112",
         "R0000448148",
-        "R0000448146"
+        "R0000448146",
+        "R0000448130",
+        "R0000448034"
     ],
     "Zoom": [
         "R18188-1",
@@ -48341,7 +48358,9 @@
         "R-108429-1",
         "R-107904",
         "R-108452-1",
-        "R-108330-1"
+        "R-108330-1",
+        "R-108141-1",
+        "R-108327"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -48796,7 +48815,8 @@
         "50b215e3-14bf-43fc-aa23-dd1fa668baab",
         "2701b589-4c6e-4bcf-97d4-0e86e9e089f3",
         "478881c7-1a19-4b52-b76b-53356521f0d6",
-        "444f2997-715e-4a80-ba4d-9cb58eadfc69"
+        "444f2997-715e-4a80-ba4d-9cb58eadfc69",
+        "8b8c3147-54a5-4b11-9883-c29c6b8dac45"
     ],
     "Airtable": [
         "8403127002",
@@ -49852,7 +49872,8 @@
         "dc408aee-2aea-483f-8ad1-0511d464d149",
         "025258c6-301e-462b-9927-61815277d9dc",
         "309770a4-40c1-4293-894c-52214708c472",
-        "e4e36bb0-6c20-44b8-a26b-7501cf2dd0ee"
+        "e4e36bb0-6c20-44b8-a26b-7501cf2dd0ee",
+        "2d4d0e7c-6f89-4d55-8724-d29d1da984e2"
     ],
     "Netskope": [
         "7885748",
@@ -53695,7 +53716,11 @@
         "Senior-Business-Development-Manager--Italy_REF085159W",
         "Sr-SW-Engineer---SDET---Automation--GenAI-tooling--API-Testing_REF080993W",
         "Sr-Associate-Counsel---Kazakhstan_REF087054W",
-        "Sr-Client-Consulting-Manager_REF087114W"
+        "Sr-Client-Consulting-Manager_REF087114W",
+        "Manager--Sponsorship-Marketing_REF087063W",
+        "Andean-Marketing-Consumer-Director_REF087037W",
+        "Sponsorship-Director_REF087057W",
+        "Sr-Manager_REF080435W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -55933,7 +55958,10 @@
         "Associate-Editor--Disney-Publishing_10157178",
         "Coordinator--Creative-Marketing_10153935",
         "KTRK-Meteorologist--Expression-Of-Interest-_10157404-1",
-        "Coordinator--Creative-Marketing-Copywriter_10153934"
+        "Coordinator--Creative-Marketing-Copywriter_10153934",
+        "Core-Systems-Engineer_10153874",
+        "Sr-Manager--Finance---Analysis_10157290",
+        "Personal-Assistant_10156757"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -56812,7 +56840,8 @@
         "R000107384",
         "R000107014-1",
         "R000107210",
-        "R000106864"
+        "R000106864",
+        "R000107273-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -58504,7 +58533,16 @@
         "R-65564",
         "R-66164-1",
         "R-66221-1",
-        "R-65583"
+        "R-65583",
+        "R-66163-1",
+        "R-66166-1",
+        "R-66228-1",
+        "R-66187-1",
+        "R-66176-1",
+        "R-66229-1",
+        "R-66231-1",
+        "R-66222-1",
+        "R-66177-1"
     ],
     "Chime": [
         "8391630002",
@@ -59833,7 +59871,8 @@
         "7306066",
         "8103088",
         "8103111",
-        "8098449"
+        "8098449",
+        "8039085"
     ],
     "Kaseya": [
         "6022140004",
@@ -60662,7 +60701,9 @@
         "8083466",
         "8096657",
         "8089680",
-        "8079401"
+        "8079401",
+        "8096841",
+        "8105159"
     ],
     "Propel": [],
     "Canva": [],
