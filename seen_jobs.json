@@ -2657,7 +2657,9 @@
         "2d903016-0c0e-4243-b73b-de7de8fadb8c",
         "f5f62aa2-2b28-44d0-a3b7-43bfb8fe43a0",
         "364fa1d9-1b0f-4497-8e35-bb3d0343805b",
-        "55ca5ffe-a9ac-4e88-8513-0a07bfcb5eb4"
+        "55ca5ffe-a9ac-4e88-8513-0a07bfcb5eb4",
+        "f0d111c3-888c-456f-a8da-0c622ed8daee",
+        "18b6737d-5a8d-419d-a978-3c9092170298"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -2927,7 +2929,8 @@
         "7781240003",
         "7823958003",
         "7823889003",
-        "7821471003"
+        "7821471003",
+        "7827710003"
     ],
     "Razorpay": [
         "4665089005",
@@ -11661,7 +11664,8 @@
         "8026207",
         "8026203",
         "8042052",
-        "8104436"
+        "8104436",
+        "8108404"
     ],
     "Dropbox": [
         "7646405",
@@ -11973,7 +11977,8 @@
         "8092712",
         "8092715",
         "8103658",
-        "8090065"
+        "8090065",
+        "7958409"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -16680,7 +16685,10 @@
         "R-282691",
         "R-287146",
         "R-287296",
-        "R-287384"
+        "R-287384",
+        "R-286709",
+        "R-287442",
+        "R-287012"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21784,7 +21792,14 @@
         "R355049",
         "R355045",
         "R354965-1",
-        "R355036"
+        "R355036",
+        "R354667-1",
+        "R331097-1",
+        "R355096",
+        "R354837",
+        "R355032",
+        "R355094",
+        "R331777"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -32877,7 +32892,8 @@
         "a31170a3-a951-4794-a61f-56640dce1aee",
         "34a5e41b-1457-46ca-8e35-5cfc4ad81b3f",
         "86138d2b-2e7a-4cbb-b108-549280cc4f03",
-        "9c2e6e72-6dc0-496c-a705-32d441fa04c7"
+        "9c2e6e72-6dc0-496c-a705-32d441fa04c7",
+        "3f842011-eb04-4b75-bf92-8be5a5ce02b2"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -33447,7 +33463,9 @@
         "7791670003",
         "7791668003",
         "7808243003",
-        "7808245003"
+        "7808245003",
+        "7809761003",
+        "7809763003"
     ],
     "Robinhood": [
         "7799902",
@@ -35696,7 +35714,9 @@
         "8097533",
         "8092637",
         "8096105",
-        "8105372"
+        "8105372",
+        "8108378",
+        "8094219"
     ],
     "Elastic": [
         "7505982",
@@ -36304,7 +36324,8 @@
         "8025625",
         "8025629",
         "8025626",
-        "7976542"
+        "7976542",
+        "8018328"
     ],
     "Asana": [
         "7120496",
@@ -38994,7 +39015,8 @@
         "R29584-1",
         "R29622",
         "R29611",
-        "R29590"
+        "R29590",
+        "R29648"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -42522,7 +42544,9 @@
         "R2022200",
         "R2021455",
         "R2022198",
-        "R2022708"
+        "R2022708",
+        "R1998014",
+        "R2016289"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -42756,7 +42780,8 @@
         "Leader--Customer-Delivery---Professional-Services_2020755",
         "Lifecycle-Services---Consulting-Engineer--Japanese-speaker_2018064",
         "Software-Consulting-Engineer_2018066",
-        "Senior-Cloud-Engineer---Platform_2016220"
+        "Senior-Cloud-Engineer---Platform_2016220",
+        "Software-Engineer---Application-Development_2021167"
     ],
     "Intel": [
         "R0283052",
@@ -47564,7 +47589,10 @@
         "R0000448253",
         "R0000448214",
         "R0000446685",
-        "R0000448216-1"
+        "R0000448216-1",
+        "R0000448250",
+        "R0000448260",
+        "R0000448230"
     ],
     "Zoom": [
         "R18188-1",
@@ -48693,7 +48721,8 @@
         "R-108200",
         "R-103993",
         "R-107861",
-        "R-108296"
+        "R-108296",
+        "R-108124-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -50225,7 +50254,8 @@
         "ae624e76-e05b-4059-90bb-5e4766be8e65",
         "af9c2c73-2896-4261-a2d4-fa381f6fad08",
         "27e13a1b-ff84-4cfc-8182-f452084ceed8",
-        "0643a60d-9f31-41ca-81b7-f5f976787f9f"
+        "0643a60d-9f31-41ca-81b7-f5f976787f9f",
+        "79eacccd-e3f0-4f8f-97fc-38c4b6bccd59"
     ],
     "Netskope": [
         "7885748",
@@ -54112,7 +54142,8 @@
         "Vice-President--Global-Head-of-Executive-Recruiting_REF081119W",
         "Vice-President--Ethics---Compliance--Central-and-Eastern-Europe--Middle-East-and-Africa--CEMEA-_REF087164W",
         "Sr-Consulting-Manager--VMS_REF066966W",
-        "Manager--Travel_REF087161W"
+        "Manager--Travel_REF087161W",
+        "Sr-Consultant-Solutions-Management_REF087207W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -54927,7 +54958,9 @@
         "Sr-Product-Designer_26WD100277-1",
         "Product-Manager---Visualization-Solutions_26WD97546-1",
         "Senior-Technical-Consultant---Full-Stack--NET---React----D-M_26WD100128",
-        "Senior-Technical-Adoption-Specialist--AEC---AI--Japan_26WD99746"
+        "Senior-Technical-Adoption-Specialist--AEC---AI--Japan_26WD99746",
+        "Principal-Engineer--Java-Node--AWS-_26WD100331-2",
+        "Senior-Account-Based-Marketing-Manager_26WD100300-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -57279,7 +57312,9 @@
         "R000106783",
         "R000107363",
         "R000105133-1",
-        "R000107372-1"
+        "R000107372-1",
+        "R000107385",
+        "R000099212"
     ],
     "Kyndryl": [
         "R-61530",
@@ -59012,7 +59047,10 @@
         "R-66274",
         "R-66272",
         "R-65555-1",
-        "R-65556-1"
+        "R-65556-1",
+        "R-65664-1",
+        "R-66322-1",
+        "R-66321"
     ],
     "Chime": [
         "8391630002",
