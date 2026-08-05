@@ -1470,7 +1470,8 @@
         "8107379",
         "8107302",
         "8089353",
-        "8096726"
+        "8096726",
+        "8089815"
     ],
     "Figma": [
         "5426468004",
@@ -7645,7 +7646,8 @@
         "8675320002",
         "8654148002",
         "8681148002",
-        "8637781002"
+        "8637781002",
+        "8672712002"
     ],
     "Rubrik": [
         "7310036",
@@ -8257,7 +8259,8 @@
         "R103545",
         "R103552",
         "R103565",
-        "R103568"
+        "R103568",
+        "R103571"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -11665,7 +11668,8 @@
         "8026203",
         "8042052",
         "8104436",
-        "8108404"
+        "8108404",
+        "8104438"
     ],
     "Dropbox": [
         "7646405",
@@ -16688,7 +16692,8 @@
         "R-287384",
         "R-286709",
         "R-287442",
-        "R-287012"
+        "R-287012",
+        "R-279012-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21799,7 +21804,9 @@
         "R354837",
         "R355032",
         "R355094",
-        "R331777"
+        "R331777",
+        "R353253",
+        "R355102-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22673,7 +22680,8 @@
         "Specialized-Travel-Consultant_J-84025-1",
         "Travel-Experience-Counselor-I_J-83970",
         "Customer-Identity-Engineer_J-83124",
-        "Business-Systems-Analyst_J-83324-1"
+        "Business-Systems-Analyst_J-83324-1",
+        "Data-Analyst_J-82456"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -23974,7 +23982,9 @@
         "R265349",
         "R265118",
         "R265848",
-        "R264397"
+        "R264397",
+        "R265931",
+        "R265900-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -24218,7 +24228,8 @@
         "Blackstone-Credit-and-Insurance---Private-Credit-Strategies--Senior-Associate_44255-1",
         "Blackstone-Technology---Innovations---Vice-President_44272-1",
         "Channel-Marketer--PWM-and-LATAM--AVP---Corporate-Affairs_44491",
-        "Private-Equity-Valuations---Analytics--Associate_44494"
+        "Private-Equity-Valuations---Analytics--Associate_44494",
+        "Legal---Compliance---Conflicts-Clearance--VP_44492"
     ],
     "Capital Group": [
         "R6549",
@@ -24465,7 +24476,8 @@
         "R7009",
         "R6975",
         "R7028",
-        "R6886"
+        "R6886",
+        "R6937"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -24798,7 +24810,8 @@
         "R30668",
         "R32817",
         "R32886-2",
-        "R32848"
+        "R32848",
+        "R32648"
     ],
     "Fiserv": [
         "R-10392824",
@@ -26366,7 +26379,8 @@
         "R-10400085",
         "R-10396661",
         "R-10394500",
-        "R-10385134"
+        "R-10385134",
+        "R-10398824"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -26672,7 +26686,10 @@
         "Data-Analyst---Enterprise-Relationship-Mgmt_868867",
         "Strategy---Corporate-Development-Director_868816",
         "Business-Development-Associate_868980",
-        "Sr-Investment-Associate_868979"
+        "Sr-Investment-Associate_868979",
+        "Branch-Services_868015-1",
+        "Branch-Services_868764",
+        "Branch-Services_868759"
     ],
     "Invesco": [
         "R-13647",
@@ -27172,7 +27189,8 @@
         "R-14928",
         "R-2-RECON-GRS_R-14940",
         "R-14818",
-        "R-14932"
+        "R-14932",
+        "R-14867"
     ],
     "PayPal": [
         "R0135744-1",
@@ -32689,7 +32707,8 @@
         "8103594",
         "8103609",
         "8106246",
-        "8084941"
+        "8084941",
+        "8108528"
     ],
     "Notion": [
         "03143d98-a561-44c6-96a5-fc9bfaf8d18d",
@@ -34886,7 +34905,8 @@
         "8056743",
         "8105037",
         "8097908",
-        "8060669"
+        "8060669",
+        "8089929"
     ],
     "Datadog": [
         "7194969",
@@ -35716,7 +35736,8 @@
         "8096105",
         "8105372",
         "8108378",
-        "8094219"
+        "8094219",
+        "8105684"
     ],
     "Elastic": [
         "7505982",
@@ -38093,7 +38114,8 @@
         "R-0109082",
         "R-0106012",
         "R-0108919",
-        "R-0108536"
+        "R-0108536",
+        "R-0108934"
     ],
     "CrowdStrike": [
         "R26911",
@@ -47592,7 +47614,21 @@
         "R0000448216-1",
         "R0000448250",
         "R0000448260",
-        "R0000448230"
+        "R0000448230",
+        "R0000448231",
+        "R0000448134",
+        "R0000448297",
+        "R0000448296",
+        "R0000448295",
+        "R0000448293",
+        "R0000448290",
+        "R0000434958",
+        "R0000401508",
+        "R0000448289",
+        "R0000448288",
+        "R0000433670",
+        "R0000448287",
+        "R0000444984-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -47946,7 +47982,8 @@
         "R19475-1",
         "R19494-1",
         "R19490-1",
-        "R19487-1"
+        "R19487-1",
+        "R19492"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -50255,7 +50292,8 @@
         "af9c2c73-2896-4261-a2d4-fa381f6fad08",
         "27e13a1b-ff84-4cfc-8182-f452084ceed8",
         "0643a60d-9f31-41ca-81b7-f5f976787f9f",
-        "79eacccd-e3f0-4f8f-97fc-38c4b6bccd59"
+        "79eacccd-e3f0-4f8f-97fc-38c4b6bccd59",
+        "add052e9-4b9c-475a-bae9-dde8fe9407ca"
     ],
     "Netskope": [
         "7885748",
@@ -52442,7 +52480,8 @@
         "803792f5-0e9c-45bc-82ce-c0a552ce0cf8",
         "5eb7a75b-312c-4759-8813-70e67b5d4109",
         "f140e9d7-8d0c-4e24-bace-8568385b6f5c",
-        "892ad297-ed0e-4f9c-98b8-fd30358a5517"
+        "892ad297-ed0e-4f9c-98b8-fd30358a5517",
+        "ecd7a54f-218c-47a0-8379-aeb272c35bcb"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -54143,7 +54182,9 @@
         "Vice-President--Ethics---Compliance--Central-and-Eastern-Europe--Middle-East-and-Africa--CEMEA-_REF087164W",
         "Sr-Consulting-Manager--VMS_REF066966W",
         "Manager--Travel_REF087161W",
-        "Sr-Consultant-Solutions-Management_REF087207W"
+        "Sr-Consultant-Solutions-Management_REF087207W",
+        "Sr-Cybersecurity-Engineer---IAM_REF080077W",
+        "Manager_REF081044W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -54960,7 +55001,9 @@
         "Senior-Technical-Consultant---Full-Stack--NET---React----D-M_26WD100128",
         "Senior-Technical-Adoption-Specialist--AEC---AI--Japan_26WD99746",
         "Principal-Engineer--Java-Node--AWS-_26WD100331-2",
-        "Senior-Account-Based-Marketing-Manager_26WD100300-1"
+        "Senior-Account-Based-Marketing-Manager_26WD100300-1",
+        "Senior-Software-Engineer--Backend-Focused---Full-Stack-_26WD100190",
+        "Principal-Technical-Consultant---Full-Stack--NET---React----AEC_26WD100127"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -56424,7 +56467,10 @@
         "Groom-Artist--All-Levels-----ILM-London_10157556",
         "Programming-Strategist-Planner--National-Geographic-NYC-_10156831",
         "Principal-Product-Manager_10155742",
-        "Sr-Effects-Technical-Director-Evergreen_10156405-1"
+        "Sr-Effects-Technical-Director-Evergreen_10156405-1",
+        "Streaming-Media-Assistant_10155982",
+        "Supervisor--Brand---Franchise-Marketing_10156580",
+        "Lead-Technical-Program-Manager_10156842-2"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -59050,7 +59096,10 @@
         "R-65556-1",
         "R-65664-1",
         "R-66322-1",
-        "R-66321"
+        "R-66321",
+        "R-65597",
+        "R-66319-1",
+        "R-65362"
     ],
     "Chime": [
         "8391630002",
