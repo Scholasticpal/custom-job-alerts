@@ -1477,7 +1477,10 @@
         "8097051",
         "8097047",
         "8109554",
-        "8109426"
+        "8109426",
+        "8100129",
+        "8104302",
+        "8089358"
     ],
     "Figma": [
         "5426468004",
@@ -9385,7 +9388,8 @@
         "8105728",
         "8104511",
         "8074364",
-        "8109303"
+        "8109303",
+        "8110209"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -11701,7 +11705,8 @@
         "8108404",
         "8104438",
         "8108771",
-        "8109975"
+        "8109975",
+        "8098732"
     ],
     "Dropbox": [
         "7646405",
@@ -12180,7 +12185,8 @@
         "7823417003",
         "7724253003",
         "7701509003",
-        "7825511003"
+        "7825511003",
+        "7824502003"
     ],
     "Swiggy": [],
     "Zomato": [],
@@ -16739,7 +16745,8 @@
         "R-287033",
         "R-286876",
         "R-271261",
-        "R-287496"
+        "R-287496",
+        "R-281468"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21864,7 +21871,10 @@
         "R354098",
         "R354772",
         "R353544",
-        "R355156-1"
+        "R355156-1",
+        "R354747",
+        "R354697",
+        "R354018"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24050,7 +24060,9 @@
         "R265890-1",
         "R265953",
         "R265963-1",
-        "R265965"
+        "R265965",
+        "R265882",
+        "R265939"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -27785,7 +27797,27 @@
         "R0136942",
         "R0137082-1",
         "R0136982-1",
-        "R0137171-1"
+        "R0137171-1",
+        "R0137206",
+        "R0137207",
+        "R0137204",
+        "R0137205",
+        "R0137201",
+        "R0137202",
+        "R0137203",
+        "R0137200",
+        "R0137199",
+        "R0137198",
+        "R0137196",
+        "R0137197",
+        "R0137195",
+        "R0137192",
+        "R0137193",
+        "R0137194",
+        "R0137191",
+        "R0137190",
+        "R-2_R0137187",
+        "R0137189"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -30945,7 +30977,9 @@
         "39c7261f-d21e-42e8-b14e-2c71842cd35e",
         "103d7043-28ec-4639-9c8d-0910083a1755",
         "0f58ac8e-6dd2-400d-9c34-29c62b7804b5",
-        "1cf7d78c-7348-4bd4-9493-3ac2ec81cd5f"
+        "1cf7d78c-7348-4bd4-9493-3ac2ec81cd5f",
+        "07fb9365-8e80-48fe-86df-08d60dd46f43",
+        "0331f23d-bb84-4931-b509-c0b91980f46c"
     ],
     "Anthropic": [
         "5101832008",
@@ -31873,7 +31907,9 @@
         "5286362008",
         "5380359008",
         "5286348008",
-        "5109653008"
+        "5109653008",
+        "5380379008",
+        "5380327008"
     ],
     "Coinbase": [
         "7559052",
@@ -32195,7 +32231,8 @@
         "8089161",
         "8104175",
         "8097446",
-        "8099099"
+        "8099099",
+        "8109575"
     ],
     "Discord": [
         "8289766002",
@@ -32361,7 +32398,8 @@
         "8675215002",
         "8675277002",
         "8675185002",
-        "8642087002"
+        "8642087002",
+        "8680047002"
     ],
     "Reddit": [
         "7011741",
@@ -33588,7 +33626,9 @@
         "7820451003",
         "7820453003",
         "7785812003",
-        "7785814003"
+        "7785814003",
+        "7819999003",
+        "7820001003"
     ],
     "Robinhood": [
         "7799902",
@@ -38233,7 +38273,8 @@
         "R-0109006",
         "R-0108822-1",
         "R-0105355-2",
-        "R-0108462"
+        "R-0108462",
+        "R-0108875"
     ],
     "CrowdStrike": [
         "R26911",
@@ -42720,7 +42761,8 @@
         "R2011456-1",
         "R2006769",
         "R2005597",
-        "R2005596"
+        "R2005596",
+        "R2013750"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -47792,7 +47834,10 @@
         "R0000442350",
         "R0000448345",
         "R0000448378",
-        "R0000448374-1"
+        "R0000448374-1",
+        "R0000448330",
+        "R0000446647",
+        "R0000448373-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -48149,7 +48194,8 @@
         "R19487-1",
         "R19492",
         "R19501-1",
-        "R19506-1"
+        "R19506-1",
+        "R19507-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -54382,7 +54428,9 @@
         "Business-Development-Manager_REF087008W-1",
         "Director--US-Credit-Card-Benefit-Partner-Strategy---Development_REF087025W",
         "Senior-Director--NA-Token-and-Chip_REF087176W",
-        "Marketing-Analyst_REF087208W"
+        "Marketing-Analyst_REF087208W",
+        "Technical-Support-Associate---Workstation-Support_REF087188W",
+        "Technical-Support-Analyst--Workstation-Support_REF087108W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -55206,7 +55254,8 @@
         "Senior-Principal-AI-ML-Developer_26WD100188",
         "License-Compliance-Inside-Sales-Representative---Italy_26WD100222-1",
         "Principal-Security---Compliance-Analyst_26WD100152",
-        "Finance-Manager--GET--Growth-Experience-Technology-_26WD100389-1"
+        "Finance-Manager--GET--Growth-Experience-Technology-_26WD100389-1",
+        "Senior-Software-Developer---MCP-AI_26WD99365-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -56681,7 +56730,12 @@
         "Commercial---Sponsorship-Scheduler_10157723",
         "Sr-Technical-Program-Mgr_10157332",
         "Sr-Business-Product-Mgr-I_10157425-2",
-        "Electrotechnicien-ne--de-Maintenance-2-8-CDI---F-H-NB_10157743"
+        "Electrotechnicien-ne--de-Maintenance-2-8-CDI---F-H-NB_10157743",
+        "Senior-Manager--Business-Affairs--ABC-News-_10157195",
+        "Senior-AI---Data-Engineer_10156962",
+        "Programming-Strategist--Optimization-National-Geographic-and-Kids---Animals-YouTube-_10156830",
+        "Segment-Producer_10157326-1",
+        "Script-Coordinator---Disney-Television-Animation_10157165"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -60682,7 +60736,9 @@
         "8103816",
         "8109962",
         "8109963",
-        "8108873"
+        "8108873",
+        "8069407",
+        "8108855"
     ],
     "Kaseya": [
         "6022140004",
@@ -61551,7 +61607,8 @@
         "8106828",
         "8109579",
         "8094576",
-        "8109622"
+        "8109622",
+        "8102936"
     ],
     "Propel": [],
     "Canva": [],
@@ -62832,7 +62889,8 @@
         "8107486",
         "8102535",
         "7881593",
-        "8107448"
+        "8107448",
+        "7342961"
     ],
     "Roku": [
         "8023364",
