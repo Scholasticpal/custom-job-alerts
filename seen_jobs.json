@@ -7633,7 +7633,8 @@
         "8660983002",
         "8644000002",
         "8675320002",
-        "8654148002"
+        "8654148002",
+        "8681148002"
     ],
     "Rubrik": [
         "7310036",
@@ -16653,7 +16654,11 @@
         "R-287311",
         "R-287313",
         "R-286578-1",
-        "R-281902-1"
+        "R-281902-1",
+        "R-286270",
+        "R-287523",
+        "R-281046",
+        "R-286955"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21902,7 +21907,8 @@
         "8027955",
         "8027939",
         "8027941",
-        "8027952"
+        "8027952",
+        "8104832"
     ],
     "PayU": [],
     "American Express": [
@@ -22616,7 +22622,8 @@
         "Team-Coach_J-82911",
         "Technical-Consultant_J-82224",
         "Specialized-Travel-Consultant_J-83693-1",
-        "Specialized-Travel-Consultant_J-84025-1"
+        "Specialized-Travel-Consultant_J-84025-1",
+        "Travel-Experience-Counselor-I_J-83970"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -26302,7 +26309,8 @@
         "R-10395277",
         "R-10394530-2",
         "R-10400085",
-        "R-10396661"
+        "R-10396661",
+        "R-10394500"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -30760,7 +30768,11 @@
         "eacbd123-83fb-42c6-a5d5-e914b8e135b8",
         "d8ebcb30-c789-4e75-bf9b-a1e3fb09dd2f",
         "ef828b89-41ed-4cde-96a9-94ffe5770d4c",
-        "e4b92c0d-67c1-4147-a408-be4fe806be99"
+        "e4b92c0d-67c1-4147-a408-be4fe806be99",
+        "d8d2365b-b33b-4ace-a21a-4bb62a43cb69",
+        "c827056e-308c-4cd1-9bd3-bb7c4c3a4dae",
+        "7243bdb7-7f75-4dff-a10f-18bd7296f632",
+        "ba36fd95-2474-4986-98a6-5280c4e41bd3"
     ],
     "Anthropic": [
         "5101832008",
@@ -31683,7 +31695,11 @@
         "5251866008",
         "5368476008",
         "4926242008",
-        "5379593008"
+        "5379593008",
+        "5358094008",
+        "5286362008",
+        "5380359008",
+        "5286348008"
     ],
     "Coinbase": [
         "7559052",
@@ -32607,7 +32623,8 @@
         "8093021",
         "8103594",
         "8103609",
-        "8106246"
+        "8106246",
+        "8084941"
     ],
     "Notion": [
         "03143d98-a561-44c6-96a5-fc9bfaf8d18d",
@@ -38916,7 +38933,8 @@
         "R29549",
         "R29565",
         "R29571",
-        "R29597"
+        "R29597",
+        "R29428"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -42442,7 +42460,8 @@
         "R2021967",
         "R2022515-1",
         "R2022200",
-        "R2021455"
+        "R2021455",
+        "R2022198"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -47471,7 +47490,8 @@
         "R0000448220",
         "R0000448237-1",
         "R0000448234",
-        "R0000448114-1"
+        "R0000448114-1",
+        "R0000448205"
     ],
     "Zoom": [
         "R18188-1",
@@ -48598,7 +48618,8 @@
         "R-108327",
         "R-108485-1",
         "R-108200",
-        "R-103993"
+        "R-103993",
+        "R-107861"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -48794,7 +48815,8 @@
         "Lead-Platinum-Support-Account-Manager_113347-JOB",
         "Sr-Managed-Services-Consultant_113342-JOB-1",
         "Managed-Services-Consultant_113360-JOB",
-        "Senior-Accounts-Payable-Analyst_113399-JOB"
+        "Senior-Accounts-Payable-Analyst_113399-JOB",
+        "Large-Enterprise-Account-Executive_113362-JOB-1"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -48989,7 +49011,8 @@
         "6115582004",
         "6129811004",
         "6129069004",
-        "6131043004"
+        "6131043004",
+        "6133871004"
     ],
     "Miro": [
         "030b1911-6146-4780-ad1d-f0b45d3ca791",
@@ -54010,7 +54033,9 @@
         "Director--Acceptance-Solutions-Sales-Executive_REF087151W",
         "Sr-Director--Product_REF087064W",
         "Finance-Planning---Analysis-Manager_REF087062W",
-        "Vice-President--Global-Head-of-Executive-Recruiting_REF081119W"
+        "Vice-President--Global-Head-of-Executive-Recruiting_REF081119W",
+        "Vice-President--Ethics---Compliance--Central-and-Eastern-Europe--Middle-East-and-Africa--CEMEA-_REF087164W",
+        "Sr-Consulting-Manager--VMS_REF066966W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -56283,7 +56308,8 @@
         "Creature-TD--all-levels-----ILM-London_10157562",
         "Groom-Artist--All-Levels-----ILM-London_10157556",
         "Programming-Strategist-Planner--National-Geographic-NYC-_10156831",
-        "Principal-Product-Manager_10155742"
+        "Principal-Product-Manager_10155742",
+        "Sr-Effects-Technical-Director-Evergreen_10156405-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -58897,7 +58923,8 @@
         "R-66021",
         "R-65762-1",
         "R-66185-1",
-        "R-66196-1"
+        "R-66196-1",
+        "R-65268-1"
     ],
     "Chime": [
         "8391630002",
@@ -61358,7 +61385,8 @@
         "8653895002",
         "8680128002",
         "8680118002",
-        "8653832002"
+        "8653832002",
+        "8678823002"
     ],
     "Coupang": [
         "7915234",
@@ -62345,7 +62373,10 @@
         "8104773",
         "8104777",
         "8105038",
-        "8101595"
+        "8101595",
+        "8107804",
+        "8107806",
+        "8036987"
     ],
     "Roku": [
         "8023364",
