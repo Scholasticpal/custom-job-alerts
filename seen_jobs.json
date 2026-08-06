@@ -8309,7 +8309,8 @@
         "R103552",
         "R103565",
         "R103568",
-        "R103571"
+        "R103571",
+        "R103574"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -9413,7 +9414,8 @@
         "8074364",
         "8109303",
         "8110209",
-        "8110247"
+        "8110247",
+        "8109939"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -11159,7 +11161,8 @@
         "8109766",
         "8090092",
         "8110239",
-        "8104346"
+        "8104346",
+        "8108930"
     ],
     "GitHub": [],
     "Twilio": [
@@ -16801,7 +16804,8 @@
         "R-287153",
         "R-278695-1",
         "R-286320",
-        "R-281093"
+        "R-281093",
+        "R-287830-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21944,7 +21948,10 @@
         "R355098",
         "R346625",
         "R355105-1",
-        "R353574"
+        "R353574",
+        "R353458",
+        "R355099",
+        "R354798"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23021,7 +23028,8 @@
         "Assistant-Vice-President--Treasury-Fulfillment-Advisor_26027758-1",
         "Officer---Assistant-Vice-President--CDD-Proficiency-Consultant--GBAM-AML-Refresh_26027392",
         "Officer--Trade-Operations---Registration---Distribution---Global-Banking-Operations_26027760",
-        "Vice-President--Regional-Dedicated-Service-Director_26027775-1"
+        "Vice-President--Regional-Dedicated-Service-Director_26027775-1",
+        "Vice-President--Sr-Business-Control-Specialist--APAC-Global-Treasury-Merchant-Operations--GTMO-_26027820-2"
     ],
     "BlackRock": [
         "R263666",
@@ -24149,7 +24157,9 @@
         "R265863",
         "R265376",
         "R265930",
-        "R265761"
+        "R265761",
+        "R265967-1",
+        "R265716"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -26568,7 +26578,9 @@
         "R-10399527",
         "R-10396647",
         "R-10396125",
-        "R-10399568"
+        "R-10399568",
+        "R-10398830",
+        "R-10399700"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -27387,7 +27399,8 @@
         "R-14755-1",
         "R-14674",
         "R-14902",
-        "R-14762"
+        "R-14762",
+        "R-14975"
     ],
     "PayPal": [
         "R0135744-1",
@@ -35172,7 +35185,9 @@
         "8083342",
         "8097615",
         "8092317",
-        "8094118"
+        "8094118",
+        "8081197",
+        "8109873"
     ],
     "Datadog": [
         "7194969",
@@ -36621,7 +36636,10 @@
         "8097184",
         "8109521",
         "8107090",
-        "8098488"
+        "8098488",
+        "8111731",
+        "8103695",
+        "8110185"
     ],
     "Asana": [
         "7120496",
@@ -37098,7 +37116,8 @@
         "6127912004",
         "6127953004",
         "6128998004",
-        "6132407004"
+        "6132407004",
+        "6107984004"
     ],
     "Grammarly": [],
     "Unacademy": [],
@@ -42903,7 +42922,13 @@
         "R2022907-1",
         "R2022276",
         "R2022040-1",
-        "R2022673"
+        "R2022673",
+        "R2022928",
+        "R2022845",
+        "R2022662",
+        "R2022875",
+        "R2021817-1",
+        "R2021280"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -48021,7 +48046,14 @@
         "R0000448326",
         "R0000448346-1",
         "R0000448386-1",
-        "R0000448406"
+        "R0000448406",
+        "R0000448313",
+        "R0000432601",
+        "R0000448441",
+        "R0000438342",
+        "R0000448183",
+        "R0000448390",
+        "R0000448200"
     ],
     "Zoom": [
         "R18188-1",
@@ -54643,7 +54675,8 @@
         "Government-Affairs-Analyst_REF086858W-1",
         "Consulting-Project-Manager_REF087007W-1",
         "Data-and-Insights-Analyst_REF085161W",
-        "Senior-Consulting-Manager_REF087253W"
+        "Senior-Consulting-Manager_REF087253W",
+        "Senior-Director--LAC-Government-Affairs--Head-of-Policy-Strategy---Operations_REF087209W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -56958,7 +56991,9 @@
         "Segment-Producer_10157326-1",
         "Script-Coordinator---Disney-Television-Animation_10157165",
         "Associate-Manager-Programming_10156336",
-        "Principal-Digital-Product-Manager_10155223"
+        "Principal-Digital-Product-Manager_10155223",
+        "Data-Engineer-I_10147074",
+        "Manager--Consumer-Strategy---Business-Development--Fixed-Term-Contract-_10156747"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -57865,7 +57900,9 @@
         "R000107297",
         "R000106155",
         "R000106154",
-        "R000107390-1"
+        "R000107390-1",
+        "R000107168",
+        "R000107295"
     ],
     "Kyndryl": [
         "R-61530",
@@ -59623,7 +59660,9 @@
         "R-66416",
         "R-66413",
         "R-66415",
-        "R-64564-1"
+        "R-64564-1",
+        "R-63036-1",
+        "R-63970-1"
     ],
     "Chime": [
         "8391630002",
@@ -60050,7 +60089,8 @@
         "8680399002",
         "8686891002",
         "8682653002",
-        "8686947002"
+        "8686947002",
+        "8686951002"
     ],
     "Sezzle": [
         "7710056003",
@@ -63165,7 +63205,8 @@
         "8102604",
         "8111552",
         "8110730",
-        "8108144"
+        "8108144",
+        "8110514"
     ],
     "Roku": [
         "8023364",
