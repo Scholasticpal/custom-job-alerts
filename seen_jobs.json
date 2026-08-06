@@ -1481,7 +1481,8 @@
         "8100129",
         "8104302",
         "8089358",
-        "8108889"
+        "8108889",
+        "8056309"
     ],
     "Figma": [
         "5426468004",
@@ -2679,7 +2680,8 @@
         "13750cd4-577b-410a-956d-b6a591f598ce",
         "0d05bcc9-b5ed-42d2-977c-30731d60a086",
         "371b8b90-6f10-4664-b5c7-e98c1b0a0f3e",
-        "76bf0013-3822-4b84-9b4d-354838fa7b79"
+        "76bf0013-3822-4b84-9b4d-354838fa7b79",
+        "b3ef77a1-1631-4a22-8724-6ba5cb712484"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -2691,7 +2693,8 @@
         "fd4bac8c-94ba-4549-bc10-41d942b0481c",
         "b532b595-bc8d-4b51-a2e6-7228ef1cabfc",
         "f846af12-7da9-4737-a0b1-3770c55830fc",
-        "37f0a1b9-e5a1-45de-ada6-f8363bb877f6"
+        "37f0a1b9-e5a1-45de-ada6-f8363bb877f6",
+        "58dfc330-090b-4318-a395-cc7280cf5065"
     ],
     "Groww": [
         "4787037101",
@@ -4741,7 +4744,9 @@
         "6e6a6dc3-077d-44db-b67c-2be142c9c660",
         "fa5befe1-43f5-417f-a1de-a989264e1871",
         "86665c39-2182-4d69-8b8c-33eac104ec2b",
-        "ff4be077-f801-4d2d-9ea9-4b062a5eb669"
+        "ff4be077-f801-4d2d-9ea9-4b062a5eb669",
+        "f4d11ada-d624-4bf8-9cb4-fb9f98a31670",
+        "9f3726a5-236d-4eff-aae8-f2a56ddb072e"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -5813,7 +5818,9 @@
         "8091777",
         "8091833",
         "7989358",
-        "8099874"
+        "8099874",
+        "7848917",
+        "7997269"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -8188,7 +8195,8 @@
         "8076551",
         "8022686",
         "7972946",
-        "7957475"
+        "7957475",
+        "7957439"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -10452,7 +10460,8 @@
         "8108402",
         "8098441",
         "8110858",
-        "7995117"
+        "7995117",
+        "5432627"
     ],
     "DoorDash": [
         "7927511",
@@ -16789,7 +16798,10 @@
         "R-286372",
         "R-287328",
         "R-282426-1",
-        "R-287153"
+        "R-287153",
+        "R-278695-1",
+        "R-286320",
+        "R-281093"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21929,7 +21941,10 @@
         "R350423",
         "R345299",
         "R355022",
-        "R355098"
+        "R355098",
+        "R346625",
+        "R355105-1",
+        "R353574"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24132,7 +24147,9 @@
         "R265941",
         "R265723-1",
         "R265863",
-        "R265376"
+        "R265376",
+        "R265930",
+        "R265761"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -24968,7 +24985,9 @@
         "R32886-2",
         "R32848",
         "R32648",
-        "R32289-4"
+        "R32289-4",
+        "R32284",
+        "R32283"
     ],
     "Fiserv": [
         "R-10392824",
@@ -26862,7 +26881,8 @@
         "Principal-Software-Engineer_868770",
         "Branch-Services_868025",
         "Sr-RFP-Specialist_868745",
-        "Specialist---Investment---Trade-Operations_868880"
+        "Specialist---Investment---Trade-Operations_868880",
+        "Risk-Analyst---Regulatory-Operations---6-months-FTC_868698-1"
     ],
     "Invesco": [
         "R-13647",
@@ -33139,7 +33159,10 @@
         "77af0faa-8f69-4dc5-baa6-6e253823bccb",
         "27596ca1-c1ec-4f11-88de-7acf091c38e5",
         "6140e48c-949d-48a8-a3f0-c826199040fe",
-        "d3eab521-8adb-4576-b740-905b3894a031"
+        "d3eab521-8adb-4576-b740-905b3894a031",
+        "d0b9e586-bdf9-4df2-a512-371a6492b2d9",
+        "0737c717-1882-421e-88dc-100c74a1a54a",
+        "4bf220cf-a84c-4ad5-a0e4-107051f8e184"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -34091,7 +34114,8 @@
         "8100213",
         "8080939",
         "8080937",
-        "8080893"
+        "8080893",
+        "7648452"
     ],
     "Vercel": [
         "5624231004",
@@ -36596,7 +36620,8 @@
         "8018328",
         "8097184",
         "8109521",
-        "8107090"
+        "8107090",
+        "8098488"
     ],
     "Asana": [
         "7120496",
@@ -37019,7 +37044,8 @@
         "6119477004",
         "6127474004",
         "6128010004",
-        "6133216004"
+        "6133216004",
+        "6102042004"
     ],
     "Udemy": [
         "5424719004",
@@ -43116,7 +43142,8 @@
         "Strategy---Planning-Manager_2021946",
         "Mechanical-Engineering-Technical-Leader_2004180-1",
         "Software-Engineer_2018584",
-        "Design-Verification-Engineer_2006654"
+        "Design-Verification-Engineer_2006654",
+        "Customer-Project-Manager---Japanese-speaking_2020648"
     ],
     "Intel": [
         "R0283052",
@@ -47974,7 +48001,27 @@
         "R0000448431",
         "R0000448430",
         "R0000448429",
-        "R0000446885-1"
+        "R0000446885-1",
+        "R0000448190",
+        "R0000448369",
+        "R0000448389-1",
+        "R0000448333",
+        "R0000448439-1",
+        "R0000448393",
+        "R0000448413",
+        "R0000448239",
+        "R0000448308-1",
+        "R0000448388",
+        "R0000448348",
+        "R0000448418",
+        "R0000448367",
+        "R0000448397",
+        "R0000448247",
+        "R0000448286",
+        "R0000448326",
+        "R0000448346-1",
+        "R0000448386-1",
+        "R0000448406"
     ],
     "Zoom": [
         "R18188-1",
@@ -49113,7 +49160,8 @@
         "R-108271-1",
         "R-108248-1",
         "R-108093",
-        "R-108349"
+        "R-108349",
+        "R-108573"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -50662,7 +50710,8 @@
         "4ae391c4-f111-40a6-b965-cd7872361ccf",
         "7f7824f0-3caf-42b4-83aa-0fe948cf2288",
         "38092caf-ab64-4885-ac9f-0b5d8549ae1d",
-        "3fd25169-04f9-4319-8561-d837ae1d130f"
+        "3fd25169-04f9-4319-8561-d837ae1d130f",
+        "3e2b8be5-dfc1-4fe6-bcb8-e05643f6b405"
     ],
     "Netskope": [
         "7885748",
@@ -50951,7 +51000,8 @@
         "8089873",
         "8106974",
         "8094651",
-        "8110788"
+        "8110788",
+        "8111603"
     ],
     "Samsara": [
         "5747183",
@@ -54589,7 +54639,11 @@
         "Staff-SW-Engineer_REF081658W-1",
         "Marketing-Services--Senior-Manager_REF087170W",
         "Transaction-Surveillance---Screening--TSS--Analyst_REF080129W",
-        "Senior-Director--Marketing---Southern---Eastern-Africa_REF087247W"
+        "Senior-Director--Marketing---Southern---Eastern-Africa_REF087247W",
+        "Government-Affairs-Analyst_REF086858W-1",
+        "Consulting-Project-Manager_REF087007W-1",
+        "Data-and-Insights-Analyst_REF085161W",
+        "Senior-Consulting-Manager_REF087253W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -55418,7 +55472,11 @@
         "Senior-Software-Engineer--AI-Search_26WD99815-1",
         "Senior-Implementation-Consultant--Manufacturing-_26WD100439",
         "Public-Sector-Senior-Account-Executive_26WD100187-1",
-        "Senior-Account-Executive--Expansion-Sales--Singapore_26WD99745-1"
+        "Senior-Account-Executive--Expansion-Sales--Singapore_26WD99745-1",
+        "Senior-Data-Engineer_26WD100065-2",
+        "Community---Event-Manager---AI--Platform--and-Business-Expansion_26WD100248-1",
+        "Principal-Data-Engineer_26WD100064-1",
+        "Senior-Network-Engineer_26WD100249"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -57803,7 +57861,11 @@
         "R000096835",
         "R000106975",
         "R000107355",
-        "R000096580"
+        "R000096580",
+        "R000107297",
+        "R000106155",
+        "R000106154",
+        "R000107390-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -59556,7 +59618,12 @@
         "R-66594",
         "R-66396-1",
         "R-08-_R-56439",
-        "R-66344"
+        "R-66344",
+        "R-66417-1",
+        "R-66416",
+        "R-66413",
+        "R-66415",
+        "R-64564-1"
     ],
     "Chime": [
         "8391630002",
@@ -59982,7 +60049,8 @@
         "8683134002",
         "8680399002",
         "8686891002",
-        "8682653002"
+        "8682653002",
+        "8686947002"
     ],
     "Sezzle": [
         "7710056003",
@@ -61107,7 +61175,10 @@
         "5968638004",
         "5993585004",
         "6128961004",
-        "6111168004"
+        "6111168004",
+        "6136003004",
+        "6136001004",
+        "6136002004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -63089,7 +63160,12 @@
         "7902442",
         "8096012",
         "8104881",
-        "8108141"
+        "8108141",
+        "8107541",
+        "8102604",
+        "8111552",
+        "8110730",
+        "8108144"
     ],
     "Roku": [
         "8023364",
