@@ -2376,7 +2376,8 @@
         "10491945",
         "10491964",
         "10492454",
-        "10492575"
+        "10492575",
+        "10493791"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -2677,7 +2678,8 @@
         "00e0856b-7518-4861-be03-65f4be9f791b",
         "13750cd4-577b-410a-956d-b6a591f598ce",
         "0d05bcc9-b5ed-42d2-977c-30731d60a086",
-        "371b8b90-6f10-4664-b5c7-e98c1b0a0f3e"
+        "371b8b90-6f10-4664-b5c7-e98c1b0a0f3e",
+        "76bf0013-3822-4b84-9b4d-354838fa7b79"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -2688,7 +2690,8 @@
         "8c5a9539-2ef0-45f3-8136-ce9c654df803",
         "fd4bac8c-94ba-4549-bc10-41d942b0481c",
         "b532b595-bc8d-4b51-a2e6-7228ef1cabfc",
-        "f846af12-7da9-4737-a0b1-3770c55830fc"
+        "f846af12-7da9-4737-a0b1-3770c55830fc",
+        "37f0a1b9-e5a1-45de-ada6-f8363bb877f6"
     ],
     "Groww": [
         "4787037101",
@@ -4734,7 +4737,8 @@
         "715e52dd-0a51-4ff7-be68-855112e56b99",
         "8b5804bd-1513-4beb-b69a-53c634cb2963",
         "7fe2d26d-8f6b-4d89-a125-9be71b5bdeca",
-        "6e6a6dc3-077d-44db-b67c-2be142c9c660"
+        "6e6a6dc3-077d-44db-b67c-2be142c9c660",
+        "fa5befe1-43f5-417f-a1de-a989264e1871"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8179,7 +8183,8 @@
         "8073777",
         "8076551",
         "8022686",
-        "7972946"
+        "7972946",
+        "7957475"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -10437,7 +10442,10 @@
         "8108224",
         "8104970",
         "8104953",
-        "8098363"
+        "8098363",
+        "8110503",
+        "8108326",
+        "8108402"
     ],
     "DoorDash": [
         "7927511",
@@ -16764,7 +16772,12 @@
         "R-281468",
         "R-287861",
         "R-286569",
-        "R-277822"
+        "R-277822",
+        "R-274897-1",
+        "R-287539",
+        "R-287447",
+        "R-287438",
+        "R-286774"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -21895,7 +21908,10 @@
         "R354018",
         "R354047",
         "R354709",
-        "R354777"
+        "R354777",
+        "R355031",
+        "R352771-1",
+        "R334050"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22772,7 +22788,8 @@
         "Business-Systems-Analyst_J-83324-1",
         "Data-Analyst_J-82456",
         "Marketing-Communications-Manager_J-81679-1",
-        "Travel-Consultant-II_J-83808"
+        "Travel-Consultant-II_J-83808",
+        "Specialized-Travel-Counselor_J-81249"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -22966,7 +22983,11 @@
         "Vice-President--Technology-Development-Lead--International-Technology--Global-Payments-Solutions-Technology_26026996",
         "Vice-President--Senior-Application-Control-Specialist--International-Technology--Global-Payments-Solutions-Technology_26027001",
         "Vice-President--Senior-Application-Control-Specialist--International-Technology--Global-Payments-Solutions-Technology_26026999",
-        "Assistant-Vice-President--Technology-Support-Sr-Analyst--Employee-Technology-Support_26025917-2"
+        "Assistant-Vice-President--Technology-Support-Sr-Analyst--Employee-Technology-Support_26025917-2",
+        "Trade-finance-Services-Representative_26027764-1",
+        "Assistant-Vice-President--Treasury-Fulfillment-Advisor_26027758-1",
+        "Officer---Assistant-Vice-President--CDD-Proficiency-Consultant--GBAM-AML-Refresh_26027392",
+        "Officer--Trade-Operations---Registration---Distribution---Global-Banking-Operations_26027760"
     ],
     "BlackRock": [
         "R263666",
@@ -24087,7 +24108,8 @@
         "R265308",
         "R265844",
         "R265880",
-        "R265925"
+        "R265925",
+        "R265415"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -26500,7 +26522,9 @@
         "R-10400179",
         "R-10399956",
         "R-10399527",
-        "R-10396647"
+        "R-10396647",
+        "R-10396125",
+        "R-10399568"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -26812,7 +26836,8 @@
         "Branch-Services_868759",
         "Principal-Software-Engineer_868770",
         "Branch-Services_868025",
-        "Sr-RFP-Specialist_868745"
+        "Sr-RFP-Specialist_868745",
+        "Specialist---Investment---Trade-Operations_868880"
     ],
     "Invesco": [
         "R-13647",
@@ -27315,7 +27340,8 @@
         "R-14932",
         "R-14867",
         "R-14755-1",
-        "R-14674"
+        "R-14674",
+        "R-14902"
     ],
     "PayPal": [
         "R0135744-1",
@@ -32269,7 +32295,8 @@
         "8104175",
         "8097446",
         "8099099",
-        "8109575"
+        "8109575",
+        "8110496"
     ],
     "Discord": [
         "8289766002",
@@ -35092,7 +35119,8 @@
         "8106084",
         "8108725",
         "8083342",
-        "8097615"
+        "8097615",
+        "8092317"
     ],
     "Datadog": [
         "7194969",
@@ -39244,7 +39272,8 @@
         "R29603",
         "R29420",
         "R29711",
-        "R29689"
+        "R29689",
+        "R26271"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -42809,7 +42838,8 @@
         "R2022846",
         "R2022632",
         "R2022535",
-        "R2022907-1"
+        "R2022907-1",
+        "R2022276"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -47893,7 +47923,10 @@
         "R0000448360-1",
         "R0000448178",
         "R0000448324",
-        "R0000447680"
+        "R0000447680",
+        "R0000448404",
+        "R0000448235",
+        "R0000444865-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -49028,7 +49061,9 @@
         "R-107861",
         "R-108296",
         "R-108124-1",
-        "R-108247"
+        "R-108247",
+        "R-108271-1",
+        "R-108248-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -52780,7 +52815,8 @@
         "5eb7a75b-312c-4759-8813-70e67b5d4109",
         "f140e9d7-8d0c-4e24-bace-8568385b6f5c",
         "892ad297-ed0e-4f9c-98b8-fd30358a5517",
-        "ecd7a54f-218c-47a0-8379-aeb272c35bcb"
+        "ecd7a54f-218c-47a0-8379-aeb272c35bcb",
+        "b099e4fe-87cf-44ad-89b6-21edfe60958b"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -54494,7 +54530,9 @@
         "Senior-Director--NA-Token-and-Chip_REF087176W",
         "Marketing-Analyst_REF087208W",
         "Technical-Support-Associate---Workstation-Support_REF087188W",
-        "Technical-Support-Analyst--Workstation-Support_REF087108W"
+        "Technical-Support-Analyst--Workstation-Support_REF087108W",
+        "Staff-SW-Engineer_REF081658W-1",
+        "Marketing-Services--Senior-Manager_REF087170W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -55320,7 +55358,8 @@
         "Principal-Security---Compliance-Analyst_26WD100152",
         "Finance-Manager--GET--Growth-Experience-Technology-_26WD100389-1",
         "Senior-Software-Developer---MCP-AI_26WD99365-1",
-        "Senior-Software-Engineer--AI-Search_26WD99815-1"
+        "Senior-Software-Engineer--AI-Search_26WD99815-1",
+        "Senior-Implementation-Consultant--Manufacturing-_26WD100439"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -59452,7 +59491,8 @@
         "R-65874-1",
         "R-59967-1",
         "R-59971-1",
-        "R-66594"
+        "R-66594",
+        "R-66396-1"
     ],
     "Chime": [
         "8391630002",
@@ -60811,7 +60851,8 @@
         "8109963",
         "8108873",
         "8069407",
-        "8108855"
+        "8108855",
+        "8110717"
     ],
     "Kaseya": [
         "6022140004",
@@ -61970,7 +62011,8 @@
         "8675424002",
         "8678744002",
         "8662205002",
-        "8686832002"
+        "8686832002",
+        "8684440002"
     ],
     "Coupang": [
         "7915234",
@@ -62974,7 +63016,10 @@
         "8093702",
         "8104442",
         "8104759",
-        "8090271"
+        "8090271",
+        "8050432",
+        "8110492",
+        "7902442"
     ],
     "Roku": [
         "8023364",
@@ -63321,7 +63366,8 @@
         "8009980",
         "8102612",
         "8102584",
-        "7919804"
+        "7919804",
+        "8110722"
     ],
     "Spotify": [],
     "Snap": [],
