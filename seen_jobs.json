@@ -10515,7 +10515,12 @@
         "8108115",
         "8113528",
         "8113547",
-        "8113541"
+        "8113541",
+        "8111609",
+        "8111612",
+        "8111576",
+        "8110761",
+        "8110798"
     ],
     "DoorDash": [
         "7927511",
@@ -12451,7 +12456,8 @@
         "ae2aa625-4bd0-44f0-a43a-87fda957c009",
         "5afe596f-17a2-4e8b-a498-ca46b2c7a869",
         "a1cc7ad9-a233-4ba6-b53b-e56116f6ac27",
-        "3032374b-0010-4d19-8dd1-26c37c396cba"
+        "3032374b-0010-4d19-8dd1-26c37c396cba",
+        "baf0eddc-4fac-4520-aa41-a922adbdefc0"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -16876,7 +16882,12 @@
         "R-286553-1",
         "R-287290",
         "R-286533",
-        "R-284560"
+        "R-284560",
+        "R-287456",
+        "R-287446",
+        "R-286781-1",
+        "R-286782",
+        "R-273625-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22039,7 +22050,9 @@
         "R355357",
         "R355351",
         "R355033",
-        "R353560"
+        "R353560",
+        "R341943",
+        "R355356"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -22919,7 +22932,8 @@
         "Travel-Consultant-II_J-83808",
         "Specialized-Travel-Counselor_J-81249",
         "Travel-Consultant-II_J-84091",
-        "Development-Manager_J-80350"
+        "Development-Manager_J-80350",
+        "Senior-HR-Administration---Payroll-Coordinator---fixed-term_J-83947"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -23119,7 +23133,8 @@
         "Officer---Assistant-Vice-President--CDD-Proficiency-Consultant--GBAM-AML-Refresh_26027392",
         "Officer--Trade-Operations---Registration---Distribution---Global-Banking-Operations_26027760",
         "Vice-President--Regional-Dedicated-Service-Director_26027775-1",
-        "Vice-President--Sr-Business-Control-Specialist--APAC-Global-Treasury-Merchant-Operations--GTMO-_26027820-2"
+        "Vice-President--Sr-Business-Control-Specialist--APAC-Global-Treasury-Merchant-Operations--GTMO-_26027820-2",
+        "Assistant-Vice-President--Business-Control-Specialist--APAC-Global-Treasury-and-Merchant-Operations--GTMO--Risk-and-Business-Controls_26027821-2"
     ],
     "BlackRock": [
         "R263666",
@@ -27518,7 +27533,8 @@
         "R-15051-1",
         "R-15050-1",
         "R-15052-1",
-        "R-14988"
+        "R-14988",
+        "R-14766-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -33913,7 +33929,8 @@
         "7820001003",
         "7822387003",
         "7822389003",
-        "7813107003"
+        "7813107003",
+        "7820003003"
     ],
     "Robinhood": [
         "7799902",
@@ -36195,7 +36212,9 @@
         "8096323",
         "8083862",
         "8081919",
-        "8112183"
+        "8112183",
+        "8113562",
+        "8079970"
     ],
     "Elastic": [
         "7505982",
@@ -48278,7 +48297,15 @@
         "R0000448567",
         "R0000448577",
         "R0000448005",
-        "R0000448525"
+        "R0000448525",
+        "R0000448524-1",
+        "R0000448574",
+        "R0000448594-1",
+        "R0000448071",
+        "R0000448561",
+        "R0000448591",
+        "R0000448587",
+        "R0000447587"
     ],
     "Zoom": [
         "R18188-1",
@@ -50981,7 +51008,9 @@
         "38092caf-ab64-4885-ac9f-0b5d8549ae1d",
         "3fd25169-04f9-4319-8561-d837ae1d130f",
         "3e2b8be5-dfc1-4fe6-bcb8-e05643f6b405",
-        "13b6b750-cf59-4149-929a-d16239f70713"
+        "13b6b750-cf59-4149-929a-d16239f70713",
+        "e63c8aee-231b-4f41-9768-a64d58b3e588",
+        "af0cf80f-a8c8-4626-bb89-011ffed40b51"
     ],
     "Netskope": [
         "7885748",
@@ -55789,7 +55818,9 @@
         "Software-Architect--AEC-Platform-Data_25WD93193-1",
         "Senior-Software-QA-Engineer_26WD96551-1",
         "Pre-Sales-Account-Technical-Lead---UK---Ireland_26WD100329-1",
-        "Principal-Software-Development-Engineer_26WD95186"
+        "Principal-Software-Development-Engineer_26WD95186",
+        "Client-Services-Specialist_26WD99335-1",
+        "Software-Engineer_26WD100229-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -57284,7 +57315,8 @@
         "Jr-Analyst--Human-Resources_10156000",
         "Administrative-Coordinator_10156420",
         "Senior-Manager--Global-Merchandise-Sourcing---Consumer-Products_10157529",
-        "Casting-Administrator_10156900"
+        "Casting-Administrator_10156900",
+        "Senior-Counsel--Business---Legal-Affairs_10155345"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -58200,7 +58232,8 @@
         "R000107383",
         "R000107418",
         "R000107447",
-        "R000105666"
+        "R000105666",
+        "R000107450"
     ],
     "Kyndryl": [
         "R-61530",
@@ -62233,7 +62266,8 @@
         "8103446",
         "8113237",
         "8113245",
-        "8111787"
+        "8111787",
+        "8109032"
     ],
     "Propel": [],
     "Canva": [],
