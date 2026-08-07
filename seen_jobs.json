@@ -2697,7 +2697,9 @@
         "76bf0013-3822-4b84-9b4d-354838fa7b79",
         "b3ef77a1-1631-4a22-8724-6ba5cb712484",
         "52155ca0-ad5d-4373-b64d-a49eed6af1cd",
-        "c8e7d028-66b0-49ce-97a9-87b707f045ce"
+        "c8e7d028-66b0-49ce-97a9-87b707f045ce",
+        "2dc6e7d8-6d42-4058-a2c9-311a973d2f0a",
+        "74fca80f-7ff4-4baa-aaae-e3e42f7ba09d"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -9475,7 +9477,8 @@
         "8106815",
         "8107170",
         "8110442",
-        "8107174"
+        "8107174",
+        "8099000"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -12137,7 +12140,8 @@
         "8103658",
         "8090065",
         "7958409",
-        "8107794"
+        "8107794",
+        "8105119"
     ],
     "Atlassian": [],
     "Graviton Research Capital": [],
@@ -22964,7 +22968,8 @@
         "Development-Manager_J-80350",
         "Senior-HR-Administration---Payroll-Coordinator---fixed-term_J-83947",
         "Registration-Website---Mobile-App-Build-Specialist_J-84094",
-        "Sales-Manager---Germany-Mid-Market_J-83839"
+        "Sales-Manager---Germany-Mid-Market_J-83839",
+        "Meetings---Events-Planner_J-82919"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -25148,7 +25153,8 @@
         "R32648",
         "R32289-4",
         "R32284",
-        "R32283"
+        "R32283",
+        "R32878"
     ],
     "Fiserv": [
         "R-10392824",
@@ -27574,7 +27580,8 @@
         "R-15052-1",
         "R-14988",
         "R-14766-1",
-        "R-14826"
+        "R-14826",
+        "R-14531"
     ],
     "PayPal": [
         "R0135744-1",
@@ -33390,7 +33397,8 @@
         "0c457d2a-5e8e-4392-94b2-c63696b55dd8",
         "68d27021-e1ee-41ec-973b-80e72a56382b",
         "14c52e6b-b00b-42b5-96fb-195919ef6bab",
-        "30e2aa55-9950-4cc1-9a61-4fcc1c82223e"
+        "30e2aa55-9950-4cc1-9a61-4fcc1c82223e",
+        "fa089457-a22c-406f-9bc2-223656b87026"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -33974,7 +33982,9 @@
         "7822387003",
         "7822389003",
         "7813107003",
-        "7820003003"
+        "7820003003",
+        "7822391003",
+        "7822393003"
     ],
     "Robinhood": [
         "7799902",
@@ -39617,7 +39627,9 @@
         "R29666",
         "R29614",
         "R29367",
-        "R29717"
+        "R29717",
+        "R28265",
+        "R29163-1"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -43226,7 +43238,8 @@
         "R2022852",
         "R2022934",
         "R2022743",
-        "R2022429"
+        "R2022429",
+        "R2001798-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -43469,7 +43482,8 @@
         "Customer-Project-Manager---Japanese-speaking_2020648",
         "Technical-Program-Manager--PDK-IP_2022037",
         "Hardware-Engineering-Technical-Leader---Power-Engineer--Hybrid-_2021743",
-        "Functional-Safety-Technical-Leader--Hybrid-_2021748"
+        "Functional-Safety-Technical-Leader--Hybrid-_2021748",
+        "Software-Engineering-Technical-Leader----Secure-Workload-Agent_2021754"
     ],
     "Intel": [
         "R0283052",
@@ -48416,7 +48430,9 @@
         "R0000448420",
         "R0000448590",
         "R0000448519-1",
-        "R0000448559"
+        "R0000448559",
+        "R0000448607",
+        "R0000448037"
     ],
     "Zoom": [
         "R18188-1",
@@ -49560,7 +49576,8 @@
         "R-108349",
         "R-108573",
         "R-108156",
-        "R-108422-1"
+        "R-108422-1",
+        "R-108423-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -49759,7 +49776,8 @@
         "Senior-Accounts-Payable-Analyst_113399-JOB",
         "Large-Enterprise-Account-Executive_113362-JOB-1",
         "Lead-Solutions-Consultant_113345-JOB",
-        "Lead-Customer-Success-Manager--CCaaS-Service_112920-JOB"
+        "Lead-Customer-Success-Manager--CCaaS-Service_112920-JOB",
+        "Senior-Legal-Counsel---Commercial_113402-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -52538,7 +52556,8 @@
         "4691977006",
         "4700056006",
         "4699488006",
-        "4702757006"
+        "4702757006",
+        "4671828006"
     ],
     "Duolingo": [
         "8455252002",
@@ -55099,7 +55118,10 @@
         "Sr-SW-Engineer--3-5-years--Java-Python--GenAI--Agentic-Development-_REF087084W",
         "Director--Business-Development_REF082829W",
         "Sr-Client-Consulting-Manager--Transformation-Specialist-_REF087115W",
-        "Analyst_REF087243W"
+        "Analyst_REF087243W",
+        "Risk-Management-Coordinator--Participant-Monitoring-Coordinator_REF087130W",
+        "Chief-SW-Engineer_REF087202W",
+        "Sr-Manager---Visa-Consulting---Analytics--VCA----North-America--Nationals-_REF087213W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -55940,7 +55962,8 @@
         "Client-Services-Specialist_26WD99335-1",
         "Software-Engineer_26WD100229-1",
         "Senior-Technical-Account-Manager--AEC--French-and-Spanish-speaking-_26WD100399-2",
-        "Software-Engineer_26WD96707-1"
+        "Software-Engineer_26WD96707-1",
+        "Director--Software-Engineering_26WD100272-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -57439,7 +57462,9 @@
         "Senior-Counsel--Business---Legal-Affairs_10155345",
         "Fiscaliste-Junior---F-H-NB---CDI_10157534",
         "Attorney--Original-Production_10156413",
-        "Director--Zoological-and-Aquarium-Operations_10157617"
+        "Director--Zoological-and-Aquarium-Operations_10157617",
+        "Costuming-Manager-Seasonal--CT-_10155536-1",
+        "Cosmetology-Manager_10156972"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -58360,7 +58385,10 @@
         "R000107231",
         "R000107386-2",
         "R000107475",
-        "R000107479"
+        "R000107479",
+        "R000107286",
+        "R000107465-1",
+        "R000107344"
     ],
     "Kyndryl": [
         "R-61530",
@@ -60132,7 +60160,8 @@
         "R-66466",
         "R-66489-1",
         "R-66490-1",
-        "R-66676"
+        "R-66676",
+        "R-65832-1"
     ],
     "Chime": [
         "8391630002",
@@ -61510,7 +61539,8 @@
         "8094752",
         "7013721",
         "7993489",
-        "8112922"
+        "8112922",
+        "5781654"
     ],
     "Kaseya": [
         "6022140004",
@@ -61701,7 +61731,8 @@
         "6111168004",
         "6136003004",
         "6136001004",
-        "6136002004"
+        "6136002004",
+        "5745487004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -62689,7 +62720,8 @@
         "8684440002",
         "8687405002",
         "8675426002",
-        "8688776002"
+        "8688776002",
+        "8689228002"
     ],
     "Coupang": [
         "7915234",
@@ -63711,7 +63743,9 @@
         "8104736",
         "8048113",
         "8104495",
-        "8078870"
+        "8078870",
+        "8110444",
+        "8114131"
     ],
     "Roku": [
         "8023364",
@@ -64280,7 +64314,8 @@
         "8104341",
         "8112138",
         "8112136",
-        "8113993"
+        "8113993",
+        "7778693"
     ],
     "Zillow": [],
     "Epic Games": [
