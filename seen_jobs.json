@@ -1493,7 +1493,8 @@
         "8112042",
         "8112043",
         "8102346",
-        "8104748"
+        "8104748",
+        "8114155"
     ],
     "Figma": [
         "5426468004",
@@ -7740,7 +7741,9 @@
         "8686323002",
         "8687202002",
         "8568035002",
-        "8675572002"
+        "8675572002",
+        "8677627002",
+        "8691490002"
     ],
     "Rubrik": [
         "7310036",
@@ -16921,7 +16924,9 @@
         "R-287374-1",
         "R-281099",
         "R-265839",
-        "R-288073"
+        "R-288073",
+        "R-287478",
+        "R-286476"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22094,7 +22099,8 @@
         "R355423",
         "R-1_JR354580-1",
         "R355313",
-        "R353141"
+        "R353141",
+        "R354681"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24318,7 +24324,9 @@
         "R263224",
         "R265871",
         "R265691",
-        "R265359"
+        "R265359",
+        "R265360",
+        "R265361"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -26765,7 +26773,8 @@
         "R-10397289-1",
         "R-10397288-1",
         "R-10392718",
-        "R-10394502"
+        "R-10394502",
+        "R-10392334"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -31327,7 +31336,10 @@
         "6245809c-5646-4226-9f20-7bc88a4135aa",
         "eb4e4757-94b6-4c7d-a3ba-35fad40c0859",
         "9ea666f7-9b16-481f-a16d-f533d45ca795",
-        "7db637d3-377b-44cb-a935-30f838ed7e9c"
+        "7db637d3-377b-44cb-a935-30f838ed7e9c",
+        "f8f026e4-043d-40d1-ae45-d97b0a460ee7",
+        "a139d1b9-d55f-4aa2-87c3-3b6d20f8ee6b",
+        "12f6b6ef-be98-4159-9aef-7baac78489bc"
     ],
     "Anthropic": [
         "5101832008",
@@ -36293,7 +36305,8 @@
         "8113562",
         "8079970",
         "8094796",
-        "8114029"
+        "8114029",
+        "8110038"
     ],
     "Elastic": [
         "7505982",
@@ -38716,7 +38729,11 @@
         "R-0108840",
         "R-0109191",
         "R-0108968",
-        "R-0108993"
+        "R-0108993",
+        "R-0109185",
+        "R-0108640",
+        "R-0108638",
+        "R-0109214-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -48461,7 +48478,8 @@
         "R0000448559",
         "R0000448607",
         "R0000448037",
-        "R0000448625"
+        "R0000448625",
+        "R0000448477"
     ],
     "Zoom": [
         "R18188-1",
@@ -53665,7 +53683,8 @@
         "R35062-1",
         "R35185",
         "R35286",
-        "R35287"
+        "R35287",
+        "R34957"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -56007,7 +56026,10 @@
         "Senior-Technical-Account-Manager--AEC--French-and-Spanish-speaking-_26WD100399-2",
         "Software-Engineer_26WD96707-1",
         "Director--Software-Engineering_26WD100272-1",
-        "Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400"
+        "Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
+        "AEC-Data-Strategist_26WD100341",
+        "Senior-Product-Manager--PPL-Technology_26WD100185",
+        "Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -57510,7 +57532,12 @@
         "Costuming-Manager-Seasonal--CT-_10155536-1",
         "Cosmetology-Manager_10156972",
         "Technical-Support-Analyst-I_10156559",
-        "Coordinator--Marketing-DTC_10156588"
+        "Coordinator--Marketing-DTC_10156588",
+        "Analyst--Content-Analytics_10156177",
+        "Associate-Costume-Buyer--Project-Hire---Internal-Assignment-_10157704",
+        "Technicien-ne--Maintenance-des-systmes-automatiss-CDI-35H-F-F-NB_10157881",
+        "Senior-Costume-Buyer--Project-Hire---Internal-Assignment-_10157700-1",
+        "Director--Special-Events---Talent-Relations_10157424-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -60207,7 +60234,9 @@
         "R-66489-1",
         "R-66490-1",
         "R-66676",
-        "R-65832-1"
+        "R-65832-1",
+        "R-58464",
+        "R-66242"
     ],
     "Chime": [
         "8391630002",
@@ -61587,7 +61616,9 @@
         "7013721",
         "7993489",
         "8112922",
-        "5781654"
+        "5781654",
+        "8109371",
+        "8114261"
     ],
     "Kaseya": [
         "6022140004",
@@ -62481,7 +62512,8 @@
         "8103428",
         "8072231",
         "8099334",
-        "8099332"
+        "8099332",
+        "8092815"
     ],
     "Propel": [],
     "Canva": [],
@@ -64548,7 +64580,13 @@
         "6127797004",
         "6135504004",
         "6127799004",
-        "6135510004"
+        "6135510004",
+        "6138140004",
+        "5708589004",
+        "6138134004",
+        "6129793004",
+        "6129791004",
+        "6138915004"
     ],
     "Booking.com": [],
     "Myntra": [],
