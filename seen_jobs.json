@@ -4767,7 +4767,9 @@
         "86665c39-2182-4d69-8b8c-33eac104ec2b",
         "ff4be077-f801-4d2d-9ea9-4b062a5eb669",
         "f4d11ada-d624-4bf8-9cb4-fb9f98a31670",
-        "9f3726a5-236d-4eff-aae8-f2a56ddb072e"
+        "9f3726a5-236d-4eff-aae8-f2a56ddb072e",
+        "e98faea3-26b4-4585-b0bb-7031dff221a0",
+        "0a418b0f-6d2f-486f-bbf3-155f09e1fce3"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -5842,7 +5844,8 @@
         "7989358",
         "8099874",
         "7848917",
-        "7997269"
+        "7997269",
+        "8036383"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -9456,7 +9459,8 @@
         "8082544",
         "8104955",
         "8106815",
-        "8107170"
+        "8107170",
+        "8110442"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -10505,7 +10509,8 @@
         "8110858",
         "7995117",
         "5432627",
-        "8103051"
+        "8103051",
+        "8108115"
     ],
     "DoorDash": [
         "7927511",
@@ -16863,7 +16868,8 @@
         "R-286927",
         "R-287484",
         "R-286778",
-        "R-286553-1"
+        "R-286553-1",
+        "R-287290"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -24747,7 +24753,8 @@
         "R6874-1",
         "R6996",
         "R7038",
-        "R7025-1"
+        "R7025-1",
+        "R7011"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -26673,7 +26680,8 @@
         "R-10398709",
         "R-10396578",
         "R-10400177",
-        "R-10391245"
+        "R-10391245",
+        "R-10396776"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -31230,7 +31238,8 @@
         "bed15207-f4bc-4a51-ae13-de017ddf3cba",
         "34639ac0-d7c9-4106-8e34-f490f377e1a0",
         "6245809c-5646-4226-9f20-7bc88a4135aa",
-        "eb4e4757-94b6-4c7d-a3ba-35fad40c0859"
+        "eb4e4757-94b6-4c7d-a3ba-35fad40c0859",
+        "9ea666f7-9b16-481f-a16d-f533d45ca795"
     ],
     "Anthropic": [
         "5101832008",
@@ -35341,7 +35350,8 @@
         "5050863",
         "8020377",
         "8107301",
-        "8109509"
+        "8109509",
+        "8075467"
     ],
     "Datadog": [
         "7194969",
@@ -48259,7 +48269,9 @@
         "R-2027-_R0000448495",
         "R0000448487",
         "R0000448567",
-        "R0000448577"
+        "R0000448577",
+        "R0000448005",
+        "R0000448525"
     ],
     "Zoom": [
         "R18188-1",
@@ -52374,7 +52386,8 @@
         "4699923006",
         "4691977006",
         "4700056006",
-        "4699488006"
+        "4699488006",
+        "4702757006"
     ],
     "Duolingo": [
         "8455252002",
@@ -54930,7 +54943,8 @@
         "Data-Science-Graduate_REF93870J-3",
         "Senior-Director--Regional-Head-LAC--B2B-Acceptance_REF087178W",
         "Client-Consulting-Manager_REF080577W",
-        "Product-Manager--Innovation_REF082060W"
+        "Product-Manager--Innovation_REF082060W",
+        "Sr-SW-Engineer--3-5-years--Java-Python--GenAI--Agentic-Development-_REF087084W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -55766,7 +55780,8 @@
         "Senior-Network-Engineer_26WD100249",
         "Software-Architect--AEC-Platform-Data_25WD93193-1",
         "Senior-Software-QA-Engineer_26WD96551-1",
-        "Pre-Sales-Account-Technical-Lead---UK---Ireland_26WD100329-1"
+        "Pre-Sales-Account-Technical-Lead---UK---Ireland_26WD100329-1",
+        "Principal-Software-Development-Engineer_26WD95186"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -57260,7 +57275,8 @@
         "Claims-Examiner--Project-Hire-_10156773",
         "Jr-Analyst--Human-Resources_10156000",
         "Administrative-Coordinator_10156420",
-        "Senior-Manager--Global-Merchandise-Sourcing---Consumer-Products_10157529"
+        "Senior-Manager--Global-Merchandise-Sourcing---Consumer-Products_10157529",
+        "Casting-Administrator_10156900"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -59939,7 +59955,12 @@
         "R-63970-1",
         "R-66202-1",
         "R-55537",
-        "R-64149"
+        "R-64149",
+        "R-66658-1",
+        "R-66657",
+        "R-66511",
+        "R-66656",
+        "R-62874-1"
     ],
     "Chime": [
         "8391630002",
@@ -63508,7 +63529,9 @@
         "8108144",
         "8110514",
         "8111820",
-        "8073793"
+        "8073793",
+        "8104736",
+        "8048113"
     ],
     "Roku": [
         "8023364",
