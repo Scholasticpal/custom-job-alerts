@@ -7751,7 +7751,8 @@
         "8568035002",
         "8675572002",
         "8677627002",
-        "8691490002"
+        "8691490002",
+        "8679974002"
     ],
     "Rubrik": [
         "7310036",
@@ -16944,7 +16945,9 @@
         "R-287390",
         "R-282820",
         "R-287922",
-        "R-286989"
+        "R-286989",
+        "R-287776-1",
+        "R-287410"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22123,7 +22126,10 @@
         "R353275",
         "R353968",
         "R353143",
-        "R354755-1"
+        "R354755-1",
+        "R355137",
+        "R355136",
+        "R354727"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -31365,7 +31371,8 @@
         "7db637d3-377b-44cb-a935-30f838ed7e9c",
         "f8f026e4-043d-40d1-ae45-d97b0a460ee7",
         "a139d1b9-d55f-4aa2-87c3-3b6d20f8ee6b",
-        "12f6b6ef-be98-4159-9aef-7baac78489bc"
+        "12f6b6ef-be98-4159-9aef-7baac78489bc",
+        "8ac9a248-4069-45cc-a00e-82f22f1e7ed2"
     ],
     "Anthropic": [
         "5101832008",
@@ -33458,7 +33465,8 @@
         "68d27021-e1ee-41ec-973b-80e72a56382b",
         "14c52e6b-b00b-42b5-96fb-195919ef6bab",
         "30e2aa55-9950-4cc1-9a61-4fcc1c82223e",
-        "fa089457-a22c-406f-9bc2-223656b87026"
+        "fa089457-a22c-406f-9bc2-223656b87026",
+        "5b710ddc-460c-4254-9436-fde654b600ae"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -34579,7 +34587,8 @@
         "6119765004",
         "6134374004",
         "6136160004",
-        "6132416004"
+        "6132416004",
+        "6137983004"
     ],
     "MongoDB": [
         "7574659",
@@ -36970,7 +36979,8 @@
         "8114222",
         "8114254",
         "8114256",
-        "8114454"
+        "8114454",
+        "8114127"
     ],
     "Asana": [
         "7120496",
@@ -37712,7 +37722,9 @@
         "R170896",
         "R170685",
         "R170800-1",
-        "R171033-1"
+        "R171033-1",
+        "R170844-1",
+        "R169646"
     ],
     "Workday": [
         "R-0106509-1",
@@ -48524,7 +48536,12 @@
         "R0000448492",
         "R0000430886",
         "R0000446050-1",
-        "R0000448491"
+        "R0000448491",
+        "R0000448057",
+        "R0000448376",
+        "R0000448375",
+        "R0000444049-1",
+        "R0000446642"
     ],
     "Zoom": [
         "R18188-1",
@@ -48887,7 +48904,9 @@
         "R19464-2",
         "R19522-2",
         "R19521",
-        "R19516"
+        "R19516",
+        "R19520-1",
+        "R19496-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -55245,7 +55264,8 @@
         "Product-Manager--Authorization---Network-Connectivity_REF087278W",
         "Client-Care-Associate_REF087220W",
         "Marketing-Manager--Demand-Generation---Nurture_REF087314W",
-        "Implementation-Analyst_REF087135W"
+        "Implementation-Analyst_REF087135W",
+        "Compliance---Risk-Consultant_REF087056W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -57610,7 +57630,9 @@
         "Data-Platforms-Analyst---National-Geographic_10157646",
         "Manager--Creator-Content---Partnerships---Direct-to-Consumer_10157317",
         "Senior-Manager--Creator-Content---Partnerships---DTC_10157318",
-        "Sr-Analyst--Content-Analytics-LATAM--Temp-role-6-months-_10153961"
+        "Sr-Analyst--Content-Analytics-LATAM--Temp-role-6-months-_10153961",
+        "Manager--Paid-Media-Strategy_10156963",
+        "Senior-Counsel_10157573"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -60311,7 +60333,8 @@
         "R-65832-1",
         "R-58464",
         "R-66242",
-        "R-66423-1"
+        "R-66423-1",
+        "R-66584"
     ],
     "Chime": [
         "8391630002",
