@@ -1494,7 +1494,9 @@
         "8112043",
         "8102346",
         "8104748",
-        "8114155"
+        "8114155",
+        "8063717",
+        "8114397"
     ],
     "Figma": [
         "5426468004",
@@ -2393,7 +2395,8 @@
         "10492575",
         "10493791",
         "10494566",
-        "10494641"
+        "10494641",
+        "10496114"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -9483,7 +9486,8 @@
         "8110442",
         "8107174",
         "8099000",
-        "8112140"
+        "8112140",
+        "8099671"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -16926,7 +16930,11 @@
         "R-265839",
         "R-288073",
         "R-287478",
-        "R-286476"
+        "R-286476",
+        "R-287197-1",
+        "R-287194",
+        "R-287473",
+        "R-287773"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22100,7 +22108,10 @@
         "R-1_JR354580-1",
         "R355313",
         "R353141",
-        "R354681"
+        "R354681",
+        "R353524",
+        "R353275",
+        "R353968"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24834,7 +24845,8 @@
         "R6996",
         "R7038",
         "R7025-1",
-        "R7011"
+        "R7011",
+        "R7023"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -27607,7 +27619,8 @@
         "R-14988",
         "R-14766-1",
         "R-14826",
-        "R-14531"
+        "R-14531",
+        "R-15030"
     ],
     "PayPal": [
         "R0135744-1",
@@ -32602,7 +32615,9 @@
         "8092485",
         "8113286",
         "8104148",
-        "8064788"
+        "8064788",
+        "8114474",
+        "8064324"
     ],
     "Discord": [
         "8289766002",
@@ -34394,7 +34409,9 @@
         "8088455",
         "8088453",
         "8088446",
-        "8088444"
+        "8088444",
+        "8114351",
+        "8103727"
     ],
     "Vercel": [
         "5624231004",
@@ -35464,7 +35481,8 @@
         "8075467",
         "8106419",
         "8111814",
-        "7870876"
+        "7870876",
+        "8111736"
     ],
     "Datadog": [
         "7194969",
@@ -36934,7 +36952,8 @@
         "8098185",
         "8083417",
         "8114222",
-        "8114254"
+        "8114254",
+        "8114256"
     ],
     "Asana": [
         "7120496",
@@ -38733,7 +38752,8 @@
         "R-0109185",
         "R-0108640",
         "R-0108638",
-        "R-0109214-1"
+        "R-0109214-1",
+        "R-0109026"
     ],
     "CrowdStrike": [
         "R26911",
@@ -48479,7 +48499,9 @@
         "R0000448607",
         "R0000448037",
         "R0000448625",
-        "R0000448477"
+        "R0000448477",
+        "R0000448651",
+        "R0000447426"
     ],
     "Zoom": [
         "R18188-1",
@@ -48839,7 +48861,9 @@
         "R19506-1",
         "R19507-1",
         "R19515-1",
-        "R19464-2"
+        "R19464-2",
+        "R19522-2",
+        "R19521"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -49626,7 +49650,9 @@
         "R-108422-1",
         "R-108423-1",
         "R-108484",
-        "R-108343"
+        "R-108343",
+        "R-108165",
+        "R-108092"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -50815,7 +50841,8 @@
         "cdc3cb5a-8c6d-4820-86cf-5f9daa2b41fc",
         "f65b0f22-e2b1-4081-b4db-a4a0b0e31055",
         "2e07fb9f-fefd-44a4-a6ef-235b4e567432",
-        "59ae3776-2d0a-41b0-a5b2-ffd1262b92d2"
+        "59ae3776-2d0a-41b0-a5b2-ffd1262b92d2",
+        "c826e3bf-f165-4b7c-af8e-301ad7e2dcda"
     ],
     "Deel": [],
     "Polygon": [],
@@ -52092,7 +52119,8 @@
         "8094369",
         "8089981",
         "7811931",
-        "8076592"
+        "8076592",
+        "8112836"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -53201,7 +53229,9 @@
         "7495016",
         "7678715",
         "7983334",
-        "8092378"
+        "8092378",
+        "8042279",
+        "8015494"
     ],
     "Twitch": [
         "8334413002",
@@ -55183,7 +55213,13 @@
         "Chief-SW-Engineer_REF087202W",
         "Sr-Manager---Visa-Consulting---Analytics--VCA----North-America--Nationals-_REF087213W",
         "Senior-Managing-Counsel_REF087193W",
-        "Risk-Management-Coordinator---Internal-Controls_REF087129W"
+        "Risk-Management-Coordinator---Internal-Controls_REF087129W",
+        "Technical-Support-Associate---Workstation-Support_REF087240W",
+        "Sr-SW-Engineer_REF076199W-1",
+        "Product-Manager--Authorization---Network-Connectivity_REF087278W",
+        "Client-Care-Associate_REF087220W",
+        "Marketing-Manager--Demand-Generation---Nurture_REF087314W",
+        "Implementation-Analyst_REF087135W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -57537,7 +57573,18 @@
         "Associate-Costume-Buyer--Project-Hire---Internal-Assignment-_10157704",
         "Technicien-ne--Maintenance-des-systmes-automatiss-CDI-35H-F-F-NB_10157881",
         "Senior-Costume-Buyer--Project-Hire---Internal-Assignment-_10157700-1",
-        "Director--Special-Events---Talent-Relations_10157424-1"
+        "Director--Special-Events---Talent-Relations_10157424-1",
+        "Executive-Assistant--National-Geographic_10157512",
+        "Photo-Analyst_10157435",
+        "Marketing-Coordinator--Disney-Theatrical-Group_10157138",
+        "Executive-Assistant--Business-Affairs--Disney-Entertainment-Television-_10157841",
+        "Realtime-Producer--Project-Hire----Disney-Television-Animation_10157315",
+        "Director--Americas-Brand-Commercialization_10131870",
+        "Creator-Content---Partnerships-Specialist--PH-_10157316",
+        "Data-Platforms-Analyst---National-Geographic_10157646",
+        "Manager--Creator-Content---Partnerships---Direct-to-Consumer_10157317",
+        "Senior-Manager--Creator-Content---Partnerships---DTC_10157318",
+        "Sr-Analyst--Content-Analytics-LATAM--Temp-role-6-months-_10153961"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -60236,7 +60283,8 @@
         "R-66676",
         "R-65832-1",
         "R-58464",
-        "R-66242"
+        "R-66242",
+        "R-66423-1"
     ],
     "Chime": [
         "8391630002",
@@ -60478,7 +60526,8 @@
         "4701983006",
         "4701843006",
         "4698370006",
-        "4700756006"
+        "4700756006",
+        "4703082006"
     ],
     "Addepar": [
         "8594217002",
@@ -62513,7 +62562,8 @@
         "8072231",
         "8099334",
         "8099332",
-        "8092815"
+        "8092815",
+        "8083274"
     ],
     "Propel": [],
     "Canva": [],
@@ -62522,7 +62572,8 @@
     "AllTrails": [
         "298399aa-e104-43d8-8696-7074e22dfaf8",
         "f5ca6ac1-44ac-469e-8a7b-ac821e7c49f4",
-        "5f6645ac-53b1-4cfd-a43d-e30a8075d9e9"
+        "5f6645ac-53b1-4cfd-a43d-e30a8075d9e9",
+        "8c957e15-b4a8-4b7f-af20-a5982835546b"
     ],
     "Ryan": [],
     "Uniphore": [],
@@ -62805,7 +62856,8 @@
         "8689228002",
         "8689225002",
         "8689217002",
-        "8680013002"
+        "8680013002",
+        "8662378002"
     ],
     "Coupang": [
         "7915234",
