@@ -1492,7 +1492,8 @@
         "8112037",
         "8112042",
         "8112043",
-        "8102346"
+        "8102346",
+        "8104748"
     ],
     "Figma": [
         "5426468004",
@@ -2695,7 +2696,8 @@
         "371b8b90-6f10-4664-b5c7-e98c1b0a0f3e",
         "76bf0013-3822-4b84-9b4d-354838fa7b79",
         "b3ef77a1-1631-4a22-8724-6ba5cb712484",
-        "52155ca0-ad5d-4373-b64d-a49eed6af1cd"
+        "52155ca0-ad5d-4373-b64d-a49eed6af1cd",
+        "c8e7d028-66b0-49ce-97a9-87b707f045ce"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -22052,7 +22054,9 @@
         "R355033",
         "R353560",
         "R341943",
-        "R355356"
+        "R355356",
+        "R322298",
+        "R354774-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23134,7 +23138,8 @@
         "Officer--Trade-Operations---Registration---Distribution---Global-Banking-Operations_26027760",
         "Vice-President--Regional-Dedicated-Service-Director_26027775-1",
         "Vice-President--Sr-Business-Control-Specialist--APAC-Global-Treasury-Merchant-Operations--GTMO-_26027820-2",
-        "Assistant-Vice-President--Business-Control-Specialist--APAC-Global-Treasury-and-Merchant-Operations--GTMO--Risk-and-Business-Controls_26027821-2"
+        "Assistant-Vice-President--Business-Control-Specialist--APAC-Global-Treasury-and-Merchant-Operations--GTMO--Risk-and-Business-Controls_26027821-2",
+        "Assistant-Vice-President--Events-Specialist-II--Southeast-Asia-_26027784"
     ],
     "BlackRock": [
         "R263666",
@@ -26703,7 +26708,8 @@
         "R-10396578",
         "R-10400177",
         "R-10391245",
-        "R-10396776"
+        "R-10396776",
+        "R-10397740-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -33346,7 +33352,8 @@
         "d3eab521-8adb-4576-b740-905b3894a031",
         "d0b9e586-bdf9-4df2-a512-371a6492b2d9",
         "0737c717-1882-421e-88dc-100c74a1a54a",
-        "4bf220cf-a84c-4ad5-a0e4-107051f8e184"
+        "4bf220cf-a84c-4ad5-a0e4-107051f8e184",
+        "0c457d2a-5e8e-4392-94b2-c63696b55dd8"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -36214,7 +36221,8 @@
         "8081919",
         "8112183",
         "8113562",
-        "8079970"
+        "8079970",
+        "8094796"
     ],
     "Elastic": [
         "7505982",
@@ -38630,7 +38638,8 @@
         "R-0108715",
         "R-0109146",
         "R-0108840",
-        "R-0109191"
+        "R-0109191",
+        "R-0108968"
     ],
     "CrowdStrike": [
         "R26911",
@@ -48305,7 +48314,14 @@
         "R0000448561",
         "R0000448591",
         "R0000448587",
-        "R0000447587"
+        "R0000447587",
+        "R0000424936-1",
+        "R0000424935-1",
+        "R0000448452",
+        "R0000448582",
+        "R0000448325",
+        "R0000448465-1",
+        "R0000448175"
     ],
     "Zoom": [
         "R18188-1",
@@ -54981,7 +54997,9 @@
         "Client-Consulting-Manager_REF080577W",
         "Product-Manager--Innovation_REF082060W",
         "Sr-SW-Engineer--3-5-years--Java-Python--GenAI--Agentic-Development-_REF087084W",
-        "Director--Business-Development_REF082829W"
+        "Director--Business-Development_REF082829W",
+        "Sr-Client-Consulting-Manager--Transformation-Specialist-_REF087115W",
+        "Analyst_REF087243W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -57316,7 +57334,9 @@
         "Administrative-Coordinator_10156420",
         "Senior-Manager--Global-Merchandise-Sourcing---Consumer-Products_10157529",
         "Casting-Administrator_10156900",
-        "Senior-Counsel--Business---Legal-Affairs_10155345"
+        "Senior-Counsel--Business---Legal-Affairs_10155345",
+        "Fiscaliste-Junior---F-H-NB---CDI_10157534",
+        "Attorney--Original-Production_10156413"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -58233,7 +58253,8 @@
         "R000107418",
         "R000107447",
         "R000105666",
-        "R000107450"
+        "R000107450",
+        "R000107231"
     ],
     "Kyndryl": [
         "R-61530",
