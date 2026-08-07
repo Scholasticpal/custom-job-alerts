@@ -4769,7 +4769,9 @@
         "f4d11ada-d624-4bf8-9cb4-fb9f98a31670",
         "9f3726a5-236d-4eff-aae8-f2a56ddb072e",
         "e98faea3-26b4-4585-b0bb-7031dff221a0",
-        "0a418b0f-6d2f-486f-bbf3-155f09e1fce3"
+        "0a418b0f-6d2f-486f-bbf3-155f09e1fce3",
+        "d072b16d-9479-4395-9d63-c825d3772a0a",
+        "dfb9a8d6-d824-46ff-8a2a-3185301232de"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -10510,7 +10512,10 @@
         "7995117",
         "5432627",
         "8103051",
-        "8108115"
+        "8108115",
+        "8113528",
+        "8113547",
+        "8113541"
     ],
     "DoorDash": [
         "7927511",
@@ -16869,7 +16874,9 @@
         "R-287484",
         "R-286778",
         "R-286553-1",
-        "R-287290"
+        "R-287290",
+        "R-286533",
+        "R-284560"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -54944,7 +54951,8 @@
         "Senior-Director--Regional-Head-LAC--B2B-Acceptance_REF087178W",
         "Client-Consulting-Manager_REF080577W",
         "Product-Manager--Innovation_REF082060W",
-        "Sr-SW-Engineer--3-5-years--Java-Python--GenAI--Agentic-Development-_REF087084W"
+        "Sr-SW-Engineer--3-5-years--Java-Python--GenAI--Agentic-Development-_REF087084W",
+        "Director--Business-Development_REF082829W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -59960,7 +59968,8 @@
         "R-66657",
         "R-66511",
         "R-66656",
-        "R-62874-1"
+        "R-62874-1",
+        "R-66466"
     ],
     "Chime": [
         "8391630002",
@@ -62511,7 +62520,8 @@
         "8686832002",
         "8684440002",
         "8687405002",
-        "8675426002"
+        "8675426002",
+        "8688776002"
     ],
     "Coupang": [
         "7915234",
@@ -63531,7 +63541,8 @@
         "8111820",
         "8073793",
         "8104736",
-        "8048113"
+        "8048113",
+        "8104495"
     ],
     "Roku": [
         "8023364",
