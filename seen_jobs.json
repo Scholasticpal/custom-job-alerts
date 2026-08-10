@@ -2716,7 +2716,8 @@
         "c8e7d028-66b0-49ce-97a9-87b707f045ce",
         "2dc6e7d8-6d42-4058-a2c9-311a973d2f0a",
         "74fca80f-7ff4-4baa-aaae-e3e42f7ba09d",
-        "73c31382-2247-408e-9846-2aedbf099275"
+        "73c31382-2247-408e-9846-2aedbf099275",
+        "fb480665-77af-4f73-a554-3121ace2e4a4"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -7769,7 +7770,8 @@
         "8661528002",
         "8688812002",
         "8679970002",
-        "8679980002"
+        "8679980002",
+        "8682362002"
     ],
     "Rubrik": [
         "7310036",
@@ -8391,7 +8393,8 @@
         "R103571",
         "R103574",
         "R103569-1",
-        "R103577"
+        "R103577",
+        "R103576"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -16980,7 +16983,8 @@
         "R-281852",
         "R-286286",
         "R-286371-1",
-        "R-287499"
+        "R-287499",
+        "R-288065"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22183,7 +22187,8 @@
         "R355457",
         "R355505",
         "R355515",
-        "R354506"
+        "R354506",
+        "R355297"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24662,7 +24667,8 @@
         "XMLNAME--Blackstone-Connects-Associate--Blackstone-Charitable-Foundation_44533",
         "Executive-Offices---Executive-Assistant_44290",
         "Blackstone-Credit---Insurance---Infrastructure-Credit--Senior-Associate_35750",
-        "Global-Compensation-Management--VP_44556"
+        "Global-Compensation-Management--VP_44556",
+        "BIP-Asia---Analyst_42055"
     ],
     "Capital Group": [
         "R6549",
@@ -26880,7 +26886,8 @@
         "R-10399847",
         "R-10399925",
         "R-10380587",
-        "R-10399924"
+        "R-10399924",
+        "R-10398590"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -28255,7 +28262,9 @@
         "R0137213",
         "R0137210",
         "R0137209",
-        "R0137208"
+        "R0137208",
+        "R0137009",
+        "R0137022"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -43491,7 +43500,9 @@
         "R2022919-1",
         "R2022786",
         "R2022835",
-        "R2014247"
+        "R2014247",
+        "R2021699",
+        "R2021205"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -48733,7 +48744,12 @@
         "R0000448805",
         "R0000448667",
         "R0000448648",
-        "R0000448708"
+        "R0000448708",
+        "R0000447583",
+        "R0000448530",
+        "R0000448740",
+        "R0000437172",
+        "R0000448626"
     ],
     "Zoom": [
         "R18188-1",
@@ -51467,7 +51483,10 @@
         "af0cf80f-a8c8-4626-bb89-011ffed40b51",
         "9a6b2a69-ade3-42d4-b70a-5e95d1c9a4d6",
         "7d252852-e655-48c0-b25c-b842e0967894",
-        "fda9ab67-bef8-4304-910e-62d8a818448a"
+        "fda9ab67-bef8-4304-910e-62d8a818448a",
+        "d088561c-36b5-4c5f-87e6-9dd2b4c4cd53",
+        "3cef44c1-85bf-4544-b8cd-ddf54f87edb5",
+        "318c7baf-a4e0-4dfd-a5ca-132fbdce6069"
     ],
     "Netskope": [
         "7885748",
@@ -55482,7 +55501,8 @@
         "Director--Global-Sales-Excellence-and-Strategy_REF087316W-1",
         "Business-Analyst--Sales---Commercial-Operations_REF085224W-1",
         "Program-Manager-Sr-Consultant_REF087194W",
-        "Manager--Consulting_REF083097W"
+        "Manager--Consulting_REF083097W",
+        "Senior-Manager--Digital-Commerce-Solutions--Authentication--Passkeys-and-Digital-Identity-_REF087321W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -57860,7 +57880,8 @@
         "Associate-Preditor--Project-Hire-_10157312",
         "Senior-Specialist--Distribution-Operations--DTC_10157225",
         "Senior-Manager--Publicity_10157854",
-        "Facial-Animator--Mid---Senior-_10157861"
+        "Facial-Animator--Mid---Senior-_10157861",
+        "Specialist--Studio-Sales_10157935"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -64189,7 +64210,11 @@
         "8118968",
         "8118978",
         "7952651",
-        "8108131"
+        "8108131",
+        "8078260",
+        "8045769",
+        "8118989",
+        "8073903"
     ],
     "Roku": [
         "8023364",
