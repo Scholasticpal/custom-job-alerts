@@ -3019,7 +3019,8 @@
         "7823891003",
         "7846736003",
         "7834974003",
-        "7847265003"
+        "7847265003",
+        "7834361003"
     ],
     "Razorpay": [
         "4665089005",
@@ -4829,7 +4830,9 @@
         "84ffd393-c82b-484c-9a88-9f9ddef1b720",
         "eaf9d5d9-87ae-4f27-a17d-1b70fe5f403d",
         "1e2dd04f-f7f8-4d9d-8a96-dc407ed31334",
-        "2d4fc409-38b6-4bfc-acd7-81f532a6741c"
+        "2d4fc409-38b6-4bfc-acd7-81f532a6741c",
+        "8a02d449-de17-4e37-823d-8911dc5663e7",
+        "b0206e19-c969-443a-9e4d-3497befa696d"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -7817,7 +7820,8 @@
         "8694515002",
         "8597642002",
         "8693320002",
-        "8661245002"
+        "8661245002",
+        "8015848002"
     ],
     "Rubrik": [
         "7310036",
@@ -17090,7 +17094,11 @@
         "R-287268",
         "R-287383",
         "R-287914",
-        "R-284557"
+        "R-284557",
+        "R-288230",
+        "R-287180-1",
+        "R-288217",
+        "R-288036"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22324,7 +22332,8 @@
         "R355678",
         "R355677",
         "R355184",
-        "R331445"
+        "R331445",
+        "R355355"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23211,7 +23220,10 @@
         "Meetings---Events-Planner_J-82919",
         "Senior-Manager--Paid-Social-Strategy_J-83257",
         "Specialized-Travel-Counselor_J-84119",
-        "Practicante-Tcnico---Tecnlogo-Backoffice-Services_J-80991"
+        "Practicante-Tcnico---Tecnlogo-Backoffice-Services_J-80991",
+        "Travel-Consultant_J-84149",
+        "Travel-Consultant_J-84148",
+        "Travel-Consultant_J-84147"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -24567,7 +24579,9 @@
         "R265928",
         "R265379",
         "R265846",
-        "R265841-1"
+        "R265841-1",
+        "R265824",
+        "R265759"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -25083,7 +25097,8 @@
         "R7032",
         "R6930",
         "R6952",
-        "R6922"
+        "R6922",
+        "R7072"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -25430,7 +25445,8 @@
         "R32287",
         "R32846",
         "R32229",
-        "R32808"
+        "R32808",
+        "R32948"
     ],
     "Fiserv": [
         "R-10392824",
@@ -27061,7 +27077,8 @@
         "R-10399919",
         "R-10398530",
         "R-10398531",
-        "R-10398697"
+        "R-10398697",
+        "R-10398951"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -43781,7 +43798,8 @@
         "R2023121",
         "R2022806",
         "R2022657",
-        "R2023021"
+        "R2023021",
+        "R2016435"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -49108,7 +49126,18 @@
         "R0000448931",
         "R0000448861",
         "R0000448791",
-        "R0000447416-1"
+        "R0000447416-1",
+        "R0000445430-1",
+        "R0000448854",
+        "R0000448714",
+        "R0000448894",
+        "R0000448975",
+        "R0000448935",
+        "R0000447775-1",
+        "R0000448885",
+        "R0000448925",
+        "R0000448955",
+        "R0000448995"
     ],
     "Zoom": [
         "R18188-1",
@@ -50277,7 +50306,8 @@
         "R-108749",
         "R-108366",
         "R-108582",
-        "R-108467"
+        "R-108467",
+        "R-108432"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -53902,7 +53932,8 @@
         "7678372",
         "8112792",
         "8088867",
-        "8075888"
+        "8075888",
+        "8108629"
     ],
     "Twitch": [
         "8334413002",
@@ -55909,7 +55940,8 @@
         "Senior-Manager--Marketing-Strategy--International-Travel-_REF079334W",
         "Corporate-Communications-Director_REF087325W",
         "Senior-Director--Issuing-Solutions-Sales-Executive-Canada_REF081491W",
-        "Vice-President--Global-Benefits_REF087346W"
+        "Vice-President--Global-Benefits_REF087346W",
+        "Sr-Data-Scientist_REF081873W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -61060,7 +61092,8 @@
         "R-64716",
         "R-65620",
         "R-66013",
-        "R-65241"
+        "R-65241",
+        "R-66363"
     ],
     "Chime": [
         "8391630002",
@@ -62468,7 +62501,8 @@
         "8106203",
         "8104751",
         "8119091",
-        "8119188"
+        "8119188",
+        "8110755"
     ],
     "Kaseya": [
         "6022140004",
