@@ -12603,7 +12603,8 @@
         "3032374b-0010-4d19-8dd1-26c37c396cba",
         "baf0eddc-4fac-4520-aa41-a922adbdefc0",
         "a91d38aa-6441-4479-a05f-e3ff2555699d",
-        "2f1dba8f-bc99-4490-8200-d2cd7f92f544"
+        "2f1dba8f-bc99-4490-8200-d2cd7f92f544",
+        "fd8b953a-8157-4dda-a2a4-e9bbf4cf7a7f"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -17098,7 +17099,9 @@
         "R-288230",
         "R-287180-1",
         "R-288217",
-        "R-288036"
+        "R-288036",
+        "R-287556-1",
+        "R-282559"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22333,7 +22336,10 @@
         "R355677",
         "R355184",
         "R331445",
-        "R355355"
+        "R355355",
+        "R355705",
+        "R355411",
+        "R341945"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24581,7 +24587,9 @@
         "R265846",
         "R265841-1",
         "R265824",
-        "R265759"
+        "R265759",
+        "R265957",
+        "R265902"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -25098,7 +25106,8 @@
         "R6930",
         "R6952",
         "R6922",
-        "R7072"
+        "R7072",
+        "R7073-1"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -39165,7 +39174,8 @@
         "R-0109172-1",
         "R-0109202",
         "R-0108944",
-        "R-0108018"
+        "R-0108018",
+        "R-0109249"
     ],
     "CrowdStrike": [
         "R26911",
@@ -40114,7 +40124,8 @@
         "R28914-1",
         "R29534",
         "R25556",
-        "R29608"
+        "R29608",
+        "R29588"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -51898,7 +51909,8 @@
         "51d17e4c-8989-4fc6-bdc5-e62dbabceb6a",
         "988cafcc-2c92-4ce0-9769-45b717274823",
         "770aa01d-0ab5-4a15-b362-1a0b4d285ff3",
-        "ef7e9ea6-633a-4a37-9b60-2c1209ba5f5b"
+        "ef7e9ea6-633a-4a37-9b60-2c1209ba5f5b",
+        "8c7f3824-d309-4bf4-a0bb-a88b45f66983"
     ],
     "Netskope": [
         "7885748",
@@ -55941,7 +55953,8 @@
         "Corporate-Communications-Director_REF087325W",
         "Senior-Director--Issuing-Solutions-Sales-Executive-Canada_REF081491W",
         "Vice-President--Global-Benefits_REF087346W",
-        "Sr-Data-Scientist_REF081873W"
+        "Sr-Data-Scientist_REF081873W",
+        "Product-Manager_REF087040W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -56800,7 +56813,11 @@
         "Senior-Manager--Trust-Risk-102657_26WD100179",
         "Senior-Machine-Learning-Operations-Developer--AI-ML-Platform-_26WD100499-1",
         "Lead-BI-Analyst_26WD100503",
-        "Technical-Course-Developer_26WD100511"
+        "Technical-Course-Developer_26WD100511",
+        "Information-Systems-Engineer_26WD100505",
+        "Product-Manager_26WD100504",
+        "Software-Engineer--ECAD-Architect_26WD100513",
+        "Software-Engineer_26WD100510"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -61093,7 +61110,10 @@
         "R-65620",
         "R-66013",
         "R-65241",
-        "R-66363"
+        "R-66363",
+        "R-66665-1",
+        "R-66360",
+        "R-66364"
     ],
     "Chime": [
         "8391630002",
@@ -64786,7 +64806,9 @@
         "8118893",
         "8118939",
         "8098499",
-        "8104734"
+        "8104734",
+        "8120895",
+        "8113518"
     ],
     "Roku": [
         "8023364",
@@ -65140,7 +65162,8 @@
         "8108527",
         "8112716",
         "8119497",
-        "8120309"
+        "8120309",
+        "8121076"
     ],
     "Spotify": [],
     "Snap": [],
