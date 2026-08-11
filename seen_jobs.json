@@ -2742,7 +2742,8 @@
         "fb480665-77af-4f73-a554-3121ace2e4a4",
         "b00cc793-f4c8-4859-935c-d5eb0c4d0a07",
         "65abc1c0-8401-4576-84a2-d1ceb1ad613b",
-        "7419c004-6966-4337-91ad-044e119052b4"
+        "7419c004-6966-4337-91ad-044e119052b4",
+        "db9216e5-8701-41c8-92b9-140dafe1434d"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -7833,7 +7834,8 @@
         "8693320002",
         "8661245002",
         "8015848002",
-        "8656207002"
+        "8656207002",
+        "8688836002"
     ],
     "Rubrik": [
         "7310036",
@@ -9591,7 +9593,8 @@
         "8120031",
         "8114069",
         "8118845",
-        "8043287"
+        "8043287",
+        "8101702"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -9696,7 +9699,9 @@
         "8107123",
         "8107467",
         "8104283",
-        "8109822"
+        "8109822",
+        "8121558",
+        "8121536"
     ],
     "Agoda": [
         "7533345",
@@ -17122,7 +17127,9 @@
         "R-281497",
         "R-286717",
         "R-284464-1",
-        "R-287216"
+        "R-287216",
+        "R-284443-1",
+        "R-287743"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22371,7 +22378,15 @@
         "R355542",
         "R355395",
         "R355394",
-        "R354799"
+        "R354799",
+        "R355597",
+        "R355556",
+        "R355734-1",
+        "R334734-1",
+        "R354838",
+        "R355426",
+        "R355425",
+        "R355726-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23261,7 +23276,9 @@
         "Practicante-Tcnico---Tecnlogo-Backoffice-Services_J-80991",
         "Travel-Consultant_J-84149",
         "Travel-Consultant_J-84148",
-        "Travel-Consultant_J-84147"
+        "Travel-Consultant_J-84147",
+        "Werkstudent--m-w-d-_J-80522-1",
+        "Business-Intelligence-Analyst--Hotel-Revenue-Data-_J-81305"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -24621,7 +24638,8 @@
         "R265824",
         "R265759",
         "R265957",
-        "R265902"
+        "R265902",
+        "R265970"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -27125,7 +27143,10 @@
         "R-10399761",
         "R-10400276",
         "R-10400279-1",
-        "R-10399704"
+        "R-10399704",
+        "R-10398403",
+        "R-10399701",
+        "R-10399695"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -27450,7 +27471,8 @@
         "Intern_869058",
         "Investment-Analyst--Multi-Asset-Solutions_869006",
         "Supervisor---Investment-Operations_868626",
-        "Events---Sponsorships-Associate_868836"
+        "Events---Sponsorships-Associate_868836",
+        "Associate-Corporate-Counsel_868878"
     ],
     "Invesco": [
         "R-13647",
@@ -27969,7 +27991,8 @@
         "R-15030",
         "R-14849",
         "R-15096-1",
-        "R-14879"
+        "R-14879",
+        "R-14907"
     ],
     "PayPal": [
         "R0135744-1",
@@ -33851,7 +33874,8 @@
         "5b710ddc-460c-4254-9436-fde654b600ae",
         "e3d8dc06-da05-4e9d-a143-2e9c51fa3d51",
         "14879c7f-ded7-4e7f-932c-fb4a294afd68",
-        "ca74504a-9b91-4ce3-b0df-97919b46e749"
+        "ca74504a-9b91-4ce3-b0df-97919b46e749",
+        "fb969acc-dcbd-4124-b648-bfbfad7231b3"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -34834,7 +34858,8 @@
         "8103727",
         "8114364",
         "8109753",
-        "7847485"
+        "7847485",
+        "8119781"
     ],
     "Vercel": [
         "5624231004",
@@ -37773,7 +37798,8 @@
         "8119695",
         "8113282",
         "8054364",
-        "7961442"
+        "7961442",
+        "8121619"
     ],
     "Coursera": [
         "5839408004",
@@ -43870,7 +43896,8 @@
         "R2023032",
         "R2022881",
         "R2009008",
-        "R2023009"
+        "R2023009",
+        "R2022452"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -44120,7 +44147,8 @@
         "Senior-Software-Engineer_2021340",
         "Software-Engineering-Technical-Leader_2021769",
         "Software-Engineering-Technical-Leader_2021770",
-        "Software-Engineer--Backend--Hybrid-_2021774-1"
+        "Software-Engineer--Backend--Hybrid-_2021774-1",
+        "Software-Engineer_2020847"
     ],
     "Intel": [
         "R0283052",
@@ -49255,7 +49283,10 @@
         "R0000449053",
         "R0000449052",
         "R0000449051-1",
-        "R0000405029"
+        "R0000405029",
+        "R0000448774",
+        "R0000448910",
+        "R0000443251"
     ],
     "Zoom": [
         "R18188-1",
@@ -50428,7 +50459,8 @@
         "R-108432",
         "R-108550",
         "R-108526",
-        "R-108751"
+        "R-108751",
+        "R-108534"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -50912,7 +50944,8 @@
         "444f2997-715e-4a80-ba4d-9cb58eadfc69",
         "8b8c3147-54a5-4b11-9883-c29c6b8dac45",
         "35dace8c-97ac-474d-a02f-64de7dc8ff29",
-        "3ceb95fd-60ec-44db-bd28-0c0900636dc9"
+        "3ceb95fd-60ec-44db-bd28-0c0900636dc9",
+        "e5892dc9-9fa4-45ca-b4a2-561614c3293e"
     ],
     "Airtable": [
         "8403127002",
@@ -52026,7 +52059,9 @@
         "ef7e9ea6-633a-4a37-9b60-2c1209ba5f5b",
         "8c7f3824-d309-4bf4-a0bb-a88b45f66983",
         "277d62f5-7151-4e57-9ced-93b85e3b187a",
-        "af47c8f5-5b9a-4c54-8ae4-cc882669fb17"
+        "af47c8f5-5b9a-4c54-8ae4-cc882669fb17",
+        "19877c04-e3f8-4115-afcf-50a09b5de92a",
+        "dd45ec77-f58b-4103-ba7e-3a0fc3c0de96"
     ],
     "Netskope": [
         "7885748",
@@ -52326,7 +52361,8 @@
         "8119427",
         "7896688",
         "8119451",
-        "8092053"
+        "8092053",
+        "8048769"
     ],
     "Samsara": [
         "5747183",
@@ -54556,7 +54592,8 @@
         "R34226",
         "R35231-1",
         "R35223",
-        "R35318"
+        "R35318",
+        "R35277"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -56084,7 +56121,8 @@
         "Digital-Sales-Representative_REF087082W",
         "Sr-Manager--Visa-Government-Solutions--West---Central-Africa_REF087297W",
         "Manager--VCA-Implementation-Services--VIS---Brazil_REF087371W",
-        "Director--Visa-Consulting-and-Analytics---VCA---Core-Consulting-Practice_REF087185W"
+        "Director--Visa-Consulting-and-Analytics---VCA---Core-Consulting-Practice_REF087185W",
+        "Vice-President--Commercial-Finance---Deal-Management_REF087361W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -58507,7 +58545,8 @@
         "Sr-Manager--Merchandising---Softlines_10157565",
         "Digital-Marketing-Operations-Specialist--PH-_10157314",
         "Senior-Manager-Food---Beverage---Disneyland-Htel---F-H-NB---CDI_10158020",
-        "Managing-Producer---Graphics-Management_10157368-2"
+        "Managing-Producer---Graphics-Management_10157368-2",
+        "Category-Manager---Toys--MENA---fixed-term-contract-_10156172"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -59449,7 +59488,11 @@
         "R000107463",
         "R-2026-_R000107405",
         "R-2026-_R000107406",
-        "R000105660-1"
+        "R000105660-1",
+        "R000107462",
+        "R000107453",
+        "R000107471",
+        "R000099264"
     ],
     "Kyndryl": [
         "R-61530",
@@ -61258,7 +61301,8 @@
         "R-66784-1",
         "R-66670",
         "R-65752-1",
-        "R-65837-2"
+        "R-65837-2",
+        "R-66485-1"
     ],
     "Chime": [
         "8391630002",
@@ -62669,7 +62713,8 @@
         "8119091",
         "8119188",
         "8110755",
-        "8036390"
+        "8036390",
+        "8106844"
     ],
     "Kaseya": [
         "6022140004",
@@ -63602,7 +63647,9 @@
         "7900529",
         "8049743",
         "8049744",
-        "8049739"
+        "8049739",
+        "8102938",
+        "8119701"
     ],
     "Propel": [],
     "Canva": [],
