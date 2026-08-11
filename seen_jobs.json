@@ -1515,7 +1515,9 @@
         "8108891",
         "8118931",
         "8111799",
-        "8119834"
+        "8119834",
+        "8042309",
+        "8113401"
     ],
     "Figma": [
         "5426468004",
@@ -11378,7 +11380,8 @@
         "8110375",
         "8108538",
         "7793527",
-        "8114531"
+        "8114531",
+        "8120763"
     ],
     "GitHub": [],
     "Twilio": [
@@ -17129,7 +17132,11 @@
         "R-284464-1",
         "R-287216",
         "R-284443-1",
-        "R-287743"
+        "R-287743",
+        "R-286555",
+        "R-287993",
+        "R-281700-1",
+        "R-287940"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22386,7 +22393,10 @@
         "R354838",
         "R355426",
         "R355425",
-        "R355726-1"
+        "R355726-1",
+        "R354000-1",
+        "R354159-1",
+        "R353656"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23278,7 +23288,8 @@
         "Travel-Consultant_J-84148",
         "Travel-Consultant_J-84147",
         "Werkstudent--m-w-d-_J-80522-1",
-        "Business-Intelligence-Analyst--Hotel-Revenue-Data-_J-81305"
+        "Business-Intelligence-Analyst--Hotel-Revenue-Data-_J-81305",
+        "Subcontract-Administrator-Government-Contracts_J-82887-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -24639,7 +24650,8 @@
         "R265759",
         "R265957",
         "R265902",
-        "R265970"
+        "R265970",
+        "R265356"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -25158,7 +25170,8 @@
         "R6952",
         "R6922",
         "R7072",
-        "R7073-1"
+        "R7073-1",
+        "R7063"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -25506,7 +25519,8 @@
         "R32846",
         "R32229",
         "R32808",
-        "R32948"
+        "R32948",
+        "R32249"
     ],
     "Fiserv": [
         "R-10392824",
@@ -27146,7 +27160,9 @@
         "R-10399704",
         "R-10398403",
         "R-10399701",
-        "R-10399695"
+        "R-10399695",
+        "R-10400484",
+        "R-10400224-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -32701,7 +32717,8 @@
         "5230394008",
         "5383702008",
         "5382750008",
-        "5382744008"
+        "5382744008",
+        "5358148008"
     ],
     "Coinbase": [
         "7559052",
@@ -37426,7 +37443,8 @@
         "8120048",
         "8121350",
         "8091966",
-        "8119448"
+        "8119448",
+        "8114415"
     ],
     "Asana": [
         "7120496",
@@ -38183,7 +38201,8 @@
         "R170844-1",
         "R169646",
         "R170985",
-        "R170880-1"
+        "R170880-1",
+        "R171135"
     ],
     "Workday": [
         "R-0106509-1",
@@ -39253,7 +39272,8 @@
         "R-0108944",
         "R-0108018",
         "R-0109249",
-        "R-0108941"
+        "R-0108941",
+        "R-0108925"
     ],
     "CrowdStrike": [
         "R26911",
@@ -43897,7 +43917,8 @@
         "R2022881",
         "R2009008",
         "R2023009",
-        "R2022452"
+        "R2022452",
+        "R2022913"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -44148,7 +44169,9 @@
         "Software-Engineering-Technical-Leader_2021769",
         "Software-Engineering-Technical-Leader_2021770",
         "Software-Engineer--Backend--Hybrid-_2021774-1",
-        "Software-Engineer_2020847"
+        "Software-Engineer_2020847",
+        "Cloud-Engineer_2018124",
+        "Cloud-Engineer_2017918"
     ],
     "Intel": [
         "R0283052",
@@ -49286,7 +49309,14 @@
         "R0000405029",
         "R0000448774",
         "R0000448910",
-        "R0000443251"
+        "R0000443251",
+        "R0000448889-1",
+        "R0000448797",
+        "R0000448964",
+        "R0000449076",
+        "R0000448825",
+        "R0000448514",
+        "R0000449071"
     ],
     "Zoom": [
         "R18188-1",
@@ -50460,7 +50490,9 @@
         "R-108550",
         "R-108526",
         "R-108751",
-        "R-108534"
+        "R-108534",
+        "R-108711",
+        "R-108710"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -51311,7 +51343,8 @@
         "4721010005",
         "4721008005",
         "4722445005",
-        "4722811005"
+        "4722811005",
+        "4722928005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -52362,7 +52395,8 @@
         "7896688",
         "8119451",
         "8092053",
-        "8048769"
+        "8048769",
+        "8121707"
     ],
     "Samsara": [
         "5747183",
@@ -56122,7 +56156,9 @@
         "Sr-Manager--Visa-Government-Solutions--West---Central-Africa_REF087297W",
         "Manager--VCA-Implementation-Services--VIS---Brazil_REF087371W",
         "Director--Visa-Consulting-and-Analytics---VCA---Core-Consulting-Practice_REF087185W",
-        "Vice-President--Commercial-Finance---Deal-Management_REF087361W"
+        "Vice-President--Commercial-Finance---Deal-Management_REF087361W",
+        "Senior-Manager--Issuing-Solutions-Sales-Executive_REF085126W",
+        "Director--Software-Engineering_REF078975W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -58546,7 +58582,9 @@
         "Digital-Marketing-Operations-Specialist--PH-_10157314",
         "Senior-Manager-Food---Beverage---Disneyland-Htel---F-H-NB---CDI_10158020",
         "Managing-Producer---Graphics-Management_10157368-2",
-        "Category-Manager---Toys--MENA---fixed-term-contract-_10156172"
+        "Category-Manager---Toys--MENA---fixed-term-contract-_10156172",
+        "Finance-Manager--DTC--Wholesale---Marketing_10157277-1",
+        "Senior-Product-Manager_10156642-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -61552,7 +61590,8 @@
         "4703408006",
         "4698041006",
         "4700758006",
-        "4702155006"
+        "4702155006",
+        "4700431006"
     ],
     "Addepar": [
         "8594217002",
@@ -61748,7 +61787,8 @@
         "8685828002",
         "8693136002",
         "8683471002",
-        "8694586002"
+        "8694586002",
+        "8694045002"
     ],
     "Sezzle": [
         "7710056003",
@@ -63951,7 +63991,9 @@
         "8693957002",
         "8688631002",
         "8693500002",
-        "8695848002"
+        "8695848002",
+        "8684437002",
+        "8694517002"
     ],
     "Coupang": [
         "7915234",
