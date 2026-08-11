@@ -2757,7 +2757,8 @@
         "37f0a1b9-e5a1-45de-ada6-f8363bb877f6",
         "58dfc330-090b-4318-a395-cc7280cf5065",
         "7301faf3-d7ec-40d4-b49a-07ed20fc9691",
-        "7e4d512e-fc89-40fd-9a30-46c5459bbea5"
+        "7e4d512e-fc89-40fd-9a30-46c5459bbea5",
+        "24c4782a-e2d7-42a0-990d-e8ebd174ab57"
     ],
     "Groww": [
         "4787037101",
@@ -4839,7 +4840,8 @@
         "8a02d449-de17-4e37-823d-8911dc5663e7",
         "b0206e19-c969-443a-9e4d-3497befa696d",
         "860b2286-9b17-4791-a708-f11f35b8addb",
-        "5648edd6-b73b-4156-96f5-343f4d851610"
+        "5648edd6-b73b-4156-96f5-343f4d851610",
+        "0a05295a-5393-4c0d-bb0a-a0e7c97f1287"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -17118,7 +17120,9 @@
         "R-287556-1",
         "R-282559",
         "R-281497",
-        "R-286717"
+        "R-286717",
+        "R-284464-1",
+        "R-287216"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -24869,7 +24873,8 @@
         "Global-Compensation-Management--VP_44556",
         "BIP-Asia---Analyst_42055",
         "Education-Content-Strategist--Private-Wealth-Marketing--Associate_38151",
-        "Product-Manager--VP---BXCI-Technology_44616-2"
+        "Product-Manager--VP---BXCI-Technology_44616-2",
+        "Private-Equity-Valuations---Analytics--AVP_44613"
     ],
     "Capital Group": [
         "R6549",
@@ -27119,7 +27124,8 @@
         "R-10380586",
         "R-10399761",
         "R-10400276",
-        "R-10400279-1"
+        "R-10400279-1",
+        "R-10399704"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -32670,7 +32676,9 @@
         "5383596008",
         "5358092008",
         "5230394008",
-        "5383702008"
+        "5383702008",
+        "5382750008",
+        "5382744008"
     ],
     "Coinbase": [
         "7559052",
@@ -37391,7 +37399,9 @@
         "8111876",
         "8104333",
         "8120048",
-        "8121350"
+        "8121350",
+        "8091966",
+        "8119448"
     ],
     "Asana": [
         "7120496",
@@ -49230,7 +49240,22 @@
         "R0000448978",
         "R0000448598-1",
         "R0000448600-1",
-        "R0000449049"
+        "R0000449049",
+        "R0000446779",
+        "R0000448951",
+        "R0000448970",
+        "R0000447706-1",
+        "R0000445947",
+        "R0000449054-1",
+        "R0000449060",
+        "R0000449059",
+        "R0000449058",
+        "R0000449056",
+        "R0000449055",
+        "R0000449053",
+        "R0000449052",
+        "R0000449051-1",
+        "R0000405029"
     ],
     "Zoom": [
         "R18188-1",
@@ -50608,7 +50633,8 @@
         "Lead-Solutions-Consultant_113380-JOB",
         "Enterprise-Sales-Development-Representative_113405-JOB",
         "Executive-Assistant-to-the-CRO_113391-JOB",
-        "Director-of-Sales_113385-JOB"
+        "Director-of-Sales_113385-JOB",
+        "Director--Solutions-Consultants_113397-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -51611,7 +51637,8 @@
         "2e07fb9f-fefd-44a4-a6ef-235b4e567432",
         "59ae3776-2d0a-41b0-a5b2-ffd1262b92d2",
         "c826e3bf-f165-4b7c-af8e-301ad7e2dcda",
-        "af262319-1c4f-4a36-93bd-ef260cb02aed"
+        "af262319-1c4f-4a36-93bd-ef260cb02aed",
+        "4bc09b14-0389-40cd-9d5b-f5557f451d50"
     ],
     "Deel": [],
     "Polygon": [],
@@ -51998,7 +52025,8 @@
         "770aa01d-0ab5-4a15-b362-1a0b4d285ff3",
         "ef7e9ea6-633a-4a37-9b60-2c1209ba5f5b",
         "8c7f3824-d309-4bf4-a0bb-a88b45f66983",
-        "277d62f5-7151-4e57-9ced-93b85e3b187a"
+        "277d62f5-7151-4e57-9ced-93b85e3b187a",
+        "af47c8f5-5b9a-4c54-8ae4-cc882669fb17"
     ],
     "Netskope": [
         "7885748",
@@ -52294,7 +52322,11 @@
         "8093635",
         "8119567",
         "8110432",
-        "8121108"
+        "8121108",
+        "8119427",
+        "7896688",
+        "8119451",
+        "8092053"
     ],
     "Samsara": [
         "5747183",
@@ -56049,7 +56081,10 @@
         "Sr-Data-Scientist_REF081873W",
         "Product-Manager_REF087040W",
         "Workforce-Planning-Consultant_REF087126W",
-        "Digital-Sales-Representative_REF087082W"
+        "Digital-Sales-Representative_REF087082W",
+        "Sr-Manager--Visa-Government-Solutions--West---Central-Africa_REF087297W",
+        "Manager--VCA-Implementation-Services--VIS---Brazil_REF087371W",
+        "Director--Visa-Consulting-and-Analytics---VCA---Core-Consulting-Practice_REF087185W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -56919,7 +56954,8 @@
         "Data-Analytics-Engineer_26WD100390-1",
         "Data-Engineer-with-AI_26WD100418",
         "Senior-Software-Engineer_26WD94601-1",
-        "Public-Sector-Account-Executive_26WD100446-1"
+        "Public-Sector-Account-Executive_26WD100446-1",
+        "Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -58470,7 +58506,8 @@
         "Financial-Operations-Associate_10157650",
         "Sr-Manager--Merchandising---Softlines_10157565",
         "Digital-Marketing-Operations-Specialist--PH-_10157314",
-        "Senior-Manager-Food---Beverage---Disneyland-Htel---F-H-NB---CDI_10158020"
+        "Senior-Manager-Food---Beverage---Disneyland-Htel---F-H-NB---CDI_10158020",
+        "Managing-Producer---Graphics-Management_10157368-2"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -61219,7 +61256,9 @@
         "R-66360",
         "R-66364",
         "R-66784-1",
-        "R-66670"
+        "R-66670",
+        "R-65752-1",
+        "R-65837-2"
     ],
     "Chime": [
         "8391630002",
@@ -62629,7 +62668,8 @@
         "8104751",
         "8119091",
         "8119188",
-        "8110755"
+        "8110755",
+        "8036390"
     ],
     "Kaseya": [
         "6022140004",
@@ -64919,7 +64959,8 @@
         "8113518",
         "8118788",
         "8121121",
-        "8118882"
+        "8118882",
+        "8121392"
     ],
     "Roku": [
         "8023364",
