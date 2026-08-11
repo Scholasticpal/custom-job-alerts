@@ -1513,7 +1513,9 @@
         "8029043",
         "8109607",
         "8108891",
-        "8118931"
+        "8118931",
+        "8111799",
+        "8119834"
     ],
     "Figma": [
         "5426468004",
@@ -4835,7 +4837,8 @@
         "1e2dd04f-f7f8-4d9d-8a96-dc407ed31334",
         "2d4fc409-38b6-4bfc-acd7-81f532a6741c",
         "8a02d449-de17-4e37-823d-8911dc5663e7",
-        "b0206e19-c969-443a-9e4d-3497befa696d"
+        "b0206e19-c969-443a-9e4d-3497befa696d",
+        "860b2286-9b17-4791-a708-f11f35b8addb"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -7826,7 +7829,8 @@
         "8597642002",
         "8693320002",
         "8661245002",
-        "8015848002"
+        "8015848002",
+        "8656207002"
     ],
     "Rubrik": [
         "7310036",
@@ -9616,7 +9620,8 @@
         "9cdd2a84-394e-42c1-83ac-3017ad987b70",
         "16489251-0662-4dae-8f20-10a92cf3812a",
         "f0f6a4ac-7d5f-4c86-9946-85e2ebe15c11",
-        "4365dc2a-87b1-4751-bd30-c90c70dea92c"
+        "4365dc2a-87b1-4751-bd30-c90c70dea92c",
+        "21cc597a-2c55-4cfa-b2ba-9c7b5b70081b"
     ],
     "Cleartax": [
         "7931994",
@@ -10649,7 +10654,9 @@
         "7377124",
         "7379326",
         "8119068",
-        "7379324"
+        "7379324",
+        "8121248",
+        "8121255"
     ],
     "DoorDash": [
         "7927511",
@@ -22356,7 +22363,9 @@
         "R352721",
         "R355042",
         "R354114-1",
-        "R355542"
+        "R355542",
+        "R355395",
+        "R355394"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -35893,7 +35902,8 @@
         "8119756",
         "8065483",
         "8108390",
-        "8110518"
+        "8110518",
+        "8119297"
     ],
     "Datadog": [
         "7194969",
@@ -39199,7 +39209,8 @@
         "R-0109202",
         "R-0108944",
         "R-0108018",
-        "R-0109249"
+        "R-0109249",
+        "R-0108941"
     ],
     "CrowdStrike": [
         "R26911",
@@ -43840,7 +43851,9 @@
         "R2022809",
         "R2023101",
         "R2023032",
-        "R2022881"
+        "R2022881",
+        "R2009008",
+        "R2023009"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -49207,7 +49220,9 @@
         "R0000448728",
         "R0000448938",
         "R0000448957",
-        "R0000448978"
+        "R0000448978",
+        "R0000448598-1",
+        "R0000448600-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -51414,7 +51429,9 @@
         "427c8cbe-6823-4a0c-a59a-7a583be08fab",
         "43943c73-6640-443d-9b24-df510fce7499",
         "9c5e1ab3-883b-4d15-885c-76400da7ca11",
-        "e88931c0-d3fa-4e81-accc-45db823ea616"
+        "e88931c0-d3fa-4e81-accc-45db823ea616",
+        "6ebac60b-0758-4bb8-8299-44328d4926cb",
+        "96c74af4-b3d7-4960-a666-212ce4debac8"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -52267,7 +52284,8 @@
         "8110426",
         "8093635",
         "8119567",
-        "8110432"
+        "8110432",
+        "8121108"
     ],
     "Samsara": [
         "5747183",
@@ -52884,7 +52902,8 @@
         "8036774",
         "8103641",
         "8068523",
-        "8103806"
+        "8103806",
+        "8042109"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -56019,7 +56038,8 @@
         "Senior-Director--Issuing-Solutions-Sales-Executive-Canada_REF081491W",
         "Vice-President--Global-Benefits_REF087346W",
         "Sr-Data-Scientist_REF081873W",
-        "Product-Manager_REF087040W"
+        "Product-Manager_REF087040W",
+        "Workforce-Planning-Consultant_REF087126W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -56886,7 +56906,9 @@
         "Software-Development-Engineer--PSET-Product-Data-Forge-Data-_26WD100441-1",
         "Principal-Network-Engineer_26WD100250-1",
         "Data-Analytics-Engineer_26WD100393-1",
-        "Data-Analytics-Engineer_26WD100390-1"
+        "Data-Analytics-Engineer_26WD100390-1",
+        "Data-Engineer-with-AI_26WD100418",
+        "Senior-Software-Engineer_26WD94601-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -58436,7 +58458,8 @@
         "Executive-Assistant--Casting_10157431",
         "Financial-Operations-Associate_10157650",
         "Sr-Manager--Merchandising---Softlines_10157565",
-        "Digital-Marketing-Operations-Specialist--PH-_10157314"
+        "Digital-Marketing-Operations-Specialist--PH-_10157314",
+        "Senior-Manager-Food---Beverage---Disneyland-Htel---F-H-NB---CDI_10158020"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -59377,7 +59400,8 @@
         "R000105301",
         "R000107463",
         "R-2026-_R000107405",
-        "R-2026-_R000107406"
+        "R-2026-_R000107406",
+        "R000105660-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -65238,7 +65262,8 @@
         "8112716",
         "8119497",
         "8120309",
-        "8121076"
+        "8121076",
+        "8092397"
     ],
     "Spotify": [],
     "Snap": [],
