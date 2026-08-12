@@ -2762,7 +2762,8 @@
         "65abc1c0-8401-4576-84a2-d1ceb1ad613b",
         "7419c004-6966-4337-91ad-044e119052b4",
         "db9216e5-8701-41c8-92b9-140dafe1434d",
-        "046e79e9-fb09-4352-9c99-902fea9596d6"
+        "046e79e9-fb09-4352-9c99-902fea9596d6",
+        "e7c9c7e1-c768-43d5-92c6-def0306ff16f"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -5804,7 +5805,8 @@
         "8120611",
         "8120721",
         "8120259",
-        "8120458"
+        "8120458",
+        "8124191"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -8388,7 +8390,8 @@
         "8120738",
         "8114206",
         "8121019",
-        "8062434"
+        "8062434",
+        "8123938"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -12029,7 +12032,8 @@
         "8102918",
         "8115128",
         "8112725",
-        "7895241"
+        "7895241",
+        "8121976"
     ],
     "Dropbox": [
         "7646405",
@@ -17229,7 +17233,9 @@
         "R-287507",
         "R-286631",
         "R-288197-1",
-        "R-287769"
+        "R-287769",
+        "R-287178",
+        "R-288258"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -24776,7 +24782,10 @@
         "R265902",
         "R265970",
         "R265356",
-        "R265996"
+        "R265996",
+        "R265989",
+        "R265990",
+        "R265911"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -25653,7 +25662,8 @@
         "R32229",
         "R32808",
         "R32948",
-        "R32249"
+        "R32249",
+        "R32763"
     ],
     "Fiserv": [
         "R-10392824",
@@ -27311,7 +27321,8 @@
         "R-10399086",
         "R-10398417",
         "R-10398418",
-        "R-10400559-1"
+        "R-10400559-1",
+        "R-10399698"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -34088,7 +34099,8 @@
         "e3d8dc06-da05-4e9d-a143-2e9c51fa3d51",
         "14879c7f-ded7-4e7f-932c-fb4a294afd68",
         "ca74504a-9b91-4ce3-b0df-97919b46e749",
-        "fb969acc-dcbd-4124-b648-bfbfad7231b3"
+        "fb969acc-dcbd-4124-b648-bfbfad7231b3",
+        "9392cc22-547f-4089-8677-54f0d80c77a6"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -36167,7 +36179,8 @@
         "8119292",
         "8122025",
         "8119799",
-        "8081945"
+        "8081945",
+        "8113537"
     ],
     "Datadog": [
         "7194969",
@@ -38431,7 +38444,8 @@
         "R170985",
         "R170880-1",
         "R171135",
-        "R170952"
+        "R170952",
+        "R171066"
     ],
     "Workday": [
         "R-0106509-1",
@@ -44189,7 +44203,15 @@
         "R2023115-1",
         "R2023117",
         "R2022567",
-        "R2007596"
+        "R2007596",
+        "R2022227-1",
+        "R2022647",
+        "R2023102",
+        "R2023022-1",
+        "R2022962",
+        "R2022960",
+        "R2023045",
+        "R2022425"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -49641,7 +49663,18 @@
         "R0000448401",
         "R0000449095",
         "R0000449155",
-        "R0000449112"
+        "R0000449112",
+        "R0000449199",
+        "R0000449198",
+        "R0000449193",
+        "R0000449192",
+        "R0000449191",
+        "R0000449190",
+        "R0000449189",
+        "R0000449188",
+        "R0000449187",
+        "R0000449186",
+        "R0000449184"
     ],
     "Zoom": [
         "R18188-1",
@@ -51029,7 +51062,8 @@
         "Executive-Assistant-to-the-CRO_113391-JOB",
         "Director-of-Sales_113385-JOB",
         "Director--Solutions-Consultants_113397-JOB",
-        "Sr-Business-Analyst_113393-JOB"
+        "Sr-Business-Analyst_113393-JOB",
+        "Senior-Technical-Program-Manager_113233-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -56526,7 +56560,10 @@
         "Technical-Program-Manager_REF087156W",
         "Sr-Manager--Software-Engineering_REF087336W",
         "Director--Innovation--Asia-Pacific_REF087222W-1",
-        "Staff-ML-Scientist---PFI_REF079102W"
+        "Staff-ML-Scientist---PFI_REF079102W",
+        "Senior-Manager--Visa-Direct-Sales---AuNZPI_REF085158W",
+        "Sr-Client-Consulting-Manager---Migration-Practice_REF087252W-1",
+        "Go-To-Market-Senior-Manager_REF087053W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -58974,7 +59011,9 @@
         "Sr-Business-Analyst_10157209-1",
         "Manager--Corporate-Communications_10157224-1",
         "Recurring-Associate-Producer-I--Telestration-_10157285",
-        "Associate-Sourcing-Manager_10150310"
+        "Associate-Sourcing-Manager_10150310",
+        "Chef-fe--d-quipe-maintenance-htel---CDI--F-H-NB-_10158120",
+        "Transmission-Engineer_10155908"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -59929,7 +59968,8 @@
         "R000107505",
         "R000107407-1",
         "R000107478",
-        "R000107432"
+        "R000107432",
+        "R000107289"
     ],
     "Kyndryl": [
         "R-61530",
@@ -63175,7 +63215,8 @@
         "8036390",
         "8106844",
         "7588357",
-        "8113501"
+        "8113501",
+        "8121308"
     ],
     "Kaseya": [
         "6022140004",
@@ -65498,7 +65539,9 @@
         "8124309",
         "8121170",
         "8124387",
-        "8102544"
+        "8102544",
+        "8124465",
+        "8120875"
     ],
     "Roku": [
         "8023364",
@@ -65856,7 +65899,8 @@
         "8121076",
         "8092397",
         "8121498",
-        "8121996"
+        "8121996",
+        "7979561"
     ],
     "Spotify": [],
     "Snap": [],
