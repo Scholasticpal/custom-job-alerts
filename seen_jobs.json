@@ -8511,7 +8511,9 @@
         "R103574",
         "R103569-1",
         "R103577",
-        "R103576"
+        "R103576",
+        "R103572",
+        "R103511"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -17240,7 +17242,8 @@
         "R-287178",
         "R-288258",
         "R-288010",
-        "R-287819"
+        "R-287819",
+        "R-287449"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22528,7 +22531,8 @@
         "R355896",
         "R341829-1",
         "R355109-1",
-        "R355789"
+        "R355789",
+        "R355536"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24792,7 +24796,9 @@
         "R265996",
         "R265989",
         "R265990",
-        "R265911"
+        "R265911",
+        "R265817",
+        "R265067"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -44476,7 +44482,8 @@
         "Software-Engineer_2020847",
         "Cloud-Engineer_2018124",
         "Cloud-Engineer_2017918",
-        "Senior-Memory-Circuit-Design-Engineer_2019121"
+        "Senior-Memory-Circuit-Design-Engineer_2019121",
+        "Senior-Software-Engineer---Apps_2007357-1"
     ],
     "Intel": [
         "R0283052",
@@ -56574,7 +56581,8 @@
         "Staff-ML-Scientist---PFI_REF079102W",
         "Senior-Manager--Visa-Direct-Sales---AuNZPI_REF085158W",
         "Sr-Client-Consulting-Manager---Migration-Practice_REF087252W-1",
-        "Go-To-Market-Senior-Manager_REF087053W"
+        "Go-To-Market-Senior-Manager_REF087053W",
+        "Senior-Product-Manager_REF082380W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -59982,7 +59990,8 @@
         "R000107432",
         "R000107289",
         "R000107507",
-        "R000107290"
+        "R000107290",
+        "R000107291"
     ],
     "Kyndryl": [
         "R-61530",
@@ -61804,7 +61813,10 @@
         "R-65357",
         "R-63200-1",
         "R-66328-1",
-        "R-66052"
+        "R-66052",
+        "R-66795-1",
+        "R-66794-1",
+        "R-66660-1"
     ],
     "Chime": [
         "8391630002",
