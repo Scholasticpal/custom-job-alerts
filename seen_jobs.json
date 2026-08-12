@@ -11469,7 +11469,9 @@
         "8122489",
         "8125396",
         "8125398",
-        "8125428"
+        "8125428",
+        "8126607",
+        "8126606"
     ],
     "GitHub": [],
     "Twilio": [
@@ -17280,7 +17282,9 @@
         "R-287955",
         "R-269540",
         "R-286934",
-        "R-286933"
+        "R-286933",
+        "R-288460",
+        "R-280911-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22588,7 +22592,8 @@
         "R355962",
         "R355970-1",
         "R354958-1",
-        "R350915"
+        "R350915",
+        "R355414"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -25117,7 +25122,8 @@
         "Education-Content-Strategist--Private-Wealth-Marketing--Associate_38151",
         "Product-Manager--VP---BXCI-Technology_44616-2",
         "Private-Equity-Valuations---Analytics--AVP_44613",
-        "Blackstone-Private-Wealth---Product-Specialist--Credit---Vice-President_44112"
+        "Blackstone-Private-Wealth---Product-Specialist--Credit---Vice-President_44112",
+        "Blackstone-Private-Wealth---Internal-Sales--Associate--San-Francisco-_38854"
     ],
     "Capital Group": [
         "R6549",
@@ -27412,7 +27418,8 @@
         "R-10400574",
         "R-10400173",
         "R-10400491",
-        "R-10400423"
+        "R-10400423",
+        "R-10394483-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -32042,7 +32049,8 @@
         "4030aec5-ffd4-49a7-bc19-65e63c45e167",
         "7c1cd1ec-47a9-4d15-8eb9-2f44272db796",
         "ab9ddb8f-a479-4931-910a-cabcf205d95e",
-        "0b57e309-426d-4f5c-a28c-6dd941b84703"
+        "0b57e309-426d-4f5c-a28c-6dd941b84703",
+        "3c07323e-04da-4fff-b925-a60294941040"
     ],
     "Anthropic": [
         "5101832008",
@@ -33018,7 +33026,8 @@
         "5385588008",
         "5385590008",
         "5383204008",
-        "5385256008"
+        "5385256008",
+        "5386949008"
     ],
     "Coinbase": [
         "7559052",
@@ -33526,7 +33535,8 @@
         "8686353002",
         "8691572002",
         "8678376002",
-        "8697883002"
+        "8697883002",
+        "8694476002"
     ],
     "Reddit": [
         "7011741",
@@ -36290,7 +36300,8 @@
         "8107198",
         "8121863",
         "8065401",
-        "8122634"
+        "8122634",
+        "8122664"
     ],
     "Datadog": [
         "7194969",
@@ -37139,7 +37150,8 @@
         "8114585",
         "8119973",
         "8099069",
-        "7129425"
+        "7129425",
+        "7132132"
     ],
     "Elastic": [
         "7505982",
@@ -38165,7 +38177,8 @@
         "8054364",
         "7961442",
         "8121619",
-        "8100442"
+        "8100442",
+        "8044815"
     ],
     "Coursera": [
         "5839408004",
@@ -40603,7 +40616,8 @@
         "R29618",
         "R29639",
         "R29289",
-        "R29730"
+        "R29730",
+        "R23835"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -49842,7 +49856,9 @@
         "R0000449260",
         "R0000446991",
         "R0000449269",
-        "R0000449229"
+        "R0000449229",
+        "R0000446654",
+        "R0000449286-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -51887,7 +51903,8 @@
         "4722941005",
         "4722998005",
         "4723002005",
-        "4673312005"
+        "4673312005",
+        "4723638005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -52076,7 +52093,9 @@
         "6ebac60b-0758-4bb8-8299-44328d4926cb",
         "96c74af4-b3d7-4960-a666-212ce4debac8",
         "e906188a-e089-4b86-85b9-aad0d4413c68",
-        "04a50498-eefa-43db-b6d8-0aea8064d186"
+        "04a50498-eefa-43db-b6d8-0aea8064d186",
+        "2ae14044-6083-4371-8ab9-06954c162f9a",
+        "fd92000d-241c-4cf6-86b1-2d9ab796bcbf"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -56767,7 +56786,8 @@
         "Product-Manager---LAC-Acceptance-Growth-COE_REF084801W",
         "Manager--VCA-Implementation-Services--VIS-_REF087404W",
         "Sr-Manager--Data-Products---Strategy_REF087418W",
-        "Finance-Manager_REF087177W"
+        "Finance-Manager_REF087177W",
+        "Associate--Account-Executive--Sales_REF087256W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -57647,7 +57667,8 @@
         "Senior-DevOps-Developer_26WD100437-1",
         "Sr-Technical-Specialist--Emerging-Solutions--Water_26WD97468",
         "License-Compliance-Sales-Rep_26WD100490-1",
-        "Senior-Growth-Software-Engineer_25WD92032-1"
+        "Senior-Growth-Software-Engineer_25WD92032-1",
+        "Finance-Manager_26WD100502"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -59228,7 +59249,8 @@
         "Manager--Retirement-Programs_10157172",
         "Executive-Assistant_10157167",
         "KGO---Digital-Producer_10157910",
-        "Recurring-Remote-Production-Support-Content-Editor_10158180"
+        "Recurring-Remote-Production-Support-Content-Editor_10158180",
+        "Sr-Media-Delivery-Ops-Specialist_10152515"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -62163,7 +62185,8 @@
         "4719851005",
         "4715187005",
         "4721111005",
-        "4719441005"
+        "4719441005",
+        "4719546005"
     ],
     "Fireblocks": [
         "4655907006",
@@ -62479,7 +62502,8 @@
         "8692244002",
         "8680082002",
         "8554367002",
-        "8696485002"
+        "8696485002",
+        "8692240002"
     ],
     "Sezzle": [
         "7710056003",
@@ -63455,7 +63479,8 @@
         "8122478",
         "7471202",
         "8104905",
-        "8072548"
+        "8072548",
+        "8112706"
     ],
     "Kaseya": [
         "6022140004",
@@ -66150,7 +66175,9 @@
         "8121498",
         "8121996",
         "7979561",
-        "7808514"
+        "7808514",
+        "8126653",
+        "8125615"
     ],
     "Spotify": [],
     "Snap": [],
