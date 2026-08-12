@@ -1526,7 +1526,8 @@
         "8114272",
         "8115908",
         "8123027",
-        "8042913"
+        "8042913",
+        "8124304"
     ],
     "Figma": [
         "5426468004",
@@ -2445,7 +2446,8 @@
         "10498614",
         "10498616",
         "10498627",
-        "10498630"
+        "10498630",
+        "10499456"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -3478,7 +3480,8 @@
         "8090633",
         "8094284",
         "8095929",
-        "6576731"
+        "6576731",
+        "8120141"
     ],
     "Upstox": [],
     "Brex": [
@@ -4867,7 +4870,8 @@
         "b0206e19-c969-443a-9e4d-3497befa696d",
         "860b2286-9b17-4791-a708-f11f35b8addb",
         "5648edd6-b73b-4156-96f5-343f4d851610",
-        "0a05295a-5393-4c0d-bb0a-a0e7c97f1287"
+        "0a05295a-5393-4c0d-bb0a-a0e7c97f1287",
+        "197c1f16-647f-4b01-9b1b-f8b12cbec664"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -7870,7 +7874,8 @@
         "8696599002",
         "8637758002",
         "8569540002",
-        "8620637002"
+        "8620637002",
+        "8625656002"
     ],
     "Rubrik": [
         "7310036",
@@ -12684,7 +12689,8 @@
         "baf0eddc-4fac-4520-aa41-a922adbdefc0",
         "a91d38aa-6441-4479-a05f-e3ff2555699d",
         "2f1dba8f-bc99-4490-8200-d2cd7f92f544",
-        "fd8b953a-8157-4dda-a2a4-e9bbf4cf7a7f"
+        "fd8b953a-8157-4dda-a2a4-e9bbf4cf7a7f",
+        "128cee5f-5e62-43f4-8339-6ead8b5498e7"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -17214,7 +17220,11 @@
         "R-287286",
         "R-280742",
         "R-287894",
-        "R-288330"
+        "R-288330",
+        "R-287842",
+        "R-287043",
+        "R-287016",
+        "R-287507"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22496,7 +22506,10 @@
         "R355851",
         "R355110",
         "R355182",
-        "R355692"
+        "R355692",
+        "R354137-1",
+        "R352033",
+        "R355896"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -27619,7 +27632,9 @@
         "Events---Sponsorships-Associate_868836",
         "Associate-Corporate-Counsel_868878",
         "Lead-Investments-Learning-Consultant_868931",
-        "Digital-Product-Manager--AI-ML--Fintech-or-Technology---Driven-Organizations-_868953"
+        "Digital-Product-Manager--AI-ML--Fintech-or-Technology---Driven-Organizations-_868953",
+        "Sr-AI-ML-Engineer---GenAI---Agentic-AI_869128",
+        "GENAI-Product-Manager--Strong-Pedigree-Candidates--Quality-Tenure-Profiles-_869127-1"
     ],
     "Invesco": [
         "R-13647",
@@ -32882,7 +32897,8 @@
         "5357961008",
         "5386793008",
         "5386182008",
-        "5385599008"
+        "5385599008",
+        "5387027008"
     ],
     "Coinbase": [
         "7559052",
@@ -37637,7 +37653,8 @@
         "8114130",
         "8121037",
         "8099224",
-        "8122981"
+        "8122981",
+        "8121106"
     ],
     "Asana": [
         "7120496",
@@ -38401,7 +38418,8 @@
         "R169646",
         "R170985",
         "R170880-1",
-        "R171135"
+        "R171135",
+        "R170952"
     ],
     "Workday": [
         "R-0106509-1",
@@ -44411,7 +44429,8 @@
         "Software-Engineer--Backend--Hybrid-_2021774-1",
         "Software-Engineer_2020847",
         "Cloud-Engineer_2018124",
-        "Cloud-Engineer_2017918"
+        "Cloud-Engineer_2017918",
+        "Senior-Memory-Circuit-Design-Engineer_2019121"
     ],
     "Intel": [
         "R0283052",
@@ -49593,7 +49612,20 @@
         "R0000449170",
         "R0000449101",
         "R0000449161",
-        "R0000449057"
+        "R0000449057",
+        "R0000449035",
+        "R-2_R0000449021",
+        "R0000449017",
+        "R-5_R0000449019",
+        "R0000448929",
+        "R0000448368",
+        "R0000449168",
+        "R0000449024",
+        "R0000449022",
+        "R0000449091",
+        "R0000449100",
+        "R0000448402",
+        "R0000448401"
     ],
     "Zoom": [
         "R18188-1",
@@ -50773,7 +50805,8 @@
         "R-108216",
         "R-108700-1",
         "R-108771",
-        "R-108298-1"
+        "R-108298-1",
+        "R-108577"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -56470,7 +56503,11 @@
         "Senior-Manager--Strategic-Insights_REF087166W-1",
         "Senior-Technical-Program-Manager_REF087066W",
         "Sr-Manager--Cyber-and-Fraud-Risk-Practice_REF087355W-1",
-        "Senior-Marketing-Manager-Function---Worldwide-Marketing_REF087391W"
+        "Senior-Marketing-Manager-Function---Worldwide-Marketing_REF087391W",
+        "Associate-Technical-Program-Analyst_REF087184W",
+        "Technical-Program-Manager_REF087156W",
+        "Sr-Manager--Software-Engineering_REF087336W",
+        "Director--Innovation--Asia-Pacific_REF087222W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -61690,7 +61727,9 @@
         "R-66845-1",
         "R-66245-1",
         "R-65357",
-        "R-63200-1"
+        "R-63200-1",
+        "R-66328-1",
+        "R-66052"
     ],
     "Chime": [
         "8391630002",
@@ -63113,7 +63152,8 @@
         "8110755",
         "8036390",
         "8106844",
-        "7588357"
+        "7588357",
+        "8113501"
     ],
     "Kaseya": [
         "6022140004",
@@ -65431,7 +65471,9 @@
         "8123930",
         "8064140",
         "8124212",
-        "8124216"
+        "8124216",
+        "8113721",
+        "8124309"
     ],
     "Roku": [
         "8023364",
