@@ -5971,7 +5971,8 @@
         "8099779",
         "8099782",
         "8119466",
-        "8119340"
+        "8119340",
+        "8113986"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -11447,7 +11448,8 @@
         "8114384",
         "8120809",
         "7454878",
-        "8122187"
+        "8122187",
+        "8122489"
     ],
     "GitHub": [],
     "Twilio": [
@@ -17243,7 +17245,12 @@
         "R-288258",
         "R-288010",
         "R-287819",
-        "R-287449"
+        "R-287449",
+        "R-288171",
+        "R-287132-1",
+        "R-288160",
+        "R-287395",
+        "R-287453-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22532,7 +22539,13 @@
         "R341829-1",
         "R355109-1",
         "R355789",
-        "R355536"
+        "R355536",
+        "R355728",
+        "R352262",
+        "R355612",
+        "R349189",
+        "R353438",
+        "R349192"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23634,7 +23647,8 @@
         "Assistant-Vice-President--Business-Control-Specialist--APAC-Global-Treasury-and-Merchant-Operations--GTMO--Risk-and-Business-Controls_26027821-2",
         "Assistant-Vice-President--Events-Specialist-II--Southeast-Asia-_26027784",
         "Assistant-Vice-President--Business-Support-Professional--Global-Treasury-Merchants-Operations_26028078",
-        "Analyst-Associate--GCIB-Credit--Enterprise-Credit--Hong-Kong_26028354"
+        "Analyst-Associate--GCIB-Credit--Enterprise-Credit--Hong-Kong_26028354",
+        "Assistant-Vice-President-Vice-President--Global-Financial-Crimes-Investigator_26028873"
     ],
     "BlackRock": [
         "R263666",
@@ -24798,7 +24812,9 @@
         "R265990",
         "R265911",
         "R265817",
-        "R265067"
+        "R265067",
+        "R265842",
+        "R266042"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -27336,7 +27352,12 @@
         "R-10398418",
         "R-10400559-1",
         "R-10399698",
-        "R-10377802"
+        "R-10377802",
+        "R-10398495",
+        "R-10398555",
+        "R-10398524",
+        "R-10399702",
+        "R-10400178"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -32933,7 +32954,9 @@
         "5385599008",
         "5387027008",
         "5382792008",
-        "5387083008"
+        "5387083008",
+        "5385762008",
+        "5385764008"
     ],
     "Coinbase": [
         "7559052",
@@ -38137,7 +38160,8 @@
         "6122590004",
         "6122591004",
         "6128797004",
-        "6138174004"
+        "6138174004",
+        "6138720004"
     ],
     "Udemy": [
         "5424719004",
@@ -44483,7 +44507,9 @@
         "Cloud-Engineer_2018124",
         "Cloud-Engineer_2017918",
         "Senior-Memory-Circuit-Design-Engineer_2019121",
-        "Senior-Software-Engineer---Apps_2007357-1"
+        "Senior-Software-Engineer---Apps_2007357-1",
+        "Software-Engineer_2020686",
+        "Software-Engineer_2020685"
     ],
     "Intel": [
         "R0283052",
@@ -49692,7 +49718,26 @@
         "R0000449188",
         "R0000449187",
         "R0000449186",
-        "R0000449184"
+        "R0000449184",
+        "R0000448803",
+        "R0000449113",
+        "R0000449012",
+        "R0000448883-1",
+        "R0000449206",
+        "R0000448828",
+        "R0000448830",
+        "R0000449015",
+        "R0000449034",
+        "R0000449037",
+        "R0000449046",
+        "R0000449074",
+        "R0000448915",
+        "R0000449018",
+        "R0000449023",
+        "R0000449033",
+        "R0000449044",
+        "R0000449016",
+        "R0000449020"
     ],
     "Zoom": [
         "R18188-1",
@@ -50873,7 +50918,8 @@
         "R-108700-1",
         "R-108771",
         "R-108298-1",
-        "R-108577"
+        "R-108577",
+        "R-108532-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -51730,7 +51776,8 @@
         "4722928005",
         "4722819005",
         "4723290005",
-        "4722941005"
+        "4722941005",
+        "4722998005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -52490,7 +52537,8 @@
         "dd45ec77-f58b-4103-ba7e-3a0fc3c0de96",
         "fa780410-c7f3-4dce-8fed-819436951bc4",
         "25c51e84-817d-48e2-bcfd-c4da309d9d28",
-        "a0c072d1-d589-49c4-b375-26a789d7f582"
+        "a0c072d1-d589-49c4-b375-26a789d7f582",
+        "3af07dea-47cf-4ec4-9963-b032c4984bb4"
     ],
     "Netskope": [
         "7885748",
@@ -54717,7 +54765,8 @@
         "62f020db-2f45-4b9a-b1a9-742f62159bb9",
         "ebbcaaba-c758-44cf-8ae2-4113a80bb61c",
         "2d5ff162-4d57-415f-b968-ba6194da4ca2",
-        "5303302f-0b61-4bd1-8031-5ed6e96716df"
+        "5303302f-0b61-4bd1-8031-5ed6e96716df",
+        "353d04f8-a1d4-489a-836a-ac6f4a6d7443"
     ],
     "Smallcase": [],
     "KreditBee": [],
@@ -56582,7 +56631,8 @@
         "Senior-Manager--Visa-Direct-Sales---AuNZPI_REF085158W",
         "Sr-Client-Consulting-Manager---Migration-Practice_REF087252W-1",
         "Go-To-Market-Senior-Manager_REF087053W",
-        "Senior-Product-Manager_REF082380W"
+        "Senior-Product-Manager_REF082380W",
+        "Director----Acceptance-Solutions-Sales_REF087381W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -59032,7 +59082,8 @@
         "Recurring-Associate-Producer-I--Telestration-_10157285",
         "Associate-Sourcing-Manager_10150310",
         "Chef-fe--d-quipe-maintenance-htel---CDI--F-H-NB-_10158120",
-        "Transmission-Engineer_10155908"
+        "Transmission-Engineer_10155908",
+        "Logistics-Specialist_10157148-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -59991,7 +60042,10 @@
         "R000107289",
         "R000107507",
         "R000107290",
-        "R000107291"
+        "R000107291",
+        "R000104139",
+        "R000107493",
+        "R000107514"
     ],
     "Kyndryl": [
         "R-61530",
@@ -62270,7 +62324,8 @@
         "8694586002",
         "8694045002",
         "8692244002",
-        "8680082002"
+        "8680082002",
+        "8554367002"
     ],
     "Sezzle": [
         "7710056003",
@@ -63241,7 +63296,9 @@
         "8106844",
         "7588357",
         "8113501",
-        "8121308"
+        "8121308",
+        "8122478",
+        "7471202"
     ],
     "Kaseya": [
         "6022140004",
