@@ -1924,7 +1924,8 @@
         "6139275004",
         "6135721004",
         "6138907004",
-        "6141591004"
+        "6141591004",
+        "6142460004"
     ],
     "Amazon": [
         "3198115",
@@ -7932,7 +7933,10 @@
         "8511491002",
         "8701550002",
         "8610773002",
-        "8614977002"
+        "8614977002",
+        "8707779002",
+        "8661758002",
+        "8469086002"
     ],
     "Rubrik": [
         "7310036",
@@ -17377,7 +17381,9 @@
         "R-288236",
         "R-288569",
         "R-287330",
-        "R-286411"
+        "R-286411",
+        "R-288419",
+        "R-287008-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22713,7 +22719,8 @@
         "R355141-1",
         "R356080",
         "R356081",
-        "R355283"
+        "R355283",
+        "R353920"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23619,7 +23626,9 @@
         "Technical-Consultant_J-84114",
         "WFM-Analyst_J-83644",
         "Travel-Consultant-II_J-83873",
-        "Travel-Experience-Counselor-I_J-84276"
+        "Travel-Experience-Counselor-I_J-84276",
+        "Travel-Consultant--I_J-84011-1",
+        "Travel-Consultant-I_J-84281"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -27596,7 +27605,8 @@
         "R-10400429",
         "R-10398822",
         "R-10400680",
-        "R-10394533-1"
+        "R-10394533-1",
+        "R-10400681"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -28462,7 +28472,9 @@
         "R-15092-1",
         "R-15024",
         "R-14838",
-        "R-15047-1"
+        "R-15047-1",
+        "R-14671",
+        "R-14676"
     ],
     "PayPal": [
         "R0135744-1",
@@ -34605,7 +34617,8 @@
         "c0368ca1-8a7d-4212-b41e-4ed71a83c601",
         "98027ffd-552f-4c8d-9cc2-6fda4ec27b99",
         "41448609-24d6-44ea-a5ba-c87cf3dc3f0d",
-        "94752cfc-4a62-48c9-bcc0-e5f7f1905be6"
+        "94752cfc-4a62-48c9-bcc0-e5f7f1905be6",
+        "15cb24aa-e112-4be2-8386-3bc515989a08"
     ],
     "Affirm": [
         "7666190003",
@@ -35053,7 +35066,9 @@
         "7819451003",
         "7827037003",
         "7827039003",
-        "7854835003"
+        "7854835003",
+        "7849659003",
+        "7849657003"
     ],
     "Robinhood": [
         "7799902",
@@ -35441,7 +35456,8 @@
         "8119781",
         "8122623",
         "8114730",
-        "8128629"
+        "8128629",
+        "8077370"
     ],
     "Vercel": [
         "5624231004",
@@ -36541,7 +36557,8 @@
         "8122664",
         "6755285",
         "8089932",
-        "8109970"
+        "8109970",
+        "8126598"
     ],
     "Datadog": [
         "7194969",
@@ -37398,7 +37415,8 @@
         "8096400",
         "8126596",
         "8108631",
-        "8128450"
+        "8128450",
+        "8128810"
     ],
     "Elastic": [
         "7505982",
@@ -39924,7 +39942,8 @@
         "R-0109341",
         "R-0104538",
         "R-0109347",
-        "R-0109345"
+        "R-0109345",
+        "R-0109170"
     ],
     "CrowdStrike": [
         "R26911",
@@ -44669,7 +44688,9 @@
         "R2022848",
         "R2015584",
         "R2022973",
-        "R2010856"
+        "R2010856",
+        "R2019350",
+        "R2016455"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -44930,7 +44951,8 @@
         "Senior-Software-Engineer--Backend--Hybrid-_2021772",
         "Software-Engineering-Technical-Leader--Backend--Hybrid-_2021771",
         "Software-Engineering-Technical-Leader--Backend--Hybrid-_2021765",
-        "Lead-AI-Researcher--Hybrid-_2022010"
+        "Lead-AI-Researcher--Hybrid-_2022010",
+        "Software-Engineering-Technical-Leader_2021435"
     ],
     "Intel": [
         "R0283052",
@@ -50245,7 +50267,15 @@
         "R-2027---_R0000448569",
         "R-2027---_R0000449289",
         "R-2027---_R0000449282",
-        "R0000449439-1"
+        "R0000449439-1",
+        "R-2027-_R0000449467",
+        "R0000449273",
+        "R0000449443",
+        "R0000448405",
+        "R0000449309",
+        "R0000449452",
+        "R0000449437",
+        "R0000449448"
     ],
     "Zoom": [
         "R18188-1",
@@ -51856,7 +51886,8 @@
         "6137423004",
         "6135389004",
         "6138182004",
-        "6140340004"
+        "6140340004",
+        "6143278004"
     ],
     "Miro": [
         "030b1911-6146-4780-ad1d-f0b45d3ca791",
@@ -53077,7 +53108,8 @@
         "e09b5417-5876-452c-9523-106b2f8fbe84",
         "97e2d4bf-f32b-4671-bc03-09bcb129b1c7",
         "67cc7e3d-13d2-4a28-86ff-e2989d5c1659",
-        "49901a8e-3585-4649-b9f6-3e5a781d2f6b"
+        "49901a8e-3585-4649-b9f6-3e5a781d2f6b",
+        "b521aafa-aad9-4c7b-bb47-129ef5e63857"
     ],
     "Netskope": [
         "7885748",
@@ -54685,7 +54717,9 @@
         "8702288002",
         "8702391002",
         "8705198002",
-        "8705196002"
+        "8705196002",
+        "8708178002",
+        "8707700002"
     ],
     "Pinterest": [
         "7808602",
@@ -57218,7 +57252,10 @@
         "Senior-Engineering-Manager---DevOps--Developer-Experience-_REF087456W",
         "French-Speaking-Digital-Sales-Representative_REF087165W",
         "Senior-Manager-Sales--South-Africa-and-Southern-Africa---Visa-Government-Solutions_REF080927W-1",
-        "Accounts-Payable-Analyst_REF087437W-1"
+        "Accounts-Payable-Analyst_REF087437W-1",
+        "Business-Development-Representative-1_REF087474W",
+        "Senior-Director---Risk-for-Mexico_REF087430W",
+        "Vice-President--VCA---Super-Regionals_REF087431W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -59701,7 +59738,9 @@
         "Executive-Assistant_10155646",
         "Coordinator--Content-Operations---Business-Affairs--National-Geographic-_10157632",
         "Design-and-Motion-Graphics-Artist_10155419",
-        "Sr-Product-Software-Engineer_10154979"
+        "Sr-Product-Software-Engineer_10154979",
+        "Principal-Software-Engineer---Observability_10157430",
+        "Sr-Product-Software-Engineer_10155039"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -62637,7 +62676,8 @@
         "8612045002",
         "8694747002",
         "8684361002",
-        "8697910002"
+        "8697910002",
+        "8606280002"
     ],
     "FalconX": [
         "4677684005",
@@ -62668,7 +62708,8 @@
         "4715187005",
         "4721111005",
         "4719441005",
-        "4719546005"
+        "4719546005",
+        "4723805005"
     ],
     "Fireblocks": [
         "4655907006",
