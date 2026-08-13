@@ -2780,7 +2780,9 @@
         "71b275a7-5a99-4a01-8b6c-b6e239220c5b",
         "be34d54b-7a0e-4586-a6a5-9420adc007d0",
         "d072370d-13d1-4b9c-9c5d-7a24d30af7ec",
-        "e0a35dc2-2d66-4080-a7ff-3928bf2bca03"
+        "e0a35dc2-2d66-4080-a7ff-3928bf2bca03",
+        "15c1193c-635f-40aa-bfd2-959e13431232",
+        "2c00736e-d948-4697-86f4-f15aa7fa4dba"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -4899,7 +4901,9 @@
         "3d396d95-cef6-4a5f-bd07-8b21944533a0",
         "494a9ea6-28af-4334-b887-5d1e6b57060c",
         "513cbd46-b821-437b-96cb-61241bc0b486",
-        "a18c7d8e-56ad-4a98-91f0-c93a53ec9160"
+        "a18c7d8e-56ad-4a98-91f0-c93a53ec9160",
+        "19100ec9-9016-40d1-8ea0-6694a989bfae",
+        "11bf5c25-3c9c-451f-8844-4f6d9b5817da"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8431,7 +8435,8 @@
         "8122039",
         "8122076",
         "8097585",
-        "8108721"
+        "8108721",
+        "8121716"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -17331,7 +17336,8 @@
         "R-286201",
         "R-288279-1",
         "R-287513",
-        "R-265013-1"
+        "R-265013-1",
+        "R-288314"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22654,7 +22660,11 @@
         "R355909",
         "R349213-1",
         "R356070",
-        "R341675"
+        "R341675",
+        "R331289",
+        "R331285",
+        "R355839",
+        "R348963-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24943,7 +24953,8 @@
         "R265814",
         "R265529",
         "R265932",
-        "R265933"
+        "R265933",
+        "R265897"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -25198,7 +25209,12 @@
         "Product-Manager--VP---BXCI-Technology_44616-2",
         "Private-Equity-Valuations---Analytics--AVP_44613",
         "Blackstone-Private-Wealth---Product-Specialist--Credit---Vice-President_44112",
-        "Blackstone-Private-Wealth---Internal-Sales--Associate--San-Francisco-_38854"
+        "Blackstone-Private-Wealth---Internal-Sales--Associate--San-Francisco-_38854",
+        "AVP---People-Analytics--Data-Scientist_43856",
+        "GP-Stakes-Strategic-Value--Analyst_44673",
+        "VP---Operations--Enterprise-Technology_43762",
+        "BXTI---SVP---HR-Tech_38492",
+        "VP---Software-Engineer_44164-1"
     ],
     "Capital Group": [
         "R6549",
@@ -27509,7 +27525,9 @@
         "R-1_R-10399017",
         "R-10399699",
         "R-10399693",
-        "R-10399687"
+        "R-10399687",
+        "R-10400652",
+        "R-10399055"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -27843,7 +27861,9 @@
         "SVP--Institutional-Sales-Manager---Taft-Hartley_868934",
         "Product-Specialist-Envestnet_868975",
         "Associate-Compensation-Analyst_868718",
-        "Principal-IS-Analyst-IT-Security_869092"
+        "Principal-IS-Analyst-IT-Security_869092",
+        "Associate-Distribution-Data-Management-Analyst_869165",
+        "Associate-Distribution-Data-Management-Analyst_869164-1"
     ],
     "Invesco": [
         "R-13647",
@@ -39795,7 +39815,9 @@
         "R-0109151-1",
         "R-0109305",
         "R-0109323",
-        "R-0109321"
+        "R-0109321",
+        "R-0109019",
+        "R-0108639"
     ],
     "CrowdStrike": [
         "R26911",
@@ -50068,7 +50090,10 @@
         "R0000449275",
         "R0000449376",
         "R0000449375",
-        "R0000449374"
+        "R0000449374",
+        "R0000449385",
+        "R0000449382",
+        "R0000449381"
     ],
     "Zoom": [
         "R18188-1",
@@ -51259,7 +51284,9 @@
         "R-108390-1",
         "R-108695-1",
         "R-108530",
-        "R-108335"
+        "R-108335",
+        "R-108515",
+        "R-108702"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -57023,7 +57050,8 @@
         "Sr-Contracts-Analyst_REF084996W",
         "Director--Regional-Tech-Partnerships_REF085101W-1",
         "SW-Engineer_REF078676W",
-        "Senior-Engineering-Manager---DevOps--Developer-Experience-_REF087456W"
+        "Senior-Engineering-Manager---DevOps--Developer-Experience-_REF087456W",
+        "French-Speaking-Digital-Sales-Representative_REF087165W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -59494,7 +59522,8 @@
         "Seasonal-NFL-GameDay-Morning-Production-Assistant-_10156794",
         "Lead-Product-Manager_10154386",
         "Lead-Compositor----ILM-London_10158239",
-        "Post-Production-Coordinator_10157155"
+        "Post-Production-Coordinator_10157155",
+        "Senior-Counsel--DTC-Product_10157949"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -62302,7 +62331,8 @@
         "R-66853",
         "R-65454-1",
         "R-64655",
-        "R-66900"
+        "R-66900",
+        "R-66467"
     ],
     "Chime": [
         "8391630002",
