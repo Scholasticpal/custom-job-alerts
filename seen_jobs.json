@@ -1549,7 +1549,9 @@
         "8119697",
         "8130052",
         "8114153",
-        "8130578"
+        "8130578",
+        "8128499",
+        "8122188"
     ],
     "Figma": [
         "5426468004",
@@ -7979,7 +7981,8 @@
         "8709386002",
         "8682223002",
         "8715639002",
-        "6117756002"
+        "6117756002",
+        "8693555002"
     ],
     "Rubrik": [
         "7310036",
@@ -17484,7 +17487,8 @@
         "R-288045",
         "R-287202",
         "R-287044",
-        "R-288442"
+        "R-288442",
+        "R-287315-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22853,7 +22857,10 @@
         "R356200-1",
         "R352021",
         "R356265",
-        "R356072"
+        "R356072",
+        "R354037",
+        "R356074",
+        "R356073"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23013,7 +23020,8 @@
         "8104832",
         "7557793",
         "5555988",
-        "7457888"
+        "7457888",
+        "6250379"
     ],
     "PayU": [],
     "American Express": [
@@ -27784,7 +27792,14 @@
         "R-10400805",
         "R-10395293-1",
         "R-10395292",
-        "R-10387972"
+        "R-10387972",
+        "R-10387974",
+        "R-10399875",
+        "R-10395310",
+        "R-10387973",
+        "R-10394531",
+        "R-10394520",
+        "R-10400688"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -32460,7 +32475,9 @@
         "d45d6005-ad46-4c3c-8cfc-d312bffe01d5",
         "9675cfd2-a983-49d7-80db-d3d58c42eb08",
         "d5de4cd0-9c4e-4266-93f2-8c1d5fc4a912",
-        "978a22a5-0f0f-4da7-811e-a4b2b2fbe659"
+        "978a22a5-0f0f-4da7-811e-a4b2b2fbe659",
+        "a452882b-bb56-4a99-83e6-b8b5d21db3ee",
+        "2b59ceca-992c-4b98-bc05-af5ba379bc8d"
     ],
     "Anthropic": [
         "5101832008",
@@ -33457,7 +33474,9 @@
         "5388719008",
         "5390022008",
         "5390028008",
-        "5387829008"
+        "5387829008",
+        "5390728008",
+        "5379806008"
     ],
     "Coinbase": [
         "7559052",
@@ -34662,7 +34681,10 @@
         "72532ca0-eb7d-4d9e-b982-50f52614fca9",
         "f1f9e19d-cbf3-49eb-9824-d04adf2e3d75",
         "77861b77-9493-4869-bbaf-eaa11477a251",
-        "d87154d4-d3c5-48cf-8e83-559436f27133"
+        "d87154d4-d3c5-48cf-8e83-559436f27133",
+        "e66c6658-9e65-4c58-8db2-844628b6e8f8",
+        "3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+        "e32799d2-8ef8-4803-8189-c72514afa816"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -35669,7 +35691,8 @@
         "8077370",
         "8044263",
         "8067604",
-        "8072886"
+        "8072886",
+        "8097597"
     ],
     "Vercel": [
         "5624231004",
@@ -41157,7 +41180,10 @@
         "R29729",
         "R29816",
         "R29718",
-        "R29813"
+        "R29813",
+        "R29829",
+        "R29738",
+        "R29786"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -50635,7 +50661,8 @@
         "R0000449512",
         "R0000397589",
         "R0000448064",
-        "R0000449592"
+        "R0000449592",
+        "R0000449457"
     ],
     "Zoom": [
         "R18188-1",
@@ -54433,7 +54460,9 @@
         "8129161",
         "8121318",
         "8121312",
-        "8029099"
+        "8029099",
+        "8130819",
+        "7266439"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -55587,7 +55616,8 @@
         "8089344",
         "7479359",
         "7770911",
-        "8109351"
+        "8109351",
+        "8103612"
     ],
     "Twitch": [
         "8334413002",
@@ -57669,7 +57699,8 @@
         "Marketing-Data-Engineer_REF087447W",
         "Senior-Manager--Strategic-Sourcing_REF087467W",
         "Lead-Software-Engineer_REF072039W",
-        "SVP--Head-of-Commercial---Money-Movement-Solutions---Latin-America---Caribbean_REF087476W"
+        "SVP--Head-of-Commercial---Money-Movement-Solutions---Latin-America---Caribbean_REF087476W",
+        "Sr-Director--Global-Service-Experience-Optimization--VCS-and-Visa-Spend-Clarity-for-Enterprise_REF087460W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -60172,7 +60203,12 @@
         "Senior-Electrical-Engineer--Utility-Projects_10155019-1",
         "Content-Security-Technical-Program-Manager_10141921",
         "Creative-Manager--Original-Productions_10157133",
-        "KGO---Senior-Digital-Producer_10157909"
+        "KGO---Senior-Digital-Producer_10157909",
+        "Principal-Software-Engineer_10157552-1",
+        "Forward-Deployed-Engineer_10158258-2",
+        "Executive-Assistant--Disney-Entertainment---ESPN-Product---Technology--DEEPT-_10156453",
+        "Director--Global-Export-Controls---Technical-Governance_10156966",
+        "Executive-Director--Global-Trade-Services-and-Customs-Operations_10156969"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -67674,7 +67710,10 @@
         "6139762004",
         "6144078004",
         "6144329004",
-        "6144080004"
+        "6144080004",
+        "6144437004",
+        "6144540004",
+        "6144551004"
     ],
     "Booking.com": [],
     "Myntra": [],
