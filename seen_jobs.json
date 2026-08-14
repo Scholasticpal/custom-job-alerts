@@ -2803,7 +2803,8 @@
         "9e47404d-ae39-4080-b054-4b5bdd35cec7",
         "a9c7f587-abf2-4675-a721-37cd7e1048fe",
         "907ad921-9284-42de-ab6a-1a27ecf98b61",
-        "105cca3d-9d30-4db7-8e4f-3a546ec8a056"
+        "105cca3d-9d30-4db7-8e4f-3a546ec8a056",
+        "7fcdd08a-659e-404b-954b-2c887ad9ed90"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -5878,7 +5879,8 @@
         "8125981",
         "8128736",
         "8129371",
-        "8129728"
+        "8129728",
+        "8127647"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -17458,7 +17460,8 @@
         "R-267625",
         "R-287213",
         "R-288487",
-        "R-288056"
+        "R-288056",
+        "R-288436"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22816,7 +22819,10 @@
         "R353851",
         "R349986",
         "R354578",
-        "R356211-1"
+        "R356211-1",
+        "R356130",
+        "R353585",
+        "R356209"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23727,7 +23733,8 @@
         "Travel-Experience-Counselor-I_J-84276",
         "Travel-Consultant--I_J-84011-1",
         "Travel-Consultant-I_J-84281",
-        "Product-Support-Analyst_J-83933"
+        "Product-Support-Analyst_J-83933",
+        "Team-Leader---Financial-Reconciliations---Data-Admin---Meetings---Events--Center-of-Excellence-_J-84088-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -27730,7 +27737,9 @@
         "R-10398794",
         "R-10387970",
         "R-10398802",
-        "R-10399873"
+        "R-10399873",
+        "R-10395309",
+        "R-10400711"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -36708,7 +36717,8 @@
         "8109970",
         "8126598",
         "8128855",
-        "8125813"
+        "8125813",
+        "8121860"
     ],
     "Datadog": [
         "7194969",
@@ -38601,7 +38611,8 @@
         "7961442",
         "8121619",
         "8100442",
-        "8044815"
+        "8044815",
+        "8107419"
     ],
     "Coursera": [
         "5839408004",
@@ -40106,7 +40117,9 @@
         "R-0109358-1",
         "R-0109190",
         "R-0109329-1",
-        "R-0109187-1"
+        "R-0109187-1",
+        "R-0109077",
+        "R-0109076"
     ],
     "CrowdStrike": [
         "R26911",
@@ -41071,7 +41084,8 @@
         "R29289",
         "R29730",
         "R23835",
-        "R28669-1"
+        "R28669-1",
+        "R28831"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -50519,7 +50533,10 @@
         "R0000449373",
         "R0000449547",
         "R0000449546",
-        "R0000449545"
+        "R0000449545",
+        "R0000449553",
+        "R0000449490",
+        "R0000449554"
     ],
     "Zoom": [
         "R18188-1",
@@ -53675,7 +53692,9 @@
         "8121743",
         "8074980",
         "8122203",
-        "8124457"
+        "8124457",
+        "8111970",
+        "8111988"
     ],
     "Samsara": [
         "5747183",
@@ -58415,7 +58434,9 @@
         "Senior-Site-Reliability-Developer_26WD97971-1",
         "Renewals-Specialist-Korea_26WD100395-1",
         "Principal-Software-Engineer---Backend_26WD97363",
-        "Senior-Director--Product-Management---Agentic-Experience-Platform_26WD100475-1"
+        "Senior-Director--Product-Management---Agentic-Experience-Platform_26WD100475-1",
+        "Intern--Research-Associate--HCI-_26WD100593-1",
+        "Fusion-Sales-Representative--Dutch-speaker_26WD100566"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -63335,7 +63356,8 @@
         "8692240002",
         "8706718002",
         "8632956002",
-        "8693139002"
+        "8693139002",
+        "8709078002"
     ],
     "Sezzle": [
         "7710056003",
@@ -65287,7 +65309,11 @@
         "8129930",
         "8129932",
         "8129914",
-        "8129913"
+        "8129913",
+        "8125695",
+        "8129964",
+        "8129991",
+        "8125697"
     ],
     "Propel": [],
     "Canva": [],
@@ -67300,7 +67326,8 @@
         "8126023",
         "8122997",
         "8123029",
-        "8121910"
+        "8121910",
+        "8130034"
     ],
     "Zillow": [],
     "Epic Games": [
