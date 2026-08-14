@@ -1542,7 +1542,8 @@
         "8128496",
         "8128634",
         "8128900",
-        "8069943"
+        "8069943",
+        "8041076"
     ],
     "Figma": [
         "5426468004",
@@ -2470,7 +2471,8 @@
         "10500468",
         "10500649",
         "10501187",
-        "10501767"
+        "10501767",
+        "10502034"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -3372,7 +3374,9 @@
         "4722154005",
         "4722162005",
         "4721874005",
-        "4723737005"
+        "4723737005",
+        "4724183005",
+        "4723067005"
     ],
     "Rippling": [],
     "Slice": [
@@ -4920,7 +4924,9 @@
         "513cbd46-b821-437b-96cb-61241bc0b486",
         "a18c7d8e-56ad-4a98-91f0-c93a53ec9160",
         "19100ec9-9016-40d1-8ea0-6694a989bfae",
-        "11bf5c25-3c9c-451f-8844-4f6d9b5817da"
+        "11bf5c25-3c9c-451f-8844-4f6d9b5817da",
+        "b7538973-5914-4e7a-927d-3d46689ddd5a",
+        "be484058-3628-4b82-9342-6d1864c2d4a0"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -17413,7 +17419,8 @@
         "R-280449",
         "R-280615",
         "R-287529",
-        "R-287187"
+        "R-287187",
+        "R-288100"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23668,7 +23675,8 @@
         "Travel-Consultant-II_J-83873",
         "Travel-Experience-Counselor-I_J-84276",
         "Travel-Consultant--I_J-84011-1",
-        "Travel-Consultant-I_J-84281"
+        "Travel-Consultant-I_J-84281",
+        "Product-Support-Analyst_J-83933"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -23881,7 +23889,9 @@
         "Vice-President---Director--Treasury-Sales-Officer--Global-Commercial-Banking---Global-Payments-Solutions---Tokyo_26029089",
         "Global-Commercial-Banking-Treasury-Sales-Associate--Global-Payments-Solutions--Sydney_26029106-1",
         "Administrative-Assistant---Regional-Management---India_26029133",
-        "Vice-President--Information-Security-Threat---Insider-Risk-Management-Specialist-Sydney--Australia_26029345"
+        "Vice-President--Information-Security-Threat---Insider-Risk-Management-Specialist-Sydney--Australia_26029345",
+        "Assistant-Vice-President-Vice-President--Global-Financial-Crimes-Investigator_26029348",
+        "Assistant-Vice-President-Vice-President--Global-Financial-Crimes-Investigator_26029350"
     ],
     "BlackRock": [
         "R263666",
@@ -25743,7 +25753,8 @@
         "EASE-and-Infrastructure-Internship---Year-Round_34645",
         "Building-Engineer_34685-1",
         "Technology-Operations-Engineer-I_34708",
-        "Sales-Associate---CD-S_34674"
+        "Sales-Associate---CD-S_34674",
+        "TPRM-Belfast-Intern-2026-2027_34733"
     ],
     "FactSet": [
         "R32107-1",
@@ -27656,7 +27667,9 @@
         "R-10395283",
         "R-10400674",
         "R-10399772",
-        "R-10399087"
+        "R-10399087",
+        "R-10399125",
+        "R-1_R-10399020"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -27992,7 +28005,9 @@
         "Associate-Compensation-Analyst_868718",
         "Principal-IS-Analyst-IT-Security_869092",
         "Associate-Distribution-Data-Management-Analyst_869165",
-        "Associate-Distribution-Data-Management-Analyst_869164-1"
+        "Associate-Distribution-Data-Management-Analyst_869164-1",
+        "Distribution-Data-Management-Analyst_869166",
+        "Distribution-Data-Management-Analyst_869167-1"
     ],
     "Invesco": [
         "R-13647",
@@ -38144,7 +38159,8 @@
         "8053905",
         "8108464",
         "8127255",
-        "8129434"
+        "8129434",
+        "8067197"
     ],
     "Asana": [
         "7120496",
@@ -38916,7 +38932,8 @@
         "R171135",
         "R170952",
         "R171066",
-        "R171238"
+        "R171238",
+        "R170949"
     ],
     "Workday": [
         "R-0106509-1",
@@ -44774,7 +44791,8 @@
         "R2014880",
         "R2023144-1",
         "R2003911",
-        "R2013609"
+        "R2013609",
+        "R2021695"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -50389,7 +50407,13 @@
         "R0000449515",
         "R0000449469",
         "R0000449519",
-        "R0000449449"
+        "R0000449449",
+        "R0000449423",
+        "R0000449313",
+        "R0000449463",
+        "R0000449514",
+        "R0000449484",
+        "R0000449444"
     ],
     "Zoom": [
         "R18188-1",
@@ -57392,7 +57416,8 @@
         "Director--Elite-Care--Client-Services_REF087215W-1",
         "Manager_REF087352W",
         "Director--Client-Consulting_REF087351W",
-        "Senior-Financial-Analyst--Global-Revenue-Operations_REF087380W"
+        "Senior-Financial-Analyst--Global-Revenue-Operations_REF087380W",
+        "Staff-SW-Engineer_REF081657W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -59882,7 +59907,8 @@
         "Team-Ldr-Warehouse_DLP-0000448645",
         "Executive-Assistant_10157218",
         "Sr-Salesforce-Developer_10146951-1",
-        "Team-Coordinator--Disney-Destinations-International_10157857"
+        "Team-Coordinator--Disney-Destinations-International_10157857",
+        "Senior-Client-Partner--Disney-Advertising_10158012"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -62711,7 +62737,9 @@
         "R-66632-1",
         "R-66357",
         "R-66469",
-        "R-51736"
+        "R-51736",
+        "R-66885",
+        "R-54037-1"
     ],
     "Chime": [
         "8391630002",
