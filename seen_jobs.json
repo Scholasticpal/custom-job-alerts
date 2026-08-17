@@ -4960,7 +4960,8 @@
         "11bf5c25-3c9c-451f-8844-4f6d9b5817da",
         "b7538973-5914-4e7a-927d-3d46689ddd5a",
         "be484058-3628-4b82-9342-6d1864c2d4a0",
-        "c173ccbe-d2ae-42f4-9cd5-72f69ff45a0f"
+        "c173ccbe-d2ae-42f4-9cd5-72f69ff45a0f",
+        "5d6ad294-c8ac-49b6-9142-e7d67cb6af8a"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -9807,7 +9808,8 @@
         "8122101",
         "8128606",
         "8127210",
-        "8129566"
+        "8129566",
+        "8129796"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -10894,7 +10896,11 @@
         "8127463",
         "8131817",
         "8129591",
-        "8121075"
+        "8121075",
+        "8131887",
+        "8131899",
+        "8131870",
+        "8131913"
     ],
     "DoorDash": [
         "7927511",
@@ -17538,7 +17544,8 @@
         "R-287899",
         "R-287485-1",
         "R-288109",
-        "R-282373-1"
+        "R-282373-1",
+        "R-288316"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -25239,7 +25246,8 @@
         "R264584",
         "R266033",
         "R265992",
-        "R265849-1"
+        "R265849-1",
+        "R261170"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -25775,7 +25783,8 @@
         "R7074",
         "R7046",
         "R6717",
-        "R7014"
+        "R7014",
+        "R7043-4"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -28747,7 +28756,9 @@
         "R-14676",
         "R-14569",
         "R-14994",
-        "R-12479-1"
+        "R-12479-1",
+        "R-15005",
+        "R-15007"
     ],
     "PayPal": [
         "R0135744-1",
@@ -33577,7 +33588,8 @@
         "5391787008",
         "5391782008",
         "5392335008",
-        "5390155008"
+        "5390155008",
+        "5390778008"
     ],
     "Coinbase": [
         "7559052",
@@ -38811,7 +38823,8 @@
         "8100442",
         "8044815",
         "8107419",
-        "8104491"
+        "8104491",
+        "8131896"
     ],
     "Coursera": [
         "5839408004",
@@ -41320,7 +41333,8 @@
         "R29761",
         "R29799",
         "R29806",
-        "R29318-1"
+        "R29318-1",
+        "R29802"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -45140,7 +45154,8 @@
         "R2023072-1",
         "R2022909",
         "R2022872",
-        "R2023224"
+        "R2023224",
+        "R2011207"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -50837,7 +50852,19 @@
         "R0000449668",
         "R0000448838",
         "R0000449708",
-        "R0000447590"
+        "R0000447590",
+        "R0000449581",
+        "R0000449641",
+        "R0000449341-1",
+        "R0000449631",
+        "R0000449681",
+        "R0000449721",
+        "R0000449612",
+        "R0000449622",
+        "R0000449602",
+        "R0000449472",
+        "R0000449682",
+        "R0000449662"
     ],
     "Zoom": [
         "R18188-1",
@@ -53693,7 +53720,8 @@
         "67cc7e3d-13d2-4a28-86ff-e2989d5c1659",
         "49901a8e-3585-4649-b9f6-3e5a781d2f6b",
         "b521aafa-aad9-4c7b-bb47-129ef5e63857",
-        "7bfaffd9-9b7a-49ef-af01-500204d222f6"
+        "7bfaffd9-9b7a-49ef-af01-500204d222f6",
+        "672e4b05-ec90-443e-aee1-4a4d412e0096"
     ],
     "Netskope": [
         "7885748",
@@ -56038,7 +56066,8 @@
         "892ad297-ed0e-4f9c-98b8-fd30358a5517",
         "ecd7a54f-218c-47a0-8379-aeb272c35bcb",
         "b099e4fe-87cf-44ad-89b6-21edfe60958b",
-        "aa98c726-9336-4d99-be08-20050eaf309c"
+        "aa98c726-9336-4d99-be08-20050eaf309c",
+        "367dd077-3ce8-4b7b-bc9f-1726f49ffbce"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -57894,7 +57923,10 @@
         "People-Solutions-Associate_REF087410W-1",
         "Sr-Manager--Commercial-Sales-Executive--Sydney-or-Melbourne-_REF086851W",
         "Finance-Analyst_REF087497W",
-        "Sr-Director--Strategy-and-Business-Transformation---Vietnam_REF087498W"
+        "Sr-Director--Strategy-and-Business-Transformation---Vietnam_REF087498W",
+        "Cybersecurity-Sales-Lead_REF087354W-1",
+        "Sr-SRE_REF087335W",
+        "Partnerships-Director--Visa-Government-Solutions--Asia-Pacific_REF081651W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -58785,7 +58817,8 @@
         "Fusion-Sales-Representative--Dutch-speaker_26WD100566",
         "AI-Builder--Principal-Experience-Designer_26WD100467",
         "AI-Builder--Principal-Product-Manager_26WD100466-1",
-        "Technical-Sales-Specialist_26WD100445"
+        "Technical-Sales-Specialist_26WD100445",
+        "LC-Inside-Sales_26WD100487"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -60410,7 +60443,8 @@
         "Lead-Software-Engineer_10146420",
         "Engineering-Services-Manager---95-500----128-000_10157922-1",
         "Coordinateur-Projets-Talent-Management---F-H-NB---CDD_10158336-1",
-        "Chef-fe--de-Projets-Construction-Confirm-e--CDD---F-H-NB_10157745"
+        "Chef-fe--de-Projets-Construction-Confirm-e--CDD---F-H-NB_10157745",
+        "Executive-Director--People---Culture--Australia---New-Zealand_10156849-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -63268,7 +63302,13 @@
         "R-65520-1",
         "R-66527",
         "R-64046-1",
-        "R-66747"
+        "R-66747",
+        "R-66103-1",
+        "R-64476",
+        "R-65257-1",
+        "R-66300-1",
+        "R-64479",
+        "R-64477"
     ],
     "Chime": [
         "8391630002",
@@ -67130,7 +67170,9 @@
         "8108270",
         "8131807",
         "8110501",
-        "8070895"
+        "8070895",
+        "8131839",
+        "8131805"
     ],
     "Roku": [
         "8023364",
