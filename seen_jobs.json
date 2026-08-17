@@ -8015,7 +8015,8 @@
         "8704938002",
         "8720253002",
         "8720251002",
-        "8720254002"
+        "8720254002",
+        "8702738002"
     ],
     "Rubrik": [
         "7310036",
@@ -9814,7 +9815,8 @@
         "8128606",
         "8127210",
         "8129566",
-        "8129796"
+        "8129796",
+        "8046286"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -17553,7 +17555,8 @@
         "R-282373-1",
         "R-288316",
         "R-288446",
-        "R-288104"
+        "R-288104",
+        "R-288208"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23849,7 +23852,8 @@
         "Product-Support-Analyst_J-83933",
         "Team-Leader---Financial-Reconciliations---Data-Admin---Meetings---Events--Center-of-Excellence-_J-84088-1",
         "Senior-Manager---FP-A-Systems_J-83936",
-        "Travel-Consultant-II--Emergency-Service-Center_J-84301"
+        "Travel-Consultant-II--Emergency-Service-Center_J-84301",
+        "Data-Admin-and-Reconciliation-Specialist_J-84325"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -24064,7 +24068,8 @@
         "Administrative-Assistant---Regional-Management---India_26029133",
         "Vice-President--Information-Security-Threat---Insider-Risk-Management-Specialist-Sydney--Australia_26029345",
         "Assistant-Vice-President-Vice-President--Global-Financial-Crimes-Investigator_26029348",
-        "Assistant-Vice-President-Vice-President--Global-Financial-Crimes-Investigator_26029350"
+        "Assistant-Vice-President-Vice-President--Global-Financial-Crimes-Investigator_26029350",
+        "Assistant-Vice-President--Vice-President--Global-Financial-Crimes-Specialist--MLRO-Support-_26029680"
     ],
     "BlackRock": [
         "R263666",
@@ -41347,7 +41352,9 @@
         "R29318-1",
         "R29802",
         "R29751",
-        "R29480"
+        "R29480",
+        "R29613",
+        "R29737"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -45176,7 +45183,8 @@
         "R2023370",
         "R2023203-1",
         "R2023361",
-        "R2023307"
+        "R2023307",
+        "R2023358-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -50896,7 +50904,16 @@
         "R0000449600",
         "R0000449580",
         "R0000449620",
-        "R0000449690"
+        "R0000449690",
+        "R0000449645",
+        "R0000449705",
+        "R0000449715-1",
+        "R0000449741",
+        "R0000438443",
+        "R0000438720",
+        "R0000449567",
+        "R0000438415",
+        "R0000438695-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -57959,7 +57976,11 @@
         "Sr-Director--Strategy-and-Business-Transformation---Vietnam_REF087498W",
         "Cybersecurity-Sales-Lead_REF087354W-1",
         "Sr-SRE_REF087335W",
-        "Partnerships-Director--Visa-Government-Solutions--Asia-Pacific_REF081651W-1"
+        "Partnerships-Director--Visa-Government-Solutions--Asia-Pacific_REF081651W-1",
+        "Software-Engineer_REF087291W",
+        "Sr-Software-Engineer_REF087289W-1",
+        "Staff-Software-Engineer_REF087234W",
+        "Director--Software-Engineer_REF087233W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -58851,7 +58872,8 @@
         "AI-Builder--Principal-Experience-Designer_26WD100467",
         "AI-Builder--Principal-Product-Manager_26WD100466-1",
         "Technical-Sales-Specialist_26WD100445",
-        "LC-Inside-Sales_26WD100487"
+        "LC-Inside-Sales_26WD100487",
+        "Senior-Technical-Support-Specialist_26WD99252-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -63350,7 +63372,8 @@
         "R-60263",
         "R-64503",
         "R-66095-2",
-        "R-66705"
+        "R-66705",
+        "R-65228-1"
     ],
     "Chime": [
         "8391630002",
@@ -63822,7 +63845,8 @@
         "8632956002",
         "8693139002",
         "8709078002",
-        "8709085002"
+        "8709085002",
+        "8716948002"
     ],
     "Sezzle": [
         "7710056003",
@@ -65791,7 +65815,9 @@
         "8130801",
         "8131006",
         "8106205",
-        "8131117"
+        "8131117",
+        "8129949",
+        "8129966"
     ],
     "Propel": [],
     "Canva": [],
