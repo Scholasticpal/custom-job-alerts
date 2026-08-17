@@ -2499,7 +2499,9 @@
         "10502382",
         "10502808",
         "10503241",
-        "10503256"
+        "10503256",
+        "10503778",
+        "10503776"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -11682,7 +11684,8 @@
         "8127037",
         "8131015",
         "3547688",
-        "8130417"
+        "8130417",
+        "8079749"
     ],
     "GitHub": [],
     "Twilio": [
@@ -12278,7 +12281,8 @@
         "8125581",
         "8119052",
         "8128863",
-        "8026406"
+        "8026406",
+        "8132266"
     ],
     "Dropbox": [
         "7646405",
@@ -17602,7 +17606,8 @@
         "R-288537",
         "R-281628",
         "R-288209",
-        "R-288143-1"
+        "R-288143-1",
+        "R-281041-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22990,7 +22995,13 @@
         "R352478",
         "R352161",
         "R356022",
-        "R344834-1"
+        "R344834-1",
+        "R355775-1",
+        "R355773-1",
+        "R355774-1",
+        "R355840",
+        "R356268",
+        "R353828-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -25581,7 +25592,8 @@
         "VP---Operations--Enterprise-Technology_43762",
         "BXTI---SVP---HR-Tech_38492",
         "VP---Software-Engineer_44164-1",
-        "Blackstone-Real-Estate-Debt-Strategies--BREDS--Valuations-and-Investment-Modeling--VP_44732"
+        "Blackstone-Real-Estate-Debt-Strategies--BREDS--Valuations-and-Investment-Modeling--VP_44732",
+        "Blackstone-Private-Wealth--Associate_44370"
     ],
     "Capital Group": [
         "R6549",
@@ -27957,7 +27969,8 @@
         "R-10399688",
         "R-10400656",
         "R-10400654",
-        "R-10398515"
+        "R-10398515",
+        "R-10400663-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -28839,7 +28852,8 @@
         "R-14994",
         "R-12479-1",
         "R-15005",
-        "R-15007"
+        "R-15007",
+        "R-15083-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -40451,7 +40465,8 @@
         "R-0109174",
         "R-0108937-1",
         "R-0108411",
-        "R-0108644"
+        "R-0108644",
+        "R-0109359-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -45284,7 +45299,9 @@
         "R2022521",
         "R2021016",
         "R2022938-1",
-        "R2022953"
+        "R2022953",
+        "R2023237",
+        "R2023365"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -45560,7 +45577,9 @@
         "XMLNAME--sr--Software-Engineer_2021437",
         "Software-Engineer_2022891-1",
         "Principal-Engineer---Cisco-IQ-Validation_2022599",
-        "Senior-Hardware-Engineering-Program-Manager_2022182"
+        "Senior-Hardware-Engineering-Program-Manager_2022182",
+        "Cloud-Engineer_2023197",
+        "Cloud-Engineer_2023196"
     ],
     "Intel": [
         "R0283052",
@@ -51035,7 +51054,10 @@
         "R0000449753",
         "R0000449644",
         "R0000449787",
-        "R0000449786"
+        "R0000449786",
+        "R0000449797",
+        "R0000449711",
+        "R0000449258"
     ],
     "Zoom": [
         "R18188-1",
@@ -53312,7 +53334,8 @@
         "8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
         "79faf16e-0f78-40bc-ae75-7d1e6674d7c7",
         "2dc8b505-128a-4bc8-b8c1-7084e7d26530",
-        "e2489771-1c24-4ca2-ab5b-03fc961b18b7"
+        "e2489771-1c24-4ca2-ab5b-03fc961b18b7",
+        "dc523c5b-9477-46c4-a122-4f3b2b8f4b67"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -58114,7 +58137,8 @@
         "Staff-Software-Engineer_REF087234W",
         "Director--Software-Engineer_REF087233W",
         "Manager--Visa-Consulting-and-Analytics--VCA---Core-Consulting_REF087529W-1",
-        "Onboarding-Operations-Manager--People-Solutions--Fixed-Term-_REF087306W"
+        "Onboarding-Operations-Manager--People-Solutions--Fixed-Term-_REF087306W",
+        "Data-Engineer---Sr-Consultant-level_REF079935W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -60641,7 +60665,9 @@
         "Charg-e--de-traitements-statistiques-F-H-NB---CDI_10157357",
         "Quality-Assurance-Analyst---Consumer-Products_10149338",
         "Senior-Analyst--Revenue-Planning--Project-Hire-_10152551",
-        "Technicien-ne--Informatique-Spcialiste-Apple-Mac-F-H-NB_10158486"
+        "Technicien-ne--Informatique-Spcialiste-Apple-Mac-F-H-NB_10158486",
+        "Director--Enterprise-YouTube-Strategy---Governance_10158260",
+        "Sr-Mgr-Product-Software-Engineering_10156910"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -61628,7 +61654,8 @@
         "R000107577",
         "R000107352-2",
         "R000107491",
-        "R000107480"
+        "R000107480",
+        "R000102897-1"
     ],
     "Kyndryl": [
         "R-61530",
@@ -63521,7 +63548,10 @@
         "R-67031-1",
         "R-67028-1",
         "R-64482",
-        "R-64732-1"
+        "R-64732-1",
+        "R-64480-1",
+        "R-64523",
+        "R-64499-1"
     ],
     "Chime": [
         "8391630002",
@@ -68009,7 +68039,8 @@
         "8120469",
         "8120471",
         "8130849",
-        "8131047"
+        "8131047",
+        "8132846"
     ],
     "Zillow": [],
     "Epic Games": [
