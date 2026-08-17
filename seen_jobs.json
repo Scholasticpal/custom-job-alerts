@@ -4966,7 +4966,8 @@
         "be484058-3628-4b82-9342-6d1864c2d4a0",
         "c173ccbe-d2ae-42f4-9cd5-72f69ff45a0f",
         "5d6ad294-c8ac-49b6-9142-e7d67cb6af8a",
-        "0621bd97-c9ef-4074-b5b0-875575a682c6"
+        "0621bd97-c9ef-4074-b5b0-875575a682c6",
+        "2190585e-f736-4b55-a90c-32a476ac97bc"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -17580,7 +17581,9 @@
         "R-288290",
         "R-288293",
         "R-287561",
-        "R-287417"
+        "R-287417",
+        "R-282736-1",
+        "R-288537"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23880,7 +23883,8 @@
         "Team-Leader---Financial-Reconciliations---Data-Admin---Meetings---Events--Center-of-Excellence-_J-84088-1",
         "Senior-Manager---FP-A-Systems_J-83936",
         "Travel-Consultant-II--Emergency-Service-Center_J-84301",
-        "Data-Admin-and-Reconciliation-Specialist_J-84325"
+        "Data-Admin-and-Reconciliation-Specialist_J-84325",
+        "Development-Manager_J-84117"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -24096,7 +24100,8 @@
         "Vice-President--Information-Security-Threat---Insider-Risk-Management-Specialist-Sydney--Australia_26029345",
         "Assistant-Vice-President-Vice-President--Global-Financial-Crimes-Investigator_26029348",
         "Assistant-Vice-President-Vice-President--Global-Financial-Crimes-Investigator_26029350",
-        "Assistant-Vice-President--Vice-President--Global-Financial-Crimes-Specialist--MLRO-Support-_26029680"
+        "Assistant-Vice-President--Vice-President--Global-Financial-Crimes-Specialist--MLRO-Support-_26029680",
+        "Assistant-Vice-President--Global-Financial-Crimes-Specialist--MLRO-Support-_26029694"
     ],
     "BlackRock": [
         "R263666",
@@ -27923,7 +27928,8 @@
         "R-10400794",
         "R-10399008",
         "R-10400792",
-        "R-10400709"
+        "R-10400709",
+        "R-10399688"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -33642,7 +33648,8 @@
         "5391309008",
         "5382274008",
         "5391021008",
-        "5391016008"
+        "5391016008",
+        "5391301008"
     ],
     "Coinbase": [
         "7559052",
@@ -36973,7 +36980,8 @@
         "8078069",
         "8126620",
         "8126618",
-        "8129890"
+        "8129890",
+        "8121324"
     ],
     "Datadog": [
         "7194969",
@@ -39013,7 +39021,8 @@
         "6139174004",
         "6131295004",
         "6140781004",
-        "6143074004"
+        "6143074004",
+        "6144678004"
     ],
     "Grammarly": [],
     "Unacademy": [],
@@ -40402,7 +40411,8 @@
         "R-0109319",
         "R-0109174",
         "R-0108937-1",
-        "R-0108411"
+        "R-0108411",
+        "R-0108644"
     ],
     "CrowdStrike": [
         "R26911",
@@ -45506,7 +45516,8 @@
         "Software-Engineer_2021447",
         "XMLNAME--sr--Software-Engineer_2021437",
         "Software-Engineer_2022891-1",
-        "Principal-Engineer---Cisco-IQ-Validation_2022599"
+        "Principal-Engineer---Cisco-IQ-Validation_2022599",
+        "Senior-Hardware-Engineering-Program-Manager_2022182"
     ],
     "Intel": [
         "R0283052",
@@ -50971,7 +50982,9 @@
         "R0000449747",
         "R0000449723",
         "R0000449473-1",
-        "R0000445460"
+        "R0000445460",
+        "R0000449736",
+        "R0000449626"
     ],
     "Zoom": [
         "R18188-1",
@@ -52174,7 +52187,8 @@
         "R-108680-1",
         "R-108346-1",
         "R-108814",
-        "R-108824-1"
+        "R-108824-1",
+        "R-108791-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -54144,7 +54158,8 @@
         "8124457",
         "8111970",
         "8111988",
-        "8131789"
+        "8131789",
+        "8130284"
     ],
     "Samsara": [
         "5747183",
@@ -58934,7 +58949,8 @@
         "AI-Builder--Principal-Product-Manager_26WD100466-1",
         "Technical-Sales-Specialist_26WD100445",
         "LC-Inside-Sales_26WD100487",
-        "Senior-Technical-Support-Specialist_26WD99252-1"
+        "Senior-Technical-Support-Specialist_26WD99252-1",
+        "Director--Territory-Sales_26WD100419"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -63910,7 +63926,8 @@
         "8693139002",
         "8709078002",
         "8709085002",
-        "8716948002"
+        "8716948002",
+        "8680328002"
     ],
     "Sezzle": [
         "7710056003",
@@ -67307,7 +67324,11 @@
         "8110501",
         "8070895",
         "8131839",
-        "8131805"
+        "8131805",
+        "8045577",
+        "8102521",
+        "8102523",
+        "8121026"
     ],
     "Roku": [
         "8023364",
