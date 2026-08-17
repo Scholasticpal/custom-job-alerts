@@ -9833,7 +9833,9 @@
         "8127210",
         "8129566",
         "8129796",
-        "8046286"
+        "8046286",
+        "8128846",
+        "8130735"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -11677,7 +11679,8 @@
         "8128136",
         "8127037",
         "8131015",
-        "3547688"
+        "3547688",
+        "8130417"
     ],
     "GitHub": [],
     "Twilio": [
@@ -17596,7 +17599,8 @@
         "R-282736-1",
         "R-288537",
         "R-281628",
-        "R-288209"
+        "R-288209",
+        "R-288143-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -22980,7 +22984,11 @@
         "R355555",
         "R356385",
         "R349104-1",
-        "R353395"
+        "R353395",
+        "R352478",
+        "R352161",
+        "R356022",
+        "R344834-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -32646,7 +32654,8 @@
         "6aa78bd0-98d6-4671-a98f-d1010c627eb5",
         "d7a7c653-19d8-43db-800e-ce4dd2abf9ec",
         "0444c5bd-7109-4bec-ac3e-b974e6236365",
-        "5ed99d32-eed1-4679-b7b4-037de073e57c"
+        "5ed99d32-eed1-4679-b7b4-037de073e57c",
+        "4df2842a-016d-4c69-a011-fab47aa5f981"
     ],
     "Anthropic": [
         "5101832008",
@@ -37003,7 +37012,8 @@
         "8126620",
         "8126618",
         "8129890",
-        "8121324"
+        "8121324",
+        "8127859"
     ],
     "Datadog": [
         "7194969",
@@ -45268,7 +45278,8 @@
         "R2023358-1",
         "R2022521",
         "R2021016",
-        "R2022938-1"
+        "R2022938-1",
+        "R2022953"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -51016,7 +51027,8 @@
         "R0000449767",
         "R0000449765",
         "R0000449762",
-        "R0000449753"
+        "R0000449753",
+        "R0000449644"
     ],
     "Zoom": [
         "R18188-1",
@@ -51395,7 +51407,8 @@
         "R19540",
         "R18719-2",
         "R19541",
-        "R19545-1"
+        "R19545-1",
+        "R19549-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -58988,7 +59001,8 @@
         "Technical-Sales-Specialist_26WD100445",
         "LC-Inside-Sales_26WD100487",
         "Senior-Technical-Support-Specialist_26WD99252-1",
-        "Director--Territory-Sales_26WD100419"
+        "Director--Territory-Sales_26WD100419",
+        "Director--Chief-of-Staff---AutoCAD--Building--and-Infrastructure-Solutions_26WD100159"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -60617,7 +60631,8 @@
         "Executive-Director--People---Culture--Australia---New-Zealand_10156849-1",
         "DCVI-Localization-Specialist_10157118",
         "Charg-e--de-traitements-statistiques-F-H-NB---CDI_10157357",
-        "Quality-Assurance-Analyst---Consumer-Products_10149338"
+        "Quality-Assurance-Analyst---Consumer-Products_10149338",
+        "Senior-Analyst--Revenue-Planning--Project-Hire-_10152551"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -65175,7 +65190,8 @@
         "6144274004",
         "6144293004",
         "6138816004",
-        "6107390004"
+        "6107390004",
+        "6145269004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -68190,7 +68206,11 @@
         "6144437004",
         "6144540004",
         "6144551004",
-        "6144655004"
+        "6144655004",
+        "6142982004",
+        "6142980004",
+        "6001733004",
+        "6001731004"
     ],
     "Booking.com": [],
     "Myntra": [],
