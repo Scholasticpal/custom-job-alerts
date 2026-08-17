@@ -4216,7 +4216,8 @@
         "8706688002",
         "8709977002",
         "8716927002",
-        "8716945002"
+        "8716945002",
+        "8721806002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -8038,7 +8039,8 @@
         "8720253002",
         "8720251002",
         "8720254002",
-        "8702738002"
+        "8702738002",
+        "8604472002"
     ],
     "Rubrik": [
         "7310036",
@@ -23932,7 +23934,8 @@
         "Senior-Manager---FP-A-Systems_J-83936",
         "Travel-Consultant-II--Emergency-Service-Center_J-84301",
         "Data-Admin-and-Reconciliation-Specialist_J-84325",
-        "Development-Manager_J-84117"
+        "Development-Manager_J-84117",
+        "R-1_J-80331"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -32693,7 +32696,8 @@
         "9bfc3ebf-c154-4037-8fef-900d3a49ec89",
         "2e223214-d8f1-4198-a5e3-1301bb46977a",
         "071511ff-940e-46b9-8c21-58b2a6ac4b7a",
-        "894ce80d-c587-4ef0-92d2-b16deb9a06b9"
+        "894ce80d-c587-4ef0-92d2-b16deb9a06b9",
+        "67c67c36-e710-4f21-bd9c-759eb72cfabf"
     ],
     "Anthropic": [
         "5101832008",
@@ -34696,7 +34700,8 @@
         "8126982",
         "8127002",
         "8128860",
-        "8131228"
+        "8131228",
+        "8130311"
     ],
     "Notion": [
         "03143d98-a561-44c6-96a5-fc9bfaf8d18d",
@@ -37053,7 +37058,8 @@
         "8126618",
         "8129890",
         "8121324",
-        "8127859"
+        "8127859",
+        "8122877"
     ],
     "Datadog": [
         "7194969",
@@ -40489,7 +40495,9 @@
         "R-0108937-1",
         "R-0108411",
         "R-0108644",
-        "R-0109359-1"
+        "R-0109359-1",
+        "R-0109107",
+        "R-0109108"
     ],
     "CrowdStrike": [
         "R26911",
@@ -41490,7 +41498,8 @@
         "R29583",
         "R29831",
         "R29599-1",
-        "R29787"
+        "R29787",
+        "R29654"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -51097,7 +51106,17 @@
         "R0000449777",
         "R0000449780",
         "R0000449404",
-        "R0000449072"
+        "R0000449072",
+        "R0000447712-1",
+        "R0000449304",
+        "R-2027-_R0000449839",
+        "R0000449245",
+        "R0000449589",
+        "R0000449832",
+        "R0000449828",
+        "R-2027-_R0000449831",
+        "R0000449813",
+        "R0000449148"
     ],
     "Zoom": [
         "R18188-1",
@@ -54919,7 +54938,8 @@
         "7266439",
         "8112694",
         "8074536",
-        "8115905"
+        "8115905",
+        "8124366"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -58183,7 +58203,10 @@
         "Manager--Visa-Consulting-and-Analytics--VCA---Core-Consulting_REF087529W-1",
         "Onboarding-Operations-Manager--People-Solutions--Fixed-Term-_REF087306W",
         "Data-Engineer---Sr-Consultant-level_REF079935W",
-        "Associate-Creative-Director--Copy_REF087433W"
+        "Associate-Creative-Director--Copy_REF087433W",
+        "Director--VAS-Finance-Ops---Transformation_REF087547W",
+        "Manager--Talent-Acquisition_REF087520W",
+        "Consultant--Technology-Talent-Acquisition_REF087405W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -60715,7 +60738,8 @@
         "Sr-Mgr-Product-Software-Engineering_10156910",
         "Product-Software-Engineer-I_10157015",
         "Production-Coordinator_10156769",
-        "Manager--Software-Engineering_10139445"
+        "Manager--Software-Engineering_10139445",
+        "Principal-Research-Operations-Mgr_10157094"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -61704,7 +61728,9 @@
         "R000107491",
         "R000107480",
         "R000102897-1",
-        "R000099495"
+        "R000099495",
+        "R000106748",
+        "R000107564"
     ],
     "Kyndryl": [
         "R-61530",
@@ -63603,7 +63629,14 @@
         "R-64499-1",
         "R-65183-1",
         "R-64512",
-        "R-64481"
+        "R-64481",
+        "R-64515",
+        "R-66692",
+        "R-64510",
+        "R-64505",
+        "R-64495",
+        "R-64483",
+        "R-64538-1"
     ],
     "Chime": [
         "8391630002",
@@ -63717,7 +63750,8 @@
         "8697910002",
         "8606280002",
         "8694634002",
-        "8715079002"
+        "8715079002",
+        "8721885002"
     ],
     "FalconX": [
         "4677684005",
@@ -64437,7 +64471,10 @@
         "8072614",
         "8113206",
         "8119715",
-        "8125855"
+        "8125855",
+        "8128105",
+        "8133779",
+        "8125858"
     ],
     "Salary Finance": [
         "7738033",
