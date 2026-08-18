@@ -2848,7 +2848,8 @@
         "84c7658b-a02b-43b0-bdde-a05e77b1deb6",
         "c8bd9e1e-7b15-47bd-b1db-4bc794f383aa",
         "ec457d1a-de58-4e8d-8867-159fe7d0ef2a",
-        "e35e589f-acd7-4fbd-ae69-f79387393e84"
+        "e35e589f-acd7-4fbd-ae69-f79387393e84",
+        "8060e471-4c02-456d-b2c0-fdde61cbe5ba"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -3139,7 +3140,8 @@
         "7852638003",
         "7869947003",
         "7868437003",
-        "7860356003"
+        "7860356003",
+        "7884266003"
     ],
     "Razorpay": [
         "4665089005",
@@ -8060,7 +8062,9 @@
         "8702738002",
         "8604472002",
         "8569997002",
-        "8697987002"
+        "8697987002",
+        "8569514002",
+        "8721005002"
     ],
     "Rubrik": [
         "7310036",
@@ -17675,7 +17679,9 @@
         "R-288110",
         "R-287281",
         "R-288528",
-        "R-287327"
+        "R-287327",
+        "R-288489",
+        "R-282039"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23085,7 +23091,8 @@
         "R356389",
         "R353756",
         "R343248",
-        "R356483"
+        "R356483",
+        "R356532"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24006,7 +24013,8 @@
         "Data-Admin-and-Reconciliation-Specialist_J-84325",
         "Development-Manager_J-84117",
         "R-1_J-80331",
-        "GSD-Escalation-Manager_J-84338"
+        "GSD-Escalation-Manager_J-84338",
+        "Travel-Counselor-II_J-84379"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -25693,7 +25701,8 @@
         "BXTI---SVP---HR-Tech_38492",
         "VP---Software-Engineer_44164-1",
         "Blackstone-Real-Estate-Debt-Strategies--BREDS--Valuations-and-Investment-Modeling--VP_44732",
-        "Blackstone-Private-Wealth--Associate_44370"
+        "Blackstone-Private-Wealth--Associate_44370",
+        "Vice-President---BXCI-Operational-Risk---Third-Party-Risk-Management_44846"
     ],
     "Capital Group": [
         "R6549",
@@ -28089,7 +28098,8 @@
         "R-10400401",
         "R-10400390",
         "R-10400388",
-        "R-10400386"
+        "R-10400386",
+        "R-10400398"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -28435,7 +28445,8 @@
         "Wealth-Director--Business-Development-Officer-_865893",
         "Analyst--Developer_862794-1",
         "Senior-Semantic-AI-Analyst_869174",
-        "Solutions-Relationships-Manager----FT-Investment-Solutions-OCIO---Manage-3rd-Party-Evaluators-_868508"
+        "Solutions-Relationships-Manager----FT-Investment-Solutions-OCIO---Manage-3rd-Party-Evaluators-_868508",
+        "Private-Asset-Operations-Specialist_869090"
     ],
     "Invesco": [
         "R-13647",
@@ -38723,7 +38734,16 @@
         "8131024",
         "8067052",
         "8138559",
-        "8119450"
+        "8119450",
+        "8138661",
+        "8138694",
+        "8138687",
+        "8138690",
+        "8138692",
+        "8138699",
+        "8119454",
+        "8138683",
+        "8138696"
     ],
     "Asana": [
         "7120496",
@@ -40635,7 +40655,9 @@
         "R-0109108",
         "R-0109357",
         "R-0109360",
-        "R-0109441"
+        "R-0109441",
+        "R-0109451",
+        "R-0109450"
     ],
     "CrowdStrike": [
         "R26911",
@@ -45786,7 +45808,8 @@
         "Principal-Engineer---Cisco-IQ-Validation_2022599",
         "Senior-Hardware-Engineering-Program-Manager_2022182",
         "Cloud-Engineer_2023197",
-        "Cloud-Engineer_2023196"
+        "Cloud-Engineer_2023196",
+        "Memory-Layout-Technical-Leader_2023035"
     ],
     "Intel": [
         "R0283052",
@@ -51344,7 +51367,11 @@
         "R0000449873",
         "R0000449893",
         "R0000448933",
-        "R0000449903"
+        "R0000449903",
+        "R0000448738",
+        "R0000449961-1",
+        "R0000449960",
+        "R0000449959"
     ],
     "Zoom": [
         "R18188-1",
@@ -54223,7 +54250,8 @@
         "49901a8e-3585-4649-b9f6-3e5a781d2f6b",
         "b521aafa-aad9-4c7b-bb47-129ef5e63857",
         "7bfaffd9-9b7a-49ef-af01-500204d222f6",
-        "672e4b05-ec90-443e-aee1-4a4d412e0096"
+        "672e4b05-ec90-443e-aee1-4a4d412e0096",
+        "e4e25b6b-9727-4af6-a02f-fc830b7da2c6"
     ],
     "Netskope": [
         "7885748",
@@ -58459,7 +58487,8 @@
         "Manager--VCA-Implementation-Services--VIS-_REF087569W",
         "Implementation-Consultant--Commercial-and-Money-Movement-Solutions--CMS-_REF087552W",
         "Sr-Director--Mergers---Acquisitions_REF087390W",
-        "Consultant---Client-Implementation_REF087384W"
+        "Consultant---Client-Implementation_REF087384W",
+        "VCA-Director_REF087499W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -59357,7 +59386,9 @@
         "Director--Chief-of-Staff---AutoCAD--Building--and-Infrastructure-Solutions_26WD100159",
         "Customer-Success-Advisor--France_26WD97529-2",
         "Senior-Industry-Manager--Production-Environments_26WD100455-1",
-        "HUB-Technical-Sales-Specialist_26WD100478-1"
+        "HUB-Technical-Sales-Specialist_26WD100478-1",
+        "Manager--Journey-Management-UK_26WD100591",
+        "Senior-Industry-Manager---Production-Environments_26WD100451-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -65612,7 +65643,10 @@
         "6145269004",
         "6145402004",
         "6013822004",
-        "6145982004"
+        "6145982004",
+        "6146015004",
+        "6146014004",
+        "6146016004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -67822,7 +67856,8 @@
         "8130043",
         "8080972",
         "8120789",
-        "8138624"
+        "8138624",
+        "8123941"
     ],
     "Roku": [
         "8023364",
