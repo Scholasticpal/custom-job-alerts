@@ -4987,7 +4987,8 @@
         "c173ccbe-d2ae-42f4-9cd5-72f69ff45a0f",
         "5d6ad294-c8ac-49b6-9142-e7d67cb6af8a",
         "0621bd97-c9ef-4074-b5b0-875575a682c6",
-        "2190585e-f736-4b55-a90c-32a476ac97bc"
+        "2190585e-f736-4b55-a90c-32a476ac97bc",
+        "3ba275a6-47e6-4cf6-906a-bfc5052bba69"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8054,7 +8055,8 @@
         "8720254002",
         "8702738002",
         "8604472002",
-        "8569997002"
+        "8569997002",
+        "8697987002"
     ],
     "Rubrik": [
         "7310036",
@@ -11712,7 +11714,8 @@
         "3547688",
         "8130417",
         "8079749",
-        "8136212"
+        "8136212",
+        "8138250"
     ],
     "GitHub": [],
     "Twilio": [
@@ -17652,7 +17655,10 @@
         "R-287979",
         "R-287541-1",
         "R-288677",
-        "R-276576-1"
+        "R-276576-1",
+        "R-288376",
+        "R-272631",
+        "R-288586"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23056,7 +23062,9 @@
         "R356041",
         "R356477",
         "R354769-1",
-        "R314531"
+        "R314531",
+        "R356516",
+        "R356515"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24195,7 +24203,9 @@
         "Assistant-Vice-President--Vice-President--Global-Financial-Crimes-Specialist--MLRO-Support-_26029680",
         "Assistant-Vice-President--Global-Financial-Crimes-Specialist--MLRO-Support-_26029694",
         "Director-Vice-President--Specialized-Product-Sales---Commercial-Cards---Cash-Management--Global-Payments-Solutions--Singapore---Hong-Kong_26029953",
-        "Lead-Operations-Representative---Trade-Operations_26029955-1"
+        "Lead-Operations-Representative---Trade-Operations_26029955-1",
+        "Assistant-Vice-President--Markets-Support-Analyst--Global-Markets-Operations-Risk---Control-2IC---Australia--Global-Markets-Operations_26029480",
+        "AVP--Markets-Support-Specialist--APAC-Equity-Trade-Control---Global-Markets-Operation_26018994-1"
     ],
     "BlackRock": [
         "R263666",
@@ -45460,7 +45470,8 @@
         "R2022645",
         "R2023451",
         "R2023439",
-        "R2023204"
+        "R2023204",
+        "R2019733"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -51259,7 +51270,20 @@
         "R0000449865",
         "R0000449868",
         "R0000449870",
-        "R0000449414"
+        "R0000449414",
+        "R0000449889",
+        "R0000449455-1",
+        "R0000449795-1",
+        "R0000449885",
+        "R0000449655-1",
+        "R0000448637",
+        "R0000449905",
+        "R0000449925",
+        "R0000449940",
+        "R0000449850",
+        "R0000449751",
+        "R0000449720-1",
+        "R0000449881"
     ],
     "Zoom": [
         "R18188-1",
@@ -55621,7 +55645,8 @@
         "4704232006",
         "4677810006",
         "4699279006",
-        "4643477006"
+        "4643477006",
+        "4700290006"
     ],
     "Duolingo": [
         "8455252002",
@@ -58363,7 +58388,8 @@
         "Director--Value-Added-Services--Emerging-Markets_REF087479W",
         "Senior-Manager--Visa-Direct-Account-Executive_REF087344W",
         "Manager--VCA-Implementation-Services--VIS-_REF087569W",
-        "Implementation-Consultant--Commercial-and-Money-Movement-Solutions--CMS-_REF087552W"
+        "Implementation-Consultant--Commercial-and-Money-Movement-Solutions--CMS-_REF087552W",
+        "Sr-Director--Mergers---Acquisitions_REF087390W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -60906,7 +60932,8 @@
         "Senior-Manager--Marketing-Strategy---Planning--DET-_10157728",
         "Senior-Manager--Brand-Partnership---Experiential--DET-_10155876",
         "Assoc-Product-Design-Mgr_10157818-1",
-        "Software-Engineer-I_10157423"
+        "Software-Engineer-I_10157423",
+        "Legal-Operations-Manager_10158562"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -63817,7 +63844,9 @@
         "R-64489",
         "R-64486",
         "R-65684-1",
-        "R-53008-1"
+        "R-53008-1",
+        "R-60674",
+        "R-66796-1"
     ],
     "Chime": [
         "8391630002",
@@ -67715,7 +67744,9 @@
         "8076349",
         "8129468",
         "8130040",
-        "8130043"
+        "8130043",
+        "8080972",
+        "8120789"
     ],
     "Roku": [
         "8023364",
