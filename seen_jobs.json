@@ -1574,7 +1574,9 @@
         "8097801",
         "8121659",
         "8129702",
-        "8080454"
+        "8080454",
+        "8138302",
+        "8139202"
     ],
     "Figma": [
         "5426468004",
@@ -8074,7 +8076,8 @@
         "8697987002",
         "8569514002",
         "8721005002",
-        "8548500002"
+        "8548500002",
+        "8536436002"
     ],
     "Rubrik": [
         "7310036",
@@ -17702,7 +17705,8 @@
         "R-288561",
         "R-288720-1",
         "R-282780-1",
-        "R-286356"
+        "R-286356",
+        "R-288606"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23121,7 +23125,11 @@
         "R348968",
         "R356560-1",
         "R355986-1",
-        "R332580"
+        "R332580",
+        "R330376",
+        "R356042",
+        "R356562-1",
+        "R356079"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -26374,7 +26382,8 @@
         "R32896",
         "R32300",
         "R32313",
-        "R32950-1"
+        "R32950-1",
+        "R32614-1"
     ],
     "Fiserv": [
         "R-10392824",
@@ -28138,7 +28147,9 @@
         "R-10399911",
         "R-10396626",
         "R-10400387",
-        "R-10397141-1"
+        "R-10397141-1",
+        "R-10396414",
+        "R-10400956"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -33896,7 +33907,8 @@
         "5098092008",
         "5391180008",
         "5392957008",
-        "5391112008"
+        "5391112008",
+        "5392821008"
     ],
     "Coinbase": [
         "7559052",
@@ -37243,7 +37255,8 @@
         "8129890",
         "8121324",
         "8127859",
-        "8122877"
+        "8122877",
+        "8119523"
     ],
     "Datadog": [
         "7194969",
@@ -38111,7 +38124,8 @@
         "8130003",
         "8109441",
         "8104969",
-        "8130723"
+        "8130723",
+        "8128764"
     ],
     "Elastic": [
         "7505982",
@@ -41711,7 +41725,8 @@
         "R29844",
         "R29871",
         "R27525",
-        "R29842-1"
+        "R29842-1",
+        "R28881"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -51455,7 +51470,10 @@
         "R0000449976",
         "R0000449975",
         "R0000449977",
-        "R0000449556"
+        "R0000449556",
+        "R0000449912",
+        "R0000449998",
+        "R0000449997"
     ],
     "Zoom": [
         "R18188-1",
@@ -58586,7 +58604,10 @@
         "Consultant---Client-Implementation_REF087384W",
         "VCA-Director_REF087499W",
         "Director---GTM-and-Commercialization_REF087485W",
-        "Product-Analyst_REF087537W-1"
+        "Product-Analyst_REF087537W-1",
+        "Sr-Associate-Counsel_REF081759W",
+        "Product-Analyst_REF087441W-1",
+        "Product-Manager---Internal-Billing-Platforms_REF087483W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -59488,7 +59509,8 @@
         "Manager--Journey-Management-UK_26WD100591",
         "Senior-Industry-Manager---Production-Environments_26WD100451-2",
         "Senior-Manager--Creator---Influencer-Marketing--SMB-_26WD99814",
-        "Senior-Director--Customer-Success-Management--EMEA_26WD99881"
+        "Senior-Director--Customer-Success-Management--EMEA_26WD99881",
+        "Pre-Sales-Technical-Specialist---Design-and-Manufacturing---Italy_26WD100518-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -64339,7 +64361,8 @@
         "4702155006",
         "4700431006",
         "4705306006",
-        "4705307006"
+        "4705307006",
+        "4703919006"
     ],
     "Addepar": [
         "8594217002",
