@@ -2864,7 +2864,8 @@
         "c8bd9e1e-7b15-47bd-b1db-4bc794f383aa",
         "ec457d1a-de58-4e8d-8867-159fe7d0ef2a",
         "e35e589f-acd7-4fbd-ae69-f79387393e84",
-        "8060e471-4c02-456d-b2c0-fdde61cbe5ba"
+        "8060e471-4c02-456d-b2c0-fdde61cbe5ba",
+        "d270d6e5-d68f-4514-a9c4-d6ab7e37d425"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -12388,7 +12389,8 @@
         "8136763",
         "8112239",
         "8122899",
-        "7926887"
+        "7926887",
+        "8138860"
     ],
     "Dropbox": [
         "7646405",
@@ -17776,7 +17778,10 @@
         "R-288718",
         "R-288524",
         "R-288786-1",
-        "R-288038-1"
+        "R-288038-1",
+        "R-288167",
+        "R-288588",
+        "R-274767-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23237,7 +23242,9 @@
         "R356370",
         "R356423-1",
         "R356685",
-        "R356683"
+        "R356683",
+        "R356687",
+        "R355889-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24166,7 +24173,8 @@
         "Platform-Solutions-Specialist_J-83020",
         "Job-Posting-Title-Director--Government-Product-Management_J-84335",
         "Travel-Counselor-Senior-Travel-Counselor_J-83267",
-        "Senior-Travel-Counselor_J-84407"
+        "Senior-Travel-Counselor_J-84407",
+        "Senior-Invoicing-Agent_J-83509-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -28300,7 +28308,8 @@
         "R-10401217-1",
         "R-10399419",
         "R-10400902",
-        "R-10400900"
+        "R-10400900",
+        "R-10401218"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -29191,7 +29200,8 @@
         "R-15085-1",
         "R-14811-1",
         "R-15087-1",
-        "R-15044"
+        "R-15044",
+        "R-15077-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -34080,7 +34090,10 @@
         "5386971008",
         "5394948008",
         "5394943008",
-        "5390799008"
+        "5390799008",
+        "5391102008",
+        "5390750008",
+        "5247989008"
     ],
     "Coinbase": [
         "7559052",
@@ -38331,7 +38344,8 @@
         "8132294",
         "8138342",
         "8141243",
-        "8141240"
+        "8141240",
+        "6485604"
     ],
     "Elastic": [
         "7505982",
@@ -45884,7 +45898,11 @@
         "R2022712",
         "R2021123",
         "R2022251",
-        "R2019900"
+        "R2019900",
+        "R2019559",
+        "R2023646",
+        "R2022970",
+        "R2023457"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -53028,7 +53046,8 @@
         "R-108571-1",
         "R-108640-1",
         "R-108948",
-        "R-108972"
+        "R-108972",
+        "R-108403"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -53243,7 +53262,8 @@
         "Lead-Solutions-Consultant_113386-JOB-1",
         "Senior-Manager---Product-Design_113306-JOB",
         "Lead-Managed-Services-Consultant_113416-JOB",
-        "Senior-Managed-Services-Consultant_113415-JOB"
+        "Senior-Managed-Services-Consultant_113415-JOB",
+        "Lead-Implementation-Consultant_113439-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -54114,7 +54134,8 @@
         "2dc8b505-128a-4bc8-b8c1-7084e7d26530",
         "e2489771-1c24-4ca2-ab5b-03fc961b18b7",
         "dc523c5b-9477-46c4-a122-4f3b2b8f4b67",
-        "14a286d9-e415-4198-8d3b-8e0a7882a5b6"
+        "14a286d9-e415-4198-8d3b-8e0a7882a5b6",
+        "60de50e9-aba7-4a3a-8cdb-955a456749aa"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -57086,7 +57107,8 @@
         "ecd7a54f-218c-47a0-8379-aeb272c35bcb",
         "b099e4fe-87cf-44ad-89b6-21edfe60958b",
         "aa98c726-9336-4d99-be08-20050eaf309c",
-        "367dd077-3ce8-4b7b-bc9f-1726f49ffbce"
+        "367dd077-3ce8-4b7b-bc9f-1726f49ffbce",
+        "fed5c9f3-42ae-4bf8-89b7-2b7edb333af4"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -57352,7 +57374,8 @@
         "R35332",
         "R35135",
         "R35334-1",
-        "R35384"
+        "R35384",
+        "R35367"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -62570,7 +62593,8 @@
         "R000107566",
         "R000107459",
         "R000097134",
-        "R000107598"
+        "R000107598",
+        "R000107433"
     ],
     "Kyndryl": [
         "R-61530",
