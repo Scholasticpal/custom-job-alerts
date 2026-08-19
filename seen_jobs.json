@@ -1580,7 +1580,9 @@
         "8112456",
         "8139998",
         "8128552",
-        "8128011"
+        "8128011",
+        "8113687",
+        "8141450"
     ],
     "Figma": [
         "5426468004",
@@ -11797,7 +11799,9 @@
         "8130949",
         "8122501",
         "7003629",
-        "8141600"
+        "8141600",
+        "8141988",
+        "3547200"
     ],
     "GitHub": [],
     "Twilio": [
@@ -17796,7 +17800,10 @@
         "R-287992-1",
         "R-287206",
         "R-287490",
-        "R-288639-1"
+        "R-288639-1",
+        "R-286177-3",
+        "R-282161",
+        "R-288808"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23266,7 +23273,15 @@
         "R354496-1",
         "R349305",
         "R356574-1",
-        "R355912"
+        "R355912",
+        "R347854",
+        "R356350",
+        "R356160",
+        "R356729",
+        "R355463",
+        "R335898",
+        "R356720",
+        "R356325"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24196,7 +24211,8 @@
         "Job-Posting-Title-Director--Government-Product-Management_J-84335",
         "Travel-Counselor-Senior-Travel-Counselor_J-83267",
         "Senior-Travel-Counselor_J-84407",
-        "Senior-Invoicing-Agent_J-83509-1"
+        "Senior-Invoicing-Agent_J-83509-1",
+        "Specialized-Travel-Counselor_J-84132"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -25640,7 +25656,8 @@
         "R265964",
         "R265922",
         "R265978",
-        "R266024"
+        "R266024",
+        "R266195"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -25905,7 +25922,8 @@
         "Blackstone-Private-Wealth--Associate_44370",
         "Vice-President---BXCI-Operational-Risk---Third-Party-Risk-Management_44846",
         "Legal---Compliance---Real-Estate--VP_44853-2",
-        "VP--Talent-Acquisition---APAC_45015"
+        "VP--Talent-Acquisition---APAC_45015",
+        "Blackstone-Multi-Asset--BXMA---SRT-Analyst_45024"
     ],
     "Capital Group": [
         "R6549",
@@ -26187,7 +26205,9 @@
         "R7113",
         "R7114",
         "R7115",
-        "R7124"
+        "R7124",
+        "R7048",
+        "R7119"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -26552,7 +26572,8 @@
         "R32312",
         "R32998",
         "R32918",
-        "R32975"
+        "R32975",
+        "R32976"
     ],
     "Fiserv": [
         "R-10392824",
@@ -28348,7 +28369,8 @@
         "R-1_R-10399013",
         "R-10400571",
         "R-1_R-10399018",
-        "R-10400821"
+        "R-10400821",
+        "R-10400474"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -33087,7 +33109,9 @@
         "99c80ef6-b5aa-4355-9170-0010151867e6",
         "ccd3c68b-5860-40b5-9aff-e99da9aa669c",
         "79432fa9-49c0-4ba0-b2a1-9d589ddc1861",
-        "f8ca42f5-97c7-40d3-83e6-b92f55cbcc27"
+        "f8ca42f5-97c7-40d3-83e6-b92f55cbcc27",
+        "f1157560-1cf5-4a79-854f-a376176965bd",
+        "ca2fe3e4-8377-461f-b6f2-80d127f4b94d"
     ],
     "Anthropic": [
         "5101832008",
@@ -34143,7 +34167,8 @@
         "5391108008",
         "5387827008",
         "5390765008",
-        "5390795008"
+        "5390795008",
+        "5393452008"
     ],
     "Coinbase": [
         "7559052",
@@ -36002,7 +36027,8 @@
         "7833173003",
         "7894014003",
         "7815950003",
-        "7815948003"
+        "7815948003",
+        "7850544003"
     ],
     "Robinhood": [
         "7799902",
@@ -37519,7 +37545,9 @@
         "8130878",
         "8070616",
         "8130589",
-        "8111979"
+        "8111979",
+        "8128617",
+        "8129880"
     ],
     "Datadog": [
         "7194969",
@@ -38400,7 +38428,8 @@
         "8141243",
         "8141240",
         "6485604",
-        "8141670"
+        "8141670",
+        "8021535"
     ],
     "Elastic": [
         "7505982",
@@ -41013,7 +41042,9 @@
         "R-0109437",
         "R-0109350",
         "R-0109352",
-        "R-0109253"
+        "R-0109253",
+        "R-0109093-1",
+        "R-0109422"
     ],
     "CrowdStrike": [
         "R26911",
@@ -45961,7 +45992,10 @@
         "R2023646",
         "R2022970",
         "R2023457",
-        "R2022790"
+        "R2022790",
+        "R2023296",
+        "R2023181",
+        "R2023217"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -51896,7 +51930,10 @@
         "R0000449772",
         "R0000450040",
         "R0000369709",
-        "R0000449856"
+        "R0000449856",
+        "R0000450196",
+        "R0000450183-1",
+        "R0000450092"
     ],
     "Zoom": [
         "R18188-1",
@@ -52285,7 +52322,8 @@
         "R19497",
         "R19558",
         "R19556",
-        "R19557"
+        "R19557",
+        "R19560-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -53129,7 +53167,9 @@
         "R-108786",
         "R-108402-1",
         "R-108818",
-        "R-108820-1"
+        "R-108820-1",
+        "R-108764",
+        "R-108759"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -53641,7 +53681,8 @@
         "47d2513b-d778-4498-a76c-ca30cd1d34b2",
         "8ef0ae8e-868b-41c9-b105-1e8e923ad09e",
         "d84df504-a5c0-4301-b489-a53eb575422a",
-        "efe554c0-d8da-40a1-aff2-89dd28520948"
+        "efe554c0-d8da-40a1-aff2-89dd28520948",
+        "ef38b9ea-a303-44e6-823a-12e5b53baa15"
     ],
     "Airtable": [
         "8403127002",
@@ -56326,7 +56367,8 @@
         "4699279006",
         "4643477006",
         "4700290006",
-        "4687461006"
+        "4687461006",
+        "4704930006"
     ],
     "Duolingo": [
         "8455252002",
@@ -59110,7 +59152,10 @@
         "Director--Visa-Consulting---Analytics---Canada_REF087543W",
         "Sr-Manager--Visa-Consulting-and-Analytics_REF087566W",
         "Senior-Technical-Solutions-Consultant_REF087328W",
-        "Sr-Manager--Global-Corporate-Development_REF081215W"
+        "Sr-Manager--Global-Corporate-Development_REF081215W",
+        "Manager--Financial-Planning---Analysis_REF087620W-1",
+        "Manager--Digital-and-Platform-Products_REF087517W",
+        "Analyst--Digital-and-Platform-Products_REF087516W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -64938,7 +64983,8 @@
         "4700431006",
         "4705306006",
         "4705307006",
-        "4703919006"
+        "4703919006",
+        "4704413006"
     ],
     "Addepar": [
         "8594217002",
@@ -65533,7 +65579,8 @@
         "8125858",
         "8131333",
         "8139576",
-        "8097056"
+        "8097056",
+        "8141831"
     ],
     "Salary Finance": [
         "7738033",
@@ -66190,7 +66237,9 @@
         "8139990",
         "8139694",
         "8106012",
-        "8138326"
+        "8138326",
+        "8074824",
+        "8131237"
     ],
     "Kaseya": [
         "6022140004",
