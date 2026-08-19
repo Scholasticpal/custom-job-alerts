@@ -2539,7 +2539,8 @@
         "10503178",
         "10505853",
         "10506448",
-        "10506473"
+        "10506473",
+        "10507385"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -5997,7 +5998,8 @@
         "8138500",
         "8140993",
         "8141377",
-        "8141266"
+        "8141266",
+        "8138002"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -9946,7 +9948,8 @@
         "8131833",
         "8129494",
         "8138788",
-        "8136547"
+        "8136547",
+        "8142219"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -11052,7 +11055,8 @@
         "8132191",
         "8132240",
         "8127595",
-        "8141086"
+        "8141086",
+        "8111595"
     ],
     "DoorDash": [
         "7927511",
@@ -34215,7 +34219,9 @@
         "5390984008",
         "5375371008",
         "5375376008",
-        "5394993008"
+        "5394993008",
+        "5396186008",
+        "5318977008"
     ],
     "Coinbase": [
         "7559052",
@@ -35442,7 +35448,8 @@
         "e66c6658-9e65-4c58-8db2-844628b6e8f8",
         "3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
         "e32799d2-8ef8-4803-8189-c72514afa816",
-        "7832514e-f065-4345-9eee-47083880c0a1"
+        "7832514e-f065-4345-9eee-47083880c0a1",
+        "8ee34d10-ba59-44bb-b12c-0130e908810d"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -41106,7 +41113,8 @@
         "R-0109253",
         "R-0109093-1",
         "R-0109422",
-        "R-0109386-1"
+        "R-0109386-1",
+        "R-0109407"
     ],
     "CrowdStrike": [
         "R26911",
@@ -46061,7 +46069,9 @@
         "R2023217",
         "R2022987",
         "R2023671",
-        "R2022479"
+        "R2022479",
+        "R2015858",
+        "R2023561"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -52009,7 +52019,9 @@
         "R0000448455",
         "R0000450081",
         "R0000444317",
-        "R0000450239-1"
+        "R0000450239-1",
+        "R0000450149",
+        "R0000445831"
     ],
     "Zoom": [
         "R18188-1",
@@ -53248,7 +53260,9 @@
         "R-108759",
         "R-108638-1",
         "R-108911",
-        "R-108975"
+        "R-108975",
+        "R-108877",
+        "R-108902"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -53761,7 +53775,8 @@
         "8ef0ae8e-868b-41c9-b105-1e8e923ad09e",
         "d84df504-a5c0-4301-b489-a53eb575422a",
         "efe554c0-d8da-40a1-aff2-89dd28520948",
-        "ef38b9ea-a303-44e6-823a-12e5b53baa15"
+        "ef38b9ea-a303-44e6-823a-12e5b53baa15",
+        "4347c068-b278-4226-aed6-b272b8e17be9"
     ],
     "Airtable": [
         "8403127002",
@@ -54343,7 +54358,9 @@
         "24cdb030-3913-4c38-a7db-8f31c3c91ee6",
         "41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
         "f154a1cb-b7c1-4f74-ac50-04ef9dcfc9e0",
-        "c21c76f0-4a2f-4666-a256-01f454d1d479"
+        "c21c76f0-4a2f-4666-a256-01f454d1d479",
+        "abd68512-a6e1-4221-bc60-dec83623408a",
+        "597e18f5-c33c-4350-8bcd-05a751cece3a"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -55913,7 +55930,11 @@
         "8115905",
         "8124366",
         "8120781",
-        "8104151"
+        "8104151",
+        "8140386",
+        "8132379",
+        "8132381",
+        "8132385"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -57092,7 +57113,8 @@
         "8135500",
         "7685103",
         "8081452",
-        "7746407"
+        "7746407",
+        "8052679"
     ],
     "Twitch": [
         "8334413002",
@@ -59245,7 +59267,8 @@
         "Director--Visa-Direct-Account-Management_REF087571W",
         "Senior-Business-Analyst_REF087422W-1",
         "Director--Sales-Incentive-Planning---Performance-Management_REF087524W",
-        "Sr-Product-Manager--Card-Receivables_REF087438W"
+        "Sr-Product-Manager--Card-Receivables_REF087438W",
+        "Director-of-Engineering--Visa-Corporate-Facilities--Building-Systems---Controls_REF087573W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -60162,7 +60185,10 @@
         "Customer-Success-Advisor--DACH_26WD97530-1",
         "Community-Engagement-Manager--Media---Entertainment_26WD96613-1",
         "Manager--License-Compliance_26WD100565-1",
-        "Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"
+        "Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
+        "Lead-Business-Intelligence-Analyst_26WD100689",
+        "Software-Engineer_26WD100686",
+        "Principal-Software-Applications-Engineer_26WD100540-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -62854,7 +62880,8 @@
         "R000107542",
         "R000107177",
         "R000107516-1",
-        "R000107520-1"
+        "R000107520-1",
+        "R000107527-2"
     ],
     "Kyndryl": [
         "R-61530",
@@ -64954,7 +64981,8 @@
         "8692087002",
         "8728271002",
         "8726050002",
-        "8731186002"
+        "8731186002",
+        "8731531002"
     ],
     "FalconX": [
         "4677684005",
