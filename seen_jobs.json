@@ -12433,7 +12433,8 @@
         "8120421",
         "8138870",
         "8141692",
-        "8142281"
+        "8142281",
+        "8141644"
     ],
     "Dropbox": [
         "7646405",
@@ -23319,7 +23320,8 @@
         "R356573-1",
         "R355117",
         "R349773-1",
-        "R356625-1"
+        "R356625-1",
+        "R355836-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -33171,7 +33173,11 @@
         "65481725-40f3-48f5-bbc0-cddf1fe33308",
         "d49e3abe-0d02-4b73-a5b2-cc7f1414c1e8",
         "27e04b59-5e8e-4be4-be63-8802535929bc",
-        "c18cb478-c0ab-447e-bc80-079f3bc00b0b"
+        "c18cb478-c0ab-447e-bc80-079f3bc00b0b",
+        "5d1a6c05-e18b-43a2-8808-6498929ac253",
+        "2183189b-a982-4a81-878a-109d278ed2ee",
+        "0199ebc8-4720-40b1-b692-9189246776df",
+        "2bf44c13-a463-4ec7-b152-b8367075246c"
     ],
     "Anthropic": [
         "5101832008",
@@ -41135,7 +41141,9 @@
         "R-0109407",
         "R-0109316",
         "R-0109195",
-        "R-0109404"
+        "R-0109404",
+        "R-0109356",
+        "R-0109355"
     ],
     "CrowdStrike": [
         "R26911",
@@ -46093,7 +46101,8 @@
         "R2022479",
         "R2015858",
         "R2023561",
-        "R2023857"
+        "R2023857",
+        "R2020416"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -52050,7 +52059,9 @@
         "R-2027-_R0000450290",
         "R-2027-_R0000450289",
         "R-2027-_R0000450285",
-        "R-2027-_R0000450280"
+        "R-2027-_R0000450280",
+        "R-2027-_R0000450296",
+        "R-2027-_R0000450291"
     ],
     "Zoom": [
         "R18188-1",
@@ -60223,7 +60234,8 @@
         "Customer-Success-Manager_26WD100691",
         "Principal-Software-Engineer_26WD100690",
         "Principal-Product-Manager--Applied-AI---Data-Science_26WD100239-2",
-        "Senior-Associate-Digital-Renewal-Representative_26WD98939-2"
+        "Senior-Associate-Digital-Renewal-Representative_26WD98939-2",
+        "Intern--Agentic-Canvas-Interactions_26WD100616-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -61907,7 +61919,8 @@
         "National-Sales-Assistant-Director_10157184",
         "Sr-Staff-R-D-Engineer_10127968",
         "Sr-Data-Analyst_10157869",
-        "Manager--Communications_10157852"
+        "Manager--Communications_10157852",
+        "Senior-Concept-Artist_10157163-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -69279,7 +69292,9 @@
         "8138934",
         "8139816",
         "8141990",
-        "8142173"
+        "8142173",
+        "8143097",
+        "8143094"
     ],
     "Spotify": [],
     "Snap": [],
