@@ -1579,7 +1579,8 @@
         "8139202",
         "8112456",
         "8139998",
-        "8128552"
+        "8128552",
+        "8128011"
     ],
     "Figma": [
         "5426468004",
@@ -1973,7 +1974,8 @@
         "6143018004",
         "6142506004",
         "6141213004",
-        "6144873004"
+        "6144873004",
+        "6142782004"
     ],
     "Amazon": [
         "3198115",
@@ -2526,7 +2528,8 @@
         "10503776",
         "10503178",
         "10505853",
-        "10506448"
+        "10506448",
+        "10506473"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -3449,7 +3452,8 @@
         "4718634005",
         "4722546005",
         "4723479005",
-        "4723029005"
+        "4723029005",
+        "4725604005"
     ],
     "Rippling": [],
     "Slice": [
@@ -8098,7 +8102,8 @@
         "8657488002",
         "8727543002",
         "8567961002",
-        "8701065002"
+        "8701065002",
+        "8697067002"
     ],
     "Rubrik": [
         "7310036",
@@ -11023,7 +11028,8 @@
         "8132228",
         "8132191",
         "8132240",
-        "8127595"
+        "8127595",
+        "8141086"
     ],
     "DoorDash": [
         "7927511",
@@ -13064,7 +13070,8 @@
         "faa90cf7-c5d7-450c-aeeb-142c9954a5b1",
         "e03deae3-a5f2-428d-b2f3-3c275f8c433b",
         "e640ec64-9e6b-482a-b21e-82261334bcd0",
-        "70c00ec4-92c3-4ec8-b131-01ea3187fe7c"
+        "70c00ec4-92c3-4ec8-b131-01ea3187fe7c",
+        "a84c770c-6f20-4093-99fa-5a7f2bad5837"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -17766,7 +17773,10 @@
         "R-274965",
         "R-288083-1",
         "R-288441-1",
-        "R-288718"
+        "R-288718",
+        "R-288524",
+        "R-288786-1",
+        "R-288038-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23222,7 +23232,12 @@
         "R355706",
         "R356410",
         "R345411-1",
-        "R291875"
+        "R291875",
+        "R355888",
+        "R356370",
+        "R356423-1",
+        "R356685",
+        "R356683"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24150,7 +24165,8 @@
         "Lead-Travel-Counselor_J-84139",
         "Platform-Solutions-Specialist_J-83020",
         "Job-Posting-Title-Director--Government-Product-Management_J-84335",
-        "Travel-Counselor-Senior-Travel-Counselor_J-83267"
+        "Travel-Counselor-Senior-Travel-Counselor_J-83267",
+        "Senior-Travel-Counselor_J-84407"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -24373,7 +24389,9 @@
         "Assistant-Vice-President--Markets-Support-Analyst--Global-Markets-Operations-Risk---Control-2IC---Australia--Global-Markets-Operations_26029480",
         "AVP--Markets-Support-Specialist--APAC-Equity-Trade-Control---Global-Markets-Operation_26018994-1",
         "Vice-President--Technology-Services-Lead--Data-Centre-Provisioning-Manager---Core-Technology-Infrastructure_26029966-1",
-        "Officer--Markets-Support-Analyst--India--Global-Markets-Operations_26029699"
+        "Officer--Markets-Support-Analyst--India--Global-Markets-Operations_26029699",
+        "Program-Manager_26027605",
+        "Project-Manager---Change---Transformation--APAC-_26027601-2"
     ],
     "BlackRock": [
         "R263666",
@@ -25585,7 +25603,12 @@
         "R266061",
         "R257428",
         "R266051",
-        "R265867-1"
+        "R265867-1",
+        "R266044",
+        "R265839",
+        "R265340",
+        "R265964",
+        "R265922"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -26492,7 +26515,8 @@
         "R32313",
         "R32950-1",
         "R32614-1",
-        "R32312"
+        "R32312",
+        "R32998"
     ],
     "Fiserv": [
         "R-10392824",
@@ -28272,7 +28296,11 @@
         "R-10398510",
         "R-10392878",
         "R-10389883",
-        "R-10400475"
+        "R-10400475",
+        "R-10401217-1",
+        "R-10399419",
+        "R-10400902",
+        "R-10400900"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -37423,7 +37451,8 @@
         "8119523",
         "8129878",
         "8130878",
-        "8070616"
+        "8070616",
+        "8130589"
     ],
     "Datadog": [
         "7194969",
@@ -38300,7 +38329,9 @@
         "8136512",
         "8139662",
         "8132294",
-        "8138342"
+        "8138342",
+        "8141243",
+        "8141240"
     ],
     "Elastic": [
         "7505982",
@@ -45842,7 +45873,18 @@
         "R2023855",
         "R2023837",
         "R2023847",
-        "R2023495"
+        "R2023495",
+        "R2022744-1",
+        "R2023633-1",
+        "R2023168",
+        "R2022306",
+        "R2023167",
+        "R2022675",
+        "R2023079",
+        "R2022712",
+        "R2021123",
+        "R2022251",
+        "R2019900"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -51749,7 +51791,18 @@
         "R0000450023",
         "R0000450094",
         "R0000450028",
-        "R0000446251-1"
+        "R0000446251-1",
+        "R0000446274",
+        "R0000447841-1",
+        "R0000450099",
+        "R0000450105",
+        "R0000450063",
+        "R0000450103",
+        "R0000432470",
+        "R0000448731",
+        "R0000450091",
+        "R0000440412-1",
+        "R0000450111"
     ],
     "Zoom": [
         "R18188-1",
@@ -54661,7 +54714,10 @@
         "8bb85a3e-5bcb-4eac-9bd0-0a7a5326240a",
         "000a65fc-7ea2-4d1d-9bf4-c08e82a3439f",
         "12e8a42b-ffff-49a5-a427-9aba70e41c31",
-        "dcd8d410-87f1-4223-b84d-5360d9527e70"
+        "dcd8d410-87f1-4223-b84d-5360d9527e70",
+        "5a8a73a5-d220-48d8-a1eb-acc69fbaa61b",
+        "88f94481-67d3-4e2a-bfa9-cb5eaf833e33",
+        "d4856ffe-974e-43aa-8891-c3d8106e93ee"
     ],
     "Netskope": [
         "7885748",
@@ -54978,7 +55034,9 @@
         "8131789",
         "8130284",
         "8138467",
-        "8140587"
+        "8140587",
+        "8141227",
+        "8141217"
     ],
     "Samsara": [
         "5747183",
@@ -61505,7 +61563,12 @@
         "Planner--DASP_10156379",
         "Aviation-Scheduling-Manager_10158332",
         "Coordinator--Client-Services_10157917-2",
-        "Sr-Specialist--Merchandising--TDS-China_10158449"
+        "Sr-Specialist--Merchandising--TDS-China_10158449",
+        "Senior-Platform-Engineer---Directory-Services_10158252",
+        "Security-Engineer_10158241",
+        "Lead-Modeler_10155895-2",
+        "Security-Engineer_10158249",
+        "Legal-Operations-Manager_10158339"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -64463,7 +64526,11 @@
         "R-66870",
         "R-66869",
         "R-66871",
-        "R-66618-2"
+        "R-66618-2",
+        "R-66377-1",
+        "R-66911",
+        "R-56255",
+        "R-64522"
     ],
     "Chime": [
         "8391630002",
@@ -66186,7 +66253,9 @@
         "6145982004",
         "6146015004",
         "6146014004",
-        "6146016004"
+        "6146016004",
+        "6138046004",
+        "6119031004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -66966,7 +67035,10 @@
         "8132363",
         "8139803",
         "8139805",
-        "7960104"
+        "7960104",
+        "8141220",
+        "8127661",
+        "8141252"
     ],
     "Propel": [],
     "Canva": [],
@@ -68410,7 +68482,10 @@
         "8121017",
         "8127265",
         "8129711",
-        "8138276"
+        "8138276",
+        "8138469",
+        "7896639",
+        "8025503"
     ],
     "Roku": [
         "8023364",
