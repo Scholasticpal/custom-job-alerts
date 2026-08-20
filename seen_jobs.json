@@ -8139,7 +8139,8 @@
         "8729618002",
         "8727545002",
         "8563159002",
-        "8337391002"
+        "8337391002",
+        "8675639002"
     ],
     "Rubrik": [
         "7310036",
@@ -17881,7 +17882,9 @@
         "R-288591",
         "R-276381",
         "R-280307",
-        "R-288623"
+        "R-288623",
+        "R-286499-1",
+        "R-287467-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23384,7 +23387,11 @@
         "R356674",
         "R356842",
         "R356717",
-        "R356840"
+        "R356840",
+        "R356773",
+        "R355800",
+        "R356850",
+        "R356849"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -25776,7 +25783,8 @@
         "R266195",
         "R265893",
         "R266148-1",
-        "R266196"
+        "R266196",
+        "R265981"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -26328,7 +26336,8 @@
         "R7115",
         "R7124",
         "R7048",
-        "R7119"
+        "R7119",
+        "R6983"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -28507,7 +28516,9 @@
         "R-10399168",
         "R-10401418",
         "R-10399153",
-        "R-10399423"
+        "R-10399423",
+        "R-10400462",
+        "R-10400793-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -34867,7 +34878,8 @@
         "8703614002",
         "8694818002",
         "8652853002",
-        "8700605002"
+        "8700605002",
+        "8731898002"
     ],
     "Reddit": [
         "7011741",
@@ -36783,7 +36795,8 @@
         "6142097004",
         "6144467004",
         "5822513004",
-        "5649459004"
+        "5649459004",
+        "6147956004"
     ],
     "MongoDB": [
         "7574659",
@@ -38635,7 +38648,9 @@
         "8131949",
         "8130580",
         "8134425",
-        "8141967"
+        "8141967",
+        "8140297",
+        "8113116"
     ],
     "Elastic": [
         "7505982",
@@ -41265,7 +41280,9 @@
         "R-0107923",
         "R-0109456",
         "R-0109405",
-        "R-0108647-1"
+        "R-0108647-1",
+        "R-0109166",
+        "R-0109032-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -53524,7 +53541,8 @@
         "R-108740",
         "R-108701",
         "R-108838",
-        "R-108872"
+        "R-108872",
+        "R-109019"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -59555,7 +59573,8 @@
         "Product-Manager---Swift_REF087424W",
         "Product-Manager---Treasury_REF087634W",
         "Compliance-Officer--Germany--Fixed-Term-Contract-_REF087468W",
-        "Sr-Compliance-Manager_REF087527W"
+        "Sr-Compliance-Manager_REF087527W",
+        "Director--VCA-Implementation-Services_REF079951W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -62181,7 +62200,10 @@
         "Certification-and-Training-Coordinator_10158352",
         "Senior-Product-Design---Development-Manager---Food-_10157664",
         "XMLNAME---Magasinier--e--maintenance-en-CDI--F-H-NB-_10158884",
-        "Quality-Assurance-Analyst---Consumer-Products_10157853-2"
+        "Quality-Assurance-Analyst---Consumer-Products_10157853-2",
+        "Senior-Manager--SDET_10157265",
+        "Sr-Machine-Learning-Engineer_10157609",
+        "Lead-Data-Engineer_10155285-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -68070,7 +68092,9 @@
         "8716220002",
         "8716222002",
         "8716224002",
-        "8716218002"
+        "8716218002",
+        "8728414002",
+        "8728407002"
     ],
     "Coupang": [
         "7915234",
