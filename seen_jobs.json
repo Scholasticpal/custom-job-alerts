@@ -29383,7 +29383,9 @@
         "R-14914",
         "R-14284",
         "R-15179-1",
-        "R-14517"
+        "R-14517",
+        "R-14990-1",
+        "R-15012"
     ],
     "PayPal": [
         "R0135744-1",
@@ -37712,7 +37714,8 @@
         "8130589",
         "8111979",
         "8128617",
-        "8129880"
+        "8129880",
+        "8143614"
     ],
     "Datadog": [
         "7194969",
@@ -46488,7 +46491,9 @@
         "Senior-Hardware-Engineering-Program-Manager_2022182",
         "Cloud-Engineer_2023197",
         "Cloud-Engineer_2023196",
-        "Memory-Layout-Technical-Leader_2023035"
+        "Memory-Layout-Technical-Leader_2023035",
+        "Memory-Layout-Design-Engineer_2023442",
+        "Memory-Layout-Design-Engineer_2023443"
     ],
     "Intel": [
         "R0283052",
@@ -52221,7 +52226,13 @@
         "R0000450325",
         "R0000449985",
         "R0000442405",
-        "R0000441667-1"
+        "R0000441667-1",
+        "R0000449815",
+        "R0000450241",
+        "R0000450235",
+        "R0000450225-1",
+        "R0000450311",
+        "R0000450015"
     ],
     "Zoom": [
         "R18188-1",
@@ -53465,7 +53476,8 @@
         "R-108902",
         "R-108740",
         "R-108701",
-        "R-108838"
+        "R-108838",
+        "R-108872"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -59491,7 +59503,8 @@
         "Staff-Data-Engineer--8-10-years--exp---Java-Python--Scala--Spark--Hadoop-_REF087588W",
         "Product-Manager---Swift_REF087424W",
         "Product-Manager---Treasury_REF087634W",
-        "Compliance-Officer--Germany--Fixed-Term-Contract-_REF087468W"
+        "Compliance-Officer--Germany--Fixed-Term-Contract-_REF087468W",
+        "Sr-Compliance-Manager_REF087527W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -60418,7 +60431,9 @@
         "Senior-Associate-Digital-Renewal-Representative_26WD98939-2",
         "Intern--Agentic-Canvas-Interactions_26WD100616-1",
         "Implementation-Consultant_26WD100326-1",
-        "Senior-Technical-Support-Specialist---Forma-AMER---PST_26WD100590-1"
+        "Senior-Technical-Support-Specialist---Forma-AMER---PST_26WD100590-1",
+        "Client-Services-Specialist---French-speaker_26WD100488-1",
+        "Data-Science-AI-Strategy--UK_26WD100685"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -65110,7 +65125,8 @@
         "R-66925",
         "R-66923",
         "R-66924-1",
-        "R-67009"
+        "R-67009",
+        "R-66918"
     ],
     "Chime": [
         "8391630002",
@@ -65386,7 +65402,8 @@
         "4705306006",
         "4705307006",
         "4703919006",
-        "4704413006"
+        "4704413006",
+        "4705808006"
     ],
     "Addepar": [
         "8594217002",
@@ -69129,7 +69146,8 @@
         "8143386",
         "8143535",
         "8143524",
-        "8143295"
+        "8143295",
+        "8143454"
     ],
     "Roku": [
         "8023364",
