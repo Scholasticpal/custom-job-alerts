@@ -1986,7 +1986,8 @@
         "6141213004",
         "6144873004",
         "6142782004",
-        "6144522004"
+        "6144522004",
+        "6132643004"
     ],
     "Amazon": [
         "3198115",
@@ -8664,7 +8665,8 @@
         "8138785",
         "8140013",
         "8122613",
-        "8141057"
+        "8141057",
+        "8108085"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -8785,7 +8787,8 @@
         "R103576",
         "R103572",
         "R103511",
-        "R103591"
+        "R103591",
+        "R103610-1"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -17845,7 +17848,8 @@
         "R-288352",
         "R-287825",
         "R-287963-1",
-        "R-288190"
+        "R-288190",
+        "R-288899"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -24265,7 +24269,9 @@
         "Senior-Invoicing-Agent_J-83509-1",
         "Specialized-Travel-Counselor_J-84132",
         "Emergency-Service-Center---Experienced-Travel-Consultant_J-84433",
-        "Congress-Coordinator---Life-Sciences_J-83764"
+        "Congress-Coordinator---Life-Sciences_J-83764",
+        "Travel-Consultant_J-83952",
+        "Senior-Travel-Consultant_J-84463"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -24495,7 +24501,8 @@
         "Assistant-Vice-President--Vice-President--Software-Engineer--Global-Markets-Technology_26030401",
         "Officer--Markets-Support-Analyst---Trade-Support-and-Settlement---Korea--Global-Markets-Operations_26029696",
         "Officer--Markets-Support-Analyst--FX-Derivatives---Collateral-Services---China--Global-Markets-Operations_26029500",
-        "Business-Analyst---APAC-Regulatory-Reporting-Change_26027603-1"
+        "Business-Analyst---APAC-Regulatory-Reporting-Change_26027603-1",
+        "Assistant-Vice-President--Vice-President--Global-Financial-Crimes-Investigator_26030411"
     ],
     "BlackRock": [
         "R263666",
@@ -28786,7 +28793,8 @@
         "Analyst--Developer_862794-1",
         "Senior-Semantic-AI-Analyst_869174",
         "Solutions-Relationships-Manager----FT-Investment-Solutions-OCIO---Manage-3rd-Party-Evaluators-_868508",
-        "Private-Asset-Operations-Specialist_869090"
+        "Private-Asset-Operations-Specialist_869090",
+        "Client-Relations-Analyst_869022"
     ],
     "Invesco": [
         "R-13647",
@@ -34270,7 +34278,8 @@
         "5396397008",
         "5390952008",
         "5390964008",
-        "5394958008"
+        "5394958008",
+        "5390735008"
     ],
     "Coinbase": [
         "7559052",
@@ -52108,7 +52117,20 @@
         "R0000439493-1",
         "R0000450008",
         "R0000440220-1",
-        "R0000450146"
+        "R0000450146",
+        "R0000450316",
+        "R0000450283",
+        "R0000450273",
+        "R0000449389",
+        "R0000439812-1",
+        "R0000439815-1",
+        "R0000444704-1",
+        "R0000449523",
+        "R0000450254",
+        "R0000450084",
+        "R0000450164-1",
+        "R0000450244",
+        "R0000449754"
     ],
     "Zoom": [
         "R18188-1",
@@ -56557,7 +56579,8 @@
         "4643477006",
         "4700290006",
         "4687461006",
-        "4704930006"
+        "4704930006",
+        "4704221006"
     ],
     "Duolingo": [
         "8455252002",
@@ -62990,7 +63013,8 @@
         "R000107520-1",
         "R000107527-2",
         "R-2026-_R000107501-1",
-        "R000102564"
+        "R000102564",
+        "R-2026-_R000107502"
     ],
     "Kyndryl": [
         "R-61530",
@@ -66519,7 +66543,8 @@
         "8131237",
         "8142022",
         "8140422",
-        "8142155"
+        "8142155",
+        "8127234"
     ],
     "Kaseya": [
         "6022140004",
@@ -68981,7 +69006,8 @@
         "8025503",
         "8140574",
         "8124189",
-        "8129455"
+        "8129455",
+        "8104739"
     ],
     "Roku": [
         "8023364",
