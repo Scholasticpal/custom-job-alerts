@@ -1590,7 +1590,8 @@
         "8142770",
         "8142302",
         "7737526",
-        "8142649"
+        "8142649",
+        "8007692"
     ],
     "Figma": [
         "5426468004",
@@ -11835,7 +11836,9 @@
         "3547200",
         "8141901",
         "8143072",
-        "8142189"
+        "8142189",
+        "8143179",
+        "8143360"
     ],
     "GitHub": [],
     "Twilio": [
@@ -17854,7 +17857,9 @@
         "R-288190",
         "R-288899",
         "R-288888",
-        "R-288900"
+        "R-288900",
+        "R-288837",
+        "R-288842"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -24510,7 +24515,8 @@
         "Officer--Markets-Support-Analyst--FX-Derivatives---Collateral-Services---China--Global-Markets-Operations_26029500",
         "Business-Analyst---APAC-Regulatory-Reporting-Change_26027603-1",
         "Assistant-Vice-President--Vice-President--Global-Financial-Crimes-Investigator_26030411",
-        "Officer--Markets-Support-Analyst--India--Global-Markets-Operations_26030148"
+        "Officer--Markets-Support-Analyst--India--Global-Markets-Operations_26030148",
+        "Officer--Markets-Support-Analyst--Korea--Global-Markets-Operations_26030414-1"
     ],
     "BlackRock": [
         "R263666",
@@ -26433,7 +26439,8 @@
         "TPRM-Belfast-Intern-2026-2027_34733",
         "Tech-Ops-Engineer-I---India_34716",
         "Site-Reliability-Engineer-III--Multiple-Openings-_34720",
-        "Lead-Security-Engineer---PAM_34723"
+        "Lead-Security-Engineer---PAM_34723",
+        "Site-Reliability-Engineer-II---India_33984"
     ],
     "FactSet": [
         "R32107-1",
@@ -28805,7 +28812,8 @@
         "Solutions-Relationships-Manager----FT-Investment-Solutions-OCIO---Manage-3rd-Party-Evaluators-_868508",
         "Private-Asset-Operations-Specialist_869090",
         "Client-Relations-Analyst_869022",
-        "Manager---Data-Platform_869003-1"
+        "Manager---Data-Platform_869003-1",
+        "Quantitative-Insurance-Solutions-Analyst_869339"
     ],
     "Invesco": [
         "R-13647",
@@ -52178,7 +52186,14 @@
         "R0000450260",
         "R0000450226",
         "R0000450166",
-        "R0000450256"
+        "R0000450256",
+        "R0000450198",
+        "R0000450228",
+        "R0000449478",
+        "R0000450258",
+        "R0000442064",
+        "R0000444274",
+        "R0000441177"
     ],
     "Zoom": [
         "R18188-1",
@@ -53421,7 +53436,8 @@
         "R-108877",
         "R-108902",
         "R-108740",
-        "R-108701"
+        "R-108701",
+        "R-108838"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -56467,7 +56483,8 @@
         "d3b2f261-3f10-4edc-8802-8b3b37977d0a",
         "5614a901-ef96-4b9c-928d-4a9c338c8aad",
         "5b1eac37-708b-4eb2-94f0-d2abe7945989",
-        "1a84bb07-812d-487c-a3b7-8a78b8c8b083"
+        "1a84bb07-812d-487c-a3b7-8a78b8c8b083",
+        "a114f925-b5cb-4076-bf68-c77310754aec"
     ],
     "Gong": [
         "4395203006",
@@ -60364,7 +60381,8 @@
         "Principal-Product-Manager--Applied-AI---Data-Science_26WD100239-2",
         "Senior-Associate-Digital-Renewal-Representative_26WD98939-2",
         "Intern--Agentic-Canvas-Interactions_26WD100616-1",
-        "Implementation-Consultant_26WD100326-1"
+        "Implementation-Consultant_26WD100326-1",
+        "Senior-Technical-Support-Specialist---Forma-AMER---PST_26WD100590-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -63068,7 +63086,8 @@
         "R000107527-2",
         "R-2026-_R000107501-1",
         "R000102564",
-        "R-2026-_R000107502"
+        "R-2026-_R000107502",
+        "R-2026-_R000107503"
     ],
     "Kyndryl": [
         "R-61530",
