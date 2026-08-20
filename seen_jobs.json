@@ -2878,7 +2878,8 @@
         "ec457d1a-de58-4e8d-8867-159fe7d0ef2a",
         "e35e589f-acd7-4fbd-ae69-f79387393e84",
         "8060e471-4c02-456d-b2c0-fdde61cbe5ba",
-        "d270d6e5-d68f-4514-a9c4-d6ab7e37d425"
+        "d270d6e5-d68f-4514-a9c4-d6ab7e37d425",
+        "2ee73f96-8c5c-4ffd-a723-21521c2dad4a"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -5033,7 +5034,8 @@
         "0621bd97-c9ef-4074-b5b0-875575a682c6",
         "2190585e-f736-4b55-a90c-32a476ac97bc",
         "3ba275a6-47e6-4cf6-906a-bfc5052bba69",
-        "271d28ce-e61c-4216-b7d4-adddd79eefa6"
+        "271d28ce-e61c-4216-b7d4-adddd79eefa6",
+        "eb6549d8-0e20-4ca1-ac22-c1ca201ee7a0"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8666,7 +8668,8 @@
         "8140013",
         "8122613",
         "8141057",
-        "8108085"
+        "8108085",
+        "8121053"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -17849,7 +17852,8 @@
         "R-287825",
         "R-287963-1",
         "R-288190",
-        "R-288899"
+        "R-288899",
+        "R-288888"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23336,7 +23340,9 @@
         "R356625-1",
         "R355836-1",
         "R356667",
-        "R354773-1"
+        "R354773-1",
+        "R350708",
+        "R356680"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -28446,7 +28452,8 @@
         "R-10398556",
         "R-10399775",
         "R-10399038",
-        "R-10398533"
+        "R-10398533",
+        "R-10399168"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -28794,7 +28801,8 @@
         "Senior-Semantic-AI-Analyst_869174",
         "Solutions-Relationships-Manager----FT-Investment-Solutions-OCIO---Manage-3rd-Party-Evaluators-_868508",
         "Private-Asset-Operations-Specialist_869090",
-        "Client-Relations-Analyst_869022"
+        "Client-Relations-Analyst_869022",
+        "Manager---Data-Platform_869003-1"
     ],
     "Invesco": [
         "R-13647",
@@ -41184,7 +41192,9 @@
         "R-0109355",
         "R-0109507",
         "R-0107923",
-        "R-0109456"
+        "R-0109456",
+        "R-0109405",
+        "R-0108647-1"
     ],
     "CrowdStrike": [
         "R26911",
@@ -52130,7 +52140,20 @@
         "R0000450084",
         "R0000450164-1",
         "R0000450244",
-        "R0000449754"
+        "R0000449754",
+        "R0000449817",
+        "R0000450177",
+        "R0000450247",
+        "R0000450287",
+        "R0000449627",
+        "R0000449097",
+        "R0000449927",
+        "R0000450257",
+        "R0000450307-1",
+        "R0000450259",
+        "R0000450269",
+        "R0000447489",
+        "R0000450260"
     ],
     "Zoom": [
         "R18188-1",
@@ -53371,7 +53394,9 @@
         "R-108911",
         "R-108975",
         "R-108877",
-        "R-108902"
+        "R-108902",
+        "R-108740",
+        "R-108701"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -53588,7 +53613,8 @@
         "Lead-Managed-Services-Consultant_113416-JOB",
         "Senior-Managed-Services-Consultant_113415-JOB",
         "Lead-Implementation-Consultant_113439-JOB",
-        "XMLNAME---Payroll-Lead_113431-JOB"
+        "XMLNAME---Payroll-Lead_113431-JOB",
+        "Support-Platform-Administrator_113324-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -59386,7 +59412,8 @@
         "Vendor-Mgmt-Consultant_REF087280W-1",
         "Senior-Manager--Solution-Architecture--Visa-Commercial-Solutions_REF087242W-1",
         "Sr-Service-Experience-Consultant_REF087471W-1",
-        "Senior-Manager--Financial-Analysis_REF080520W"
+        "Senior-Manager--Financial-Analysis_REF080520W",
+        "SW-Engineer_REF087600W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -66762,7 +66789,8 @@
         "6116386004",
         "6138753004",
         "6147573004",
-        "6147604004"
+        "6147604004",
+        "6146541004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -67555,7 +67583,8 @@
         "8142648",
         "8142987",
         "8143004",
-        "8121915"
+        "8121915",
+        "8138812"
     ],
     "Propel": [],
     "Canva": [],
