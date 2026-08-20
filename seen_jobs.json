@@ -2891,7 +2891,8 @@
         "2ee73f96-8c5c-4ffd-a723-21521c2dad4a",
         "69e77801-efff-411c-889e-900d8b3b3ab5",
         "7a4b245f-6e11-4fd2-ab5e-5984a1e9d473",
-        "76517825-1e0b-47fd-b091-4542eac73f33"
+        "76517825-1e0b-47fd-b091-4542eac73f33",
+        "e208089b-948b-4d86-a7c0-e6fff7e4eddb"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -29479,7 +29480,8 @@
         "R-15012",
         "R-15016",
         "R-15196",
-        "R-14750"
+        "R-14750",
+        "R-14275"
     ],
     "PayPal": [
         "R0135744-1",
@@ -33342,7 +33344,8 @@
         "0199ebc8-4720-40b1-b692-9189246776df",
         "2bf44c13-a463-4ec7-b152-b8367075246c",
         "3ac187b2-dd75-4acd-b285-51ae6e603dbd",
-        "f520fee9-859b-41e4-9f0b-ae03da7fca88"
+        "f520fee9-859b-41e4-9f0b-ae03da7fca88",
+        "8a86b02b-6063-4124-863f-7e41e9849e22"
     ],
     "Anthropic": [
         "5101832008",
@@ -34423,7 +34426,9 @@
         "5393526008",
         "5397131008",
         "5205545008",
-        "5390865008"
+        "5390865008",
+        "5391376008",
+        "5391322008"
     ],
     "Coinbase": [
         "7559052",
@@ -34769,7 +34774,8 @@
         "8131356",
         "8138031",
         "8103569",
-        "8105437"
+        "8105437",
+        "8144772"
     ],
     "Discord": [
         "8289766002",
@@ -46363,7 +46369,9 @@
         "R2014886",
         "R2023510",
         "R2023577",
-        "R2023402"
+        "R2023402",
+        "R2023813",
+        "R2011699"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -52415,7 +52423,8 @@
         "R0000450371",
         "R0000450402",
         "R0000450401-1",
-        "R0000450413-1"
+        "R0000450413-1",
+        "R0000450451"
     ],
     "Zoom": [
         "R18188-1",
@@ -53664,7 +53673,8 @@
         "R-108838",
         "R-108872",
         "R-109019",
-        "R-108969"
+        "R-108969",
+        "R-108851"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -53882,7 +53892,9 @@
         "Senior-Managed-Services-Consultant_113415-JOB",
         "Lead-Implementation-Consultant_113439-JOB",
         "XMLNAME---Payroll-Lead_113431-JOB",
-        "Support-Platform-Administrator_113324-JOB"
+        "Support-Platform-Administrator_113324-JOB",
+        "Sr-Customer-Success-Manager_113440-JOB",
+        "Director--Solutions-Consulting---Central_113441-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -56353,7 +56365,8 @@
         "8132379",
         "8132381",
         "8132385",
-        "8129501"
+        "8129501",
+        "7618028"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -57042,7 +57055,8 @@
         "8725661002",
         "8726229002",
         "8730683002",
-        "8733672002"
+        "8733672002",
+        "8734207002"
     ],
     "Pinterest": [
         "7808602",
@@ -59719,7 +59733,8 @@
         "Product-Management-Analyst_REF087426W",
         "Senior-Director--Head-of-Visa-Direct-Ecosystem--North-America_REF087581W",
         "Manager--Lifecycle-Copywriter_REF087475W-1",
-        "Sr-Manager--Software-Engineering_REF087522W"
+        "Sr-Manager--Software-Engineering_REF087522W",
+        "Senior-Financial-Analyst---Client-Incentive-Operations_REF087011W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -62354,7 +62369,12 @@
         "Senior-Project-Manager_10156314",
         "Senior-Media-Systems-Engineer_10134556",
         "Special-Events-Coordinator-ESPN_10157985",
-        "Manager--Digital-Marketing--YouTube-_10157321"
+        "Manager--Digital-Marketing--YouTube-_10157321",
+        "QA-Analyst---Expression-of-Interest---ILM-San-Francisco--Project-Hire-_10158925-2",
+        "Manager--Commercial-Performance---Planning_10156673",
+        "Senior-Field-Representative_10158949-1",
+        "Sr-Analyst--Commercial-Planning_10156671",
+        "Veterinary-Practice-Manager_10157543"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -67181,7 +67201,8 @@
         "8097727",
         "8108956",
         "8125671",
-        "8144706"
+        "8144706",
+        "8145761"
     ],
     "Instead": [
         "7761475003",
