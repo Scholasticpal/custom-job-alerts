@@ -2883,7 +2883,8 @@
         "e35e589f-acd7-4fbd-ae69-f79387393e84",
         "8060e471-4c02-456d-b2c0-fdde61cbe5ba",
         "d270d6e5-d68f-4514-a9c4-d6ab7e37d425",
-        "2ee73f96-8c5c-4ffd-a723-21521c2dad4a"
+        "2ee73f96-8c5c-4ffd-a723-21521c2dad4a",
+        "69e77801-efff-411c-889e-900d8b3b3ab5"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -17888,7 +17889,9 @@
         "R-286499-1",
         "R-287467-1",
         "R-287184",
-        "R-282640-1"
+        "R-282640-1",
+        "R-288338",
+        "R-288105"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -25791,7 +25794,9 @@
         "R266148-1",
         "R266196",
         "R265981",
-        "R265982"
+        "R265982",
+        "R265977-1",
+        "R265962"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -28527,7 +28532,8 @@
         "R-10400462",
         "R-10400793-1",
         "R-10395342",
-        "R-10401345"
+        "R-10401345",
+        "R-10400668-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -34367,7 +34373,9 @@
         "5390964008",
         "5394958008",
         "5390735008",
-        "5390754008"
+        "5390754008",
+        "5395767008",
+        "5397005008"
     ],
     "Coinbase": [
         "7559052",
@@ -38662,7 +38670,8 @@
         "8141967",
         "8140297",
         "8113116",
-        "8144018"
+        "8144018",
+        "8139396"
     ],
     "Elastic": [
         "7505982",
@@ -46278,7 +46287,8 @@
         "R2023654",
         "R2023864-1",
         "R2023952",
-        "R2004517"
+        "R2004517",
+        "R2023827"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -55593,7 +55603,9 @@
         "8141227",
         "8141217",
         "8141382",
-        "8141625"
+        "8141625",
+        "8119463",
+        "8123532"
     ],
     "Samsara": [
         "5747183",
@@ -56927,7 +56939,8 @@
         "8725638002",
         "8725661002",
         "8726229002",
-        "8730683002"
+        "8730683002",
+        "8733672002"
     ],
     "Pinterest": [
         "7808602",
@@ -59593,7 +59606,9 @@
         "Sr-Compliance-Manager_REF087527W",
         "Director--VCA-Implementation-Services_REF079951W",
         "Manager--Global-People-Solutions---Total-Rewards_REF087574W",
-        "Consultant--People-Systems_REF087069W"
+        "Consultant--People-Systems_REF087069W",
+        "Senior-Manager---Money-Movement-and-Stablecoins_REF087642W",
+        "Sr-Director--Business-Development---Tech-Partnerships_REF087683W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -62222,7 +62237,9 @@
         "Quality-Assurance-Analyst---Consumer-Products_10157853-2",
         "Senior-Manager--SDET_10157265",
         "Sr-Machine-Learning-Engineer_10157609",
-        "Lead-Data-Engineer_10155285-1"
+        "Lead-Data-Engineer_10155285-1",
+        "Sr-Machine-Learning-Engineer_10154204-1",
+        "Senior-Project-Manager_10156314"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
