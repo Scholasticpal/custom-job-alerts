@@ -17939,7 +17939,13 @@
         "R-288015",
         "R-289036",
         "R-289003",
-        "R-288599-1"
+        "R-288599-1",
+        "R-288191",
+        "R-288187-1",
+        "R-286776",
+        "R-286779-1",
+        "R-286777",
+        "R-286775"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23466,7 +23472,9 @@
         "R355825",
         "R354089",
         "R357002",
-        "R356841"
+        "R356841",
+        "R355392-1",
+        "R356862"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -28615,7 +28623,9 @@
         "R-10400669",
         "R-10400811",
         "R-10397217",
-        "R-10397211"
+        "R-10397211",
+        "R-10399161",
+        "R-10399165"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -28967,7 +28977,8 @@
         "Manager---Data-Platform_869003-1",
         "Quantitative-Insurance-Solutions-Analyst_869339",
         "Maintenance-Technician---Rancho-Cordova_868640",
-        "Facilities-Associate---Boston_868724"
+        "Facilities-Associate---Boston_868724",
+        "Investment-Risk-Analyst--CFA-FRM--SQL--Power-BI--Python-_869094"
     ],
     "Invesco": [
         "R-13647",
@@ -33399,7 +33410,9 @@
         "1b268692-70d8-46c2-a347-2f7705b5c174",
         "b9262d61-ecf3-4d9a-8674-2e30bce09bdc",
         "ea647f38-5af4-4767-8268-608059af4095",
-        "caf08cbd-8da6-4904-b5f3-4709e42f6b15"
+        "caf08cbd-8da6-4904-b5f3-4709e42f6b15",
+        "ac0922d9-4731-40a1-b8a3-17b912e1a13b",
+        "9f586619-7190-4b91-9002-d3826eaed72f"
     ],
     "Anthropic": [
         "5101832008",
@@ -41444,7 +41457,8 @@
         "R-0109309",
         "R-0097414",
         "R-0109533",
-        "R-0109320"
+        "R-0109320",
+        "R-0109474"
     ],
     "CrowdStrike": [
         "R26911",
@@ -42467,7 +42481,8 @@
         "R29882",
         "R29873-1",
         "R29567",
-        "R29202"
+        "R29202",
+        "R29824"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -46753,7 +46768,8 @@
         "Memory-Layout-Technical-Leader_2023035",
         "Memory-Layout-Design-Engineer_2023442",
         "Memory-Layout-Design-Engineer_2023443",
-        "Product-Designer---Splunk_2021400-1"
+        "Product-Designer---Splunk_2021400-1",
+        "ASIC-Engineering-Technical-Leader--Project-Lead--_2023234-1"
     ],
     "Intel": [
         "R0283052",
@@ -52532,7 +52548,10 @@
         "R0000450038",
         "R0000450253",
         "R0000450466",
-        "R0000449966-1"
+        "R0000449966-1",
+        "R0000450470",
+        "R0000450464",
+        "R0000449628"
     ],
     "Zoom": [
         "R18188-1",
@@ -62508,7 +62527,8 @@
         "Lead-Executive-Operations-Analyst_10156916",
         "Director--Content-Partnerships_10156355",
         "Unreal-Engine-Animation-Generalist---Disney-Television-Animation_10158981",
-        "Manager--Advertising-Effectiveness---Insights_10158735"
+        "Manager--Advertising-Effectiveness---Insights_10158735",
+        "Talent-Manager_10145808-2"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -69570,7 +69590,10 @@
         "8146344",
         "8127429",
         "8146379",
-        "8118957"
+        "8118957",
+        "8146257",
+        "8146614",
+        "8146599"
     ],
     "Roku": [
         "8023364",
