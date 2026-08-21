@@ -2917,7 +2917,8 @@
         "7e4d512e-fc89-40fd-9a30-46c5459bbea5",
         "24c4782a-e2d7-42a0-990d-e8ebd174ab57",
         "7aba55a4-0457-47b7-bb49-9d9ecf514cc1",
-        "84aa0489-b7e1-4670-bfa9-7a9654197cc3"
+        "84aa0489-b7e1-4670-bfa9-7a9654197cc3",
+        "a65bef0e-0f4c-40af-b662-9313f255189e"
     ],
     "Groww": [
         "4787037101",
@@ -3489,7 +3490,8 @@
         "4723479005",
         "4723029005",
         "4725604005",
-        "4723477005"
+        "4723477005",
+        "4725938005"
     ],
     "Rippling": [],
     "Slice": [
@@ -5058,7 +5060,8 @@
         "2190585e-f736-4b55-a90c-32a476ac97bc",
         "3ba275a6-47e6-4cf6-906a-bfc5052bba69",
         "271d28ce-e61c-4216-b7d4-adddd79eefa6",
-        "eb6549d8-0e20-4ca1-ac22-c1ca201ee7a0"
+        "eb6549d8-0e20-4ca1-ac22-c1ca201ee7a0",
+        "ab166330-5876-488e-b90c-749df6e871b1"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -11114,7 +11117,8 @@
         "8127595",
         "8141086",
         "8111595",
-        "8143701"
+        "8143701",
+        "8118833"
     ],
     "DoorDash": [
         "7927511",
@@ -17947,7 +17951,9 @@
         "R-286779-1",
         "R-286777",
         "R-286775",
-        "R-288587-1"
+        "R-288587-1",
+        "R-286747",
+        "R-288499"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23476,7 +23482,9 @@
         "R357002",
         "R356841",
         "R355392-1",
-        "R356862"
+        "R356862",
+        "R356424",
+        "R356805"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24416,7 +24424,8 @@
         "Specialized-Travel-Counselor_J-84481",
         "Experienced-Sabre-Travel-Consultant_J-84486",
         "Team-Leader--Traveler-Care--Centralized-Services_J-84303",
-        "WFM-Senior-Analyst_J-84060-1"
+        "WFM-Senior-Analyst_J-84060-1",
+        "Team-Leader--Travel-Experience-Leisure-Europe_J-84069"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -28627,7 +28636,8 @@
         "R-10397217",
         "R-10397211",
         "R-10399161",
-        "R-10399165"
+        "R-10399165",
+        "R-10399160"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -28980,7 +28990,8 @@
         "Quantitative-Insurance-Solutions-Analyst_869339",
         "Maintenance-Technician---Rancho-Cordova_868640",
         "Facilities-Associate---Boston_868724",
-        "Investment-Risk-Analyst--CFA-FRM--SQL--Power-BI--Python-_869094"
+        "Investment-Risk-Analyst--CFA-FRM--SQL--Power-BI--Python-_869094",
+        "Specialist-Investment---Trade-Client-Services_869012"
     ],
     "Invesco": [
         "R-13647",
@@ -29539,7 +29550,8 @@
         "R-15196",
         "R-14750",
         "R-14275",
-        "R-15237"
+        "R-15237",
+        "R-14532"
     ],
     "PayPal": [
         "R0135744-1",
@@ -33414,7 +33426,8 @@
         "ea647f38-5af4-4767-8268-608059af4095",
         "caf08cbd-8da6-4904-b5f3-4709e42f6b15",
         "ac0922d9-4731-40a1-b8a3-17b912e1a13b",
-        "9f586619-7190-4b91-9002-d3826eaed72f"
+        "9f586619-7190-4b91-9002-d3826eaed72f",
+        "2e035bad-8691-4efc-839e-a21b41b7e6fc"
     ],
     "Anthropic": [
         "5101832008",
@@ -38819,7 +38832,8 @@
         "8113116",
         "8144018",
         "8139396",
-        "8144946"
+        "8144946",
+        "8142150"
     ],
     "Elastic": [
         "7505982",
@@ -39506,7 +39520,8 @@
         "8121805",
         "8143620",
         "7348426",
-        "8121962"
+        "8121962",
+        "8142822"
     ],
     "Asana": [
         "7120496",
@@ -46493,7 +46508,9 @@
         "R2024107",
         "R2024111",
         "R2024109",
-        "R2023632"
+        "R2023632",
+        "R2023435",
+        "R2008880"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -46776,7 +46793,8 @@
         "Memory-Layout-Design-Engineer_2023442",
         "Memory-Layout-Design-Engineer_2023443",
         "Product-Designer---Splunk_2021400-1",
-        "ASIC-Engineering-Technical-Leader--Project-Lead--_2023234-1"
+        "ASIC-Engineering-Technical-Leader--Project-Lead--_2023234-1",
+        "Software-Machine-Learning-Engineer_2016324"
     ],
     "Intel": [
         "R0283052",
@@ -52558,7 +52576,16 @@
         "R0000449966-1",
         "R0000450470",
         "R0000450464",
-        "R0000449628"
+        "R0000449628",
+        "R0000450487",
+        "R0000449176",
+        "R0000450490",
+        "R0000450203",
+        "R0000450463-1",
+        "R0000450473",
+        "R0000450391",
+        "R0000449491",
+        "R0000450488"
     ],
     "Zoom": [
         "R18188-1",
@@ -53811,7 +53838,8 @@
         "R-108969",
         "R-108851",
         "R-109083",
-        "R-109076"
+        "R-109076",
+        "R-108833"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -54131,7 +54159,8 @@
         "26f7817d-ca92-4094-a2b5-f22e07a218c4",
         "1acade7a-0b80-4c6c-9253-7c27a165739d",
         "624d48cc-8d34-4607-bace-e6d045df70b8",
-        "f52fd120-5fbe-4e0d-949d-01e217ec77d6"
+        "f52fd120-5fbe-4e0d-949d-01e217ec77d6",
+        "7a5d81a2-c586-4d7f-a179-89c95869ca33"
     ],
     "Hasura": [],
     "Netlify": [
@@ -65549,7 +65578,8 @@
         "R-66700",
         "R-64517",
         "R-67263",
-        "R-67262"
+        "R-67262",
+        "R-66622-1"
     ],
     "Chime": [
         "8391630002",
