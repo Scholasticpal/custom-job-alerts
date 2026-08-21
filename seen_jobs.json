@@ -17933,7 +17933,8 @@
         "R-277842",
         "R-289074",
         "R-288015",
-        "R-289036"
+        "R-289036",
+        "R-289003"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -28605,7 +28606,9 @@
         "R-10401492",
         "R-10400816",
         "R-10400669",
-        "R-10400811"
+        "R-10400811",
+        "R-10397217",
+        "R-10397211"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -29515,7 +29518,8 @@
         "R-15016",
         "R-15196",
         "R-14750",
-        "R-14275"
+        "R-14275",
+        "R-15237"
     ],
     "PayPal": [
         "R0135744-1",
@@ -33387,7 +33391,8 @@
         "4f013f34-8ce1-4a79-91c8-c133e6365371",
         "1b268692-70d8-46c2-a347-2f7705b5c174",
         "b9262d61-ecf3-4d9a-8674-2e30bce09bdc",
-        "ea647f38-5af4-4767-8268-608059af4095"
+        "ea647f38-5af4-4767-8268-608059af4095",
+        "caf08cbd-8da6-4904-b5f3-4709e42f6b15"
     ],
     "Anthropic": [
         "5101832008",
@@ -41428,7 +41433,9 @@
         "R-0109274",
         "R-0109307-1",
         "R-0109309",
-        "R-0097414"
+        "R-0097414",
+        "R-0109533",
+        "R-0109320"
     ],
     "CrowdStrike": [
         "R26911",
@@ -46450,7 +46457,11 @@
         "R2024108",
         "R2024110",
         "R2023913",
-        "R2023905"
+        "R2023905",
+        "R2024107",
+        "R2024111",
+        "R2024109",
+        "R2023632"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -53982,7 +53993,8 @@
         "XMLNAME---Payroll-Lead_113431-JOB",
         "Support-Platform-Administrator_113324-JOB",
         "Sr-Customer-Success-Manager_113440-JOB",
-        "Director--Solutions-Consulting---Central_113441-JOB"
+        "Director--Solutions-Consulting---Central_113441-JOB",
+        "Program-Manager---Lead_113424-JOB-1"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -59830,7 +59842,10 @@
         "Manager--Lifecycle-Copywriter_REF087475W-1",
         "Sr-Manager--Software-Engineering_REF087522W",
         "Senior-Financial-Analyst---Client-Incentive-Operations_REF087011W",
-        "Analyst--Talent-Acquisition-Sourcing_REF087635W-1"
+        "Analyst--Talent-Acquisition-Sourcing_REF087635W-1",
+        "Manager--Loyalty-Program-Management--Issuer-Solutions--Melbourne-or-Sydney-_REF087539W-1",
+        "Senior-Manager--Loyalty-Program-Management--Issuer-Solutions---Value-Added-Services_REF087554W-1",
+        "Technical-Program-Manager_REF087576W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -69540,7 +69555,8 @@
         "8143668",
         "8146354",
         "8146344",
-        "8127429"
+        "8127429",
+        "8146379"
     ],
     "Roku": [
         "8023364",
