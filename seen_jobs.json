@@ -1602,7 +1602,8 @@
         "8142764",
         "8144223",
         "8130377",
-        "8141211"
+        "8141211",
+        "8143563"
     ],
     "Figma": [
         "5426468004",
@@ -10055,7 +10056,8 @@
         "4365dc2a-87b1-4751-bd30-c90c70dea92c",
         "21cc597a-2c55-4cfa-b2ba-9c7b5b70081b",
         "e155b3cf-e7ac-4d1c-8bf1-b71ef25f0dfc",
-        "2ad2a479-1bb9-4ab5-bce2-e47f2022a2e1"
+        "2ad2a479-1bb9-4ab5-bce2-e47f2022a2e1",
+        "d62b36db-b088-48c7-a606-4ed458e30208"
     ],
     "Cleartax": [
         "7931994",
@@ -17971,7 +17973,12 @@
         "R-288923",
         "R-288717",
         "R-289033",
-        "R-288649"
+        "R-288649",
+        "R-287196",
+        "R-288138",
+        "R-288753-1",
+        "R-286678-1",
+        "R-279185"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23504,7 +23511,8 @@
         "R356424",
         "R356805",
         "R357021-1",
-        "R357017"
+        "R357017",
+        "R355436"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -28662,7 +28670,8 @@
         "R-10392979",
         "R-10401531-1",
         "R-10397214",
-        "R-10399167"
+        "R-10399167",
+        "R-10399902"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -41516,7 +41525,8 @@
         "R-0109536",
         "R-0109377",
         "R-0109366",
-        "R-0109382"
+        "R-0109382",
+        "R-0109406"
     ],
     "CrowdStrike": [
         "R26911",
@@ -52646,7 +52656,11 @@
         "R0000450455",
         "R0000450347",
         "R0000450452",
-        "R0000450052"
+        "R0000450052",
+        "R0000449436-1",
+        "R0000448557",
+        "R0000450500",
+        "R0000450499"
     ],
     "Zoom": [
         "R18188-1",
@@ -55636,7 +55650,8 @@
         "05492d53-cb22-477b-b2cb-4294985d2718",
         "79f30888-c201-44d2-b98e-3641a9b7733d",
         "c70a6a8e-3c16-4480-85d4-a3aeee0892c8",
-        "4623076b-a78d-47a1-8958-2c06b28f2a9e"
+        "4623076b-a78d-47a1-8958-2c06b28f2a9e",
+        "f0557d73-a474-4996-a06e-a956677bcfe6"
     ],
     "Netskope": [
         "7885748",
@@ -57798,7 +57813,8 @@
         "8144918",
         "8131383",
         "8131732",
-        "8129644"
+        "8129644",
+        "8147108"
     ],
     "Twitch": [
         "8334413002",
@@ -60921,7 +60937,9 @@
         "Sr-Org-Effectiveness--OE--Consultant_26WD98524",
         "Customer-Support-Associate_26WD100287-2",
         "Customer-Support-Associate_26WD100288-2",
-        "Engineering-manager_26WD100721-1"
+        "Engineering-manager_26WD100721-1",
+        "Software-Engineer--Education_26WD99981-1",
+        "Software-Engineer_26WD95861-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -62639,7 +62657,9 @@
         "Unreal-Engine-Animation-Generalist---Disney-Television-Animation_10158981",
         "Manager--Advertising-Effectiveness---Insights_10158735",
         "Talent-Manager_10145808-2",
-        "Motion-Editing-Supervisor---ILM-London_10158995"
+        "Motion-Editing-Supervisor---ILM-London_10158995",
+        "Designer-II_10157164",
+        "HR-Operations-Specialist--GHRO-EMEA--Fixed-Term-Contract-_10150794"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -65656,7 +65676,8 @@
         "R-64517",
         "R-67263",
         "R-67262",
-        "R-66622-1"
+        "R-66622-1",
+        "R-61842"
     ],
     "Chime": [
         "8391630002",
