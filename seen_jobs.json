@@ -8218,7 +8218,8 @@
         "8657065002",
         "8740680002",
         "8661524002",
-        "8736500002"
+        "8736500002",
+        "8603672002"
     ],
     "Rubrik": [
         "7310036",
@@ -18054,7 +18055,9 @@
         "R-288506",
         "R-287032",
         "R-288493-1",
-        "R-287998"
+        "R-287998",
+        "R-288156",
+        "R-288168"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -26737,7 +26740,8 @@
         "Tech-Ops-Engineer-I---India_34716",
         "Site-Reliability-Engineer-III--Multiple-Openings-_34720",
         "Lead-Security-Engineer---PAM_34723",
-        "Site-Reliability-Engineer-II---India_33984"
+        "Site-Reliability-Engineer-II---India_33984",
+        "Software-Engineer-II_34686-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -29735,7 +29739,8 @@
         "R-14751",
         "R-15116",
         "R-15245",
-        "R-15205"
+        "R-15205",
+        "R-14956"
     ],
     "PayPal": [
         "R0135744-1",
@@ -33622,7 +33627,8 @@
         "3fa44620-142a-47fe-b098-92923064d2f5",
         "5f3a6397-47ac-4ef0-9ca9-cd358851a6b9",
         "831e2f91-c213-4208-9eb3-4ce2cc6b9acf",
-        "ece054ea-ac75-4b8a-bdbf-5cdf19368312"
+        "ece054ea-ac75-4b8a-bdbf-5cdf19368312",
+        "32905f5c-9405-4073-bc65-c57fcf55a83d"
     ],
     "Anthropic": [
         "5101832008",
@@ -53034,7 +53040,20 @@
         "R-2027-_R0000446938",
         "R-2027-_R0000446940-1",
         "R-2027-_R0000446942",
-        "R0000450628"
+        "R0000450628",
+        "R0000450575-1",
+        "R0000450605-1",
+        "R0000450645",
+        "R0000450415",
+        "R0000450475",
+        "R0000449845",
+        "R0000449425",
+        "R0000450675",
+        "R0000450579",
+        "R0000448669",
+        "R0000448859",
+        "R0000450649",
+        "R0000447577"
     ],
     "Zoom": [
         "R18188-1",
@@ -54300,7 +54319,8 @@
         "R-105310-1",
         "R-108914-1",
         "R-108950-1",
-        "R-109089-1"
+        "R-109089-1",
+        "R-2_R-105041"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -54521,7 +54541,8 @@
         "Support-Platform-Administrator_113324-JOB",
         "Sr-Customer-Success-Manager_113440-JOB",
         "Director--Solutions-Consulting---Central_113441-JOB",
-        "Program-Manager---Lead_113424-JOB-1"
+        "Program-Manager---Lead_113424-JOB-1",
+        "Sr-Content-Marketing-Manager_113453-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -58734,7 +58755,8 @@
         "R35334-1",
         "R35384",
         "R35367",
-        "R35375"
+        "R35375",
+        "R35324-1"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -63117,7 +63139,8 @@
         "WDI-Project-Coordination-Intern--Spring-2027_10158362",
         "WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013",
         "WDI-Ride-Development-Engineering-Intern--Spring-2027_10158669",
-        "WDI-Set-Decorator-Intern--Orlando--Spring-2027_10158463-1"
+        "WDI-Set-Decorator-Intern--Orlando--Spring-2027_10158463-1",
+        "Lighting-Technical-Director--Junior---Mid--FTC--_10159099"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -66150,7 +66173,9 @@
         "R-66743-1",
         "R-65166-1",
         "R-66782-1",
-        "R-66937"
+        "R-66937",
+        "R-66921",
+        "R-66887"
     ],
     "Chime": [
         "8391630002",
