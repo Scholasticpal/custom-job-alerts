@@ -2952,7 +2952,8 @@
         "8b535f0b-1c68-4982-95b0-91f9edb5945e",
         "91a5f0f1-b11f-412a-a816-ffc8b08a5617",
         "e7edcd33-9faa-4e2f-8a87-4a88719f94ec",
-        "aa501081-1787-4617-bfa9-9f4ecaf68f30"
+        "aa501081-1787-4617-bfa9-9f4ecaf68f30",
+        "fa6c100a-0fe0-4892-a8a3-8d2169d5005e"
     ],
     "Groww": [
         "4787037101",
@@ -18076,7 +18077,11 @@
         "R-288697",
         "R-288940",
         "R-279249",
-        "R-259024"
+        "R-259024",
+        "R-287961",
+        "R-282713",
+        "R-289015",
+        "R-288532"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -26063,7 +26068,9 @@
         "R266054",
         "R266101",
         "R265468",
-        "R260416"
+        "R260416",
+        "R266137",
+        "R265952-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -28845,7 +28852,12 @@
         "R-10399162",
         "R-10400580",
         "R-10399037",
-        "R-10399570"
+        "R-10399570",
+        "R-10398965",
+        "R-10401663",
+        "R-10401433",
+        "R-10401432",
+        "R-10401434"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -53120,7 +53132,12 @@
         "R0000450553",
         "R0000370856",
         "R0000450696",
-        "R0000438442-1"
+        "R0000438442-1",
+        "R0000442905",
+        "R0000442237",
+        "R0000442880",
+        "R0000450699",
+        "R0000450698"
     ],
     "Zoom": [
         "R18188-1",
@@ -60518,7 +60535,8 @@
         "Acquirer-Engagement-Director--B2B-Acceptance---Visa-Commercial-Solutions_REF087285W-1",
         "Software-Engineer--1-year-Exp-_REF087690W",
         "Senior-Analyst--VAS-Deal-Management_REF087417W-1",
-        "Manager--Visa-Commercial-Solutions_REF087681W"
+        "Manager--Visa-Commercial-Solutions_REF087681W",
+        "Director--Business-Development_REF087778W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -63226,7 +63244,8 @@
         "Disneyland-Mechanical-Engineering-Intern--Spring-2027_10158421-2",
         "Disneyland-Power-and-Facilities-Electrical-Engineering-Intern--Spring-2027_10158314",
         "Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2",
-        "Disneyland-Strategic-Sourcing-Intern--Spring-2027_10158264-2"
+        "Disneyland-Strategic-Sourcing-Intern--Spring-2027_10158264-2",
+        "Finance-Intern_10155660"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -66275,7 +66294,10 @@
         "R-66920",
         "R-67219-1",
         "R-67215",
-        "R-67218"
+        "R-67218",
+        "R-66713-1",
+        "R-66712-1",
+        "R-67041"
     ],
     "Chime": [
         "8391630002",
@@ -68065,7 +68087,8 @@
         "6146541004",
         "6146543004",
         "6146555004",
-        "6138771004"
+        "6138771004",
+        "6139841004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -70391,7 +70414,8 @@
         "8152518",
         "8152613",
         "8146606",
-        "8124210"
+        "8124210",
+        "8152544"
     ],
     "Roku": [
         "8023364",
