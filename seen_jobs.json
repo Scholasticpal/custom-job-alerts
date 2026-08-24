@@ -2925,7 +2925,8 @@
         "e18217dc-763b-4e25-bc22-88b6ee1a8df5",
         "645dab59-3983-4aba-8368-9c61b85e4450",
         "953ae4d2-4ce7-4e5d-8dcf-7cf693f88d12",
-        "395d8b61-3232-47b1-b930-e0f292b80ea7"
+        "395d8b61-3232-47b1-b930-e0f292b80ea7",
+        "91979e41-9b40-412d-b5f5-d1c2e1f5ef1a"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -2948,7 +2949,8 @@
         "af4cc539-ea8b-4405-8067-2d7d729c9759",
         "8b535f0b-1c68-4982-95b0-91f9edb5945e",
         "91a5f0f1-b11f-412a-a816-ffc8b08a5617",
-        "e7edcd33-9faa-4e2f-8a87-4a88719f94ec"
+        "e7edcd33-9faa-4e2f-8a87-4a88719f94ec",
+        "aa501081-1787-4617-bfa9-9f4ecaf68f30"
     ],
     "Groww": [
         "4787037101",
@@ -8219,7 +8221,8 @@
         "8740680002",
         "8661524002",
         "8736500002",
-        "8603672002"
+        "8603672002",
+        "8578155002"
     ],
     "Rubrik": [
         "7310036",
@@ -18057,7 +18060,9 @@
         "R-288493-1",
         "R-287998",
         "R-288156",
-        "R-288168"
+        "R-288168",
+        "R-288617",
+        "R-288503"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23617,7 +23622,8 @@
         "R356994",
         "R355878",
         "R356808",
-        "R357007"
+        "R357007",
+        "R356550"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -23781,7 +23787,8 @@
         "6250379",
         "8128029",
         "8129893",
-        "8122860"
+        "8122860",
+        "8105914"
     ],
     "PayU": [],
     "American Express": [
@@ -24797,7 +24804,9 @@
         "Business-Analyst---APAC-Regulatory-Reporting-Change_26027603-1",
         "Assistant-Vice-President--Vice-President--Global-Financial-Crimes-Investigator_26030411",
         "Officer--Markets-Support-Analyst--India--Global-Markets-Operations_26030148",
-        "Officer--Markets-Support-Analyst--Korea--Global-Markets-Operations_26030414-1"
+        "Officer--Markets-Support-Analyst--Korea--Global-Markets-Operations_26030414-1",
+        "Assistant-Vice-President--GCIB-KYC--Taiwan_26030836",
+        "Vice-President--Production-Services-Specialist-II--Application-Production-Services---Engineering_26030834"
     ],
     "BlackRock": [
         "R263666",
@@ -26034,7 +26043,8 @@
         "R266149",
         "R266144",
         "R266054",
-        "R266101"
+        "R266101",
+        "R265468"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -26303,7 +26313,8 @@
         "Blackstone-Multi-Asset--BXMA---SRT-Analyst_45024",
         "Finance---Corporate-FP-A--Assistant-Vice-President_45025-1",
         "Treasury---Risk-Solutions--Analyst--Associate_41885-2",
-        "Blackstone---Business-Continuity---Disaster-Recovery---Senior-Vice-President_45079-2"
+        "Blackstone---Business-Continuity---Disaster-Recovery---Senior-Vice-President_45079-2",
+        "MD--BXCI-India-Lead_44123"
     ],
     "Capital Group": [
         "R6549",
@@ -28812,7 +28823,9 @@
         "R-10399792",
         "R-10400666",
         "R-10400786",
-        "R-10399162"
+        "R-10399162",
+        "R-10400580",
+        "R-10399037"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -29740,7 +29753,9 @@
         "R-15116",
         "R-15245",
         "R-15205",
-        "R-14956"
+        "R-14956",
+        "R-14368",
+        "R-14486"
     ],
     "PayPal": [
         "R0135744-1",
@@ -37053,7 +37068,8 @@
         "8142276",
         "8123231",
         "8147756",
-        "8013397"
+        "8013397",
+        "8105960"
     ],
     "Vercel": [
         "5624231004",
@@ -41763,7 +41779,9 @@
         "R-0105401",
         "R-0105389",
         "R-0109563",
-        "R-0109279"
+        "R-0109279",
+        "R-0108770",
+        "R-0109100"
     ],
     "CrowdStrike": [
         "R26911",
@@ -42810,7 +42828,11 @@
         "R29848",
         "R29939",
         "R29940",
-        "R29617"
+        "R29617",
+        "R29897",
+        "R29874",
+        "R29911",
+        "R29937"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -46853,7 +46875,12 @@
         "R2023320",
         "R2024060",
         "R2023989",
-        "R2022811-1"
+        "R2022811-1",
+        "R2023407",
+        "R2023967",
+        "R2024002",
+        "R2015402",
+        "R2023623"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -53053,7 +53080,14 @@
         "R0000448669",
         "R0000448859",
         "R0000450649",
-        "R0000447577"
+        "R0000447577",
+        "R0000450567",
+        "R0000450597-1",
+        "R0000447645",
+        "R0000450571",
+        "R0000450651",
+        "R0000450591",
+        "R0000450681"
     ],
     "Zoom": [
         "R18188-1",
@@ -54542,7 +54576,8 @@
         "Sr-Customer-Success-Manager_113440-JOB",
         "Director--Solutions-Consulting---Central_113441-JOB",
         "Program-Manager---Lead_113424-JOB-1",
-        "Sr-Content-Marketing-Manager_113453-JOB"
+        "Sr-Content-Marketing-Manager_113453-JOB",
+        "Product-Designer-I_113296-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -60444,7 +60479,10 @@
         "Business-Development-Representative_REF087452W-1",
         "Data-Engineer_REF087496W",
         "Director--Program-Lead_REF087673W-1",
-        "Sr-Client-Care-Ops-Support_REF087653W"
+        "Sr-Client-Care-Ops-Support_REF087653W",
+        "Senior-Director--Issuing---Risk--UKI-Cluster_REF087783W",
+        "Acquirer-Engagement-Director--B2B-Acceptance---Visa-Commercial-Solutions_REF087285W-1",
+        "Software-Engineer--1-year-Exp-_REF087690W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -63140,7 +63178,19 @@
         "WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013",
         "WDI-Ride-Development-Engineering-Intern--Spring-2027_10158669",
         "WDI-Set-Decorator-Intern--Orlando--Spring-2027_10158463-1",
-        "Lighting-Technical-Director--Junior---Mid--FTC--_10159099"
+        "Lighting-Technical-Director--Junior---Mid--FTC--_10159099",
+        "DLR-Occupational-Safety---Industrial-Hygiene-Interns--Spring-2027_10158132",
+        "Disneyland-Architecture-Intern--Spring-2027_10158301",
+        "Disneyland-Civil-Facilities-and-Utilities-Intern--Spring-2026_10158736-2",
+        "Disneyland-Design-and-Construction-Strategic-Sourcing-Intern--Spring-2027_10158291",
+        "Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423",
+        "Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296",
+        "Disneyland-Facilities-Management-Engineering-Intern--Spring-2027_10158737",
+        "Disneyland-Facilities-Mechanical-Engineering-Intern--Spring-2027_10158306",
+        "Disneyland-Mechanical-Engineering-Intern--Spring-2027_10158421-2",
+        "Disneyland-Power-and-Facilities-Electrical-Engineering-Intern--Spring-2027_10158314",
+        "Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2",
+        "Disneyland-Strategic-Sourcing-Intern--Spring-2027_10158264-2"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -66175,7 +66225,16 @@
         "R-66782-1",
         "R-66937",
         "R-66921",
-        "R-66887"
+        "R-66887",
+        "R-66533-3",
+        "R-66909-1",
+        "R-66908-1",
+        "R-67342",
+        "R-65594-2",
+        "R-66934",
+        "R-66933",
+        "R-66917",
+        "R-66920"
     ],
     "Chime": [
         "8391630002",
@@ -66452,7 +66511,8 @@
         "4705307006",
         "4703919006",
         "4704413006",
-        "4705808006"
+        "4705808006",
+        "4706203006"
     ],
     "Addepar": [
         "8594217002",
@@ -70281,7 +70341,9 @@
         "8118861",
         "8025466",
         "8140579",
-        "8140677"
+        "8140677",
+        "8127161",
+        "8152518"
     ],
     "Roku": [
         "8023364",
