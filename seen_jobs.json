@@ -2928,7 +2928,8 @@
         "953ae4d2-4ce7-4e5d-8dcf-7cf693f88d12",
         "395d8b61-3232-47b1-b930-e0f292b80ea7",
         "91979e41-9b40-412d-b5f5-d1c2e1f5ef1a",
-        "94034683-2cdc-4730-b1b9-5d96ce82014b"
+        "94034683-2cdc-4730-b1b9-5d96ce82014b",
+        "7b00e437-d078-47e3-ae04-d6ce1aa6f96a"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -3527,7 +3528,8 @@
         "4725604005",
         "4723477005",
         "4725938005",
-        "4726829005"
+        "4726829005",
+        "4721861005"
     ],
     "Rippling": [],
     "Slice": [
@@ -18081,7 +18083,10 @@
         "R-287961",
         "R-282713",
         "R-289015",
-        "R-288532"
+        "R-288532",
+        "R-288796",
+        "R-279227",
+        "R-288614"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23642,7 +23647,9 @@
         "R355878",
         "R356808",
         "R357007",
-        "R356550"
+        "R356550",
+        "R356828-1",
+        "R356544-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24829,7 +24836,8 @@
         "Officer--Markets-Support-Analyst--Korea--Global-Markets-Operations_26030414-1",
         "Assistant-Vice-President--GCIB-KYC--Taiwan_26030836",
         "Vice-President--Production-Services-Specialist-II--Application-Production-Services---Engineering_26030834",
-        "Administrative-Assistant--Global-Payments-Solutions--Shanghai_26030838"
+        "Administrative-Assistant--Global-Payments-Solutions--Shanghai_26030838",
+        "Vice-President--Voice-Access-Engineer--Employee-Experience-Technology_26030848"
     ],
     "BlackRock": [
         "R263666",
@@ -26070,7 +26078,8 @@
         "R265468",
         "R260416",
         "R266137",
-        "R265952-1"
+        "R265952-1",
+        "R265929"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -28857,7 +28866,8 @@
         "R-10401663",
         "R-10401433",
         "R-10401432",
-        "R-10401434"
+        "R-10401434",
+        "R-10397886"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -53137,7 +53147,12 @@
         "R0000442237",
         "R0000442880",
         "R0000450699",
-        "R0000450698"
+        "R0000450698",
+        "R0000450652",
+        "R0000450622",
+        "R0000450152",
+        "R0000450672",
+        "R0000450703"
     ],
     "Zoom": [
         "R18188-1",
@@ -58842,7 +58857,8 @@
         "R35384",
         "R35367",
         "R35375",
-        "R35324-1"
+        "R35324-1",
+        "R35236-1"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -60536,7 +60552,9 @@
         "Software-Engineer--1-year-Exp-_REF087690W",
         "Senior-Analyst--VAS-Deal-Management_REF087417W-1",
         "Manager--Visa-Commercial-Solutions_REF087681W",
-        "Director--Business-Development_REF087778W"
+        "Director--Business-Development_REF087778W",
+        "Director--Client-Consulting_REF087687W",
+        "Consulting-Director_REF087686W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -63245,7 +63263,8 @@
         "Disneyland-Power-and-Facilities-Electrical-Engineering-Intern--Spring-2027_10158314",
         "Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2",
         "Disneyland-Strategic-Sourcing-Intern--Spring-2027_10158264-2",
-        "Finance-Intern_10155660"
+        "Finance-Intern_10155660",
+        "Trade-Engagment-Intern_10157539"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -66297,7 +66316,9 @@
         "R-67218",
         "R-66713-1",
         "R-66712-1",
-        "R-67041"
+        "R-67041",
+        "R-67241-1",
+        "R-66154-1"
     ],
     "Chime": [
         "8391630002",
