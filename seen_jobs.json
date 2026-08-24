@@ -1619,7 +1619,8 @@
         "8129956",
         "8152994",
         "8144202",
-        "8142304"
+        "8142304",
+        "8144185"
     ],
     "Figma": [
         "5426468004",
@@ -2935,7 +2936,10 @@
         "395d8b61-3232-47b1-b930-e0f292b80ea7",
         "91979e41-9b40-412d-b5f5-d1c2e1f5ef1a",
         "94034683-2cdc-4730-b1b9-5d96ce82014b",
-        "7b00e437-d078-47e3-ae04-d6ce1aa6f96a"
+        "7b00e437-d078-47e3-ae04-d6ce1aa6f96a",
+        "8e6547b1-811d-45cc-9f78-a7666708fbed",
+        "215f7e5e-1b7e-4a82-9e22-da0805bc639c",
+        "f94b0830-0426-4178-932d-4762e2e2da39"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -8787,7 +8791,8 @@
         "8108586",
         "8138792",
         "8108664",
-        "8144296"
+        "8144296",
+        "8139767"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -10132,7 +10137,8 @@
         "e155b3cf-e7ac-4d1c-8bf1-b71ef25f0dfc",
         "2ad2a479-1bb9-4ab5-bce2-e47f2022a2e1",
         "d62b36db-b088-48c7-a606-4ed458e30208",
-        "d7ed4f7e-d2d5-4b45-b1ca-fea0a10965e0"
+        "d7ed4f7e-d2d5-4b45-b1ca-fea0a10965e0",
+        "3e5edd75-7d3e-4345-85b4-ed695a3872f2"
     ],
     "Cleartax": [
         "7931994",
@@ -12001,7 +12007,9 @@
         "8152873",
         "8152861",
         "8148531",
-        "6385866"
+        "6385866",
+        "8154443",
+        "8154315"
     ],
     "GitHub": [],
     "Twilio": [
@@ -18125,7 +18133,8 @@
         "R-289007-3",
         "R-278568-1",
         "R-281803",
-        "R-288265"
+        "R-288265",
+        "R-287470-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23706,7 +23715,11 @@
         "R356649-1",
         "R356668",
         "R356663",
-        "R354166"
+        "R354166",
+        "R342507",
+        "R354315",
+        "R356855",
+        "R356995"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -28955,7 +28968,8 @@
         "R-10395276",
         "R-10401148",
         "R-10400678-1",
-        "R-10401161"
+        "R-10401161",
+        "R-10401676"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -29890,7 +29904,8 @@
         "R-14843",
         "R-15103",
         "R-14319",
-        "R-14866"
+        "R-14866",
+        "R-15244"
     ],
     "PayPal": [
         "R0135744-1",
@@ -30453,7 +30468,8 @@
         "R0137244",
         "R0137245",
         "R0137243",
-        "R0136934-1"
+        "R0136934-1",
+        "R-3_R0137262"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -33783,7 +33799,9 @@
         "ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
         "39256344-0da0-4a5d-bd65-5438d94f7738",
         "c5d0b0d2-7f17-4981-b224-adb1414c5158",
-        "a611aef9-b53e-4da1-bd1f-da78e0da22a0"
+        "a611aef9-b53e-4da1-bd1f-da78e0da22a0",
+        "9248eab6-74e0-4940-98eb-ca09b17da532",
+        "d1121575-a1a7-47c9-97e6-56c70f441143"
     ],
     "Anthropic": [
         "5101832008",
@@ -34906,7 +34924,8 @@
         "5399379008",
         "5398827008",
         "5398829008",
-        "5391237008"
+        "5391237008",
+        "5399978008"
     ],
     "Coinbase": [
         "7559052",
@@ -40757,7 +40776,8 @@
         "R168500",
         "R170958",
         "R169918",
-        "R171372"
+        "R171372",
+        "R171376"
     ],
     "Workday": [
         "R-0106509-1",
@@ -41945,7 +41965,8 @@
         "R-0108770",
         "R-0109100",
         "R-0109444",
-        "R-0109532"
+        "R-0109532",
+        "R-0109582"
     ],
     "CrowdStrike": [
         "R26911",
@@ -47047,7 +47068,8 @@
         "R2023623",
         "R2019884-1",
         "R2021738",
-        "R2002944"
+        "R2002944",
+        "R2022561"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -53308,7 +53330,9 @@
         "R0000450374",
         "R0000450447-1",
         "R0000450362",
-        "R0000450178"
+        "R0000450178",
+        "R0000450800",
+        "R0000450763"
     ],
     "Zoom": [
         "R18188-1",
@@ -57320,7 +57344,8 @@
         "8131784",
         "8141615",
         "8132327",
-        "8053880"
+        "8053880",
+        "8142214"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -60744,7 +60769,8 @@
         "Sr-SW-Test-Engineer_REF080681W",
         "Product-Director_REF087530W-1",
         "Program-Manager--Stablecoin-Compliance_REF087811W",
-        "Backend-Senior-Software-Engineer_REF081755W"
+        "Backend-Senior-Software-Engineer_REF081755W",
+        "Analyst--Visa-Consulting-and-Analytics--VCA---Core-Consulting-Practice_REF082219W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -63468,7 +63494,10 @@
         "WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467",
         "Disneyland-Manufacturing-Intern--Fall-2026_10158414",
         "Glendale-System-Software-Engineering-Internship--Spring-2027_10158137",
-        "Chef-fe--de-Groupe-Financial-Systems--OTC-FOH--CDI---F-H-NB_10158238"
+        "Chef-fe--de-Groupe-Financial-Systems--OTC-FOH--CDI---F-H-NB_10158238",
+        "Human-Resources-Business-Partner_10158762",
+        "WDI-Menu-Planning-Intern--Spring-2027_10159160",
+        "Data-Analyst_10158683"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -64499,7 +64528,8 @@
         "R000104547",
         "R000107655",
         "R000107219",
-        "R000104548-1"
+        "R000104548-1",
+        "R000107497"
     ],
     "Kyndryl": [
         "R-61530",
@@ -66536,7 +66566,9 @@
         "R-63495-1",
         "R-67301",
         "R-64794-1",
-        "R-64791-1"
+        "R-64791-1",
+        "R-41708-1",
+        "R-66710"
     ],
     "Chime": [
         "8391630002",
