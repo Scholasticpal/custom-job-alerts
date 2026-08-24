@@ -2578,7 +2578,9 @@
         "10509822",
         "10509821",
         "10509895",
-        "10509892"
+        "10509892",
+        "10511704",
+        "10511703"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -11179,7 +11181,8 @@
         "8118833",
         "8147156",
         "8147187",
-        "8147182"
+        "8147182",
+        "8146766"
     ],
     "DoorDash": [
         "7927511",
@@ -18050,7 +18053,8 @@
         "R-288339",
         "R-288506",
         "R-287032",
-        "R-288493-1"
+        "R-288493-1",
+        "R-287998"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23609,7 +23613,8 @@
         "R356652",
         "R356994",
         "R355878",
-        "R356808"
+        "R356808",
+        "R357007"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -39775,7 +39780,8 @@
         "8142822",
         "8143969",
         "8142685",
-        "8138062"
+        "8138062",
+        "8138599"
     ],
     "Asana": [
         "7120496",
@@ -41750,7 +41756,8 @@
         "R-0105420",
         "R-0105401",
         "R-0105389",
-        "R-0109563"
+        "R-0109563",
+        "R-0109279"
     ],
     "CrowdStrike": [
         "R26911",
@@ -42796,7 +42803,8 @@
         "R29755",
         "R29848",
         "R29939",
-        "R29940"
+        "R29940",
+        "R29617"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -46838,7 +46846,8 @@
         "R2023556",
         "R2023320",
         "R2024060",
-        "R2023989"
+        "R2023989",
+        "R2022811-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -47125,7 +47134,8 @@
         "Software-Machine-Learning-Engineer_2016324",
         "Standard-Cells-Characterization-Engineer_2023258",
         "Engineering-Program-Manager_2021192-1",
-        "Distinguished-Software-Engineer--AI-Software---Platform--Hybrid-_2022586"
+        "Distinguished-Software-Engineer--AI-Software---Platform--Hybrid-_2022586",
+        "Pricing---Strategy-Analyst_2019966"
     ],
     "Intel": [
         "R0283052",
@@ -53009,7 +53019,22 @@
         "R-2027--REGIONAL-DISTRIBUTION-CENTER--WEST-JEFFERSON--OH_R0000450139",
         "R-2027--REGIONAL-DISTRIBUTION-CENTER--WILTON--NY_R0000450135-1",
         "R-2027--UPSTREAM-DISTRIBUTION-CENTER--SAVANNAH--GA_R0000450158",
-        "R-2027--UPSTREAM-DISTRIBUTION-CENTER--SUFFOLK--VA_R0000450161"
+        "R-2027--UPSTREAM-DISTRIBUTION-CENTER--SUFFOLK--VA_R0000450161",
+        "R0000450614-1",
+        "R0000450534",
+        "R0000450504",
+        "R0000450674",
+        "R0000450224",
+        "R0000450624-1",
+        "R0000450638",
+        "R-2027--FLOW-DISTRIBUTION-CENTER--CHICAGO--PULASKI--IL_R0000450144",
+        "R-2027--IR3-DISTRIBUTION-CENTER--JOLIET--IL_R0000450156",
+        "R-2027--UPSTREAM-DISTRIBUTION-CENTER--DEKALB--IL_R0000450163",
+        "R-2027-_R0000446941",
+        "R-2027-_R0000446938",
+        "R-2027-_R0000446940-1",
+        "R-2027-_R0000446942",
+        "R0000450628"
     ],
     "Zoom": [
         "R18188-1",
@@ -66124,7 +66149,8 @@
         "R-64487",
         "R-66743-1",
         "R-65166-1",
-        "R-66782-1"
+        "R-66782-1",
+        "R-66937"
     ],
     "Chime": [
         "8391630002",
@@ -67685,7 +67711,9 @@
         "8146815",
         "8146810",
         "8102281",
-        "8146575"
+        "8146575",
+        "7831189",
+        "8147222"
     ],
     "Kaseya": [
         "6022140004",
