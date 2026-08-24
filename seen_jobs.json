@@ -1613,7 +1613,9 @@
         "8146271",
         "8152145",
         "8144212",
-        "8146053"
+        "8146053",
+        "8141453",
+        "8148731"
     ],
     "Figma": [
         "5426468004",
@@ -18047,7 +18049,8 @@
         "R-286841",
         "R-288339",
         "R-288506",
-        "R-287032"
+        "R-287032",
+        "R-288493-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23605,7 +23608,8 @@
         "R355337",
         "R356652",
         "R356994",
-        "R355878"
+        "R355878",
+        "R356808"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -40289,7 +40293,8 @@
         "6131295004",
         "6140781004",
         "6143074004",
-        "6144678004"
+        "6144678004",
+        "6142399004"
     ],
     "Grammarly": [],
     "Unacademy": [],
@@ -42788,7 +42793,10 @@
         "R29938",
         "R29866",
         "R29762",
-        "R29755"
+        "R29755",
+        "R29848",
+        "R29939",
+        "R29940"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -52981,7 +52989,27 @@
         "R0000449923-1",
         "R0000450636",
         "R0000450685",
-        "R0000450684"
+        "R0000450684",
+        "R0000449764",
+        "R-2027--FLOW-DISTRIBUTION-CENTER--HAMPTON--GA_R0000450153",
+        "R-2027--FLOW-DISTRIBUTION-CENTER--LOGAN-TOWNSHIP--NJ_R0000450143",
+        "R-2027--FOOD-DISTRIBUTION-CENTER--LAKE-CITY--FL_R0000450169-1",
+        "R-2027--FOOD-DISTRIBUTION-CENTER--UPPER-MARLBORO--MD_R0000450168",
+        "R-2027--FOOD-DISTRIBUTION-CENTER--WEST-JEFFERSON--OH_R0000450167",
+        "R-2027--FOOD-DISTRIBUTION-CENTER--WINDOR--CT_R0000450165-1",
+        "R-2027--IR3-DISTRIBUTION-CENTER--UPPER-MARLBORO--MD_R0000450155",
+        "R-2027--LAST-MILE-DISTRIBUTION-CENTER--PHILADELPHIA--PA_R0000450170",
+        "R-2027--REGIONAL-DISTRIBUTION-CENTER--AMSTERDAM--NY_R0000450138",
+        "R-2027--REGIONAL-DISTRIBUTION-CENTER--CHAMBERSBURG--PA_R0000450136",
+        "R-2027--REGIONAL-DISTRIBUTION-CENTER--LUGOFF--SC_R0000450137",
+        "R-2027--REGIONAL-DISTRIBUTION-CENTER--MIDWAY--GA_R0000450141",
+        "R-2027--REGIONAL-DISTRIBUTION-CENTER--NEWTON--NC_R0000450142",
+        "R-2027--REGIONAL-DISTRIBUTION-CENTER--STUARTS-DRAFT--VA_R0000450134",
+        "R-2027--REGIONAL-DISTRIBUTION-CENTER--TIFTON--GA_R0000450133",
+        "R-2027--REGIONAL-DISTRIBUTION-CENTER--WEST-JEFFERSON--OH_R0000450139",
+        "R-2027--REGIONAL-DISTRIBUTION-CENTER--WILTON--NY_R0000450135-1",
+        "R-2027--UPSTREAM-DISTRIBUTION-CENTER--SAVANNAH--GA_R0000450158",
+        "R-2027--UPSTREAM-DISTRIBUTION-CENTER--SUFFOLK--VA_R0000450161"
     ],
     "Zoom": [
         "R18188-1",
@@ -63052,7 +63080,19 @@
         "Principal-Machine-Learning-Engineer_10157433-2",
         "Sr-UX-Product-Designer_10156613",
         "MANAGER-MARQUE-EMPLOYEUR---MARKETING-RH-F-H-NB---CDI_10155100",
-        "Manager--Publishing-Digital-Experiences_10158554-1"
+        "Manager--Publishing-Digital-Experiences_10158554-1",
+        "Assistive-Technology-Intern--Spring-2027_10156692-1",
+        "Disney-Signature-Experiences-Pricing---Revenue-Management-Intern--Spring-2027_10158469",
+        "Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1",
+        "Labor-Systems-Web-Integration-Intern--Spring-2027_10158184",
+        "WDI-Business-Planning-and-Strategy-Intern--Orlando--Spring-2027_10158474-2",
+        "WDI-Civil-Engineering-Intern--Orlando--Spring-2027_10158161-1",
+        "WDI-Graphic-Design-Intern--Spring-2027_10158585",
+        "WDI-Graphic-Fabrication-Design-Intern--Spring-2027_10158945",
+        "WDI-Project-Coordination-Intern--Spring-2027_10158362",
+        "WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013",
+        "WDI-Ride-Development-Engineering-Intern--Spring-2027_10158669",
+        "WDI-Set-Decorator-Intern--Orlando--Spring-2027_10158463-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -67644,7 +67684,8 @@
         "8147071",
         "8146815",
         "8146810",
-        "8102281"
+        "8102281",
+        "8146575"
     ],
     "Kaseya": [
         "6022140004",
