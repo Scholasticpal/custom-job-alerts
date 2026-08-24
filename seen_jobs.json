@@ -8230,7 +8230,9 @@
         "8603672002",
         "8578155002",
         "8701067002",
-        "8648494002"
+        "8648494002",
+        "8688832002",
+        "8571578002"
     ],
     "Rubrik": [
         "7310036",
@@ -10079,7 +10081,8 @@
         "8144669",
         "8143957",
         "8147148",
-        "8147213"
+        "8147213",
+        "8152825"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -10115,7 +10118,8 @@
         "21cc597a-2c55-4cfa-b2ba-9c7b5b70081b",
         "e155b3cf-e7ac-4d1c-8bf1-b71ef25f0dfc",
         "2ad2a479-1bb9-4ab5-bce2-e47f2022a2e1",
-        "d62b36db-b088-48c7-a606-4ed458e30208"
+        "d62b36db-b088-48c7-a606-4ed458e30208",
+        "d7ed4f7e-d2d5-4b45-b1ca-fea0a10965e0"
     ],
     "Cleartax": [
         "7931994",
@@ -11978,7 +11982,8 @@
         "7176076",
         "8148457",
         "8148519",
-        "7194827"
+        "7194827",
+        "8152873"
     ],
     "GitHub": [],
     "Twilio": [
@@ -18092,7 +18097,9 @@
         "R-1_R-289001",
         "R-288835-1",
         "R-288643-1",
-        "R-286291"
+        "R-286291",
+        "R-287851",
+        "R-280330"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23655,7 +23662,10 @@
         "R357007",
         "R356550",
         "R356828-1",
-        "R356544-1"
+        "R356544-1",
+        "R357147",
+        "R356381-1",
+        "R357143-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -26090,7 +26100,8 @@
         "R265952-1",
         "R265929",
         "R265979",
-        "R266237"
+        "R266237",
+        "R266219"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -28880,7 +28891,9 @@
         "R-10401432",
         "R-10401434",
         "R-10397886",
-        "R-10401664"
+        "R-10401664",
+        "R-10401543",
+        "R-10401542"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -33699,7 +33712,8 @@
         "5f3a6397-47ac-4ef0-9ca9-cd358851a6b9",
         "831e2f91-c213-4208-9eb3-4ce2cc6b9acf",
         "ece054ea-ac75-4b8a-bdbf-5cdf19368312",
-        "32905f5c-9405-4073-bc65-c57fcf55a83d"
+        "32905f5c-9405-4073-bc65-c57fcf55a83d",
+        "4cfc6b6b-dd8f-4101-897d-3217e45db1e4"
     ],
     "Anthropic": [
         "5101832008",
@@ -53168,7 +53182,18 @@
         "R0000450672",
         "R0000450703",
         "R0000450718",
-        "R0000450715"
+        "R0000450715",
+        "R0000450731",
+        "R0000450727",
+        "R0000450548",
+        "R0000449984",
+        "R0000450626",
+        "R0000450586",
+        "R0000450566",
+        "R0000450646",
+        "R0000450723",
+        "R0000450722",
+        "R0000450721"
     ],
     "Zoom": [
         "R18188-1",
@@ -56184,7 +56209,8 @@
         "4623076b-a78d-47a1-8958-2c06b28f2a9e",
         "f0557d73-a474-4996-a06e-a956677bcfe6",
         "3666214d-06b0-4388-9bb5-6a5e945653b7",
-        "3a4ebe7d-ad2f-43c3-831f-5031e7bcdbed"
+        "3a4ebe7d-ad2f-43c3-831f-5031e7bcdbed",
+        "7dba2230-2b7e-43e3-b4e7-481e5a3602d0"
     ],
     "Netskope": [
         "7885748",
@@ -57160,7 +57186,8 @@
         "8094371",
         "8103119",
         "8099799",
-        "8131784"
+        "8131784",
+        "8141615"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -60572,7 +60599,8 @@
         "Manager--Visa-Commercial-Solutions_REF087681W",
         "Director--Business-Development_REF087778W",
         "Director--Client-Consulting_REF087687W",
-        "Consulting-Director_REF087686W"
+        "Consulting-Director_REF087686W",
+        "Sr-Associate-Counsel_REF087782W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -63283,7 +63311,10 @@
         "Disneyland-Strategic-Sourcing-Intern--Spring-2027_10158264-2",
         "Finance-Intern_10155660",
         "Trade-Engagment-Intern_10157539",
-        "Junior-Sales-Executive_10157456-1"
+        "Junior-Sales-Executive_10157456-1",
+        "Product-Manager_10157429",
+        "Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341",
+        "Approvisionneur-se--F-H-NB---CDI_10118902"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
