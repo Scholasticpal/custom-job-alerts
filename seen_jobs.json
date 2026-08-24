@@ -23691,7 +23691,9 @@
         "R356939-1",
         "R349983",
         "R356653",
-        "R357016"
+        "R357016",
+        "R355999",
+        "R355997"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24646,7 +24648,8 @@
         "Developer_J-81803",
         "Travel-Experience-Counselor_J-84409",
         "Pharma-Event-Coordinator-with-German_J-83063",
-        "Reconciliation---Finance-Intern_J-83352"
+        "Reconciliation---Finance-Intern_J-83352",
+        "Travel-Consultant-II--Chat_J-84574"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -26134,7 +26137,8 @@
         "R266224",
         "R262353",
         "R266225",
-        "R266207"
+        "R266207",
+        "R266034"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -26404,7 +26408,8 @@
         "Finance---Corporate-FP-A--Assistant-Vice-President_45025-1",
         "Treasury---Risk-Solutions--Analyst--Associate_41885-2",
         "Blackstone---Business-Continuity---Disaster-Recovery---Senior-Vice-President_45079-2",
-        "MD--BXCI-India-Lead_44123"
+        "MD--BXCI-India-Lead_44123",
+        "BXHF---Content-Associate_42647-2"
     ],
     "Capital Group": [
         "R6549",
@@ -28932,7 +28937,9 @@
         "R-10400787",
         "R-10399638-1",
         "R-10401672",
-        "R-10395276"
+        "R-10395276",
+        "R-10401148",
+        "R-10400678-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -29863,7 +29870,9 @@
         "R-14956",
         "R-14368",
         "R-14486",
-        "R-13364"
+        "R-13364",
+        "R-14843",
+        "R-15103"
     ],
     "PayPal": [
         "R0135744-1",
@@ -33752,7 +33761,8 @@
         "831e2f91-c213-4208-9eb3-4ce2cc6b9acf",
         "ece054ea-ac75-4b8a-bdbf-5cdf19368312",
         "32905f5c-9405-4073-bc65-c57fcf55a83d",
-        "4cfc6b6b-dd8f-4101-897d-3217e45db1e4"
+        "4cfc6b6b-dd8f-4101-897d-3217e45db1e4",
+        "ec317080-e2d2-4a73-93e6-e0a9ae6fdf96"
     ],
     "Anthropic": [
         "5101832008",
@@ -34874,7 +34884,8 @@
         "5399160008",
         "5399379008",
         "5398827008",
-        "5398829008"
+        "5398829008",
+        "5391237008"
     ],
     "Coinbase": [
         "7559052",
@@ -38327,7 +38338,8 @@
         "8140617",
         "8089859",
         "8139166",
-        "8152810"
+        "8152810",
+        "8153715"
     ],
     "Datadog": [
         "7194969",
@@ -41907,7 +41919,8 @@
         "R-0109279",
         "R-0108770",
         "R-0109100",
-        "R-0109444"
+        "R-0109444",
+        "R-0109532"
     ],
     "CrowdStrike": [
         "R26911",
@@ -53258,7 +53271,14 @@
         "R0000449209",
         "R0000450407",
         "R0000450309",
-        "R0000450739"
+        "R0000450739",
+        "R0000450747",
+        "R0000450745-1",
+        "R0000450729",
+        "R0000450728-1",
+        "R0000450550",
+        "R0000450752",
+        "R0000450374"
     ],
     "Zoom": [
         "R18188-1",
@@ -54526,7 +54546,8 @@
         "R-108950-1",
         "R-109089-1",
         "R-2_R-105041",
-        "R-108769-1"
+        "R-108769-1",
+        "R-109227"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -55844,7 +55865,9 @@
         "66b5410f-339d-4656-92a6-cf4e31285bc9",
         "8bee5d26-d5fe-4837-8ab0-e7dc12004f24",
         "1285aefc-d2c4-4f7c-8357-6e8f97fb22d4",
-        "f98771d6-e685-4b91-a466-71789c238e33"
+        "f98771d6-e685-4b91-a466-71789c238e33",
+        "707d5f91-bcf7-42b2-a0e6-8130bf13e56b",
+        "ac7edc29-103a-420f-9002-5d4d43afb159"
     ],
     "Deel": [],
     "Polygon": [],
@@ -56604,7 +56627,8 @@
         "8141382",
         "8141625",
         "8119463",
-        "8123532"
+        "8123532",
+        "8063744"
     ],
     "Samsara": [
         "5747183",
@@ -57952,7 +57976,9 @@
         "8733672002",
         "8734207002",
         "8737710002",
-        "8737859002"
+        "8737859002",
+        "8742437002",
+        "8742416002"
     ],
     "Pinterest": [
         "7808602",
@@ -60678,7 +60704,8 @@
         "Director-Consumer-Value-Proposition_REF086843W",
         "Sr-SW-Test-Engineer_REF080681W",
         "Product-Director_REF087530W-1",
-        "Program-Manager--Stablecoin-Compliance_REF087811W"
+        "Program-Manager--Stablecoin-Compliance_REF087811W",
+        "Backend-Senior-Software-Engineer_REF081755W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -61624,7 +61651,8 @@
         "Senior-Software-Developer_26WD100706-1",
         "Principal-Data-Analyst_26WD100492",
         "Senior-Director--Platform-Programs---Portfolio_26WD100430",
-        "Software-Engineer_26WD100611-1"
+        "Software-Engineer_26WD100611-1",
+        "Senior-Proactive-Support-Operations-Specialist_26WD100687"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -63398,7 +63426,8 @@
         "Marketing-Strategy-Intern--Walt-Disney-World-Resort--Spring-2027_10159113",
         "WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467",
         "Disneyland-Manufacturing-Intern--Fall-2026_10158414",
-        "Glendale-System-Software-Engineering-Internship--Spring-2027_10158137"
+        "Glendale-System-Software-Engineering-Internship--Spring-2027_10158137",
+        "Chef-fe--de-Groupe-Financial-Systems--OTC-FOH--CDI---F-H-NB_10158238"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -66585,7 +66614,8 @@
         "8728271002",
         "8726050002",
         "8731186002",
-        "8731531002"
+        "8731531002",
+        "8627466002"
     ],
     "FalconX": [
         "4677684005",
@@ -69092,7 +69122,9 @@
         "8152207",
         "8152211",
         "8152212",
-        "8148019"
+        "8148019",
+        "8154226",
+        "8153090"
     ],
     "Propel": [],
     "Canva": [],
@@ -71232,7 +71264,9 @@
         "8145958",
         "8145979",
         "8147298",
-        "8147300"
+        "8147300",
+        "8154300",
+        "8154308"
     ],
     "Zillow": [],
     "Epic Games": [
