@@ -1624,7 +1624,9 @@
         "8155002",
         "8154525",
         "8148653",
-        "8014382"
+        "8014382",
+        "8154302",
+        "8153331"
     ],
     "Figma": [
         "5426468004",
@@ -5116,7 +5118,9 @@
         "eb6549d8-0e20-4ca1-ac22-c1ca201ee7a0",
         "ab166330-5876-488e-b90c-749df6e871b1",
         "ab329615-2830-468d-a97b-64f014508953",
-        "37613994-400b-466d-8cc8-55a3b92d6b57"
+        "37613994-400b-466d-8cc8-55a3b92d6b57",
+        "825b704f-6933-4280-aa75-0f2095078077",
+        "8e70173d-43f1-4ca2-b41d-098f9ad36ee8"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -12031,7 +12035,8 @@
         "8154315",
         "8149332",
         "8155308",
-        "8155457"
+        "8155457",
+        "8155233"
     ],
     "GitHub": [],
     "Twilio": [
@@ -18166,7 +18171,9 @@
         "R-289220",
         "R-289045",
         "R-288063-1",
-        "R-288288"
+        "R-288288",
+        "R-282357",
+        "R-288964"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23757,7 +23764,9 @@
         "R349307",
         "R315666",
         "R356276",
-        "R355384"
+        "R355384",
+        "R357364-1",
+        "R356510"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24713,7 +24722,8 @@
         "Travel-Experience-Counselor_J-84409",
         "Pharma-Event-Coordinator-with-German_J-83063",
         "Reconciliation---Finance-Intern_J-83352",
-        "Travel-Consultant-II--Chat_J-84574"
+        "Travel-Consultant-II--Chat_J-84574",
+        "Team-Leader_J-84587"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -34995,7 +35005,8 @@
         "5391488008",
         "5396384008",
         "5021015008",
-        "5397883008"
+        "5397883008",
+        "5391344008"
     ],
     "Coinbase": [
         "7559052",
@@ -43131,7 +43142,8 @@
         "R29897",
         "R29874",
         "R29911",
-        "R29937"
+        "R29937",
+        "R29883"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -47211,7 +47223,8 @@
         "R2024046",
         "R2023658",
         "R2024137",
-        "R2023920-1"
+        "R2023920-1",
+        "R2015996"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -53523,7 +53536,21 @@
         "R0000450864",
         "R0000450905",
         "R0000450350-1",
-        "R0000446071"
+        "R0000446071",
+        "R0000450788",
+        "R0000450818",
+        "R0000450808",
+        "R0000450852",
+        "R0000450838",
+        "R0000448918",
+        "R0000450822",
+        "R0000450792",
+        "R0000450858",
+        "R0000450412",
+        "R0000450888",
+        "R0000450850",
+        "R0000450827",
+        "R0000450837"
     ],
     "Zoom": [
         "R18188-1",
@@ -60990,7 +61017,9 @@
         "Director--VCA--Digital-Practice_REF087835W",
         "Senior-Analyst--US-Acceptance-Deals-Strategy_REF087755W-1",
         "Specialist--Quality-Assurance_REF087586W-1",
-        "Financial-Manager_REF087413W-1"
+        "Financial-Manager_REF087413W-1",
+        "Account-Manager_REF087464W",
+        "Staff-Software-Engineer_REF087726W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -70970,7 +70999,9 @@
         "8146703",
         "8155714",
         "8155842",
-        "8154969"
+        "8154969",
+        "8155840",
+        "8143589"
     ],
     "Roku": [
         "8023364",
