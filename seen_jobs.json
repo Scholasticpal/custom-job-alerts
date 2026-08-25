@@ -1633,7 +1633,8 @@
         "8127894",
         "8156996",
         "8138042",
-        "8157577"
+        "8157577",
+        "8148025"
     ],
     "Figma": [
         "5426468004",
@@ -12083,7 +12084,8 @@
         "8149138",
         "8156642",
         "8156907",
-        "8128300"
+        "8128300",
+        "8157606"
     ],
     "GitHub": [],
     "Twilio": [
@@ -18252,7 +18254,9 @@
         "R-289107",
         "R-289253",
         "R-289163-1",
-        "R-288256"
+        "R-288256",
+        "R-289292",
+        "R-288126"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23884,7 +23888,8 @@
         "R353896",
         "R357086",
         "R357221",
-        "R356742-1"
+        "R356742-1",
+        "R355253-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -26627,7 +26632,8 @@
         "MD--BXCI-India-Lead_44123",
         "BXHF---Content-Associate_42647-2",
         "Product-Marketing--Private-Equity-and-Infrastructure--AVP---Corporate-Affairs_45065",
-        "Blackstone-Tactical-Opportunities---Executive-Assistant--Singapore_45075-1"
+        "Blackstone-Tactical-Opportunities---Executive-Assistant--Singapore_45075-1",
+        "Product-Manager--Associate---Investor-Technology_45126"
     ],
     "Capital Group": [
         "R6549",
@@ -29173,7 +29179,8 @@
         "R-10399159",
         "R-10400560",
         "R-10395102",
-        "R-10400234"
+        "R-10400234",
+        "R-10401690-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -29537,7 +29544,9 @@
         "Senior-Compliance-Analyst_869000",
         "Investment-Risk-Performance---Senior-Analyst_868278",
         "Senior-Procurement-Analyst--Strategic-Sourcing--Contract-Negotiation--Spend-Analysis-_869383",
-        "Solutions-Portfolio-Manager---Retirement-Solutions_869334"
+        "Solutions-Portfolio-Manager---Retirement-Solutions_869334",
+        "Head-of-Franklin-Crypto-Capital-Formation_869390-1",
+        "Senior-Administrative-Assistant_869395"
     ],
     "Invesco": [
         "R-13647",
@@ -34023,7 +34032,9 @@
         "86ef6da0-5d05-46a5-9059-f4f94beab013",
         "5953fed7-1466-4e90-94c9-43716a55e032",
         "d727cc4b-f4b6-49a0-806c-390f8a053e2f",
-        "c15d4e1b-adcf-4809-91d5-17ba6b789092"
+        "c15d4e1b-adcf-4809-91d5-17ba6b789092",
+        "a4f2983d-0664-4aa3-a4bf-1b91d241c4a7",
+        "831960f4-a877-4c41-8fda-17fd321c0230"
     ],
     "Anthropic": [
         "5101832008",
@@ -35174,7 +35185,8 @@
         "5405748008",
         "5399225008",
         "5405898008",
-        "5405913008"
+        "5405913008",
+        "5400362008"
     ],
     "Coinbase": [
         "7559052",
@@ -35533,7 +35545,9 @@
         "8154987",
         "8154983",
         "8154856",
-        "8157181"
+        "8157181",
+        "8120315",
+        "8157661"
     ],
     "Discord": [
         "8289766002",
@@ -41095,7 +41109,8 @@
         "R170958",
         "R169918",
         "R171372",
-        "R171376"
+        "R171376",
+        "R171448"
     ],
     "Workday": [
         "R-0106509-1",
@@ -43356,7 +43371,11 @@
         "R29878",
         "R29857",
         "R29945",
-        "R29266"
+        "R29266",
+        "R29884",
+        "R29862",
+        "R29646",
+        "R29906"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -47464,7 +47483,11 @@
         "R2021453",
         "R2021769",
         "R2022380",
-        "R2022921"
+        "R2022921",
+        "R2023471",
+        "R2023599",
+        "R2024363",
+        "R2024097"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -53850,7 +53873,12 @@
         "R0000450958",
         "R0000450478",
         "R0000450987-1",
-        "R0000450608"
+        "R0000450608",
+        "R0000450521",
+        "R0000450993-1",
+        "R0000450922",
+        "R0000450206",
+        "R0000450896-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -59126,7 +59154,8 @@
         "6908633",
         "8076015",
         "8047425",
-        "8107243"
+        "8107243",
+        "8132078"
     ],
     "Twitch": [
         "8334413002",
@@ -59281,7 +59310,11 @@
         "8739355002",
         "8739354002",
         "8739325002",
-        "8739356002"
+        "8739356002",
+        "8747653002",
+        "8743145002",
+        "8747649002",
+        "8747652002"
     ],
     "Yelp": [],
     "Jupiter Money": [],
@@ -64125,7 +64158,13 @@
         "Intern--Content-Sales-Operation_10157532-1",
         "Senior-Advisor--Employee-Relations_10157797-1",
         "Associate-Software-Engineer_10157526",
-        "WDI-Special-Effects-Designer-Intern--Orlando--Spring-2027-2026_10158465"
+        "WDI-Special-Effects-Designer-Intern--Orlando--Spring-2027-2026_10158465",
+        "Food---Beverage-and-Merchandise-Stylized-Photography-Intern--Spring-2027_10159304",
+        "Sr-Technical-Program-Manager_10158089-2",
+        "Lead-Technical-Program-Mgr_10158216",
+        "Senior-Financial-Analyst--DET-FP-A_10158210",
+        "Senior-Financial-Analyst--DET-Business---Operations-Planning_10158215",
+        "TWDC-Store-Representative--OPEIU-_10156968"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -67393,7 +67432,8 @@
         "4723805005",
         "4724185005",
         "4719876005",
-        "4724041005"
+        "4724041005",
+        "4727365005"
     ],
     "Fireblocks": [
         "4655907006",
@@ -70237,7 +70277,8 @@
         "8743228002",
         "8746134002",
         "8743231002",
-        "8733655002"
+        "8733655002",
+        "8747631002"
     ],
     "Coupang": [
         "7915234",
