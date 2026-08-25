@@ -8256,7 +8256,8 @@
         "8588516002",
         "8742382002",
         "8720202002",
-        "8603390002"
+        "8603390002",
+        "8736179002"
     ],
     "Rubrik": [
         "7310036",
@@ -10112,7 +10113,9 @@
         "8152825",
         "8145894",
         "8140641",
-        "8140643"
+        "8140643",
+        "8140704",
+        "7956845"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -18155,7 +18158,8 @@
         "R-287357-1",
         "R-288453",
         "R-287451-1",
-        "R-289098-1"
+        "R-289098-1",
+        "R-289220"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -33839,7 +33843,8 @@
         "c5fbd661-b634-447c-8fe0-1d625969c4b1",
         "9fb99d74-c678-4556-b962-8e8388925902",
         "95151536-2118-431b-b0ee-d0727592e161",
-        "5a682b9f-ef1a-4e47-813a-72b23414d43e"
+        "5a682b9f-ef1a-4e47-813a-72b23414d43e",
+        "341561ae-9892-4ba1-9ffb-faafff4f0fb2"
     ],
     "Anthropic": [
         "5101832008",
@@ -36232,7 +36237,8 @@
         "1fc309c8-da20-4ff2-84c7-8b863ece2b0a",
         "b7518817-864a-41d2-bc51-962691bc0265",
         "c799f1f0-0e7b-4eac-98ce-44223130f2b0",
-        "7ec83090-7c5b-4691-bf20-e11e892cede1"
+        "7ec83090-7c5b-4691-bf20-e11e892cede1",
+        "2c2f62b2-5c8d-4e6c-8ba5-e7ef724d4cba"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -36885,7 +36891,9 @@
         "7907795003",
         "7907793003",
         "7927799003",
-        "7860010003"
+        "7860010003",
+        "7860703003",
+        "7860705003"
     ],
     "Robinhood": [
         "7799902",
@@ -38436,7 +38444,8 @@
         "8139166",
         "8152810",
         "8153715",
-        "8138914"
+        "8138914",
+        "8138913"
     ],
     "Datadog": [
         "7194969",
@@ -47179,7 +47188,13 @@
         "R2024177",
         "R2024031",
         "R2023829-1",
-        "R2024205"
+        "R2024205",
+        "R2024030",
+        "R2024050",
+        "R2024260",
+        "R2024046",
+        "R2023658",
+        "R2024137"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -53470,7 +53485,10 @@
         "R0000450875",
         "R0000450873",
         "R0000450458",
-        "R0000450893"
+        "R0000450893",
+        "R0000450790",
+        "R0000450682",
+        "R0000449758"
     ],
     "Zoom": [
         "R18188-1",
@@ -56837,7 +56855,8 @@
         "8141625",
         "8119463",
         "8123532",
-        "8063744"
+        "8063744",
+        "8155629"
     ],
     "Samsara": [
         "5747183",
@@ -60932,7 +60951,8 @@
         "Analyst--Visa-Consulting-and-Analytics--VCA---Core-Consulting-Practice_REF082219W",
         "Workforce-Planning-Manager_REF087784W",
         "Director--VCA--Digital-Practice_REF087835W",
-        "Senior-Analyst--US-Acceptance-Deals-Strategy_REF087755W-1"
+        "Senior-Analyst--US-Acceptance-Deals-Strategy_REF087755W-1",
+        "Specialist--Quality-Assurance_REF087586W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -61884,7 +61904,8 @@
         "Technical-Sales-Specialist_26WD100432-2",
         "AutoCAD-and-Infrastructure-Product-Marketing-Specialist_26WD100408",
         "Customer-Lifecycle-Strategy-Manager_26WD100597",
-        "Software-Development-Manager_26WD100656-1"
+        "Software-Development-Manager_26WD100656-1",
+        "Senior-People-Business-Partner--PDMS_26WD100578-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -70894,7 +70915,8 @@
         "8124210",
         "8152544",
         "8124349",
-        "8140987"
+        "8140987",
+        "8155635"
     ],
     "Roku": [
         "8023364",
