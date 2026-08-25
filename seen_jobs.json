@@ -5125,7 +5125,9 @@
         "37613994-400b-466d-8cc8-55a3b92d6b57",
         "825b704f-6933-4280-aa75-0f2095078077",
         "8e70173d-43f1-4ca2-b41d-098f9ad36ee8",
-        "64d56436-36d3-4c52-8460-9c41befa8b00"
+        "64d56436-36d3-4c52-8460-9c41befa8b00",
+        "367260be-63cf-4799-92bf-2e68a03c1d2a",
+        "73be7b61-489e-499e-8856-c5ad3379bde7"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8270,7 +8272,8 @@
         "8720202002",
         "8603390002",
         "8736179002",
-        "8736883002"
+        "8736883002",
+        "8631661002"
     ],
     "Rubrik": [
         "7310036",
@@ -10132,7 +10135,8 @@
         "8140641",
         "8140643",
         "8140704",
-        "7956845"
+        "7956845",
+        "8155946"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -18193,7 +18197,10 @@
         "R-288412",
         "R-288289",
         "R-289204",
-        "R-287847-1"
+        "R-287847-1",
+        "R-289202-1",
+        "R-289254",
+        "R-286679"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23798,7 +23805,10 @@
         "R356377",
         "R345845",
         "R357373",
-        "R355910"
+        "R355910",
+        "R357407",
+        "R357229",
+        "R356589"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -25002,7 +25012,8 @@
         "Analyst-Associate---Equity-Capital-Markets--China-Origination---Hong-Kong_26031066",
         "Officer-AVP--Operation-Analyst--Global-Funding-and-Cash-Management---Global-Markets-Operations_26029127",
         "Assistant-Vice-President---Vice-President--Global-Financial-Crimes-Specialist--MLRO-Support-_26031083",
-        "Assistant-Vice-President---Vice-President--Global-Financial-Crimes-Specialist--MLRO-Support-_26031082"
+        "Assistant-Vice-President---Vice-President--Global-Financial-Crimes-Specialist--MLRO-Support-_26031082",
+        "Vice-President--Global-Collateral-Operations--Global-Markets-Operations--Markets-Support-Specialist_26030764"
     ],
     "BlackRock": [
         "R263666",
@@ -26257,7 +26268,10 @@
         "R264220",
         "R266141",
         "R265385",
-        "R257900"
+        "R257900",
+        "R266057",
+        "R265924",
+        "R265390"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -38522,7 +38536,8 @@
         "8138914",
         "8138913",
         "8153054",
-        "8152623"
+        "8152623",
+        "8082623"
     ],
     "Datadog": [
         "7194969",
@@ -47302,7 +47317,8 @@
         "R2024150",
         "R2024224",
         "R2024222",
-        "R2024221-1"
+        "R2024221-1",
+        "R2024244"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -53655,7 +53671,11 @@
         "R0000450831",
         "R0000450601",
         "R0000450801",
-        "R0000450783"
+        "R0000450783",
+        "R0000450923",
+        "R0000443601",
+        "R0000449073",
+        "R0000450924"
     ],
     "Zoom": [
         "R18188-1",
@@ -54931,7 +54951,9 @@
         "R-108926-1",
         "R-108794",
         "R-108565",
-        "R-108557"
+        "R-108557",
+        "R-109217-1",
+        "R-108890-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -58229,7 +58251,8 @@
         "4687461006",
         "4704930006",
         "4704221006",
-        "4700779006"
+        "4700779006",
+        "4695581006"
     ],
     "Duolingo": [
         "8455252002",
@@ -61134,7 +61157,8 @@
         "Head-of-Media-Relations--Director_REF087630W",
         "Dispute-Analyst_REF087549W",
         "Manager--Sales-Enablement---RFP_REF087825W-1",
-        "Analyst--Technical-Solutions_REF087236W"
+        "Analyst--Technical-Solutions_REF087236W",
+        "Sr-Service-Experience-Consultant---Release-Program-Managment_REF087660W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -64911,7 +64935,8 @@
         "R000107219",
         "R000104548-1",
         "R000107497",
-        "R000105410"
+        "R000105410",
+        "R000096922"
     ],
     "Kyndryl": [
         "R-61530",
@@ -66962,7 +66987,8 @@
         "R-66508",
         "R-66509",
         "R-65401",
-        "R-67442"
+        "R-67442",
+        "R-54623-1"
     ],
     "Chime": [
         "8391630002",
@@ -68776,7 +68802,8 @@
         "6135568004",
         "6146942004",
         "6146954004",
-        "6147253004"
+        "6147253004",
+        "6146944004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -69617,7 +69644,9 @@
         "8154605",
         "8154601",
         "8155033",
-        "8035738"
+        "8035738",
+        "8145097",
+        "8145099"
     ],
     "Propel": [],
     "Canva": [],
