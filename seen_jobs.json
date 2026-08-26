@@ -12121,7 +12121,10 @@
         "8155046",
         "8158018",
         "8155050",
-        "8155051"
+        "8155051",
+        "8159041",
+        "8159040",
+        "8159042"
     ],
     "GitHub": [],
     "Twilio": [
@@ -18313,7 +18316,13 @@
         "R-289232",
         "R-289052",
         "R-288821-1",
-        "R-288064"
+        "R-288064",
+        "R-289116-1",
+        "R-289151-1",
+        "R-289110-1",
+        "R-288287",
+        "R-289101",
+        "R-289274"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23965,7 +23974,8 @@
         "R355386",
         "R354102",
         "R354181",
-        "R356924"
+        "R356924",
+        "R356823"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -24928,7 +24938,8 @@
         "Group-Air-Travel-Counselor_J-84592-1",
         "Travel-Experience-Counselor-I---Schofield-Barracks--Hawaii_J-84319",
         "Data-Admin---Reconciliation-Specialist-with-Swedish_J-84637",
-        "Meeting-Planner_J-84642"
+        "Meeting-Planner_J-84642",
+        "DevOps-Platform-Engineer_J-83570"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -26448,7 +26459,8 @@
         "R266226-1",
         "R266158",
         "R266236",
-        "R266172"
+        "R266172",
+        "R266030"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -29279,7 +29291,8 @@
         "R-10401165-1",
         "R-10401605",
         "R-10399766",
-        "R-10399690-1"
+        "R-10399690-1",
+        "R-10401825"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -47678,7 +47691,8 @@
         "R2024414",
         "R2023644",
         "R2023995",
-        "R2022698-1"
+        "R2022698-1",
+        "R2024418"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -54099,7 +54113,11 @@
         "R0000448998",
         "R0000451040",
         "R0000451015",
-        "R0000450945"
+        "R0000450945",
+        "R0000450953",
+        "R0000450813",
+        "R0000451023",
+        "R0000450956"
     ],
     "Zoom": [
         "R18188-1",
@@ -54503,7 +54521,8 @@
         "R19572",
         "R19579-2",
         "R19559",
-        "R19580-2"
+        "R19580-2",
+        "R19581"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -61658,7 +61677,11 @@
         "Payroll-Analyst_REF087793W",
         "Compliance-Due-Diligence-Manager_REF087869W-1",
         "Compliance-Associate--Transaction-Monitoring---Screening-_REF087872W-1",
-        "Compliance-Due-Diligence-Associate_REF087868W"
+        "Compliance-Due-Diligence-Associate_REF087868W",
+        "Sr-Financial-Analyst_REF087792W-1",
+        "Serbian-Speaking-Digital-Sales-Representative_REF087633W",
+        "Regulatory-Controls-Testing-Analyst_REF087785W-1",
+        "Conduct-Analyst_REF087878W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -64428,7 +64451,8 @@
         "Administrative-Assistant_10157308-1",
         "DCL-Environmental-Affairs-Intern--Spring-2027_10159314",
         "Quality-Operations-System-Auditor-Intern--Spring-2027_10158550",
-        "ABC-News-Insights-and-Analytics-Intern--Spring-2027_10158500"
+        "ABC-News-Insights-and-Analytics-Intern--Spring-2027_10158500",
+        "Conservation-Education-Operations-Intern--Spring-2027_10159362"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -65470,7 +65494,8 @@
         "R000095865",
         "R000107593",
         "R000107594-1",
-        "R000107387"
+        "R000107387",
+        "R000105997"
     ],
     "Kyndryl": [
         "R-61530",
@@ -67548,7 +67573,8 @@
         "R-66257-1",
         "R-67096-1",
         "R-66248-1",
-        "R-64560-1"
+        "R-64560-1",
+        "R-67234"
     ],
     "Chime": [
         "8391630002",
@@ -67832,7 +67858,8 @@
         "4703919006",
         "4704413006",
         "4705808006",
-        "4706203006"
+        "4706203006",
+        "4695803006"
     ],
     "Addepar": [
         "8594217002",
