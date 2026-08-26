@@ -1638,7 +1638,8 @@
         "8158082",
         "8119970",
         "8040216",
-        "8102597"
+        "8102597",
+        "8142856"
     ],
     "Figma": [
         "5426468004",
@@ -2964,7 +2965,8 @@
         "ba16c213-6297-4139-9246-6937c32f1328",
         "5a40e1e3-c6b7-4494-a7f9-d689d77795d8",
         "3b221ecf-3764-4b85-82d0-09bb4792179a",
-        "cc0a084c-2d4a-4577-8309-dda3d8ec18b8"
+        "cc0a084c-2d4a-4577-8309-dda3d8ec18b8",
+        "b232645c-ed71-4c7a-8274-8a0e03220300"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -8305,7 +8307,10 @@
         "7803651002",
         "8741927002",
         "8749859002",
-        "8747605002"
+        "8747605002",
+        "8578146002",
+        "8583353002",
+        "8688840002"
     ],
     "Rubrik": [
         "7310036",
@@ -18302,7 +18307,9 @@
         "R-266019",
         "R-289272",
         "R-286265",
-        "R-289232"
+        "R-289232",
+        "R-289052",
+        "R-288821-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23949,7 +23956,10 @@
         "R356190",
         "R353459-1",
         "R356825",
-        "R356816"
+        "R356816",
+        "R356839",
+        "R355386",
+        "R354102"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -29260,7 +29270,8 @@
         "R-10401602",
         "R-10401165-1",
         "R-10401605",
-        "R-10399766"
+        "R-10399766",
+        "R-10399690-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -30206,7 +30217,8 @@
         "R-15080",
         "R-15148",
         "R-15149",
-        "R-15167"
+        "R-15167",
+        "R-14892"
     ],
     "PayPal": [
         "R0135744-1",
@@ -54071,7 +54083,8 @@
         "R0000451039",
         "R0000450637-1",
         "R0000450942",
-        "R0000448998"
+        "R0000448998",
+        "R0000451040"
     ],
     "Zoom": [
         "R18188-1",
@@ -56290,7 +56303,8 @@
         "4727135005",
         "4727185005",
         "4727162005",
-        "4727138005"
+        "4727138005",
+        "4727252005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -56500,7 +56514,8 @@
         "c12e3636-ed16-47e7-ba1f-82860f88d340",
         "a0f174cf-4407-4334-b812-45a767092fca",
         "691982e3-9357-42e4-b4c3-a65cae906935",
-        "5476ce62-13bd-497b-b988-0a8f85cf6262"
+        "5476ce62-13bd-497b-b988-0a8f85cf6262",
+        "a42976d7-0ae5-4892-b3ba-bf5510c6cecd"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -57138,7 +57153,8 @@
         "52e27381-7668-46d5-bc64-82ea7e911641",
         "682ef9e8-0bb4-4497-936a-e4d31d98e229",
         "f4328c39-c09a-4c28-832a-e626d789bc60",
-        "efdde689-28bf-49b5-91d2-9d4971d3a21b"
+        "efdde689-28bf-49b5-91d2-9d4971d3a21b",
+        "4cd20211-f2d3-4edf-a0f6-6278dc244bd8"
     ],
     "Netskope": [
         "7885748",
@@ -61613,7 +61629,16 @@
         "Sr-Manager-Fintech-Activation_REF087779W",
         "Senior-Director-Business-Development_REF087828W",
         "Payroll-Consultant---APAC_REF087794W",
-        "Digital-Sales-Representative--Greater-China-Region-_REF087915W"
+        "Digital-Sales-Representative--Greater-China-Region-_REF087915W",
+        "Financial-Crime-Associate---Currencycloud_REF087695W-1",
+        "Compliance-Analyst--Transaction-Monitoring---Screening-_REF087870W",
+        "Compliance-Due-Diligence-Analyst_REF087867W",
+        "Compliance-Manager--Transaction-Screening_REF087748W",
+        "Financial-Crime-Analyst--Currencycloud_REF087866W",
+        "Financial-Crime-Manager---Currencycloud_REF087692W",
+        "Payroll-Analyst--Mandarin-Speaking-Preferred-_REF087791W",
+        "Regulatory-Controls-Testing-Manager_REF087789W-1",
+        "Payroll-Analyst_REF087793W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -71717,7 +71742,8 @@
         "8143586",
         "8124232",
         "8158154",
-        "8158148"
+        "8158148",
+        "8155666"
     ],
     "Roku": [
         "8023364",
@@ -72104,7 +72130,8 @@
         "8002598",
         "8154533",
         "8154964",
-        "8157009"
+        "8157009",
+        "8147433"
     ],
     "Spotify": [],
     "Snap": [],
