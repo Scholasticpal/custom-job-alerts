@@ -1634,7 +1634,9 @@
         "8156996",
         "8138042",
         "8157577",
-        "8148025"
+        "8148025",
+        "8158082",
+        "8119970"
     ],
     "Figma": [
         "5426468004",
@@ -12089,7 +12091,11 @@
         "8156907",
         "8128300",
         "8157606",
-        "8156886"
+        "8156886",
+        "8155049",
+        "8155046",
+        "8158018",
+        "8155050"
     ],
     "GitHub": [],
     "Twilio": [
@@ -18265,7 +18271,8 @@
         "R-288575",
         "R-287266",
         "R-288577",
-        "R-277304-1"
+        "R-277304-1",
+        "R-286721-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -23903,7 +23910,8 @@
         "R355350",
         "R354930",
         "R357449",
-        "R317761"
+        "R317761",
+        "R356494"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -25109,7 +25117,11 @@
         "Officer-AVP--Operation-Analyst--Global-Funding-and-Cash-Management---Global-Markets-Operations_26029127",
         "Assistant-Vice-President---Vice-President--Global-Financial-Crimes-Specialist--MLRO-Support-_26031083",
         "Assistant-Vice-President---Vice-President--Global-Financial-Crimes-Specialist--MLRO-Support-_26031082",
-        "Vice-President--Global-Collateral-Operations--Global-Markets-Operations--Markets-Support-Specialist_26030764"
+        "Vice-President--Global-Collateral-Operations--Global-Markets-Operations--Markets-Support-Specialist_26030764",
+        "Assistant-Vice-President--Security-Detection---Response--Global-Information-Security--Sydney_26031283",
+        "Vice-President--Security-Detection---Response--Global-Information-Security_26031282",
+        "Vice-President--Security-Detection---Response--Global-Information-Security_26031281",
+        "Vice-President--Security-Detection---Response--Global-Information-Security_26031280"
     ],
     "BlackRock": [
         "R263666",
@@ -26373,7 +26385,8 @@
         "R266147",
         "R266227-1",
         "R266052",
-        "R265633"
+        "R265633",
+        "R266226-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -42334,7 +42347,8 @@
         "R-0104938",
         "R-0107516",
         "R-0109487",
-        "R-0109466"
+        "R-0109466",
+        "R-0109614"
     ],
     "CrowdStrike": [
         "R26911",
@@ -47512,7 +47526,24 @@
         "R2023599",
         "R2024363",
         "R2024097",
-        "R2024374"
+        "R2024374",
+        "R2015236",
+        "R2023542",
+        "R2023411",
+        "R2023469",
+        "R2024140",
+        "R2023755",
+        "R2024377",
+        "R2024381-1",
+        "R2024251",
+        "R2023594",
+        "R2023526",
+        "R2023944",
+        "R2023914",
+        "R2024196",
+        "R2023247-1",
+        "R2023705",
+        "R2023575-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -53915,7 +53946,8 @@
         "R0000450411",
         "R0000450635",
         "R0000450634",
-        "R0000450096"
+        "R0000450096",
+        "R0000450975"
     ],
     "Zoom": [
         "R18188-1",
@@ -55659,7 +55691,8 @@
         "6146576004",
         "6146762004",
         "6146551004",
-        "6150774004"
+        "6150774004",
+        "6163039004"
     ],
     "Miro": [
         "030b1911-6146-4780-ad1d-f0b45d3ca791",
@@ -61443,7 +61476,8 @@
         "Sr-Business-Consultant--Business-Strategy---Operations_REF087532W",
         "Technical-Program-Manager--Gen-AI-_REF087843W",
         "Analyst--Compliance_REF087813W-1",
-        "Sr-Manager_REF087756W"
+        "Sr-Manager_REF087756W",
+        "Senior-Software-Engineer--Power-Platform--Copilot-Studio--Azure_REF087684W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -67316,7 +67350,9 @@
         "R-66752-1",
         "R-66866",
         "R-66864",
-        "R-67487"
+        "R-67487",
+        "R-59097",
+        "R-55580"
     ],
     "Chime": [
         "8391630002",
@@ -68139,7 +68175,15 @@
         "7906453003",
         "7907182003",
         "7725285003",
-        "7725286003"
+        "7725286003",
+        "7977735003",
+        "7977733003",
+        "7977726003",
+        "7977732003",
+        "7977740003",
+        "7977728003",
+        "7977741003",
+        "7977739003"
     ],
     "Earnin": [
         "8013281",
@@ -71513,7 +71557,8 @@
         "8143589",
         "8155848",
         "8155888",
-        "8155633"
+        "8155633",
+        "8082856"
     ],
     "Roku": [
         "8023364",
@@ -72388,7 +72433,9 @@
         "6148215004",
         "6148213004",
         "6161656004",
-        "6161655004"
+        "6161655004",
+        "6147156004",
+        "6152263004"
     ],
     "Booking.com": [],
     "Myntra": [],
