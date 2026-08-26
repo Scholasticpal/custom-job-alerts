@@ -2961,7 +2961,8 @@
         "215f7e5e-1b7e-4a82-9e22-da0805bc639c",
         "f94b0830-0426-4178-932d-4762e2e2da39",
         "ba16c213-6297-4139-9246-6937c32f1328",
-        "5a40e1e3-c6b7-4494-a7f9-d689d77795d8"
+        "5a40e1e3-c6b7-4494-a7f9-d689d77795d8",
+        "3b221ecf-3764-4b85-82d0-09bb4792179a"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -8299,7 +8300,9 @@
         "8688851002",
         "8407186002",
         "7803651002",
-        "8741927002"
+        "8741927002",
+        "8749859002",
+        "8747605002"
     ],
     "Rubrik": [
         "7310036",
@@ -8978,7 +8981,8 @@
         "R103591",
         "R103610-1",
         "R103616",
-        "R103617"
+        "R103617",
+        "R103615"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -12727,7 +12731,8 @@
         "8145984",
         "8153169",
         "8155298",
-        "7616763"
+        "7616763",
+        "8156362"
     ],
     "Dropbox": [
         "7646405",
@@ -18289,7 +18294,10 @@
         "R-287491",
         "R-287517",
         "R-289405",
-        "R-288661"
+        "R-288661",
+        "R-289041",
+        "R-266019",
+        "R-289272"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -29241,7 +29249,8 @@
         "R-10401690-1",
         "R-10401783",
         "R-10401602",
-        "R-10401165-1"
+        "R-10401165-1",
+        "R-10401605"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -35258,7 +35267,8 @@
         "5404390008",
         "5406245008",
         "5390966008",
-        "5406113008"
+        "5406113008",
+        "5357955008"
     ],
     "Coinbase": [
         "7559052",
@@ -47601,7 +47611,27 @@
         "R2023903",
         "R2023999",
         "R2024054-1",
-        "R2022677-1"
+        "R2022677-1",
+        "R2023375",
+        "R2023538",
+        "R2021637",
+        "R2023377",
+        "R2024287",
+        "R2024293",
+        "R2024226",
+        "R2024297",
+        "R2024294",
+        "R2023289",
+        "R2024289",
+        "R2022707",
+        "R2024127",
+        "R2024311",
+        "R2024398",
+        "R2022964",
+        "R2019630",
+        "R2023583",
+        "R2023450",
+        "R2024123"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -57080,7 +57110,8 @@
         "04378eb3-075f-4e97-a13a-28e89a4c6d3f",
         "52e27381-7668-46d5-bc64-82ea7e911641",
         "682ef9e8-0bb4-4497-936a-e4d31d98e229",
-        "f4328c39-c09a-4c28-832a-e626d789bc60"
+        "f4328c39-c09a-4c28-832a-e626d789bc60",
+        "efdde689-28bf-49b5-91d2-9d4971d3a21b"
     ],
     "Netskope": [
         "7885748",
@@ -59545,7 +59576,8 @@
         "b099e4fe-87cf-44ad-89b6-21edfe60958b",
         "aa98c726-9336-4d99-be08-20050eaf309c",
         "367dd077-3ce8-4b7b-bc9f-1726f49ffbce",
-        "fed5c9f3-42ae-4bf8-89b7-2b7edb333af4"
+        "fed5c9f3-42ae-4bf8-89b7-2b7edb333af4",
+        "dad16204-8051-4517-9e50-966f329045b5"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -61550,7 +61582,9 @@
         "Sr-Manager_REF087756W",
         "Senior-Software-Engineer--Power-Platform--Copilot-Studio--Azure_REF087684W",
         "Russian-Speaking-Digital-Sales-Representative_REF087826W",
-        "Senior-Manager--Consumer-Solutions_REF087677W"
+        "Senior-Manager--Consumer-Solutions_REF087677W",
+        "Sr-Manager-Fintech-Activation_REF087779W",
+        "Senior-Director-Business-Development_REF087828W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
