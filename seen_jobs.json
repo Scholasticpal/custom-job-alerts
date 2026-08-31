@@ -8411,7 +8411,8 @@
         "8760171002",
         "8652984002",
         "8747434002",
-        "8688875002"
+        "8688875002",
+        "8735820002"
     ],
     "Rubrik": [
         "7310036",
@@ -11457,7 +11458,8 @@
         "8163599",
         "8163601",
         "8163672",
-        "8165190"
+        "8165190",
+        "8152730"
     ],
     "DoorDash": [
         "7927511",
@@ -18552,7 +18554,12 @@
         "R-288956",
         "R-288731-1",
         "R-289343",
-        "R-289392"
+        "R-289392",
+        "R-289494",
+        "R-288183",
+        "R-288513",
+        "R-289049",
+        "R-289105"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -25253,7 +25260,8 @@
         "ETL-Developer_J-81331",
         "Accounting-Clerk_J-84297",
         "Travel-Consultant-I_J-84702",
-        "Travel-Consultant-I_J-84701"
+        "Travel-Consultant-I_J-84701",
+        "Sourcing-Manager_J-83179-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -25506,7 +25514,8 @@
         "Vice-President--Security-Detection---Response--Global-Information-Security_26031280",
         "Assistant-Vice-President--Service-Delivery-Analyst--Payroll-_26031285",
         "Assistant-Vice-President--Software-Engineer-III--Global-Markets-Technology_26031289",
-        "Vice-President--Senior-Security-Detection---Response-Manager--Global-Information-Security--Sydney_26031478"
+        "Vice-President--Senior-Security-Detection---Response-Manager--Global-Information-Security--Sydney_26031478",
+        "Officer--Asset-Services--Global-Markets-Operations_26030853-2"
     ],
     "BlackRock": [
         "R263666",
@@ -27769,7 +27778,9 @@
         "R33013-1",
         "R33006-1",
         "R33011-1",
-        "R32963"
+        "R32963",
+        "R32685",
+        "R32686"
     ],
     "Fiserv": [
         "R-10392824",
@@ -29670,7 +29681,8 @@
         "R-10400403",
         "R-10401126",
         "R-10400471",
-        "R-10400472-1"
+        "R-10400472-1",
+        "R-10399049"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -34590,7 +34602,8 @@
         "91653d95-27fc-44bd-bbb3-7078fd6a5718",
         "c12ea9bc-8590-4913-a213-1977296fb3db",
         "958eecd4-7446-445c-ae93-62c38436aa22",
-        "2afc5695-a2f8-4832-bf66-a2ca5f0615dc"
+        "2afc5695-a2f8-4832-bf66-a2ca5f0615dc",
+        "b8fbe6d1-6363-4366-8484-de32cf4d1410"
     ],
     "Anthropic": [
         "5101832008",
@@ -36164,7 +36177,8 @@
         "8165389",
         "8165015",
         "8164730",
-        "8165441"
+        "8165441",
+        "8166218"
     ],
     "Discord": [
         "8289766002",
@@ -43103,7 +43117,9 @@
         "R-0109617",
         "R-0109378",
         "R-0109702",
-        "R-0106163"
+        "R-0106163",
+        "R-0109385",
+        "R-0109383"
     ],
     "CrowdStrike": [
         "R26911",
@@ -48432,7 +48448,9 @@
         "R2024540",
         "R2024499-1",
         "R2024369",
-        "R2023539-1"
+        "R2023539-1",
+        "R2024502",
+        "R1997487"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -55005,7 +55023,12 @@
         "R0000450720",
         "R0000451468",
         "R0000448752",
-        "R0000451439"
+        "R0000451439",
+        "R0000451411",
+        "R0000450828",
+        "R0000451669",
+        "R0000451668",
+        "R0000451582"
     ],
     "Zoom": [
         "R18188-1",
@@ -59139,7 +59162,8 @@
         "8072065",
         "7589197",
         "8112696",
-        "8130221"
+        "8130221",
+        "8163118"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -62722,7 +62746,10 @@
         "Product-Manager--AI-Enabled-Advisory-Solutions_REF087757W",
         "Sr--Product-Manager_REF087538W",
         "Visa-Consulting---Analytics-Director---Portfolio-Optimization---Solutions_REF087855W",
-        "Director--Visa-Consulting-and-Analtics--VCA---Digital-Practice_REF087967W-1"
+        "Director--Visa-Consulting-and-Analtics--VCA---Digital-Practice_REF087967W-1",
+        "Senior-Data-Scientist_REF088004W",
+        "Senior-Manager--Software-Engineering_REF087550W-1",
+        "Senior-Manager--Ecosystem-Development--Visa-Direct_REF087409W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -65558,7 +65585,11 @@
         "Analyst--Licensing-Analytics_10158821",
         "Games-Partnership-Manager_10158095",
         "Transformation-Portfolio-Mgr_10158535",
-        "Retail-Strategy-Integration-Manager_10158512"
+        "Retail-Strategy-Integration-Manager_10158512",
+        "Attorney_10158865",
+        "WDI-Construction-Management-Intern--Spring-2027_10158251",
+        "WDI-Project-Controls-Estimating-Intern--Spring-2027_10158085",
+        "WDI-Project-Controls-Planning-Intern--Spring-2027_10158254"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -68749,7 +68780,10 @@
         "R-67387-1",
         "R-67389-1",
         "R-67104",
-        "R-65728"
+        "R-65728",
+        "R-63114-1",
+        "R-67184",
+        "R-66979"
     ],
     "Chime": [
         "8391630002",
@@ -73100,7 +73134,15 @@
         "8160647",
         "8161016",
         "8160914",
-        "8163760"
+        "8163760",
+        "8166210",
+        "8156520",
+        "8160168",
+        "8156506",
+        "8152204",
+        "8163504",
+        "8163725",
+        "8163723"
     ],
     "Roku": [
         "8023364",
