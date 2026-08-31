@@ -1662,7 +1662,20 @@
         "8165515",
         "6909015",
         "8130913",
-        "8147961"
+        "8147961",
+        "8106026",
+        "8142077",
+        "8130867",
+        "8130807",
+        "8130805",
+        "8128745",
+        "8130922",
+        "8130930",
+        "8128744",
+        "8130881",
+        "8157838",
+        "8130927",
+        "8168151"
     ],
     "Figma": [
         "5426468004",
@@ -6212,7 +6225,8 @@
         "8114339",
         "8142636",
         "8114342",
-        "8167204"
+        "8167204",
+        "8163037"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -8434,7 +8448,10 @@
         "8756138002",
         "8717004002",
         "8586857002",
-        "8758645002"
+        "8758645002",
+        "8582321002",
+        "8747038002",
+        "8766584002"
     ],
     "Rubrik": [
         "7310036",
@@ -9005,7 +9022,8 @@
         "8147745",
         "7956918",
         "8105054",
-        "8140599"
+        "8140599",
+        "8157246"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -12330,7 +12348,10 @@
         "6702411",
         "8167609",
         "8166906",
-        "7812245"
+        "7812245",
+        "8167917",
+        "7735713",
+        "8167999"
     ],
     "GitHub": [],
     "Twilio": [
@@ -18626,7 +18647,11 @@
         "R-288918-1",
         "R-280720",
         "R-288650",
-        "R-288239"
+        "R-288239",
+        "R-289796",
+        "R-289795",
+        "R-289793",
+        "R-288963"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -24368,7 +24393,13 @@
         "R355821",
         "R357973",
         "R352645",
-        "R357269"
+        "R357269",
+        "R356620",
+        "R358372",
+        "R357612",
+        "R358427",
+        "R355005",
+        "R358242"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -25347,7 +25378,8 @@
         "Travel-Consultant-I_J-84701",
         "Sourcing-Manager_J-83179-1",
         "Travel-Counselor_J-84479",
-        "DevOps-Engineer_J-80135"
+        "DevOps-Engineer_J-80135",
+        "Technical-Project-Analyst_J-84681"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -27488,7 +27520,10 @@
         "R6889",
         "R6898",
         "R7015-1",
-        "R7109"
+        "R7109",
+        "R7196",
+        "R7194-1",
+        "R7146-1"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -27645,7 +27680,8 @@
         "Securities-Clearing---Credit-Risk-Consultant_34669",
         "Platform-Engineer-III_34703-1",
         "Cyber-Defense-Response-Analyst-II_34737",
-        "Site-Reliability-Engineer-III_34722-1"
+        "Site-Reliability-Engineer-III_34722-1",
+        "Project-Coordinator---Facilities_34748-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -29789,7 +29825,8 @@
         "R-10401351",
         "R-10401356",
         "R-10401359",
-        "R-10400785"
+        "R-10400785",
+        "R-10400696"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -34720,7 +34757,17 @@
         "83ac3381-99c0-46a0-897c-abcd8699b466",
         "fa431b48-8f59-4429-85d7-31b84ed2c116",
         "dceee17e-1e37-448b-acd3-2f97e41a6af7",
-        "ca915b6a-6eca-418e-bb48-f59fb42127fa"
+        "ca915b6a-6eca-418e-bb48-f59fb42127fa",
+        "0b428c6d-7c06-4feb-82b6-5bbe5cda2a18",
+        "c7c5ef17-af83-483c-a825-f461f9f63b17",
+        "60089c12-762c-4369-9a7c-94f8959343a3",
+        "48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
+        "6d1d835d-5882-4191-b78e-fd04a4c05f11",
+        "83645267-385d-459f-97c0-9ffd9c87776b",
+        "65bc2ffe-a622-47cd-949c-2ca8b7ec6951",
+        "9e39d2ba-2076-4f44-9e07-c8520e9d5cdb",
+        "7c936cfb-99c4-4e18-a033-75baa07cbb81",
+        "9371f837-70ef-4387-a4b7-70f252b04aa5"
     ],
     "Anthropic": [
         "5101832008",
@@ -38312,7 +38359,9 @@
         "8081776",
         "8160668",
         "8163432",
-        "8164943"
+        "8164943",
+        "8168392",
+        "8133116"
     ],
     "Vercel": [
         "5624231004",
@@ -43275,7 +43324,8 @@
         "R-0109658",
         "R-0109457",
         "R-0109389",
-        "R-0109418-1"
+        "R-0109418-1",
+        "R-0109142"
     ],
     "CrowdStrike": [
         "R26911",
@@ -48619,7 +48669,18 @@
         "R2024697",
         "R2021941-1",
         "R2022190",
-        "R2021939"
+        "R2021939",
+        "R2015846-1",
+        "R2024800",
+        "R2023255",
+        "R2024580",
+        "R2024686",
+        "R2024199",
+        "R2024715",
+        "R2024639",
+        "R2024679",
+        "R2024440",
+        "R2024256"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -48938,7 +48999,8 @@
         "Software-Engineer---Application-development_2023960",
         "Software-Engineer---Application-Development_2024024",
         "Software-Engineer---Application-Development_2023942",
-        "Detection-Engineering-Technical-Leader_2022041-1"
+        "Detection-Engineering-Technical-Leader_2022041-1",
+        "Engineering-Program-Manager_2022556"
     ],
     "Intel": [
         "R0283052",
@@ -55248,7 +55310,16 @@
         "R0000451744",
         "R0000451767",
         "R0000451716",
-        "R0000451721"
+        "R0000451721",
+        "R0000450213",
+        "R0000451766",
+        "R-2027------_R0000449254",
+        "R-2027------_R0000449255",
+        "R0000450980",
+        "R0000451818",
+        "R0000446556-1",
+        "R0000451777-1",
+        "R0000451819"
     ],
     "Zoom": [
         "R18188-1",
@@ -56581,7 +56652,8 @@
         "R-109189-1",
         "R-108898-1",
         "R-109383",
-        "R-109322"
+        "R-109322",
+        "R-109258-2"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -57942,7 +58014,8 @@
         "c01a2ed9-fcb4-48c0-ad7a-c59476d9c986",
         "f99558f9-639c-4f36-81af-2d0910703560",
         "ee45197b-f2f7-455e-8a5e-f0a1db5088e5",
-        "24f29060-8af5-400e-ba4c-14d656e42339"
+        "24f29060-8af5-400e-ba4c-14d656e42339",
+        "7c027757-24d8-49f4-90c1-ca3696d244a5"
     ],
     "Deel": [],
     "Polygon": [],
@@ -59398,7 +59471,9 @@
         "7589197",
         "8112696",
         "8130221",
-        "8163118"
+        "8163118",
+        "8039916",
+        "8148044"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -63023,7 +63098,12 @@
         "Senior-Cybersecurity-Engineer-IAM_REF079838W",
         "Senior-Risk-Manager_REF087938W-1",
         "Business-Analyst--Business-Strategy---Operations_REF087507W-1",
-        "Analyst--Regional-Growth-Marketing---Campaigns---Digital_REF087851W"
+        "Analyst--Regional-Growth-Marketing---Campaigns---Digital_REF087851W",
+        "Vice-President--Consumer-Payments--Content--Media---Digital-Innovation_REF087976W",
+        "Global-People-Solutions-Analyst---Severance-Operations_REF087982W-1",
+        "Senior-Risk-Operations-Analyst_REF087602W",
+        "Trilingual-Senior-Client-Care-Ops-Support--Spanish--English---Portuguese-_REF087649W-1",
+        "Software-Engineer---Sr-Consultant-level_REF081503W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -64011,7 +64091,9 @@
         "Expansion-Accounts-Executive_26WD100811-1",
         "Expansion-Account-Executive_26WD100813-1",
         "Software-Developer_26WD100821-1",
-        "Principal--Revenue-Strategy---Analytics_26WD100749-1"
+        "Principal--Revenue-Strategy---Analytics_26WD100749-1",
+        "Senior-Software-Developer_26WD100760-1",
+        "Business-Development-Representative--BDR-_26WD100771"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -65878,7 +65960,14 @@
         "Analyst--Domestic-Subscriber-Planning_10156358",
         "Financial-Analyst_10158100",
         "Revenue-Planning---Analytics-Intern--Spring-2027_10159737",
-        "Disney-Entertainment-Television-Publicity-Intern--Fall-2026_10159331"
+        "Disney-Entertainment-Television-Publicity-Intern--Fall-2026_10159331",
+        "Character-Design-Lead---Disney-Television-Animation_10159762",
+        "Location-Design-Lead---Disney-Television-Animation_10159759",
+        "Background-Paint-Lead---Disney-Television-Animation_10159662-1",
+        "Sr-Software-Engineer---Media-Platform-Alliance_10145062",
+        "Senior-Software-Engineer_10158890",
+        "Manager--Software-Engineering_10159279",
+        "Production-Assistant_10159210-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -66940,7 +67029,8 @@
         "R000107731",
         "R000107828",
         "R000107693",
-        "R000107694"
+        "R000107694",
+        "R000107721"
     ],
     "Kyndryl": [
         "R-61530",
@@ -69084,7 +69174,9 @@
         "R-67044-1",
         "R-67171",
         "R-67203",
-        "R-66370-1"
+        "R-66370-1",
+        "R-66553",
+        "R-67178"
     ],
     "Chime": [
         "8391630002",
@@ -70019,7 +70111,8 @@
         "8097056",
         "8141831",
         "8146282",
-        "8167727"
+        "8167727",
+        "8167777"
     ],
     "Salary Finance": [
         "7738033",
@@ -74151,7 +74244,9 @@
         "8165286",
         "8084350",
         "8167458",
-        "6819437"
+        "6819437",
+        "8168338",
+        "8168301"
     ],
     "Zillow": [],
     "Epic Games": [
