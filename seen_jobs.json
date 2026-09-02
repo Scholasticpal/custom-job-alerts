@@ -1687,7 +1687,9 @@
         "8171297",
         "8163542",
         "8155376",
-        "8172164"
+        "8172164",
+        "8168085",
+        "8165853"
     ],
     "Figma": [
         "5426468004",
@@ -8516,7 +8518,9 @@
         "8770300002",
         "8770279002",
         "8679972002",
-        "8770524002"
+        "8770524002",
+        "8619213002",
+        "8761732002"
     ],
     "Rubrik": [
         "7310036",
@@ -10449,7 +10453,9 @@
         "7540853",
         "8141822",
         "8139424",
-        "8164724"
+        "8164724",
+        "7960701",
+        "8164694"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -18782,7 +18788,8 @@
         "R-288740",
         "R-289122-1",
         "R-287487",
-        "R-287228"
+        "R-287228",
+        "R-289125-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -24566,7 +24573,12 @@
         "R358441-1",
         "R357654",
         "R357653",
-        "R352470"
+        "R352470",
+        "R356282",
+        "R357266",
+        "R355963-1",
+        "R358436-1",
+        "R358540-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -25549,7 +25561,8 @@
         "Travel-Counselor_J-84479",
         "DevOps-Engineer_J-80135",
         "Technical-Project-Analyst_J-84681",
-        "Dedicated-Account-Representative_J-84299-1"
+        "Dedicated-Account-Representative_J-84299-1",
+        "Travel-Consultant_J-83951"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -25808,7 +25821,8 @@
         "AVP-VP--Production-Services-Specialist-II--Application-Production-Services---Engineering_26031887-1",
         "Analyst-Associate--GCIB-Credit--Singapore_26032093",
         "Vice-President--Global-Financial-Crimes-Specialist--Indonesia_26032090",
-        "Assistant-Vice-President--Vice-President--Software-Engineer--Global-Markets-Technology_26032104-1"
+        "Assistant-Vice-President--Vice-President--Software-Engineer--Global-Markets-Technology_26032104-1",
+        "Director--Product-Risk-Execution--Global-Payments-Solutions--Hong-Kong-Singapore_26032322"
     ],
     "BlackRock": [
         "R263666",
@@ -30039,7 +30053,10 @@
         "R-10398130",
         "R-10401842",
         "R-10400690",
-        "R-10401319"
+        "R-10401319",
+        "R-10396847",
+        "R-10400301",
+        "R-10398780"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -30417,7 +30434,8 @@
         "Software-Development-Engineer-in-Test_869262-1",
         "Associate-Software-Development-Engineer-in-Test--SDET-_869244",
         "Talent-Acquisition-Partner--Financial-Services--Asset-Management-and-Corporate-Functions-_869444",
-        "Executive-Assistant_869215"
+        "Executive-Assistant_869215",
+        "Associate-Software-Engineer_869045"
     ],
     "Invesco": [
         "R-13647",
@@ -35002,7 +35020,8 @@
         "d4983a0f-1004-4f27-94b3-e1a38c168c1a",
         "c8270289-d73d-4ad6-8cae-2b537f8d9062",
         "3dcfbfbf-9ac2-46fe-8cce-4e2660d98be4",
-        "7bee6731-7619-4fb4-a2f4-7f0003a0fd9e"
+        "7bee6731-7619-4fb4-a2f4-7f0003a0fd9e",
+        "66fa2750-ca23-4a3e-8970-dfe7bac97d01"
     ],
     "Anthropic": [
         "5101832008",
@@ -36217,7 +36236,10 @@
         "5358144008",
         "5411726008",
         "5409026008",
-        "5413314008"
+        "5413314008",
+        "5412944008",
+        "5410006008",
+        "5410004008"
     ],
     "Coinbase": [
         "7559052",
@@ -43641,7 +43663,8 @@
         "R-0109443",
         "R-0108674",
         "R-0109445",
-        "R-0109817"
+        "R-0109817",
+        "R-0109772"
     ],
     "CrowdStrike": [
         "R26911",
@@ -49040,7 +49063,8 @@
         "R2024727",
         "R2024774",
         "R2006561",
-        "R2024972-1"
+        "R2024972-1",
+        "R2024713"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -55745,7 +55769,12 @@
         "R0000451894",
         "R0000451940-1",
         "R0000450754",
-        "R0000451667"
+        "R0000451667",
+        "R0000451302",
+        "R0000451692",
+        "R0000451348",
+        "R0000451886",
+        "R0000452032"
     ],
     "Zoom": [
         "R18188-1",
@@ -66489,7 +66518,9 @@
         "Principal-Media-Streaming-Engineer_10144180",
         "Creator-Content---Partnerships-Associate-Manager_10158597",
         "Staff-Software-Engineer---USD-Authoring_10159880",
-        "Content-Planning-Associate_10144693"
+        "Content-Planning-Associate_10144693",
+        "Executive-Assistant_10158338-2",
+        "Sr-Manager--NAM-Retail-Sales_10158905"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -67560,7 +67591,8 @@
         "R000107891",
         "R000107806",
         "R000107133",
-        "R000107047"
+        "R000107047",
+        "R-2026-_R000107880"
     ],
     "Kyndryl": [
         "R-61530",
@@ -69745,7 +69777,11 @@
         "R-66036-1",
         "R-55608",
         "R-67576-1",
-        "R-67364"
+        "R-67364",
+        "R-67480",
+        "R-66683",
+        "R-67308",
+        "R-55675-1"
     ],
     "Chime": [
         "8391630002",
@@ -70273,7 +70309,8 @@
         "8744013002",
         "8742647002",
         "8643505002",
-        "8765254002"
+        "8765254002",
+        "8765252002"
     ],
     "Sezzle": [
         "7710056003",
@@ -72553,7 +72590,8 @@
         "8171847",
         "8171800",
         "8171912",
-        "8171898"
+        "8171898",
+        "8108697"
     ],
     "Propel": [],
     "Canva": [],
@@ -74192,7 +74230,15 @@
         "8161024",
         "8164001",
         "7474295",
-        "8168806"
+        "8168806",
+        "7861099",
+        "8124388",
+        "8172467",
+        "8096014",
+        "8172539",
+        "8163654",
+        "8164025",
+        "8158581"
     ],
     "Roku": [
         "8023364",
