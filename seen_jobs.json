@@ -1720,7 +1720,9 @@
         "8163534",
         "8177860",
         "8177513",
-        "8177930"
+        "8177930",
+        "8178453",
+        "8172111"
     ],
     "Figma": [
         "5426468004",
@@ -8619,7 +8621,8 @@
         "8603392002",
         "8755662002",
         "8675570002",
-        "8771696002"
+        "8771696002",
+        "8603394002"
     ],
     "Rubrik": [
         "7310036",
@@ -19023,7 +19026,8 @@
         "R-289911",
         "R-282094-1",
         "R-290036",
-        "R-289995-1"
+        "R-289995-1",
+        "R-289269"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -24876,7 +24880,11 @@
         "R358958",
         "R358644-1",
         "R355624",
-        "R358986"
+        "R358986",
+        "R357962-1",
+        "R347118",
+        "R358959",
+        "R358366"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -25868,7 +25876,9 @@
         "Travel-Consultatn-II_J-84700",
         "Incident-Response-Analyst-II_J-84445",
         "Travel-Consultant-II_J-84818",
-        "Meeting-Planner_J-84361"
+        "Meeting-Planner_J-84361",
+        "Meeting---Sourcing-Manager_J-84358",
+        "Estagirio-a--Contbil_J-84823"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -27450,7 +27460,9 @@
         "R265951",
         "R266334",
         "R266249",
-        "R266352"
+        "R266352",
+        "R266259",
+        "R265910"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -28073,7 +28085,9 @@
         "R7226",
         "R7066",
         "R7110-2",
-        "R7224-2"
+        "R7224-2",
+        "R7112",
+        "R7116"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -30845,7 +30859,8 @@
         "Institutional-Client-Service-Analyst--EMEA_869424",
         "Institutional-Onboarding-Associate--EMEA_869423",
         "Associate-Software-Engineer_869267",
-        "Senior-Wealth-Distribution-Intelligence---AI-Partner---RIA-Field---Platforms_869209"
+        "Senior-Wealth-Distribution-Intelligence---AI-Partner---RIA-Field---Platforms_869209",
+        "Canvas-PM_857967-1"
     ],
     "Invesco": [
         "R-13647",
@@ -35499,7 +35514,9 @@
         "1098311d-3a07-40ad-8107-6245a492a0b3",
         "212ea50e-b315-4aef-ba03-5552e66b3129",
         "2e209adc-a378-4fcb-8077-d14bb115aea4",
-        "4d1ede8c-3d4c-4503-8408-81e4b68c5c91"
+        "4d1ede8c-3d4c-4503-8408-81e4b68c5c91",
+        "7e62a05e-2e43-4b95-bde7-34efa8d82c5f",
+        "0a7f5df1-f5aa-4df6-98a8-5afbc660782b"
     ],
     "Anthropic": [
         "5101832008",
@@ -36731,7 +36748,10 @@
         "5411729008",
         "5382617008",
         "5413418008",
-        "5415461008"
+        "5415461008",
+        "5416016008",
+        "5414793008",
+        "5416059008"
     ],
     "Coinbase": [
         "7559052",
@@ -38057,7 +38077,8 @@
         "c5c69246-74db-4960-a0e0-7945be6c30ae",
         "98bb09a8-2fdf-4c12-84dd-8568553159d8",
         "a92eb06e-8ef3-4118-b496-94f3cdf8005d",
-        "785573a1-93b9-4f7e-b84a-c224d1d98b66"
+        "785573a1-93b9-4f7e-b84a-c224d1d98b66",
+        "59f2246d-9cb5-4e97-879e-46c902dc276a"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -42143,7 +42164,8 @@
         "8174948",
         "8172134",
         "8172138",
-        "8175050"
+        "8175050",
+        "8177123"
     ],
     "Asana": [
         "7120496",
@@ -49741,7 +49763,9 @@
         "R2025050",
         "R2025023-1",
         "R2024965",
-        "R2024666"
+        "R2024666",
+        "R2024993",
+        "R2024647-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -56554,7 +56578,10 @@
         "R0000452316",
         "R0000452313",
         "R0000451719",
-        "R0000452103"
+        "R0000452103",
+        "R0000452124",
+        "R0000452126",
+        "R0000448203"
     ],
     "Zoom": [
         "R18188-1",
@@ -58878,7 +58905,8 @@
         "4730337005",
         "4730306005",
         "4730528005",
-        "4730512005"
+        "4730512005",
+        "4729620005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -59303,7 +59331,9 @@
         "6ac50530-ce1c-4375-9cc1-c56f8b5925fd",
         "dba53e68-4c96-449d-af4d-27dc475b814c",
         "696bc715-794c-4a0c-967d-d7f8b637b392",
-        "6310f1b3-1ae2-476c-b4ce-affe530ede26"
+        "6310f1b3-1ae2-476c-b4ce-affe530ede26",
+        "83eec8f4-c37d-43c9-860b-27223eee3643",
+        "60d6aef5-b60d-4163-82b7-00bad89c6d3f"
     ],
     "Deel": [],
     "Polygon": [],
@@ -64530,7 +64560,8 @@
         "Senior-Product-Manager--Platform-and-Gateway_REF087645W",
         "Sr-Director--Product-Builder_REF088106W",
         "Director_REF087616W",
-        "Visa-Direct-Product---Client-Solutions-Manager_REF088115W"
+        "Visa-Direct-Product---Client-Solutions-Manager_REF088115W",
+        "Director--Strategy---Business-Operations_REF087861W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -67481,7 +67512,9 @@
         "Manager--DPI-Marketing-Sales-Communication_10158784",
         "Associate-Manager-Brand-Strategy_10155273-1",
         "Software-Engineer-II_10157527",
-        "Software-Engineer-II_10157095"
+        "Software-Engineer-II_10157095",
+        "Senior-Manager--Product-Software-Engineering---Foundations-Engineering_10159627-2",
+        "Marketing-Strategy-Associate---Global-Softlines--PH-IA-_10159276"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -68574,7 +68607,8 @@
         "R000107582",
         "R000107754",
         "R000107759",
-        "R000107941"
+        "R000107941",
+        "R000107792"
     ],
     "Kyndryl": [
         "R-61530",
@@ -75757,7 +75791,8 @@
         "8169965",
         "8139590",
         "8172128",
-        "8177024"
+        "8177024",
+        "8178712"
     ],
     "Spotify": [],
     "Snap": [],
@@ -76047,7 +76082,13 @@
         "8168196",
         "8053797",
         "8177972",
-        "8178163"
+        "8178163",
+        "8175807",
+        "8175782",
+        "8175791",
+        "8175843",
+        "8178502",
+        "8178568"
     ],
     "Zillow": [],
     "Epic Games": [
