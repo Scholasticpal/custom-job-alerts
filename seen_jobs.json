@@ -1729,7 +1729,10 @@
         "8154304",
         "8171928",
         "8172491",
-        "7586413"
+        "7586413",
+        "8152136",
+        "8148497",
+        "8180318"
     ],
     "Figma": [
         "5426468004",
@@ -2740,7 +2743,8 @@
         "10526906",
         "10528107",
         "10528119",
-        "10529736"
+        "10529736",
+        "10530361"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -4569,7 +4573,15 @@
         "8782404002",
         "8782914002",
         "8784133002",
-        "8784130002"
+        "8784130002",
+        "8782294002",
+        "8784432002",
+        "8784433002",
+        "8784439002",
+        "8784416002",
+        "8784425002",
+        "8784418002",
+        "8782292002"
     ],
     "Grab": [],
     "GoTo": [],
@@ -9239,7 +9251,8 @@
         "8138804",
         "8141341",
         "8140593",
-        "8174784"
+        "8174784",
+        "8171014"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -12658,7 +12671,8 @@
         "8163709",
         "3236374",
         "8177992",
-        "8178005"
+        "8178005",
+        "4091671"
     ],
     "GitHub": [],
     "Twilio": [
@@ -19117,7 +19131,11 @@
         "R-281457",
         "R-289164",
         "R-290268",
-        "R-290013"
+        "R-290013",
+        "R-289429",
+        "R-289263",
+        "R-290049",
+        "R-268516"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -25003,7 +25021,10 @@
         "R358952",
         "R359066",
         "R355780-1",
-        "R358730"
+        "R358730",
+        "R359221",
+        "R358682",
+        "R356908-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -28224,7 +28245,11 @@
         "R7224-2",
         "R7112",
         "R7116",
-        "R7242-2"
+        "R7242-2",
+        "R7259",
+        "R7221-1",
+        "R6926",
+        "R7256-1"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -31011,7 +31036,8 @@
         "Associate-Software-Engineer_869267",
         "Senior-Wealth-Distribution-Intelligence---AI-Partner---RIA-Field---Platforms_869209",
         "Canvas-PM_857967-1",
-        "Lead-Wealth-Distribution-Intelligence---AI-Partner---Private-Markets_869207"
+        "Lead-Wealth-Distribution-Intelligence---AI-Partner---Private-Markets_869207",
+        "Senior-Sales-Associate_869231"
     ],
     "Invesco": [
         "R-13647",
@@ -35686,7 +35712,9 @@
         "b3e5fcf7-50ad-4765-ac03-ac71e8b20cb8",
         "80f0deef-7c66-4545-91eb-f43a1481f997",
         "6742bd76-dcc7-4bbd-bdb3-00c315bc0254",
-        "1ae64ddb-505f-4ad2-a731-3a857e94edee"
+        "1ae64ddb-505f-4ad2-a731-3a857e94edee",
+        "669e43f3-4236-41ab-be78-d6fb9179fee4",
+        "4a4a2604-b4b3-4944-a2a2-4ec4c5261d7d"
     ],
     "Anthropic": [
         "5101832008",
@@ -36933,7 +36961,10 @@
         "5414608008",
         "5357951008",
         "5416709008",
-        "5416696008"
+        "5416696008",
+        "5358110008",
+        "5411707008",
+        "5415930008"
     ],
     "Coinbase": [
         "7559052",
@@ -37323,7 +37354,8 @@
         "8177619",
         "8174949",
         "8179114",
-        "8154342"
+        "8154342",
+        "8179214"
     ],
     "Discord": [
         "8289766002",
@@ -38002,7 +38034,9 @@
         "8164961",
         "8175131",
         "8175520",
-        "8145926"
+        "8145926",
+        "8180811",
+        "8180636"
     ],
     "Notion": [
         "03143d98-a561-44c6-96a5-fc9bfaf8d18d",
@@ -38263,7 +38297,8 @@
         "98bb09a8-2fdf-4c12-84dd-8568553159d8",
         "a92eb06e-8ef3-4118-b496-94f3cdf8005d",
         "785573a1-93b9-4f7e-b84a-c224d1d98b66",
-        "59f2246d-9cb5-4e97-879e-46c902dc276a"
+        "59f2246d-9cb5-4e97-879e-46c902dc276a",
+        "42279d85-cf60-4c3c-bf82-92b9e215f3c7"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -38447,7 +38482,8 @@
         "780fdd2e-5c29-4f25-831a-8f30e24923cd",
         "e7536a96-d3d5-4f20-bbeb-aef633be45e0",
         "eeb094c3-da73-411e-8dda-b3f4ee397f97",
-        "ceaee97f-480e-439d-8a95-b4f13aacc31a"
+        "ceaee97f-480e-439d-8a95-b4f13aacc31a",
+        "59875bcd-9dbc-41f1-9cb2-905940d205d6"
     ],
     "Affirm": [
         "7666190003",
@@ -38954,7 +38990,9 @@
         "7850550003",
         "7983769003",
         "7983767003",
-        "7978722003"
+        "7978722003",
+        "7981805003",
+        "7981803003"
     ],
     "Robinhood": [
         "7799902",
@@ -50004,7 +50042,17 @@
         "R2012814",
         "R2024425",
         "R2024801",
-        "R2024853"
+        "R2024853",
+        "R2015731",
+        "R2001888",
+        "R1996819",
+        "R2021918",
+        "R2019269",
+        "R2008149",
+        "R2023889",
+        "R2025052",
+        "R2025040",
+        "R2024823"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -50334,7 +50382,8 @@
         "Software-Engineering-Technical-Leader_2023550-1",
         "Hardware-Engineering-Technical-Leader_2014523-1",
         "Senior-ASIC-Engineer_2022496",
-        "Software-Engineering-Technical-Leader_2021705"
+        "Software-Engineering-Technical-Leader_2021705",
+        "Hardware-Engineer_2024645-1"
     ],
     "Intel": [
         "R0283052",
@@ -56863,7 +56912,13 @@
         "R-2027-_R0000452433",
         "R0000452404",
         "R0000451947-1",
-        "R0000452407"
+        "R0000452407",
+        "R0000440740",
+        "R0000452467-1",
+        "R0000452436",
+        "R0000452447",
+        "R0000452363",
+        "R0000452269"
     ],
     "Zoom": [
         "R18188-1",
@@ -57286,7 +57341,9 @@
         "R19609-1",
         "R19600",
         "R19601",
-        "R19617"
+        "R19617",
+        "R19619",
+        "R19618"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -59626,7 +59683,8 @@
         "6310f1b3-1ae2-476c-b4ce-affe530ede26",
         "83eec8f4-c37d-43c9-860b-27223eee3643",
         "60d6aef5-b60d-4163-82b7-00bad89c6d3f",
-        "623abf6f-84c6-49d2-8276-385c1ffec097"
+        "623abf6f-84c6-49d2-8276-385c1ffec097",
+        "196e4e25-c452-430d-8b2f-36a40f88a2ae"
     ],
     "Deel": [],
     "Polygon": [],
@@ -61148,7 +61206,11 @@
         "8166214",
         "8162344",
         "7960365",
-        "8162294"
+        "8162294",
+        "8180406",
+        "8167808",
+        "7852183",
+        "8180630"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -67877,7 +67939,17 @@
         "XMLNAME-20th-Television-Office-of-the-President-Intern--Spring-2027_10156834-1",
         "Manager--Facilities_10157606-1",
         "KGO---Weather-Anchor_10159823",
-        "Manager--Production-Services_10159451-1"
+        "Manager--Production-Services_10159451-1",
+        "Data-Analyst--Engagement-Analytics_10159478",
+        "Senior-Manager--Global-Trade-Risk--Audit---Finance_10158476-1",
+        "Project-Manager_10155878-1",
+        "Disney-Live-Entertainment-Technical-Direction-Intern--Spring-2027_10159185",
+        "Disney-Live-Entertainment-Costume-Development-Intern--Spring-2027_10159536",
+        "Disney-Live-Entertainment-Music-Production-Intern--Spring-2027_10159178",
+        "Disney-Live-Entertainment-Audio-Systems-Design-Intern--Spring-2027_10159171",
+        "Disney-Live-Entertainment-Production-Assistant-Intern--Spring-2027_10159180",
+        "Disney-Live-Entertainment-Lighting-Design-Intern--Spring-2027_10159167",
+        "Disney-Live-Entertainment-CAD-Design-Intern--Spring-2027_10159161"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -68976,7 +69048,8 @@
         "R000102562",
         "R000108021",
         "R000107901-1",
-        "R000107945"
+        "R000107945",
+        "R000107954"
     ],
     "Kyndryl": [
         "R-61530",
@@ -72931,7 +73004,8 @@
         "8171162",
         "8171171",
         "8173752",
-        "8171262"
+        "8171262",
+        "8167464"
     ],
     "Kaseya": [
         "6022140004",
@@ -76761,7 +76835,9 @@
         "6174265004",
         "6163851004",
         "6173862004",
-        "6173450004"
+        "6173450004",
+        "6181223004",
+        "6181221004"
     ],
     "Booking.com": [],
     "Myntra": [],
