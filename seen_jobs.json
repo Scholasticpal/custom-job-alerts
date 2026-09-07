@@ -1738,7 +1738,9 @@
         "7994945",
         "8175629",
         "8181003",
-        "8174150"
+        "8174150",
+        "8179341",
+        "8130883"
     ],
     "Figma": [
         "5426468004",
@@ -9270,7 +9272,8 @@
         "8168820",
         "8166514",
         "8166537",
-        "8166523"
+        "8166523",
+        "8130441"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -10657,7 +10660,8 @@
         "8180488",
         "8172246",
         "8158016",
-        "8168940"
+        "8168940",
+        "8146536"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -11818,7 +11822,10 @@
         "8152729",
         "8167292",
         "8175781",
-        "8175792"
+        "8175792",
+        "8184212",
+        "8184186",
+        "8178992"
     ],
     "DoorDash": [
         "7927511",
@@ -19159,7 +19166,11 @@
         "R-290049",
         "R-268516",
         "R-2027---NEW-YORK--US_R-287605-1",
-        "R-289146"
+        "R-289146",
+        "R-277303-1",
+        "R-289762-1",
+        "R-289616",
+        "R-289546"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -25050,7 +25061,11 @@
         "R358682",
         "R356908-1",
         "R359258",
-        "R325976"
+        "R325976",
+        "R359203",
+        "R358925",
+        "R358291",
+        "R358025"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -26323,7 +26338,10 @@
         "Administrative-Assistant--Korea_26032514",
         "Associate--Trade-Product--Supply-Chain-Finance---Global-Payments-Solutions--Hong-Kong_26032513",
         "Vice-President--Cyber-Threat-Intelligence-Analyst--Global-Information-Security--Sydney--Australia_26032512",
-        "Vice-President--Attack-Surface-Research-Analyst--Global-Information-Security--Sydney--Australia_26032677"
+        "Vice-President--Attack-Surface-Research-Analyst--Global-Information-Security--Sydney--Australia_26032677",
+        "Vice-President-Director--Treasury-Sales-Officer---The-Philippines_26032835",
+        "Vice-President--Communications-Review-Group--CRG---GCIB-Business-Controls--GCIB-Business-Controls-Japan_26032506-1",
+        "Assistant-Vice-President--Associate--Credit-Support-Associate--Enterprise-Credit_26032508-1"
     ],
     "BlackRock": [
         "R263666",
@@ -27646,7 +27664,10 @@
         "R266277",
         "R265364",
         "R266304",
-        "R266290"
+        "R266290",
+        "R265889",
+        "R265888",
+        "R266246-1"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -27946,7 +27967,8 @@
         "AI-Engineer--Analyst---Data-Analytics---AI_45238-1",
         "AI-Engineer--Associate---Data-Analytics---AI_45237-1",
         "BXTI--Technical-Product-Manager--Data--Cloud-and-Developer-Experience---AVP_45239-2",
-        "Blackstone-Multi-Asset-Investing--BXMA---Client-Service-Analytics--Vice-President_40240"
+        "Blackstone-Multi-Asset-Investing--BXMA---Client-Service-Analytics--Vice-President_40240",
+        "Blackstone-Multi-Asset-Investing--BXMA----Asia--Vice-President_45356"
     ],
     "Capital Group": [
         "R6549",
@@ -31693,7 +31715,8 @@
         "R-15332",
         "R-15079",
         "R-15350-1",
-        "R-15426"
+        "R-15426",
+        "R-14367"
     ],
     "PayPal": [
         "R0135744-1",
@@ -35761,7 +35784,8 @@
         "a14780e7-0316-478c-8e6a-d7629c31c49d",
         "1db8dc12-c4b8-4fb7-8451-0d48df402bda",
         "0b9e565a-ae5f-40fc-8350-b59f71f76df1",
-        "98f65aa5-0f19-4942-9296-63382883dc55"
+        "98f65aa5-0f19-4942-9296-63382883dc55",
+        "ecd7b6d6-cf20-4e14-a90a-8501cd460557"
     ],
     "Anthropic": [
         "5101832008",
@@ -41633,7 +41657,8 @@
         "8164588",
         "8166231",
         "8179766",
-        "8177798"
+        "8177798",
+        "8163361"
     ],
     "Elastic": [
         "7505982",
@@ -50128,7 +50153,11 @@
         "R2009938",
         "R2025162",
         "R2024949",
-        "R2012988"
+        "R2012988",
+        "R2024941",
+        "R2024955",
+        "R2025044",
+        "R2024846"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -57025,7 +57054,14 @@
         "R0000452148",
         "R0000452147",
         "R0000452541",
-        "R0000452542"
+        "R0000452542",
+        "R0000445126",
+        "R0000452389-1",
+        "R0000451908",
+        "R0000452388",
+        "R0000451885",
+        "R0000452390",
+        "R0000452371"
     ],
     "Zoom": [
         "R18188-1",
@@ -65073,7 +65109,9 @@
         "Associate-Network-Analyst_REF088100W",
         "Analyst--VCA-Implementation-Services--VIS-_REF088230W",
         "Director--US-Co-Brand-Business-Development_REF088233W",
-        "Sr-Manager--Quality-Engineering_REF088089W"
+        "Sr-Manager--Quality-Engineering_REF088089W",
+        "Software-Engineer_REF087623W-1",
+        "Team-Leader--Contact-Center_REF087763W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -66105,7 +66143,8 @@
         "Senior-Software-Developer--BackEnd---Forma-Admin-_26WD100671",
         "Software-Developer_26WD100537",
         "Customer-Success-Manager_26WD100728-2",
-        "Engineering-Manager---Platform---DevOps_25WD94232-1"
+        "Engineering-Manager---Platform---DevOps_25WD94232-1",
+        "Vendor-Services-Lead_26WD100519-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -68072,7 +68111,9 @@
         "Marketing-Strategy-Intern--Latin-America-Consumer-Direct--Spring-2027_10156539",
         "Sales---Marketing-Strategy-Intern--Latin-America-Trade-Market--Spring-2027_10155823-1",
         "Production-Coordinator--Project-Hire-_10159485",
-        "VP-Creative---Advanced-Development_10159336"
+        "VP-Creative---Advanced-Development_10159336",
+        "Creative-Intern--Publishing---Digital-Experiences--APAC---Jan-to-Jun-2027_10160023",
+        "Intern--Retail---Marketing-Creative---Jan-to-Jun-2027_10160022"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -69174,7 +69215,8 @@
         "R000107945",
         "R000107954",
         "R000107937",
-        "R000107659"
+        "R000107659",
+        "R000105218"
     ],
     "Kyndryl": [
         "R-61530",
@@ -71433,7 +71475,10 @@
         "R-65028-1",
         "R-65029-1",
         "R-65027-1",
-        "R-67464"
+        "R-67464",
+        "R-67511-1",
+        "R-67519-1",
+        "R-68403"
     ],
     "Chime": [
         "8391630002",
@@ -76031,7 +76076,14 @@
         "8179384",
         "8178983",
         "8152661",
-        "8178825"
+        "8178825",
+        "8184575",
+        "8184196",
+        "8175617",
+        "8178862",
+        "8178875",
+        "8163764",
+        "8175846"
     ],
     "Roku": [
         "8023364",
