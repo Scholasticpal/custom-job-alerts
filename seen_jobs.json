@@ -8707,7 +8707,8 @@
         "8785263002",
         "8785266002",
         "8762388002",
-        "8737167002"
+        "8737167002",
+        "8756144002"
     ],
     "Rubrik": [
         "7310036",
@@ -9294,7 +9295,9 @@
         "8166514",
         "8166537",
         "8166523",
-        "8130441"
+        "8130441",
+        "8166722",
+        "8183993"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -11859,7 +11862,9 @@
         "8184766",
         "8184805",
         "8166587",
-        "8179158"
+        "8179158",
+        "8166655",
+        "8169174"
     ],
     "DoorDash": [
         "7927511",
@@ -13382,7 +13387,9 @@
         "8173554",
         "8168599",
         "8176810",
-        "8170601"
+        "8170601",
+        "8172319",
+        "8172315"
     ],
     "Dropbox": [
         "7646405",
@@ -19225,7 +19232,9 @@
         "R-289144",
         "R-281725-1",
         "R-289680",
-        "R-289472"
+        "R-289472",
+        "R-289329",
+        "R-289980"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -25136,7 +25145,14 @@
         "R358913",
         "R357464",
         "R356926-1",
-        "R353713-1"
+        "R353713-1",
+        "R353282-1",
+        "R359357",
+        "R359368",
+        "R358932",
+        "R357522-1",
+        "R359296",
+        "R358512"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -28543,7 +28559,8 @@
         "Project-Coordinator---Facilities_34748-1",
         "Sr-Software-Engineer---India_34738-1",
         "Director--Financial-Research-and-New-Product-Development_34744",
-        "Site-Reliability-Engineer----_33162"
+        "Site-Reliability-Engineer----_33162",
+        "Network-Ops-Engineer-III--India_34008-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -28785,7 +28802,8 @@
         "R32968",
         "R32907-2",
         "R32813-1",
-        "R33181"
+        "R33181",
+        "R33064-1"
     ],
     "Fiserv": [
         "R-10392824",
@@ -30786,7 +30804,8 @@
         "R-10398733",
         "R-10395006",
         "R-10396209",
-        "R-10396207"
+        "R-10396207",
+        "R-10401460"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -31819,7 +31838,8 @@
         "R-15057",
         "R-15232",
         "R-15105",
-        "R-15497"
+        "R-15497",
+        "R-14853"
     ],
     "PayPal": [
         "R0135744-1",
@@ -32441,7 +32461,9 @@
         "R0137177",
         "R0135908",
         "R0137253",
-        "R0137254"
+        "R0137254",
+        "R0137490",
+        "R0137322"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -35894,7 +35916,8 @@
         "1db8dc12-c4b8-4fb7-8451-0d48df402bda",
         "0b9e565a-ae5f-40fc-8350-b59f71f76df1",
         "98f65aa5-0f19-4942-9296-63382883dc55",
-        "ecd7b6d6-cf20-4e14-a90a-8501cd460557"
+        "ecd7b6d6-cf20-4e14-a90a-8501cd460557",
+        "19755930-3377-49c2-949c-192629eb4119"
     ],
     "Anthropic": [
         "5101832008",
@@ -39780,7 +39803,8 @@
         "6163582004",
         "6160974004",
         "5895013004",
-        "6137958004"
+        "6137958004",
+        "6183272004"
     ],
     "MongoDB": [
         "7574659",
@@ -44755,7 +44779,9 @@
         "R-0109739",
         "R-0109485",
         "R-0108682",
-        "R-0109740"
+        "R-0109740",
+        "R-0109784",
+        "R-0108725"
     ],
     "CrowdStrike": [
         "R26911",
@@ -57229,7 +57255,17 @@
         "R0000452594",
         "R0000452463",
         "R0000447586",
-        "R0000452656"
+        "R0000452656",
+        "R0000452608",
+        "R0000452618",
+        "R0000452614",
+        "R0000452624",
+        "R0000452634",
+        "R0000452648",
+        "R0000452644-1",
+        "R0000452424",
+        "R0000452654",
+        "R0000451084"
     ],
     "Zoom": [
         "R18188-1",
@@ -60837,7 +60873,8 @@
         "8184639",
         "8155161",
         "8164266",
-        "8185095"
+        "8185095",
+        "8185094"
     ],
     "Samsara": [
         "5747183",
@@ -62101,7 +62138,8 @@
         "4709684006",
         "4706145006",
         "4618839006",
-        "4645516006"
+        "4645516006",
+        "4619903006"
     ],
     "Duolingo": [
         "8455252002",
@@ -63388,7 +63426,8 @@
         "R35413",
         "R33556",
         "R35345",
-        "R35416"
+        "R35416",
+        "R35432-1"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -65300,7 +65339,12 @@
         "Business-Development-Manager_REF088081W",
         "Cybersecurity-Analyst_REF088028W-1",
         "Sr-Cybersecurity-Analyst_REF088029W-1",
-        "Real-Estate-Analyst_REF087648W"
+        "Real-Estate-Analyst_REF087648W",
+        "Sr-Marketing-Services-Manager_REF076642W-1",
+        "Service-Experience-Consultant--product-project-management--API-integration--JSON-XML--implementation-consultant---6-12-years-_REF088178W",
+        "Staff-SW-Engineer--10-12-years--exp---Net-Core---Java---Python--RAG--MCP-_REF087081W-1",
+        "Applied-AI-Engineer--Agentic-Analytics-Platform_REF087680W-1",
+        "Consultant--Visa-Consulting---Analytics--VCA--AUNZPI_REF088118W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -66338,7 +66382,9 @@
         "Principal-Account-Executive--Enterprise-Accounts_26WD100929-1",
         "ANZ-Senior-Sales-Manager_26WD100520-1",
         "Field-Activation-Lead--Platforms_26WD100387-1",
-        "Digital-Renewal-Sales-Rep---German-Speaker_26WD100847-1"
+        "Digital-Renewal-Sales-Rep---German-Speaker_26WD100847-1",
+        "Sales-Specialist--Emerging-Solutions_26WD100386",
+        "Director--Chief-of-Staff_26WD100945-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -68314,7 +68360,8 @@
         "Solutions-Architect---CDI---F-H-NB_10158068",
         "Sr-Database-Administrator_10159501",
         "Sr-Database-Administrator_10159500",
-        "Senior-Account-Executive--Manager-Sales_10159366"
+        "Senior-Account-Executive--Manager-Sales_10159366",
+        "Intern--Merchandise-Sourcing---Data-Operations---Jan-to-Jun-2027_10160095-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -71699,7 +71746,8 @@
         "R-64967-1",
         "R-67521",
         "R-67520",
-        "R-66528-1"
+        "R-66528-1",
+        "R-67116-1"
     ],
     "Chime": [
         "8391630002",
@@ -73402,7 +73450,8 @@
         "8171262",
         "8167464",
         "8105932",
-        "8180503"
+        "8180503",
+        "8102363"
     ],
     "Kaseya": [
         "6022140004",
@@ -74591,7 +74640,8 @@
         "8167315",
         "8179881",
         "8173359",
-        "8180097"
+        "8180097",
+        "8126072"
     ],
     "Propel": [],
     "Canva": [],
@@ -76316,7 +76366,15 @@
         "8156443",
         "8179229",
         "8175814",
-        "8172478"
+        "8172478",
+        "8184694",
+        "8163558",
+        "8161235",
+        "8168529",
+        "8158559",
+        "8185123",
+        "7920574",
+        "8172714"
     ],
     "Roku": [
         "8023364",
