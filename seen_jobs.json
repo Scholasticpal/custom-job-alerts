@@ -1789,7 +1789,9 @@
         "8194289",
         "8187580",
         "8155386",
-        "8194328"
+        "8194328",
+        "8189020",
+        "8174138"
     ],
     "Figma": [
         "5426468004",
@@ -3832,7 +3834,8 @@
         "4731606005",
         "4731693005",
         "4731671005",
-        "4731060005"
+        "4731060005",
+        "4731620005"
     ],
     "Rippling": [],
     "Slice": [
@@ -6521,7 +6524,8 @@
         "8189352",
         "8185246",
         "8186787",
-        "8192330"
+        "8192330",
+        "8194590"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -6704,7 +6708,8 @@
         "8029768",
         "8184771",
         "7583213",
-        "8194414"
+        "8194414",
+        "8194600"
     ],
     "Quadeye": [],
     "AlphaGrep": [
@@ -8851,7 +8856,9 @@
         "8798215002",
         "8753679002",
         "8798198002",
-        "8798217002"
+        "8798217002",
+        "8756140002",
+        "8798964002"
     ],
     "Rubrik": [
         "7310036",
@@ -12083,7 +12090,11 @@
         "8166599",
         "8166571",
         "8184210",
-        "8194531"
+        "8194531",
+        "8194690",
+        "8194692",
+        "8194693",
+        "8194694"
     ],
     "DoorDash": [
         "7927511",
@@ -19600,7 +19611,18 @@
         "R-290230",
         "R-290653-1",
         "R-289788",
-        "R-290248"
+        "R-290248",
+        "R-290167",
+        "R-289615",
+        "R-288539-1",
+        "R-288806",
+        "R-290204",
+        "R-289676",
+        "R-290626",
+        "R-290601",
+        "R-289765",
+        "R-290675",
+        "R-290676"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -25632,7 +25654,9 @@
         "R301816",
         "R359843",
         "R359214",
-        "R359864"
+        "R359864",
+        "R357504",
+        "R354802-1"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -26666,7 +26690,8 @@
         "Travel-Consultant-at-Fort-Benning_J-84341",
         "Enterprise-Data-Governance-Lead_J-84652",
         "Commercial-Strategy-and-Planning--Manager--PMO-_J-84421-1",
-        "Commercial-Strategy---Planning-Consultant_J-84918"
+        "Commercial-Strategy---Planning-Consultant_J-84918",
+        "Developer-Compleat_J-84848"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -26936,7 +26961,8 @@
         "Vice-President-Director--Treasury-Sales-Officer---The-Philippines_26032835",
         "Vice-President--Communications-Review-Group--CRG---GCIB-Business-Controls--GCIB-Business-Controls-Japan_26032506-1",
         "Assistant-Vice-President--Associate--Credit-Support-Associate--Enterprise-Credit_26032508-1",
-        "Vice-President--Sales-Trader_26032863"
+        "Vice-President--Sales-Trader_26032863",
+        "Associate--Assistant-General-Counsel-and-Director---Employment---Benefits-APAC_26033438"
     ],
     "BlackRock": [
         "R263666",
@@ -28286,7 +28312,10 @@
         "R266430",
         "R266371",
         "R266373",
-        "R266350"
+        "R266350",
+        "R265923",
+        "R265883",
+        "R265881"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -31402,7 +31431,8 @@
         "R-10402694",
         "R-10395868-1",
         "R-10397691",
-        "R-10401461"
+        "R-10401461",
+        "R-10401820"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -33105,7 +33135,10 @@
         "R0137482",
         "R0137563",
         "R0137274",
-        "R0137553"
+        "R0137553",
+        "R0137470-1",
+        "R0137264",
+        "R0137314-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -36598,7 +36631,8 @@
         "f7d155c9-06e8-44f0-b2eb-bfa88707f2c1",
         "b6a86e39-8059-4ccf-8d33-1bf5bd92fa86",
         "a525ada4-b02d-425e-b529-f74bd0b398a5",
-        "708121e8-51ac-4a24-a2ff-bd9889ba5486"
+        "708121e8-51ac-4a24-a2ff-bd9889ba5486",
+        "32425ea6-a64b-408d-ae54-38342b83c875"
     ],
     "Anthropic": [
         "5101832008",
@@ -39007,7 +39041,8 @@
         "8190630",
         "8190627",
         "8188275",
-        "8189317"
+        "8189317",
+        "8194576"
     ],
     "Notion": [
         "03143d98-a561-44c6-96a5-fc9bfaf8d18d",
@@ -41646,7 +41681,8 @@
         "8190534",
         "8122751",
         "8163002",
-        "8163000"
+        "8163000",
+        "8170631"
     ],
     "Datadog": [
         "7194969",
@@ -44333,7 +44369,8 @@
         "R171692",
         "R171355",
         "R171808-1",
-        "R171768"
+        "R171768",
+        "R171494-1"
     ],
     "Workday": [
         "R-0106509-1",
@@ -45673,7 +45710,8 @@
         "R-0109839",
         "R-0109837",
         "R-0109924",
-        "R-0109687"
+        "R-0109687",
+        "R-0109906"
     ],
     "CrowdStrike": [
         "R26911",
@@ -58457,7 +58495,18 @@
         "R0000453187",
         "R0000453131",
         "R0000453208",
-        "R0000453207"
+        "R0000453207",
+        "R0000453236",
+        "R0000453235",
+        "R0000450918",
+        "R0000450904",
+        "R0000453033",
+        "R0000452957",
+        "R0000452971",
+        "R0000452641-1",
+        "R0000448428-1",
+        "R0000453218",
+        "R0000453129"
     ],
     "Zoom": [
         "R18188-1",
@@ -58888,7 +58937,8 @@
         "R19539",
         "R19527-2",
         "R19357-1",
-        "R19575-1"
+        "R19575-1",
+        "R19646-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -62167,7 +62217,8 @@
         "8185094",
         "7923412",
         "8174038",
-        "8157083"
+        "8157083",
+        "8130279"
     ],
     "Samsara": [
         "5747183",
@@ -66750,7 +66801,11 @@
         "Senior-Director--NA-VAS--Loyalty--Digital-Enablement--and-Network-Products-Solutions-Lead_REF084662W-1",
         "Sr-Business-Analyst_REF088347W",
         "Growth-Marketing-Analyst--Issuing-and-Risk-Solutions--Value-Added-Services--Asia-Pacific_REF088022W",
-        "Growth-Marketing-Analyst--Acceptance-Solutions--Value-Added-Services--Asia-Pacific_REF088026W"
+        "Growth-Marketing-Analyst--Acceptance-Solutions--Value-Added-Services--Asia-Pacific_REF088026W",
+        "Data-Engineer_REF088212W",
+        "Sr-Director--Marketing-Services--KSA--Bahrain---Oman_REF088274W-1",
+        "Principal-Officer_REF088287W",
+        "Compliance-officer_REF088286W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -69869,7 +69924,8 @@
         "Manager--Port-Costs_10159810",
         "Senior-Manager---Project-Delivery_10158628",
         "Disney---Pixar-Games-Brand-Strategy-Intern--Spring-2027_10159020-2",
-        "Lead-Product-Mgr_10160333"
+        "Lead-Product-Mgr_10160333",
+        "Senior-YouTube-Analyst--UK---EMEA--Fixed-Term-Contract-_10158993-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -71005,7 +71061,10 @@
         "R000108016",
         "R000108638",
         "R000108684",
-        "R000108683"
+        "R000108683",
+        "R000108645",
+        "R000108644",
+        "R000107944"
     ],
     "Kyndryl": [
         "R-61530",
@@ -73331,7 +73390,10 @@
         "R-67294-1",
         "R-68309-1",
         "R-67551-1",
-        "R-68716-1"
+        "R-68716-1",
+        "R-67243-1",
+        "R-58587-1",
+        "R-63661"
     ],
     "Chime": [
         "8391630002",
@@ -75073,7 +75135,8 @@
         "8189819",
         "8155202",
         "6725699",
-        "8191371"
+        "8191371",
+        "7744555"
     ],
     "Kaseya": [
         "6022140004",
@@ -78107,7 +78170,13 @@
         "8188124",
         "8171556",
         "8090443",
-        "7984127"
+        "7984127",
+        "8194644",
+        "8163685",
+        "8194642",
+        "8194646",
+        "8194584",
+        "8178865"
     ],
     "Roku": [
         "8023364",
