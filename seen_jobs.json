@@ -1879,7 +1879,10 @@
         "8212508",
         "8212517",
         "8175627",
-        "8187578"
+        "8187578",
+        "8190054",
+        "8211151",
+        "8212321"
     ],
     "Figma": [
         "5426468004",
@@ -2940,7 +2943,8 @@
         "10552379",
         "10552036",
         "10552162",
-        "10553121"
+        "10553121",
+        "10553343"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -3334,7 +3338,8 @@
         "35615a95-06c9-4be2-9da4-8fa578ce5a35",
         "fad3f54d-c7c2-4538-8033-2ea55a86b9ce",
         "7656aa30-6c16-40d8-9699-3cf9cebbf779",
-        "4de660c2-a2a4-4601-9def-09658ebb1f11"
+        "4de660c2-a2a4-4601-9def-09658ebb1f11",
+        "d2b59be6-15bf-4783-a634-d3720eb5c913"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -9890,7 +9895,8 @@
         "R103661",
         "R103678",
         "R103686",
-        "R103653"
+        "R103653",
+        "R103691"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -11222,7 +11228,11 @@
         "8202081",
         "8203600",
         "8212060",
-        "8207326"
+        "8207326",
+        "8213265",
+        "8213269",
+        "8188313",
+        "8179374"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -13423,7 +13433,8 @@
         "8211456",
         "8209236",
         "8212197",
-        "8212984"
+        "8212984",
+        "8212412"
     ],
     "GitHub": [],
     "Twilio": [
@@ -20245,7 +20256,16 @@
         "R-290672-1",
         "R-290673-1",
         "R-290928",
-        "R-286856-1"
+        "R-286856-1",
+        "R-291100-1",
+        "R-290959",
+        "R-1_R-290528",
+        "R-289524-1",
+        "R-291279",
+        "R-286355",
+        "R-286792-1",
+        "R-291012",
+        "R-291331"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -26468,7 +26488,13 @@
         "R360254",
         "R360465",
         "R360265-1",
-        "R359267"
+        "R359267",
+        "R360433",
+        "R358736",
+        "R360478",
+        "R354182",
+        "R360035",
+        "R359478"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -26650,7 +26676,8 @@
         "8162411",
         "8175790",
         "8210461",
-        "6881808"
+        "6881808",
+        "8213198"
     ],
     "PayU": [],
     "American Express": [
@@ -27561,7 +27588,13 @@
         "Operations-Team-Leader_J-84854",
         "Marine-Travel-Consultant_J-84200",
         "Marine-Travel-Consultant_J-84204",
-        "Software-Engineer_J-84389"
+        "Software-Engineer_J-84389",
+        "Multinational-Sales-Manager---South-Germany_J-84971",
+        "Multinational-Sales-Manager---North-Germany_J-84969",
+        "Planning-Analyst_J-84246",
+        "Senior-Meeting-Planner_J-84788",
+        "Corporate-Travel-Consultant---Remote_J-85078",
+        "Technical-Business-Analyst_J-83768"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -27845,7 +27878,9 @@
         "Vice-President--Country-Compliance-and-Operational-Risk-Manager_26032846",
         "Assistant-Vice-President---Vice-President--Cloud-Security-Analyst--Global-Information-Security--Sydney--Australia_26034215-1",
         "Assistant-Vice-President---Vice-President--Cloud-Security-Analyst--Global-Information-Security--Sydney--Australia_26034214-1",
-        "Vice-President---Director--Investment-Banking-and-Capital-Markets--Japan_26034240"
+        "Vice-President---Director--Investment-Banking-and-Capital-Markets--Japan_26034240",
+        "Vice-President--Regional-Treasury-Sales-Officer--Corporates---Global-Payments-Solutions_26028953-1",
+        "Vice-President--APAC-Trade-Fulfilment-and-Servicing-Lead--Global-Credit-Operations_26034421-1"
     ],
     "BlackRock": [
         "R263666",
@@ -29268,7 +29303,9 @@
         "R266483",
         "R266501",
         "R266262",
-        "R265886"
+        "R265886",
+        "R266543",
+        "R266497"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -30116,7 +30153,8 @@
         "Mgr-CD-S---Buyside_34791",
         "ECHO-Analyst_34808-1",
         "Manager--Market-Risk_34735",
-        "ECHO-Analyst_34838"
+        "ECHO-Analyst_34838",
+        "Staff-Infrastructure-Engineer_34731"
     ],
     "FactSet": [
         "R32107-1",
@@ -32520,7 +32558,9 @@
         "R-10403054",
         "R-10403116",
         "R-10396769",
-        "R-10401443"
+        "R-10401443",
+        "R-10400496",
+        "R-10403182"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -34361,7 +34401,8 @@
         "R0138181-1",
         "R0138155",
         "R0137306",
-        "R0138008"
+        "R0138008",
+        "R0137777"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -37914,7 +37955,9 @@
         "ff316e82-c88a-4c94-91e1-2ccea6de129e",
         "9b017213-6467-413f-b72c-59678c5d8bae",
         "707590ec-7c76-48c6-9b0e-d0d6c1594d91",
-        "deacd43e-9c1b-467c-96e2-11f4f6bdb139"
+        "deacd43e-9c1b-467c-96e2-11f4f6bdb139",
+        "b2fb6fa4-07a9-4d8d-adf5-bff18a5e6033",
+        "6d8facff-ce1d-4069-884b-dc1177cc1a06"
     ],
     "Anthropic": [
         "5101832008",
@@ -39240,7 +39283,9 @@
         "5369102008",
         "5427236008",
         "5427834008",
-        "5427893008"
+        "5427893008",
+        "5428032008",
+        "5428030008"
     ],
     "Coinbase": [
         "7559052",
@@ -42074,7 +42119,8 @@
         "6129441004",
         "6195280004",
         "6188400004",
-        "6199608004"
+        "6199608004",
+        "6200325004"
     ],
     "MongoDB": [
         "7574659",
@@ -44177,7 +44223,8 @@
         "8206747",
         "8191288",
         "8147489",
-        "8204163"
+        "8204163",
+        "8203733"
     ],
     "Elastic": [
         "7505982",
@@ -45078,7 +45125,10 @@
         "8211114",
         "8204379",
         "8204380",
-        "8211249"
+        "8211249",
+        "8176627",
+        "8053903",
+        "8156295"
     ],
     "Asana": [
         "7120496",
@@ -45962,7 +46012,8 @@
         "R171924",
         "R171633-1",
         "R171834",
-        "R171930"
+        "R171930",
+        "R171850"
     ],
     "Workday": [
         "R-0106509-1",
@@ -53623,7 +53674,8 @@
         "R0287312",
         "R0286844-1",
         "R0287102",
-        "R0287230-1"
+        "R0287230-1",
+        "R0287277-1"
     ],
     "Target": [
         "R0000436219",
@@ -60587,7 +60639,20 @@
         "R0000409733",
         "R0000409735",
         "R0000409734-1",
-        "R0000453761"
+        "R0000453761",
+        "R0000453758",
+        "R0000453735",
+        "R0000452459",
+        "R0000453687",
+        "R0000447616",
+        "R0000447621",
+        "R0000453990",
+        "R0000440608",
+        "R0000453866",
+        "R0000453306",
+        "R0000453936",
+        "R0000448156-1",
+        "R0000447605"
     ],
     "Zoom": [
         "R18188-1",
@@ -61026,7 +61091,8 @@
         "R19650",
         "R19528-2",
         "R19651-1",
-        "R19603-1"
+        "R19603-1",
+        "R19653-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -62039,7 +62105,11 @@
         "R-109808-1",
         "R-109017",
         "R-109529-1",
-        "R-109400"
+        "R-109400",
+        "R-109437-1",
+        "R-109852-1",
+        "R-109913",
+        "R-109532-2"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -62285,7 +62355,8 @@
         "Director-of-Sales---Strategic_113473-JOB",
         "Director-of-Sales---New-England_113495-JOB",
         "Large-Enterprise-Account-Executive_113506-JOB",
-        "Intern_113497-JOB"
+        "Intern_113497-JOB",
+        "Large-Enterprise-Account-Executive---Public-Sector_113503-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -63519,7 +63590,8 @@
         "009dc18b-26a3-4fac-a773-c60d742cf840",
         "a11f7720-f3a8-4e86-9cc6-562bb11420b2",
         "a85afad0-8051-4333-ae89-0f82321dea87",
-        "f1ebd439-56ed-4d12-a8fd-979c74604eca"
+        "f1ebd439-56ed-4d12-a8fd-979c74604eca",
+        "9a7b7657-1e16-4a95-9a47-79612669cf9c"
     ],
     "Deel": [],
     "Polygon": [],
@@ -65155,7 +65227,8 @@
         "8211795",
         "8211820",
         "8211821",
-        "8212286"
+        "8212286",
+        "8195432"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -69205,7 +69278,11 @@
         "Senior-Internal-Auditor_REF088291W",
         "Senior-Business-Development-Manager--Marketing-Services----Fixed-Term-Contract_REF088471W",
         "Senior-Consulting-Manager_REF088012W",
-        "Sr-Systems-Engineer---AWS--Kubernetes--Automation--Platform-Engineering_REF088346W"
+        "Sr-Systems-Engineer---AWS--Kubernetes--Automation--Platform-Engineering_REF088346W",
+        "Director--Product-and-Payment-Services-Risk-Business-Partner_REF088590W",
+        "Senior-Director--Regional-Head-of-Social-Impact---Sustainability--North-America_REF088387W-1",
+        "Sr-Sourcing-Analyst-People-and-Professional-Services-Category-Management-experience-mandate-_REF088515W-1",
+        "Data-Science-Manager_REF088581W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -70304,7 +70381,8 @@
         "Senior-Data-Scientist_26WD99752-1",
         "Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
         "Customer-Success-Manager---Named-Accounts_26WD101121-1",
-        "Senior-Customer-Experience-Manager--Executive-Councils_26WD100692"
+        "Senior-Customer-Experience-Manager--Executive-Councils_26WD100692",
+        "ERP-Integration-Specialist--Postman-_26WD100856"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -72516,7 +72594,11 @@
         "Associate-Pipeline-Technical-Director_10161050",
         "Intern--Lifecycle-and-Retention-Marketing--Disney----Jan-to-Jun-2027_10160756-1",
         "Intern--Content-Programming---Curation---Jan-to-Jun-2027_10160563",
-        "Intern--Communications--Disney-Cruise-Line---Jan-to-Jun-2027_10160630"
+        "Intern--Communications--Disney-Cruise-Line---Jan-to-Jun-2027_10160630",
+        "Software-Engineer-II_10159879",
+        "Technicien-ne--de-Maintenance-Utilities-et-Centrale-d-Energie-F-H-NB---CDD_10159700",
+        "Disney-Live-Entertainment-Character-Content-Creator-Intern--Spring-2027_10160035",
+        "Senior-Analyst--Compensation---Benefits_10160889"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -73684,7 +73766,8 @@
         "R000108898-1",
         "R000108894",
         "R000108931-1",
-        "R000108949"
+        "R000108949",
+        "R000108944"
     ],
     "Kyndryl": [
         "R-61530",
@@ -76149,7 +76232,9 @@
         "R-68703",
         "R-67003",
         "R-68397",
-        "R-68595-1"
+        "R-68595-1",
+        "R-66495-1",
+        "R-66167-1"
     ],
     "Chime": [
         "8391630002",
@@ -77988,7 +78073,9 @@
         "8211926",
         "8156825",
         "8211380",
-        "8207447"
+        "8207447",
+        "8211192",
+        "8210784"
     ],
     "Kaseya": [
         "6022140004",
@@ -78280,7 +78367,8 @@
         "6163536004",
         "6188526004",
         "6178413004",
-        "6188520004"
+        "6188520004",
+        "6139817004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -79296,7 +79384,8 @@
         "8210989",
         "7701509",
         "8211320",
-        "8212404"
+        "8212404",
+        "8196113"
     ],
     "Propel": [],
     "Canva": [],
@@ -81210,7 +81299,10 @@
         "8212656",
         "8203249",
         "8203551",
-        "8163904"
+        "8163904",
+        "8212948",
+        "8194727",
+        "8194731"
     ],
     "Roku": [
         "8023364",
