@@ -1891,7 +1891,8 @@
         "8174984",
         "8188326",
         "8208521",
-        "8212674"
+        "8212674",
+        "8203653"
     ],
     "Figma": [
         "5426468004",
@@ -2958,7 +2959,8 @@
         "10553343",
         "10553836",
         "10553840",
-        "10553831"
+        "10553831",
+        "10554323"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -3985,7 +3987,9 @@
         "4733878005",
         "4733888005",
         "4731611005",
-        "4735389005"
+        "4735389005",
+        "4736141005",
+        "4736136005"
     ],
     "Rippling": [],
     "Slice": [
@@ -12516,7 +12520,10 @@
         "8212957",
         "8212956",
         "8212953",
-        "8215001"
+        "8215001",
+        "8213012",
+        "8212776",
+        "8219726"
     ],
     "DoorDash": [
         "7927511",
@@ -20313,7 +20320,11 @@
         "R-291163",
         "R-287260",
         "R-271838",
-        "R-282023"
+        "R-282023",
+        "R-291504",
+        "R-286749",
+        "R-289743",
+        "R-290669"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -29703,7 +29714,9 @@
         "VP--Insurance-Data-Operations_45556",
         "VP--Liquid-Credit-Strategies-Data-Operations_45555",
         "BXMA---Business---Financial-Evaluation---Analyst_45566",
-        "Private-Equity-Valuations---Analytics--Associate_45572"
+        "Private-Equity-Valuations---Analytics--Associate_45572",
+        "Blackstone-Credit---Insurance---PCS-Origination---Principal_45526-1",
+        "Blackstone-Credit---Insurance---Senior-Associate_45525-1"
     ],
     "Capital Group": [
         "R6549",
@@ -30238,7 +30251,8 @@
         "R-2027_34824",
         "R-2027_34821",
         "R-2027-SPRING-2028-_34831",
-        "Mgr-HR-Operations_34806-1"
+        "Mgr-HR-Operations_34806-1",
+        "Lead--Administrative-Assistant_34810-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -32650,7 +32664,9 @@
         "R-10402643",
         "R-10402752",
         "R-10401695",
-        "R-10403237"
+        "R-10403237",
+        "R-10401435",
+        "R-10401442"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -34499,7 +34515,8 @@
         "R0138183-1",
         "R0137847",
         "R0138182-1",
-        "R0138032"
+        "R0138032",
+        "R0137858"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -39397,7 +39414,8 @@
         "5427479008",
         "5413576008",
         "5427969008",
-        "5422950008"
+        "5422950008",
+        "4942024008"
     ],
     "Coinbase": [
         "7559052",
@@ -41578,7 +41596,8 @@
         "7994555003",
         "7994553003",
         "7979912003",
-        "7995763003"
+        "7995763003",
+        "8000364003"
     ],
     "Robinhood": [
         "7799902",
@@ -46154,7 +46173,8 @@
         "R171633-1",
         "R171834",
         "R171930",
-        "R171850"
+        "R171850",
+        "R172037"
     ],
     "Workday": [
         "R-0106509-1",
@@ -48640,7 +48660,8 @@
         "R30087",
         "R30104",
         "R30011",
-        "R29592"
+        "R29592",
+        "R30146"
     ],
     "NVIDIA": [
         "R2011617-1",
@@ -53419,7 +53440,8 @@
         "R2025728",
         "R2025922",
         "R2025729",
-        "R2025783"
+        "R2025783",
+        "R2015795"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -53884,7 +53906,9 @@
         "R0287338",
         "R0287206",
         "R0287205",
-        "R0287132"
+        "R0287132",
+        "R0287155",
+        "R0287292"
     ],
     "Target": [
         "R0000436219",
@@ -60896,7 +60920,23 @@
         "R0000454029",
         "R0000454064",
         "R0000454093",
-        "R0000454094"
+        "R0000454094",
+        "R0000454108-1",
+        "R0000454078",
+        "R0000453258",
+        "R0000454155-1",
+        "R0000454185",
+        "R0000453996",
+        "R0000453984",
+        "R0000454019",
+        "R0000454089",
+        "R0000454129",
+        "R0000454109",
+        "R0000454149",
+        "R0000453994",
+        "R0000454184",
+        "R0000453794",
+        "R0000454044"
     ],
     "Zoom": [
         "R18188-1",
@@ -62361,7 +62401,8 @@
         "R-109908",
         "R-109895-1",
         "R-109883-1",
-        "R-109347-1"
+        "R-109347-1",
+        "R-109649"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -69564,7 +69605,9 @@
         "Implementation-Consultant--Technical-Solutions_REF088452W",
         "Software-Engineer--Credit-Cycle_REF088371W-1",
         "Vice-President--Lifecycle-Marketing--Global-Marketing-Services_REF088546W-1",
-        "Vice-President--Marketing-Advisory--Global-Marketing-Services_REF088547W-2"
+        "Vice-President--Marketing-Advisory--Global-Marketing-Services_REF088547W-2",
+        "Senior-Manager--VCS-Market-Development--Qatar---Kuwait-_REF088463W",
+        "Consulting-Director--Strategy---Business-Design---VCA-Dedicated-Team_REF077875W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -70667,7 +70710,8 @@
         "ERP-Integration-Specialist--Postman-_26WD100856",
         "Principal-Product-Manager--PPL-Technology_26WD100184-1",
         "Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2",
-        "Senior-Manager--Fusion-Sales--India_26WD100965"
+        "Senior-Manager--Fusion-Sales--India_26WD100965",
+        "Software-Engineer--Java---AWS-_26WD100667-3"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -72901,7 +72945,8 @@
         "Senior-Manager--External-Communications--Media-_10160442",
         "Spark-Animation-2026---Expression-of-Interest---ILM-Vancouver_10159838",
         "Sr-BSA--FinTech-Product-Delivery---EPM_10156590",
-        "KABC-Newswriters--As-Needed-_10161160"
+        "KABC-Newswriters--As-Needed-_10161160",
+        "Contract-Management-Intern_10160759"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -76559,7 +76604,9 @@
         "R-57187",
         "R-60923",
         "R-68616",
-        "R-68362-1"
+        "R-68362-1",
+        "R-69106",
+        "R-67349-1"
     ],
     "Chime": [
         "8391630002",
@@ -79726,7 +79773,9 @@
         "8191751",
         "8210991",
         "8214408",
-        "8215834"
+        "8215834",
+        "8194619",
+        "8185551"
     ],
     "Propel": [],
     "Canva": [],
@@ -81653,7 +81702,8 @@
         "8212896",
         "8168825",
         "8200352",
-        "8219620"
+        "8219620",
+        "8212701"
     ],
     "Roku": [
         "8023364",
