@@ -1906,7 +1906,8 @@
         "8185014",
         "8221776",
         "8220938",
-        "8222149"
+        "8222149",
+        "8187572"
     ],
     "Figma": [
         "5426468004",
@@ -5768,7 +5769,8 @@
         "3a937ec5-b1a3-45f5-ba1e-90944b6775a6",
         "f3eca6a2-159e-4b24-aec6-f5e5b0858544",
         "3d47c253-0804-46f9-80e4-6e0f04133869",
-        "388c0e5a-48ba-4a3c-bc44-9356ea7f2db9"
+        "388c0e5a-48ba-4a3c-bc44-9356ea7f2db9",
+        "c276e46b-70b3-41d7-843d-4487d392a3b4"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -11323,7 +11325,8 @@
         "8211848",
         "8202060",
         "8221187",
-        "8204256"
+        "8204256",
+        "8219990"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -12587,7 +12590,8 @@
         "8219959",
         "8203458",
         "8219879",
-        "8210458"
+        "8210458",
+        "8220037"
     ],
     "DoorDash": [
         "7927511",
@@ -20418,7 +20422,11 @@
         "R-291128",
         "R-291038",
         "R-290650-1",
-        "R-291052"
+        "R-291052",
+        "R-289844",
+        "R-290330",
+        "R-290538-1",
+        "R-288122"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -26686,7 +26694,10 @@
         "R359949",
         "R360847",
         "R360862-1",
-        "R360861-1"
+        "R360861-1",
+        "R355179",
+        "R360875",
+        "R360438"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -27801,7 +27812,10 @@
         "Senior-Congress-Meeting-Planner_J-84059",
         "Event-Planner-with-French-or-Spanish_J-82556",
         "M-E-Project-Manager_J-84663",
-        "Global-Entity---Corporate-Governance-Manager_J-84922"
+        "Global-Entity---Corporate-Governance-Manager_J-84922",
+        "Lead-Travel-Consultant_J-84080",
+        "Corporate-Travel-Consultant_J-85173",
+        "GDS-Application-Developer_J-80343"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -28088,7 +28102,9 @@
         "Vice-President---Director--Investment-Banking-and-Capital-Markets--Japan_26034240",
         "Vice-President--Regional-Treasury-Sales-Officer--Corporates---Global-Payments-Solutions_26028953-1",
         "Vice-President--APAC-Trade-Fulfilment-and-Servicing-Lead--Global-Credit-Operations_26034421-1",
-        "Officer--Operations-Senior-Analyst--AML-Operations--Manila-_26034627"
+        "Officer--Operations-Senior-Analyst--AML-Operations--Manila-_26034627",
+        "Vice-President--Regulatory-Relations-Specialist_26034802-1",
+        "Vice-President--Infrastructure-Engineer-II--Core-Technology-Infrastructure_26034801"
     ],
     "BlackRock": [
         "R263666",
@@ -29848,7 +29864,8 @@
         "BXMA---Business---Financial-Evaluation---Analyst_45566",
         "Private-Equity-Valuations---Analytics--Associate_45572",
         "Blackstone-Credit---Insurance---PCS-Origination---Principal_45526-1",
-        "Blackstone-Credit---Insurance---Senior-Associate_45525-1"
+        "Blackstone-Credit---Insurance---Senior-Associate_45525-1",
+        "Business-Finance---Transaction-Finance--Associate--Hong-Kong_45573-1"
     ],
     "Capital Group": [
         "R6549",
@@ -30387,7 +30404,8 @@
         "R-2027_34821",
         "R-2027-SPRING-2028-_34831",
         "Mgr-HR-Operations_34806-1",
-        "Lead--Administrative-Assistant_34810-1"
+        "Lead--Administrative-Assistant_34810-1",
+        "Principle-Enterprise-Architect_34812-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -30668,7 +30686,8 @@
         "R30397-1",
         "R30349",
         "R29455",
-        "R33126"
+        "R33126",
+        "R33155"
     ],
     "Fiserv": [
         "R-10392824",
@@ -32821,7 +32840,9 @@
         "R-10403111",
         "R-10401263",
         "R-10399330",
-        "R-10398174"
+        "R-10398174",
+        "R-10400419",
+        "R-10399061"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -39611,7 +39632,8 @@
         "5430222008",
         "5430592008",
         "5430695008",
-        "5400720008"
+        "5400720008",
+        "5430743008"
     ],
     "Coinbase": [
         "7559052",
@@ -40062,7 +40084,12 @@
         "8211490",
         "8211452",
         "8211486",
-        "8221985"
+        "8221985",
+        "8221238",
+        "8222267",
+        "8222264",
+        "8222259",
+        "8221241"
     ],
     "Discord": [
         "8289766002",
@@ -40792,7 +40819,8 @@
         "8147617",
         "8211850",
         "8212175",
-        "8214910"
+        "8214910",
+        "8221539"
     ],
     "Notion": [
         "03143d98-a561-44c6-96a5-fc9bfaf8d18d",
@@ -47821,7 +47849,8 @@
         "R-0110056",
         "R-0110178",
         "R-0109433",
-        "R-0110285"
+        "R-0110285",
+        "R-0110180"
     ],
     "CrowdStrike": [
         "R26911",
@@ -53714,7 +53743,15 @@
         "R2026131",
         "R2026132",
         "R2025612",
-        "R2025405"
+        "R2025405",
+        "R2025914-1",
+        "R2024542-1",
+        "R2026124-1",
+        "R2024973",
+        "R2024872",
+        "R2026256",
+        "R2025619",
+        "R2024551"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -54190,7 +54227,9 @@
         "R0287341",
         "R0281255",
         "R0282540",
-        "R0287124-1"
+        "R0287124-1",
+        "R0287347-1",
+        "R0287108"
     ],
     "Target": [
         "R0000436219",
@@ -61272,7 +61311,26 @@
         "R0000454213",
         "R0000453455",
         "R0000454004-1",
-        "R0000454318"
+        "R0000454318",
+        "R0000454349",
+        "R0000454179-1",
+        "R0000454269",
+        "R0000454289",
+        "R0000454309",
+        "R0000454369",
+        "R0000452501",
+        "R0000454332",
+        "R0000454291",
+        "R0000454271",
+        "R0000454201",
+        "R0000454222",
+        "R0000454292",
+        "R0000454362",
+        "R0000454282",
+        "R0000454298",
+        "R0000454380",
+        "R0000454300-1",
+        "R0000454358"
     ],
     "Zoom": [
         "R18188-1",
@@ -62744,7 +62802,8 @@
         "R-109777-1",
         "R-109695",
         "R-106757",
-        "R-109700-1"
+        "R-109700-1",
+        "R-109108-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -64000,7 +64059,8 @@
         "5cfb3495-e33f-4cf2-a54d-fa9a5ca3cc3e",
         "7815bf85-11ae-4cf8-883f-13f6ab09d264",
         "e645a8bc-73de-47e6-9600-3f418e6f5c8b",
-        "595a2d50-46a5-4ff9-af1c-d58cea9d8e68"
+        "595a2d50-46a5-4ff9-af1c-d58cea9d8e68",
+        "0a77830f-d3a9-4b17-8ce7-58765d5be7e4"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -65136,7 +65196,8 @@
         "8220343",
         "8190665",
         "8220879",
-        "8175891"
+        "8175891",
+        "8222507"
     ],
     "Samsara": [
         "5747183",
@@ -73371,7 +73432,14 @@
         "Disney-Central-Operations-Support-Intern--Spring-2027_10158058",
         "Instructional-Design-Intern--Sales-Learning-Services--Spring-2027_10157959-1",
         "LIVE--with-Kelly-and-Mark-Production-Intern--Spring-2027_10158764-2",
-        "Travel-Agency-Sales-Intern--Spring-2027_10161251"
+        "Travel-Agency-Sales-Intern--Spring-2027_10161251",
+        "Intern--APAC-Data-Analytics--Marketing-Analytics---Disney----Jan-to-Jun-2027_10161183",
+        "Intern--APAC-Data-Analytics--Subscriber-Analytics---Disney----Jan-to-Jun-2027_10161267",
+        "Intern--Global-Security-Operations--Southeast-Asia---Jan-to-Jun-2027_10161153",
+        "Disney-Experiences-Commercial-Integration-Intern--Spring-2027_10158969",
+        "Intern--APAC-Retail-Marketing--Disney-Consumer-Products---Jan-to-Jun-2027_10161266",
+        "Intern--Regional-Marketing--Disney-Consumer-Products---Jan-to-Jun-2027_10160894",
+        "Lead-Systems-Engineer_10159580"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -74559,7 +74627,8 @@
         "R000108958",
         "R000108960",
         "R000107874-1",
-        "R000108637-1"
+        "R000108637-1",
+        "R000109043"
     ],
     "Kyndryl": [
         "R-61530",
@@ -77071,7 +77140,12 @@
         "R-68252",
         "R-68248",
         "R-67825",
-        "R-55536"
+        "R-55536",
+        "R-68928-1",
+        "R-68579",
+        "R-68559",
+        "R-68552",
+        "R-68923"
     ],
     "Chime": [
         "8391630002",
@@ -77270,7 +77344,8 @@
         "4732701005",
         "4724044005",
         "4732710005",
-        "4734064005"
+        "4734064005",
+        "4736235005"
     ],
     "Fireblocks": [
         "4655907006",
@@ -78933,7 +79008,8 @@
         "8210915",
         "8220192",
         "8220634",
-        "8220584"
+        "8220584",
+        "8071502"
     ],
     "Kaseya": [
         "6022140004",
@@ -82197,7 +82273,16 @@
         "8219716",
         "8219914",
         "8222179",
-        "8222171"
+        "8222171",
+        "8222177",
+        "8212664",
+        "8219685",
+        "8222269",
+        "8222173",
+        "8222175",
+        "8156011",
+        "8222455",
+        "8221999"
     ],
     "Roku": [
         "8023364",
