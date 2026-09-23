@@ -1927,7 +1927,9 @@
         "8189798",
         "8203216",
         "8223723",
-        "8186445"
+        "8186445",
+        "7983076",
+        "8209641"
     ],
     "Figma": [
         "5426468004",
@@ -3014,7 +3016,8 @@
         "10556613",
         "10556600",
         "10556603",
-        "10557199"
+        "10557199",
+        "10557515"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -3411,7 +3414,18 @@
         "4de660c2-a2a4-4601-9def-09658ebb1f11",
         "d2b59be6-15bf-4783-a634-d3720eb5c913",
         "34999aa6-4772-42b9-8008-2faf458b9689",
-        "1645e786-693f-4622-a970-3445cf3417f2"
+        "1645e786-693f-4622-a970-3445cf3417f2",
+        "b563a46e-e4b9-4fd1-a7bb-6211f1564523",
+        "a098736f-3b1b-4772-8f5a-b108d04c16b1",
+        "0d2870a0-2e7d-4674-8f55-39f63ff9f845",
+        "77919ed7-3f71-4457-a4e0-f8ad30cc40a8",
+        "53220832-8d8e-49a5-be10-89bb81402d8f",
+        "b43ecbcd-97d0-4ff0-81d1-101abb18a5fb",
+        "85a40c97-53be-4cac-819b-2da60fab316b",
+        "a8bb5a45-0565-4c13-84e2-020f4e9207e1",
+        "91c07b6b-ebc0-4658-b494-d41abd1c065f",
+        "1bf75f8d-8352-4d8c-a4bd-66a02fe65313",
+        "df5b019c-bb34-4af3-b5eb-c7b8e4668425"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -4047,7 +4061,9 @@
         "4736141005",
         "4736136005",
         "4727248005",
-        "4736132005"
+        "4736132005",
+        "4731054005",
+        "4736977005"
     ],
     "Rippling": [],
     "Slice": [
@@ -5807,7 +5823,10 @@
         "3d47c253-0804-46f9-80e4-6e0f04133869",
         "388c0e5a-48ba-4a3c-bc44-9356ea7f2db9",
         "c276e46b-70b3-41d7-843d-4487d392a3b4",
-        "9f059149-ed57-4539-9e06-0855096e7842"
+        "9f059149-ed57-4539-9e06-0855096e7842",
+        "535dbc67-3694-42df-9652-072981446f44",
+        "f9b0515d-3760-4bba-a564-74aa2b192668",
+        "bd3569a5-cc0b-4bf5-9130-2f968da3140d"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -6855,7 +6874,8 @@
         "8214375",
         "8187190",
         "8224084",
-        "8224032"
+        "8224032",
+        "8225785"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -9273,7 +9293,8 @@
         "8816437002",
         "8802705002",
         "8788152002",
-        "8826668002"
+        "8826668002",
+        "8829903002"
     ],
     "Rubrik": [
         "7310036",
@@ -10027,7 +10048,8 @@
         "R103686",
         "R103653",
         "R103691",
-        "R103520"
+        "R103520",
+        "R103702-1"
     ],
     "Freshworks": [],
     "Cloudflare": [
@@ -11430,7 +11452,8 @@
         "b60f985e-8624-4544-91da-643a87b6d601",
         "864ac315-d7c5-4cd5-ab44-0e33d08f48f1",
         "b6e024c2-42c2-463c-8bc8-ca0aa0826845",
-        "da0c54e2-5dca-4fb5-b236-57080dbf8648"
+        "da0c54e2-5dca-4fb5-b236-57080dbf8648",
+        "1f42a6e5-0cfa-4b7d-b22f-f8a26e56a7bd"
     ],
     "Cleartax": [
         "7931994",
@@ -12658,7 +12681,8 @@
         "8210458",
         "8220037",
         "8222771",
-        "8224989"
+        "8224989",
+        "8222288"
     ],
     "DoorDash": [
         "7927511",
@@ -15046,7 +15070,9 @@
         "4891a891-f431-4e98-99ae-0e31a21f0190",
         "113ff930-b5bf-42c7-a07d-aa66a9de89d9",
         "c84e4b2c-653a-4cf8-abd9-e70d0c5e4cd8",
-        "fa26aec6-d483-469e-9d98-3a01da28af26"
+        "fa26aec6-d483-469e-9d98-3a01da28af26",
+        "22bd899a-f442-419f-9d3f-5046b715c40d",
+        "cb7d016b-5071-409e-b8d8-a10e19b2946e"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -20546,7 +20572,18 @@
         "R-291731",
         "R-291535",
         "R-291105",
-        "R-289611"
+        "R-289611",
+        "R-291514",
+        "R-290210",
+        "R-290569",
+        "R-290158",
+        "R-287985",
+        "R-291258",
+        "R-291068",
+        "R-290674",
+        "R-291605",
+        "R-291344",
+        "R-291182"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -26863,7 +26900,16 @@
         "R360155",
         "R361096",
         "R360919",
-        "R353419"
+        "R353419",
+        "R359934",
+        "R356223",
+        "R359930",
+        "R361172",
+        "R360785-1",
+        "R359402",
+        "R361164-1",
+        "R360902",
+        "R361157"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -27993,7 +28039,9 @@
         "Multinational-Sales-Manager---UK_J-84973",
         "Consulting-Associate_J-84436-1",
         "Travel-Experience-Counselor-I_J-83472",
-        "Data-Engineer---CX-Data---Operations_J-81510-1"
+        "Data-Engineer---CX-Data---Operations_J-81510-1",
+        "Quality-Analyst---SDET--UI---API-Automation-_J-85208",
+        "Senior-Travel-Counselor_J-84174"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -28283,7 +28331,8 @@
         "Officer--Operations-Senior-Analyst--AML-Operations--Manila-_26034627",
         "Vice-President--Regulatory-Relations-Specialist_26034802-1",
         "Vice-President--Infrastructure-Engineer-II--Core-Technology-Infrastructure_26034801",
-        "Assistant-Vice-President--Global-Markets-KYC--Taiwan_26035005"
+        "Assistant-Vice-President--Global-Markets-KYC--Taiwan_26035005",
+        "AVP--Audit---Exam-Specialist--GBAM-AML_26035023"
     ],
     "BlackRock": [
         "R263666",
@@ -29728,7 +29777,8 @@
         "R266544",
         "R264714",
         "R266510",
-        "R266484"
+        "R266484",
+        "R266240"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -30888,7 +30938,8 @@
         "R30349",
         "R29455",
         "R33126",
-        "R33155"
+        "R33155",
+        "R33156"
     ],
     "Fiserv": [
         "R-10392824",
@@ -33063,7 +33114,9 @@
         "R-10401216",
         "R-10401487",
         "R-10401444",
-        "R-10401480"
+        "R-10401480",
+        "R-10401772",
+        "R-10400904"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -34942,7 +34995,12 @@
         "R0137882",
         "R0137822",
         "R0137772",
-        "R0137478"
+        "R0137478",
+        "R-1---2027-GRADUATE_R0137558",
+        "R0137409",
+        "R0137503",
+        "R0137278",
+        "R0137835"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -38533,7 +38591,11 @@
         "83ef2875-3b91-4f4d-88c5-68317e56d039",
         "4aa1dcbf-166a-4538-ae4e-08cf39c7ff23",
         "d49e09b0-9ebe-4ed6-bc0a-8b6a394a9756",
-        "137e3df0-2bd4-4ad4-8edb-8455a7fdc912"
+        "137e3df0-2bd4-4ad4-8edb-8455a7fdc912",
+        "566a5565-925c-4367-9912-6b64841beba2",
+        "6a7cedbd-0a7c-4f3e-8389-55357ad444b3",
+        "21ee6dd3-dcd0-425a-91e9-34a23ab3e434",
+        "4c72816b-d04f-4fee-b8eb-fa18fddac043"
     ],
     "Anthropic": [
         "5101832008",
@@ -39896,7 +39958,9 @@
         "5429202008",
         "5431285008",
         "5017202008",
-        "5432558008"
+        "5432558008",
+        "5432573008",
+        "5432575008"
     ],
     "Coinbase": [
         "7559052",
@@ -42101,7 +42165,8 @@
         "7995763003",
         "8000364003",
         "7990774003",
-        "7997218003"
+        "7997218003",
+        "8003170003"
     ],
     "Robinhood": [
         "7799902",
@@ -43899,7 +43964,9 @@
         "8212133",
         "7310552",
         "8170634",
-        "8184637"
+        "8184637",
+        "8214009",
+        "8226040"
     ],
     "Datadog": [
         "7194969",
@@ -44920,7 +44987,9 @@
         "8204554",
         "8222279",
         "8210153",
-        "8210323"
+        "8210323",
+        "8162548",
+        "8214090"
     ],
     "Elastic": [
         "7505982",
@@ -45846,7 +45915,10 @@
         "8223682",
         "8224018",
         "8223688",
-        "8205347"
+        "8205347",
+        "8225984",
+        "8225986",
+        "8225981"
     ],
     "Asana": [
         "7120496",
@@ -48164,7 +48236,13 @@
         "R-0110096",
         "R-0110396",
         "R-0105374",
-        "R-0105388"
+        "R-0105388",
+        "R-0110101",
+        "R-0110344",
+        "R-0109652",
+        "R-0107799-1",
+        "R-0110102",
+        "R-0110104"
     ],
     "CrowdStrike": [
         "R26911",
@@ -54113,7 +54191,18 @@
         "R2026206",
         "R2026385",
         "R2026405-1",
-        "R2026393-1"
+        "R2026393-1",
+        "R2026346",
+        "R2026040",
+        "R2026235",
+        "R2025751",
+        "R2026404",
+        "R2026342",
+        "R2025319",
+        "R2026029",
+        "R2026204-1",
+        "R2025340",
+        "R2026186"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -54603,7 +54692,9 @@
         "R0287298",
         "R0287354",
         "R0287263",
-        "R0287270"
+        "R0287270",
+        "R0286584",
+        "R0287377"
     ],
     "Target": [
         "R0000436219",
@@ -61778,7 +61869,18 @@
         "R0000454203",
         "R0000429291-1",
         "R0000454204",
-        "R0000454475"
+        "R0000454475",
+        "R0000454427",
+        "R0000454517",
+        "R0000454516",
+        "R0000454514",
+        "R0000433533",
+        "R0000452732-1",
+        "R0000370406",
+        "R0000370467",
+        "R0000454460",
+        "R0000454480",
+        "R0000454464-1"
     ],
     "Zoom": [
         "R18188-1",
@@ -63262,7 +63364,8 @@
         "R-109108-1",
         "R-109451",
         "R-109580",
-        "R-109842-1"
+        "R-109842-1",
+        "R-109813"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -66426,7 +66529,8 @@
         "8064913",
         "8223613",
         "8209909",
-        "8223744"
+        "8223744",
+        "8212556"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -67006,7 +67110,8 @@
         "4713058006",
         "4714036006",
         "4714119006",
-        "4713721006"
+        "4713721006",
+        "4695788006"
     ],
     "Duolingo": [
         "8455252002",
@@ -68060,7 +68165,8 @@
         "42c3b097-4b5c-48b6-83f6-04f09f1cab56",
         "8b83fe6a-ec31-4532-9738-bb753d9d9ad7",
         "8623c195-f912-4d87-952f-7114cd258413",
-        "dbefd5b1-cc6a-4fe6-86d8-89800acee903"
+        "dbefd5b1-cc6a-4fe6-86d8-89800acee903",
+        "66fc10b7-8b22-4cf2-8d9a-557f9d517bbc"
     ],
     "Open Financial Technologies": [],
     "Signzy": [],
@@ -68399,7 +68505,8 @@
         "R34174",
         "R35440",
         "R35539",
-        "R35120"
+        "R35120",
+        "R35550-1"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -70568,7 +70675,13 @@
         "Sr-Manager_REF088675W",
         "Product-Manager-Issuer-Digital-Products_REF088764W",
         "SW-Engineer_REF088386W-1",
-        "Senior-Systems-Engineer----Linux-Engineering--RHEL--Rocky--Ubuntu--Automation--3---6-years-_REF088537W-1"
+        "Senior-Systems-Engineer----Linux-Engineering--RHEL--Rocky--Ubuntu--Automation--3---6-years-_REF088537W-1",
+        "Senior-Manager--Client-Consulting---NGPO_REF088455W",
+        "Director--Client-Consulting---Technology_REF088457W",
+        "Snr-Director-Business-Development---Key-Accounts---Oman_REF088690W",
+        "Senior-Software-Engineer_REF088619W",
+        "Product-Analyst_REF088644W",
+        "Software-Engineer_REF088484W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -71685,7 +71798,8 @@
         "Corporate-Paralegal_26WD100842",
         "Technical-Program-Manager---AI-ML_26WD101205-1",
         "Customer-Advocate--Design---Manufacturing--Customer-Reliability_26WD100930",
-        "Customer-Adoption-Specialist-Industrialized-Construction_26WD101069-1"
+        "Customer-Adoption-Specialist-Industrialized-Construction_26WD101069-1",
+        "Account-Based-Marketing-Manager---D-M-and-Strategic-Accounts_26WD97759-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -73990,7 +74104,11 @@
         "Software-Data-Engineer_10160911",
         "Publicity-Coordinator--Disney-Entertainment-Television-_10161368",
         "Retail-Creative-Intern--Spring-2027_10160430",
-        "Senior-Analyst--Data-Solutions---Analytics--PH-_10160692-2"
+        "Senior-Analyst--Data-Solutions---Analytics--PH-_10160692-2",
+        "Personal-Assistant_10159811-2",
+        "Intern--Corporate-Strategy-and-Business-Development_10161270",
+        "Responsable-Projets-Talent-Management---CDI---F-H-NB_10160551",
+        "Pipeline-Supervisor_10160767-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -75192,7 +75310,11 @@
         "R000109028",
         "R000106364",
         "R000108927",
-        "R000106550"
+        "R000106550",
+        "R000109047",
+        "R000106157",
+        "R000106158",
+        "R000106159"
     ],
     "Kyndryl": [
         "R-61530",
@@ -77742,7 +77864,10 @@
         "R-68836-1",
         "R-68833-1",
         "R-68392-1",
-        "R-68390-1"
+        "R-68390-1",
+        "R-68445-1",
+        "R-68511-1",
+        "R-68576-1"
     ],
     "Chime": [
         "8391630002",
@@ -79620,7 +79745,8 @@
         "8090536",
         "8220226",
         "8208054",
-        "7780951"
+        "7780951",
+        "8207454"
     ],
     "Kaseya": [
         "6022140004",
@@ -79920,7 +80046,12 @@
         "6200386004",
         "6200413004",
         "6200394004",
-        "6200390004"
+        "6200390004",
+        "6206172004",
+        "6206173004",
+        "6206170004",
+        "6122277004",
+        "6206171004"
     ],
     "Acryl Data": [
         "5111757007",
@@ -80959,7 +81090,10 @@
         "8186737",
         "8223226",
         "8223233",
-        "8224585"
+        "8224585",
+        "8226012",
+        "8225806",
+        "8226021"
     ],
     "Propel": [],
     "Canva": [],
@@ -82913,7 +83047,10 @@
         "8222206",
         "8222609",
         "8207114",
-        "8224844"
+        "8224844",
+        "8219658",
+        "8225561",
+        "8219933"
     ],
     "Roku": [
         "8023364",
