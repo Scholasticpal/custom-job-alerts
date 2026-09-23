@@ -1926,7 +1926,8 @@
         "8175647",
         "8189798",
         "8203216",
-        "8223723"
+        "8223723",
+        "8186445"
     ],
     "Figma": [
         "5426468004",
@@ -2368,7 +2369,9 @@
         "6166497004",
         "6201385004",
         "6201114004",
-        "6180053004"
+        "6180053004",
+        "6194373004",
+        "6191316004"
     ],
     "Amazon": [
         "3198115",
@@ -9268,7 +9271,9 @@
         "8756154002",
         "8816442002",
         "8816437002",
-        "8802705002"
+        "8802705002",
+        "8788152002",
+        "8826668002"
     ],
     "Rubrik": [
         "7310036",
@@ -12652,7 +12657,8 @@
         "8219879",
         "8210458",
         "8220037",
-        "8222771"
+        "8222771",
+        "8224989"
     ],
     "DoorDash": [
         "7927511",
@@ -20532,7 +20538,15 @@
         "R-290886",
         "R-290060",
         "R-291494",
-        "R-290160"
+        "R-290160",
+        "R-291410-1",
+        "R-290644-1",
+        "R-290629",
+        "R-291412",
+        "R-291731",
+        "R-291535",
+        "R-291105",
+        "R-289611"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -26847,7 +26861,9 @@
         "R360938",
         "R360464",
         "R360155",
-        "R361096"
+        "R361096",
+        "R360919",
+        "R353419"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -27976,7 +27992,8 @@
         "Multinational-Sales-Director--Team-Leader---Individual-Contributor----Europe_J-84974-1",
         "Multinational-Sales-Manager---UK_J-84973",
         "Consulting-Associate_J-84436-1",
-        "Travel-Experience-Counselor-I_J-83472"
+        "Travel-Experience-Counselor-I_J-83472",
+        "Data-Engineer---CX-Data---Operations_J-81510-1"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -28265,7 +28282,8 @@
         "Vice-President--APAC-Trade-Fulfilment-and-Servicing-Lead--Global-Credit-Operations_26034421-1",
         "Officer--Operations-Senior-Analyst--AML-Operations--Manila-_26034627",
         "Vice-President--Regulatory-Relations-Specialist_26034802-1",
-        "Vice-President--Infrastructure-Engineer-II--Core-Technology-Infrastructure_26034801"
+        "Vice-President--Infrastructure-Engineer-II--Core-Technology-Infrastructure_26034801",
+        "Assistant-Vice-President--Global-Markets-KYC--Taiwan_26035005"
     ],
     "BlackRock": [
         "R263666",
@@ -29709,7 +29727,8 @@
         "R266617",
         "R266544",
         "R264714",
-        "R266510"
+        "R266510",
+        "R266484"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -33037,7 +33056,14 @@
         "R-10403301-1",
         "R-10401830",
         "R-10401104",
-        "R-10403360"
+        "R-10403360",
+        "R-10400905",
+        "R-10400906",
+        "R-10401145",
+        "R-10401216",
+        "R-10401487",
+        "R-10401444",
+        "R-10401480"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -34126,7 +34152,8 @@
         "R-15502",
         "R-15471",
         "R-15593",
-        "R-15442"
+        "R-15442",
+        "R-15639"
     ],
     "PayPal": [
         "R0135744-1",
@@ -38505,7 +38532,8 @@
         "0e76e8eb-cd22-43c8-a9d0-cc35a3b9cb08",
         "83ef2875-3b91-4f4d-88c5-68317e56d039",
         "4aa1dcbf-166a-4538-ae4e-08cf39c7ff23",
-        "d49e09b0-9ebe-4ed6-bc0a-8b6a394a9756"
+        "d49e09b0-9ebe-4ed6-bc0a-8b6a394a9756",
+        "137e3df0-2bd4-4ad4-8edb-8455a7fdc912"
     ],
     "Anthropic": [
         "5101832008",
@@ -39864,7 +39892,11 @@
         "5422117008",
         "5432020008",
         "5432000008",
-        "5428790008"
+        "5428790008",
+        "5429202008",
+        "5431285008",
+        "5017202008",
+        "5432558008"
     ],
     "Coinbase": [
         "7559052",
@@ -43866,7 +43898,8 @@
         "8211464",
         "8212133",
         "7310552",
-        "8170634"
+        "8170634",
+        "8184637"
     ],
     "Datadog": [
         "7194969",
@@ -44884,7 +44917,10 @@
         "8196977",
         "8223855",
         "8223819",
-        "8204554"
+        "8204554",
+        "8222279",
+        "8210153",
+        "8210323"
     ],
     "Elastic": [
         "7505982",
@@ -48125,7 +48161,10 @@
         "R-0107423",
         "R-0110134",
         "R-0110115",
-        "R-0110096"
+        "R-0110096",
+        "R-0110396",
+        "R-0105374",
+        "R-0105388"
     ],
     "CrowdStrike": [
         "R26911",
@@ -54056,7 +54095,25 @@
         "R2025461",
         "R-2027_JR2025784",
         "R2025329",
-        "R2026305"
+        "R2026305",
+        "R2025636",
+        "R2024426",
+        "R2026170",
+        "R2026173",
+        "R2026171",
+        "R2026164",
+        "R2026160",
+        "R2026177",
+        "R2024430",
+        "R2024428",
+        "R2025734",
+        "R2026261",
+        "R2026122",
+        "R2026000",
+        "R2026206",
+        "R2026385",
+        "R2026405-1",
+        "R2026393-1"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -54544,7 +54601,9 @@
         "R0287330",
         "R0287089",
         "R0287298",
-        "R0287354"
+        "R0287354",
+        "R0287263",
+        "R0287270"
     ],
     "Target": [
         "R0000436219",
@@ -61704,7 +61763,22 @@
         "R0000454474-1",
         "R0000454336",
         "R0000454473",
-        "R0000454415"
+        "R0000454415",
+        "R0000454422",
+        "R0000453968",
+        "R0000454459",
+        "R0000454469",
+        "R0000454476-1",
+        "R0000454477",
+        "R0000454214",
+        "R0000454404-1",
+        "R0000454194",
+        "R0000454418",
+        "R0000454197",
+        "R0000454203",
+        "R0000429291-1",
+        "R0000454204",
+        "R0000454475"
     ],
     "Zoom": [
         "R18188-1",
@@ -62153,7 +62227,8 @@
         "R19643",
         "R19665-2",
         "R19669",
-        "R19672-1"
+        "R19672-1",
+        "R19673-2"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -63186,7 +63261,8 @@
         "R-109700-1",
         "R-109108-1",
         "R-109451",
-        "R-109580"
+        "R-109580",
+        "R-109842-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -64685,7 +64761,8 @@
         "2cfd7ba3-07ba-4dd9-9446-522eae0fe32d",
         "4c24a55a-ea3b-4cea-a5b5-7862938616bf",
         "7cd46077-05fe-4cd7-816f-5528638342f1",
-        "3c43dea1-3cd7-45ab-96f1-4054cfa875ff"
+        "3c43dea1-3cd7-45ab-96f1-4054cfa875ff",
+        "871d2fc8-def8-4837-a9b0-7cc4fe126c2b"
     ],
     "Deel": [],
     "Polygon": [],
@@ -70489,7 +70566,9 @@
         "Sr-Manager--VAS-Business-Strategy---Planning_REF088628W",
         "Senior-Manager--Visa-Direct-FI-Sales_REF088759W",
         "Sr-Manager_REF088675W",
-        "Product-Manager-Issuer-Digital-Products_REF088764W"
+        "Product-Manager-Issuer-Digital-Products_REF088764W",
+        "SW-Engineer_REF088386W-1",
+        "Senior-Systems-Engineer----Linux-Engineering--RHEL--Rocky--Ubuntu--Automation--3---6-years-_REF088537W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -73910,7 +73989,8 @@
         "Product-Manager_10159869",
         "Software-Data-Engineer_10160911",
         "Publicity-Coordinator--Disney-Entertainment-Television-_10161368",
-        "Retail-Creative-Intern--Spring-2027_10160430"
+        "Retail-Creative-Intern--Spring-2027_10160430",
+        "Senior-Analyst--Data-Solutions---Analytics--PH-_10160692-2"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -75111,7 +75191,8 @@
         "R000109014",
         "R000109028",
         "R000106364",
-        "R000108927"
+        "R000108927",
+        "R000106550"
     ],
     "Kyndryl": [
         "R-61530",
@@ -77652,7 +77733,16 @@
         "R-66580-1",
         "R-66581-1",
         "R-68575",
-        "R-68582"
+        "R-68582",
+        "R-69054",
+        "R-67770-1",
+        "R-68831",
+        "R-68854",
+        "R-68685-1",
+        "R-68836-1",
+        "R-68833-1",
+        "R-68392-1",
+        "R-68390-1"
     ],
     "Chime": [
         "8391630002",
