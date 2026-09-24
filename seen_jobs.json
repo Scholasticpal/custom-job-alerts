@@ -1951,7 +1951,9 @@
         "8230306",
         "8230952",
         "8230758",
-        "8227572"
+        "8227572",
+        "8186442",
+        "8175661"
     ],
     "Figma": [
         "5426468004",
@@ -6926,7 +6928,9 @@
         "8224032",
         "8225785",
         "8224146",
-        "8227620"
+        "8227620",
+        "8231416",
+        "8232153"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -9979,7 +9983,8 @@
         "8220011",
         "8223521",
         "8227604",
-        "8226952"
+        "8226952",
+        "8232109"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -11486,7 +11491,9 @@
         "8225546",
         "8223319",
         "8222732",
-        "8222614"
+        "8222614",
+        "8231630",
+        "8227167"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -13745,7 +13752,8 @@
         "8227663",
         "8227800",
         "6661519",
-        "8230773"
+        "8230773",
+        "7490373"
     ],
     "GitHub": [],
     "Twilio": [
@@ -20742,7 +20750,10 @@
         "R-291774-1",
         "R-291383",
         "R-291377-1",
-        "R-291359-1"
+        "R-291359-1",
+        "R-291094-1",
+        "R-291355",
+        "R-290190-1"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -27128,7 +27139,13 @@
         "R359586",
         "R355439",
         "R355250-1",
-        "R356646"
+        "R356646",
+        "R359775",
+        "R360493-1",
+        "R360492",
+        "R361479-1",
+        "R360491",
+        "R361418"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -28268,7 +28285,9 @@
         "Meeting-Manager_J-82861",
         "Sales-Manager_J-84925",
         "Senior-Meeting-Planner_J-84853",
-        "Liga-Travel-GmbH---Pflichtpraktikum_J-84775"
+        "Liga-Travel-GmbH---Pflichtpraktikum_J-84775",
+        "Account-Executive--Mid-Market--Remote-_J-85264",
+        "Account-Executive--Mid-Market--Remote-_J-85251"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -30741,7 +30760,11 @@
         "R-2027-_JR7406-1",
         "R7404-1",
         "R7372",
-        "R7373"
+        "R7373",
+        "R7297",
+        "R7370",
+        "R7369",
+        "R7371"
     ],
     "CME Group": [
         "Pricing-12-month-Intern_34319",
@@ -35331,7 +35354,10 @@
         "R0138233",
         "R0138231",
         "R0137736-1",
-        "R0137734"
+        "R0137734",
+        "R0138185-1",
+        "R0137425",
+        "R0138048"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -38951,7 +38977,10 @@
         "840963bb-7b1a-4021-91a0-40baf71b7e20",
         "e0deb489-89f3-4de4-9bd8-67107b88653b",
         "9d4d2727-27f3-4a63-857c-a96466130645",
-        "8dcf85ee-563d-40de-bc78-cf829404d212"
+        "8dcf85ee-563d-40de-bc78-cf829404d212",
+        "2348230a-295f-434d-9b16-653e01ddbd0b",
+        "04c7b3d3-8523-41a2-8f84-39a739ebf207",
+        "6fd50ace-941b-4559-992f-e53f9b76c9a0"
     ],
     "Anthropic": [
         "5101832008",
@@ -40989,7 +41018,9 @@
         "8823881002",
         "8802354002",
         "8822683002",
-        "8827890002"
+        "8827890002",
+        "8840756002",
+        "8771034002"
     ],
     "Reddit": [
         "7011741",
@@ -41799,7 +41830,9 @@
         "72e0f2c1-d599-4301-8096-491835757b9e",
         "3ba04d35-9f56-4968-bce6-df26a3dc8523",
         "ab383335-1dd5-4d6a-971f-439cebf48a9d",
-        "2b587e66-deac-421a-a824-9415ba78b5a7"
+        "2b587e66-deac-421a-a824-9415ba78b5a7",
+        "eed9cbca-72a2-49b3-b80f-0d6871de7492",
+        "9a4b059a-f42b-438e-8098-9acda96825bf"
     ],
     "Plaid": [
         "02569523-bd54-4f1f-b88e-38beef2f824d",
@@ -42013,7 +42046,9 @@
         "7072d96d-5e81-434b-8dcb-28d78e714a11",
         "7d2618d5-9777-487d-bf55-445e5eb198ec",
         "d275f074-7271-4b4a-9c03-af02db7f1c7d",
-        "e872aa15-c768-40be-8986-2f1fa2a686f3"
+        "e872aa15-c768-40be-8986-2f1fa2a686f3",
+        "4d2f0d16-863d-46c5-bc86-2780a34eff44",
+        "35ab341f-7831-4260-b42a-b300a46b61db"
     ],
     "Affirm": [
         "7666190003",
@@ -46325,7 +46360,17 @@
         "8225981",
         "8214345",
         "8166580",
-        "8156266"
+        "8156266",
+        "8232115",
+        "8232114",
+        "8232116",
+        "8227140",
+        "8232131",
+        "8232033",
+        "8232032",
+        "8176967",
+        "8232039",
+        "8232037"
     ],
     "Asana": [
         "7120496",
@@ -46743,7 +46788,9 @@
         "8161860",
         "8155344",
         "8097997",
-        "8227150"
+        "8227150",
+        "8232028",
+        "8078102"
     ],
     "Coursera": [
         "5839408004",
@@ -48682,7 +48729,12 @@
         "R-0110214",
         "R-0110222",
         "R-0110230",
-        "R-0110283"
+        "R-0110283",
+        "R-0110175",
+        "R-0110173",
+        "R-0110243",
+        "R-0110127",
+        "R-0110202"
     ],
     "CrowdStrike": [
         "R26911",
@@ -55178,7 +55230,9 @@
         "R0286864",
         "R0287420",
         "R0286128",
-        "R0287373-1"
+        "R0287373-1",
+        "R0287372",
+        "R0285833"
     ],
     "Target": [
         "R0000436219",
@@ -62460,7 +62514,12 @@
         "R0000453115",
         "R0000372051",
         "R0000452249",
-        "R0000376262"
+        "R0000376262",
+        "R0000475241",
+        "R0000454334",
+        "R0000453769",
+        "R0000475213",
+        "R0000453872"
     ],
     "Zoom": [
         "R18188-1",
@@ -63979,7 +64038,8 @@
         "R-109666-2",
         "R-109925",
         "R-109296",
-        "R-110027-1"
+        "R-110027-1",
+        "R-109723"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -67176,7 +67236,11 @@
         "8226602",
         "8189002",
         "8171920",
-        "7266397"
+        "7266397",
+        "8205153",
+        "8121968",
+        "8231949",
+        "8186910"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -68542,7 +68606,9 @@
         "8209324",
         "8222432",
         "8205194",
-        "5412514"
+        "5412514",
+        "8230592",
+        "8209020"
     ],
     "Twitch": [
         "8334413002",
@@ -71395,7 +71461,9 @@
         "Forecasting-Data-Scientist_REF088536W",
         "Sr-Finance-Manager---CEMEA-COE-Cost-of-Volume-Planning_REF088742W",
         "Finance-Manager---CEMEA-COE-Core-Revenue-Planning_REF088743W-1",
-        "Director--Platform-Engineering_REF088255W"
+        "Director--Platform-Engineering_REF088255W",
+        "Sr-Software-Engineer_REF088460W",
+        "Software-Engineer_REF088549W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -72528,7 +72596,10 @@
         "Senior-Art-Director-Designer---Small-Business_26WD98292-1",
         "Senior-Account-Based-Marketing-Manager--Autodesk-Flow--Media---Entertainment-_26WD101306-1",
         "Finance-Manager_26WD101274-2",
-        "Senior-Product-Manager---AEC-Solutions--East-Coast-_26WD99456-1"
+        "Senior-Product-Manager---AEC-Solutions--East-Coast-_26WD99456-1",
+        "Principal-Full-Stack-Engineer---San-Francisco--Hybrid-_26WD95847",
+        "Senior-Manager--Product_26WD101260-1",
+        "Director--Operations-Business-Partner---Enterprise_26WD101226-1"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -74874,7 +74945,13 @@
         "Senior-Manager--Social-Media-Campaigns---Content--National-Geographic-_10160363",
         "Associate-Video-Editor_10160995",
         "Sr-Application-Engineer_10160610",
-        "Manager--Application-Engineering_10160611"
+        "Manager--Application-Engineering_10160611",
+        "Disney-Parks-International-Franchise-and-Commercial-Strategy-Graduate-Intern--Spring-2027_10159179-1",
+        "Principal-Electrical-Engineer_10161046",
+        "Manager--Product-Management_10160855",
+        "Senior-Financial-Accounting-Analyst_10160573-1",
+        "Lead-Tech-Project-Mgr_10160912",
+        "Construction---Associate-Project-Manager_10161624-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -78664,7 +78741,9 @@
         "R-62954",
         "R-67337",
         "R-68250",
-        "R-69264"
+        "R-69264",
+        "R-68443",
+        "R-68436"
     ],
     "Chime": [
         "8391630002",
@@ -78823,7 +78902,8 @@
         "8765682002",
         "8831472002",
         "8838389002",
-        "8840795002"
+        "8840795002",
+        "8806197002"
     ],
     "FalconX": [
         "4677684005",
@@ -80571,7 +80651,8 @@
         "7561410",
         "8102892",
         "8231593",
-        "8212358"
+        "8212358",
+        "8226936"
     ],
     "Kaseya": [
         "6022140004",
@@ -81942,7 +82023,8 @@
         "8223116",
         "8230965",
         "8227612",
-        "8230421"
+        "8230421",
+        "8221509"
     ],
     "Propel": [],
     "Canva": [],
@@ -82377,7 +82459,8 @@
         "8828273002",
         "8817900002",
         "8843279002",
-        "8780095002"
+        "8780095002",
+        "8843527002"
     ],
     "Coupang": [
         "7915234",
@@ -84360,7 +84443,8 @@
         "8223800",
         "8223793",
         "8223816",
-        "8223823"
+        "8223823",
+        "8232158"
     ],
     "Spotify": [],
     "Snap": [],
@@ -84936,7 +85020,8 @@
         "6202675004",
         "6202659004",
         "6206041004",
-        "6205749004"
+        "6205749004",
+        "6206043004"
     ],
     "Booking.com": [],
     "Myntra": [],
