@@ -1954,7 +1954,9 @@
         "8227572",
         "8186442",
         "8175661",
-        "8178461"
+        "8178461",
+        "8230564",
+        "8230294"
     ],
     "Figma": [
         "5426468004",
@@ -3053,7 +3055,8 @@
         "10558932",
         "10558800",
         "10558785",
-        "10559372"
+        "10559372",
+        "10560180"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -3467,7 +3470,8 @@
         "8f2a00f8-4468-4f5b-a4ba-ef6d786f0181",
         "abfcb336-2285-40bd-a030-afa8fd665b77",
         "14b25f3b-7b90-4628-9bb4-ae41fed78031",
-        "4505aa3f-2a77-42c9-a5d1-e5e9cbe405ab"
+        "4505aa3f-2a77-42c9-a5d1-e5e9cbe405ab",
+        "bc51cb25-cc81-497c-9016-1aad4ce86711"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -9361,7 +9365,10 @@
         "8829996002",
         "8612868002",
         "8842963002",
-        "8842408002"
+        "8842408002",
+        "8844022002",
+        "8813191002",
+        "8783602002"
     ],
     "Rubrik": [
         "7310036",
@@ -11495,7 +11502,9 @@
         "8222732",
         "8222614",
         "8231630",
-        "8227167"
+        "8227167",
+        "8210019",
+        "8224943"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -12777,7 +12786,13 @@
         "8229408",
         "8225935",
         "8230392",
-        "8230464"
+        "8230464",
+        "8207147",
+        "8230094",
+        "8222548",
+        "8232454",
+        "8232419",
+        "8232498"
     ],
     "DoorDash": [
         "7927511",
@@ -15192,7 +15207,9 @@
         "22bd899a-f442-419f-9d3f-5046b715c40d",
         "cb7d016b-5071-409e-b8d8-a10e19b2946e",
         "f110ad65-8402-4e8d-83e9-0e6e59b4389c",
-        "534e9923-b091-4250-a178-b28c7c5c99be"
+        "534e9923-b091-4250-a178-b28c7c5c99be",
+        "f74fc3fd-98ea-4a85-8232-f189b65878f8",
+        "1969c4c1-fbcc-455a-850b-092d1d83eb2b"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -20755,7 +20772,11 @@
         "R-291359-1",
         "R-291094-1",
         "R-291355",
-        "R-290190-1"
+        "R-290190-1",
+        "R-291870",
+        "R-290814",
+        "R-290423",
+        "R-291955"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -27148,7 +27169,9 @@
         "R361479-1",
         "R360491",
         "R361418",
-        "R360335"
+        "R360335",
+        "R361650-1",
+        "R359311"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -30043,7 +30066,8 @@
         "R266653",
         "R266635",
         "R266639",
-        "R266604"
+        "R266604",
+        "R266610"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -33441,7 +33465,8 @@
         "R-10401103",
         "R-10403349",
         "R-10400590-1",
-        "R-10403358"
+        "R-10403358",
+        "R-10401598"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -34535,7 +34560,8 @@
         "R-14712",
         "R-15417",
         "R-14968",
-        "R-14908"
+        "R-14908",
+        "R-15659"
     ],
     "PayPal": [
         "R0135744-1",
@@ -45439,7 +45465,8 @@
         "8220277",
         "8230456",
         "4452918",
-        "8231811"
+        "8231811",
+        "8226522"
     ],
     "Elastic": [
         "7505982",
@@ -46385,7 +46412,10 @@
         "8232338",
         "8227142",
         "8232336",
-        "8232337"
+        "8232337",
+        "8232554",
+        "8232557",
+        "8232596"
     ],
     "Asana": [
         "7120496",
@@ -48750,7 +48780,9 @@
         "R-0110243",
         "R-0110127",
         "R-0110202",
-        "R-0109842"
+        "R-0109842",
+        "R-0110356",
+        "R-0109246"
     ],
     "CrowdStrike": [
         "R26911",
@@ -55249,7 +55281,9 @@
         "R0287373-1",
         "R0287372",
         "R0285833",
-        "R0287397"
+        "R0287397",
+        "R0287445",
+        "R0287472"
     ],
     "Target": [
         "R0000436219",
@@ -62537,7 +62571,24 @@
         "R0000453769",
         "R0000475213",
         "R0000453872",
-        "R0000451092-1"
+        "R0000451092-1",
+        "R0000475269",
+        "R0000475183",
+        "R0000475270",
+        "R0000475203",
+        "R0000475271",
+        "R0000475273-1",
+        "R0000475274",
+        "R0000475275",
+        "R0000475277",
+        "R0000447574",
+        "R0000454323-1",
+        "R0000454443",
+        "R0000475253",
+        "R0000475233",
+        "R0000447568",
+        "R0000447566-1",
+        "R0000475141"
     ],
     "Zoom": [
         "R18188-1",
@@ -63002,7 +63053,8 @@
         "R19686-1",
         "R19690-2",
         "R19689-1",
-        "R19688-1"
+        "R19688-1",
+        "R19693-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -64310,7 +64362,8 @@
         "Helpdesk-Analyst_113511-JOB",
         "ML-Intern_113518-JOB",
         "Sales-Development-Representative_113524-JOB",
-        "Sales-Development-Representative_113525-JOB"
+        "Sales-Development-Representative_113525-JOB",
+        "Principal-Architect_113510-JOB-1"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -69273,7 +69326,8 @@
         "R35509",
         "R35553",
         "R35515",
-        "R35504"
+        "R35504",
+        "R35300"
     ],
     "Visa": [
         "Director-Software-Engineer_REF080676W",
@@ -71482,7 +71536,10 @@
         "Finance-Manager---CEMEA-COE-Core-Revenue-Planning_REF088743W-1",
         "Director--Platform-Engineering_REF088255W",
         "Sr-Software-Engineer_REF088460W",
-        "Software-Engineer_REF088549W"
+        "Software-Engineer_REF088549W",
+        "Senior-Manager--Regional-Merchants---Cobrands_REF088677W",
+        "Sr-ML-Engineer_REF088732W",
+        "SW-Engineer_REF087956W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -72619,7 +72676,19 @@
         "Principal-Full-Stack-Engineer---San-Francisco--Hybrid-_26WD95847",
         "Senior-Manager--Product_26WD101260-1",
         "Director--Operations-Business-Partner---Enterprise_26WD101226-1",
-        "License-Compliance-Sales-Representative_26WD101184-1"
+        "License-Compliance-Sales-Representative_26WD101184-1",
+        "Senior-Field-Marketing-Manager--Flow_26WD101304-1",
+        "Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-2",
+        "Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2",
+        "Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995-2",
+        "Intern--Product-Manager--PSET-Access-PM-_26WD100994-2",
+        "Intern--Product-Manager--PSET-Access-PM-_26WD100993-2",
+        "Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100989-2",
+        "Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100988-2",
+        "Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986-2",
+        "Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-2",
+        "Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985-2",
+        "Intern--Software-Development-Engineer--PSET---Product-Data----Document-Management-_26WD100984"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -74973,7 +75042,8 @@
         "Lead-Tech-Project-Mgr_10160912",
         "Construction---Associate-Project-Manager_10161624-1",
         "Media-Planning-Manager_10160939-1",
-        "Director--AI-Enablement---Legal-Engineering_10161130"
+        "Director--AI-Enablement---Legal-Engineering_10161130",
+        "KFSN-TV--ABC30--Newsroom-Intern--Spring-2027_10158273"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -78765,7 +78835,11 @@
         "R-68250",
         "R-69264",
         "R-68443",
-        "R-68436"
+        "R-68436",
+        "R-68930-1",
+        "R-68591-1",
+        "R-68935-1",
+        "R-69149"
     ],
     "Chime": [
         "8391630002",
