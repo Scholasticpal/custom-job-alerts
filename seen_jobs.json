@@ -1974,7 +1974,8 @@
         "8209633",
         "8142952",
         "8190036",
-        "8210228"
+        "8210228",
+        "8190046"
     ],
     "Figma": [
         "5426468004",
@@ -30544,7 +30545,8 @@
         "Data--Engineer--VP---Systems-and-Data-Engineering_45616-1",
         "Legal---Compliance---AML--Associate_45657",
         "International-Finance--Valuation--Associate--Luxembourg_45666",
-        "Alert--Detection--and-Response-Engineer--Associate---Blackstone-Cybersecurity_45680-1"
+        "Alert--Detection--and-Response-Engineer--Associate---Blackstone-Cybersecurity_45680-1",
+        "Real-Estate---Innovation--Applied-AI-Engineer_45682"
     ],
     "Capital Group": [
         "R6549",
@@ -31131,7 +31133,8 @@
         "Principle-Enterprise-Architect_34812-1",
         "Site-Reliability-Engineer-I_34816-1",
         "Cyber-Defense-Analyst-III_34794-1",
-        "ECHO-Analyst_34852"
+        "ECHO-Analyst_34852",
+        "Sr-Immigration-Specialist_34841-1"
     ],
     "FactSet": [
         "R32107-1",
@@ -39189,7 +39192,8 @@
         "bb1c9e6f-892e-434b-9f02-fcf6a238bc1c",
         "4ca2e49f-83bb-4276-be17-d85a9a0c58e9",
         "2250282b-7f1a-43e6-bf55-e603cbf0fd89",
-        "f16eaf44-208f-4374-b576-f033ed6e5eed"
+        "f16eaf44-208f-4374-b576-f033ed6e5eed",
+        "0dc7f3f1-0f8c-4d71-8264-ae0f208efeb1"
     ],
     "Anthropic": [
         "5101832008",
@@ -49001,7 +49005,8 @@
         "R-0109897",
         "R-0109951-1",
         "R-0110201",
-        "R-0110488"
+        "R-0110488",
+        "R-0110489"
     ],
     "CrowdStrike": [
         "R26911",
@@ -55509,7 +55514,9 @@
         "R0286735",
         "R0287384",
         "R0287314",
-        "R0287475"
+        "R0287475",
+        "R0284479",
+        "R0285546"
     ],
     "Target": [
         "R0000436219",
@@ -85261,7 +85268,11 @@
         "8232310",
         "8232312",
         "8234282",
-        "8233716"
+        "8233716",
+        "8234578",
+        "8234662",
+        "8234667",
+        "8234595"
     ],
     "Zillow": [],
     "Epic Games": [
