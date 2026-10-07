@@ -2064,7 +2064,11 @@
         "8234705",
         "8248088",
         "8248092",
-        "8144256"
+        "8144256",
+        "8203220",
+        "8158086",
+        "8244505",
+        "8225567"
     ],
     "Figma": [
         "5426468004",
@@ -9731,7 +9735,8 @@
         "8819053002",
         "8567972002",
         "8615016002",
-        "8782816002"
+        "8782816002",
+        "8440940002"
     ],
     "Rubrik": [
         "7310036",
@@ -11963,7 +11968,8 @@
         "8246078",
         "8257533",
         "8247492",
-        "8258539"
+        "8258539",
+        "8256449"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -28308,7 +28314,11 @@
         "R354363-1",
         "R363035",
         "R362633",
-        "R361771"
+        "R361771",
+        "R362791",
+        "R363050",
+        "R362853",
+        "R362258"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -34958,7 +34968,11 @@
         "R-10403942",
         "R-10403939",
         "R-10404023",
-        "R-10404021"
+        "R-10404021",
+        "R-10403948",
+        "R-10403947",
+        "R-10403945",
+        "R-10403943-1"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -40708,7 +40722,10 @@
         "7fac113c-618d-4464-91b0-01307bf79cb6",
         "4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2",
         "a8210588-a178-4afe-91e7-1fa2d269d2e8",
-        "41db3c21-abe1-4db7-91ee-da704537b685"
+        "41db3c21-abe1-4db7-91ee-da704537b685",
+        "bc88df2f-6268-45bc-966d-032bd05c9ad6",
+        "a23a49a6-0c20-4cb3-8ffd-4881f5914474",
+        "4f0d64b8-bfa7-4c30-9972-a10d74b49075"
     ],
     "Anthropic": [
         "5101832008",
@@ -42168,7 +42185,11 @@
         "5426613008",
         "5444773008",
         "5444778008",
-        "5443902008"
+        "5443902008",
+        "5445410008",
+        "5445577008",
+        "5441896008",
+        "5445366008"
     ],
     "Coinbase": [
         "7559052",
@@ -42670,7 +42691,8 @@
         "8248766",
         "8233945",
         "8259870",
-        "8259801"
+        "8259801",
+        "8260052"
     ],
     "Discord": [
         "8289766002",
@@ -48503,7 +48525,8 @@
         "8259825",
         "8239261",
         "8258750",
-        "8259843"
+        "8259843",
+        "8260105"
     ],
     "Asana": [
         "7120496",
@@ -48942,7 +48965,9 @@
         "8257456",
         "8193555",
         "7964316",
-        "8098020"
+        "8098020",
+        "8260059",
+        "8194540"
     ],
     "Coursera": [
         "5839408004",
@@ -50987,7 +51012,8 @@
         "R-0110417",
         "R-0109512-1",
         "R-0110631",
-        "R-0110340"
+        "R-0110340",
+        "R-0110725"
     ],
     "CrowdStrike": [
         "R26911",
@@ -57197,7 +57223,15 @@
         "R-2027_JR2026708",
         "R2026276",
         "R2016694",
-        "R2026871-1"
+        "R2026871-1",
+        "R2026916",
+        "R2025794-1",
+        "R2026662",
+        "R-2027_JR2026499",
+        "R2020008",
+        "R2027434",
+        "R2027392",
+        "R2025513"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -57824,7 +57858,8 @@
         "R0287866",
         "R0287844",
         "R0287450",
-        "R0287863"
+        "R0287863",
+        "R0282069-1"
     ],
     "Target": [
         "R0000436219",
@@ -65518,7 +65553,14 @@
         "R0000476522",
         "R0000476540",
         "R0000454417",
-        "R0000476641"
+        "R0000476641",
+        "R0000476126-1",
+        "R0000476711-1",
+        "R0000476618",
+        "R0000476690",
+        "R0000476691",
+        "R0000476651",
+        "R0000476688"
     ],
     "Zoom": [
         "R18188-1",
@@ -66011,7 +66053,9 @@
         "R19737-1",
         "R19736",
         "R19739-1",
-        "R19671-2"
+        "R19671-2",
+        "R19740-2",
+        "R19741-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -67141,7 +67185,8 @@
         "R-110053",
         "R-110150",
         "R-110180",
-        "R-110339-1"
+        "R-110339-1",
+        "R-110318-1"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -71895,7 +71940,8 @@
         "8239425",
         "8258175",
         "8259517",
-        "8131793"
+        "8131793",
+        "7577227"
     ],
     "Twitch": [
         "8334413002",
@@ -74966,7 +75012,13 @@
         "Software-Engineer--Sr-Consultant-Level_REF089125W",
         "Associate-Help-Desk-Analyst_REF088974W",
         "Payment-Ecosystem-Risk---Compliance-Manager_REF089045W",
-        "Software-Development-Engineer--Product-Reliability-Engineering_REF081637W"
+        "Software-Development-Engineer--Product-Reliability-Engineering_REF081637W",
+        "Manager--Client-Consulting---Technology_REF089095W-1",
+        "Senior-Manager--Client-Consulting---Technology_REF089094W",
+        "Senior-Software-Engineer--Product-Reliability-Engineering_REF089234W-1",
+        "Senior-Manager--Client-Consulting---NGPO_REF089186W",
+        "Director--Strategy---Ops-for-CMS-Agentic-Commerce_REF088989W",
+        "VCA-Strategy---Commercial-Operations-Analyst_REF088827W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -76182,7 +76234,8 @@
         "Principal-Enterprise-Renewal-Representative---Enterprise-Accounts---Italian-Speaker_26WD101500",
         "Principal-Account-Executive--Enterprise-Accounts_26WD96825",
         "Technical-Specialist--AECO_26WD101353-2",
-        "AEC-Territory-Manager--Canada_26WD101488-1"
+        "AEC-Territory-Manager--Canada_26WD101488-1",
+        "Head-of-Forma-Solution-Marketing_26WD101325-2"
     ],
     "Disney": [
         "Software-Engineer_10127341-2",
@@ -78683,7 +78736,10 @@
         "KABC-TV--ABC7--Community-Engagement---Content-Creation-Intern--Spring-2027_10158935",
         "Lifecycle-Marketing-Lead--Disney-Entertainment-_10160963",
         "Lead-Data-Analyst--UX-Analytics_10161120",
-        "WDI-Creative-Development-Inclusive-Strategies-Intern--Glendale--Spring-2027_10162444"
+        "WDI-Creative-Development-Inclusive-Strategies-Intern--Glendale--Spring-2027_10162444",
+        "WTVD-ABC11-Community-Engagement-and-Marketing-Intern--Spring-2027_10158645",
+        "WTVD-ABC11-News-Broadcast-Technical-Operations-Intern--Spring-2027_10158646",
+        "WTVD-ABC11-News-Intern--Spring-2027_10158647-1"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -82660,7 +82716,14 @@
         "R-69604",
         "R-69596",
         "R-69595",
-        "R-69630"
+        "R-69630",
+        "R-69904-1",
+        "R-69905-1",
+        "R-69906-1",
+        "R-69907-1",
+        "R-68986",
+        "R-69616",
+        "R-69617-1"
     ],
     "Chime": [
         "8391630002",
@@ -82831,7 +82894,8 @@
         "8859182002",
         "8864214002",
         "8840193002",
-        "8869139002"
+        "8869139002",
+        "8869629002"
     ],
     "FalconX": [
         "4677684005",
@@ -86719,7 +86783,8 @@
         "8865404002",
         "8872198002",
         "8872142002",
-        "8817974002"
+        "8817974002",
+        "8872290002"
     ],
     "Coupang": [
         "7915234",
@@ -88324,7 +88389,8 @@
         "8257912",
         "8245221",
         "8245219",
-        "8258098"
+        "8258098",
+        "8207192"
     ],
     "Roku": [
         "8023364",
