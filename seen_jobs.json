@@ -6321,7 +6321,8 @@
         "6bfdc7fa-863c-4cba-8819-1846af25cecc",
         "a809ac20-1c8b-4d63-a442-181de253a577",
         "bbeb1e2f-0bd0-4007-b141-a5ce3265898e",
-        "5fbe9908-da47-4e83-a91a-b38c16a25d9e"
+        "5fbe9908-da47-4e83-a91a-b38c16a25d9e",
+        "601f0c35-ed32-4447-b39d-82cd4c6e14b8"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -7453,7 +7454,9 @@
         "8285171",
         "8282758",
         "8282839",
-        "8286207"
+        "8286207",
+        "8288294",
+        "8280719"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -10046,7 +10049,9 @@
         "8892968002",
         "8892970002",
         "8885041002",
-        "8823189002"
+        "8823189002",
+        "8823193002",
+        "8823191002"
     ],
     "Rubrik": [
         "7310036",
@@ -13765,7 +13770,8 @@
         "8280925",
         "8280949",
         "8255727",
-        "8284704"
+        "8284704",
+        "8284004"
     ],
     "DoorDash": [
         "7927511",
@@ -22428,7 +22434,9 @@
         "R-291810-1",
         "R-293606",
         "R-293808-1",
-        "R-293997"
+        "R-293997",
+        "R-293594",
+        "R-293586"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -29340,7 +29348,10 @@
         "R362290-1",
         "R363955-1",
         "R362239-1",
-        "R363530"
+        "R363530",
+        "R363100",
+        "R364359",
+        "R363089"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -30605,7 +30616,8 @@
         "Travel-Consultant-II_J-85791-1",
         "Manager---Global-Client-Group---Account-Management_J-85055",
         "Travel-Consultant-II_J-85794",
-        "Client-Management-Executive-I_J-83219-1"
+        "Client-Management-Executive-I_J-83219-1",
+        "Corporate-Travel-Counselor_J-85445"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -32490,7 +32502,8 @@
         "R266799",
         "R266748-1",
         "R266836-1",
-        "R266879"
+        "R266879",
+        "R266668"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -43734,7 +43747,8 @@
         "5453548008",
         "5453550008",
         "5454650008",
-        "5454673008"
+        "5454673008",
+        "5454882008"
     ],
     "Coinbase": [
         "7559052",
@@ -46193,7 +46207,9 @@
         "8031366003",
         "8031364003",
         "8017342003",
-        "8017340003"
+        "8017340003",
+        "8032175003",
+        "8032173003"
     ],
     "Robinhood": [
         "7799902",
@@ -59374,7 +59390,10 @@
         "R2027519",
         "R2027466",
         "R2016350",
-        "R2024352-1"
+        "R2024352-1",
+        "R2027895",
+        "R2027898",
+        "R2027891"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -68061,7 +68080,15 @@
         "R0000477601",
         "R0000477781",
         "R0000477701-1",
-        "R0000477830"
+        "R0000477830",
+        "R0000477779-1",
+        "R0000477809",
+        "R0000477810",
+        "R0000477806",
+        "R0000477522",
+        "R0000477268",
+        "R0000477775",
+        "R0000453260"
     ],
     "Zoom": [
         "R18188-1",
@@ -69761,7 +69788,8 @@
         "R-110408",
         "R-110667",
         "R-110411",
-        "R-110640"
+        "R-110640",
+        "R-110402"
     ],
     "Sprinklr": [
         "Associate-Product-Manager_112928-JOB",
@@ -77973,7 +78001,10 @@
         "Sr-Client-Consulting-Manager_REF089411W",
         "Director--Visa-Direct-Ecosystem-Development_REF088945W-1",
         "Analyst_REF089476W",
-        "Sr-SW-Engineer_REF088937W"
+        "Sr-SW-Engineer_REF088937W",
+        "Analyst--Contract-Enablement--Americas-_REF089274W",
+        "Project-Coordinator--Contracting-Operations--International-_REF089283W-1",
+        "Consulting-Director--Account-Dedicated-Team_REF089437W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -86014,7 +86045,13 @@
         "R-70166",
         "R-70167",
         "R-70168",
-        "R-69890"
+        "R-69890",
+        "R-69566",
+        "R-69559",
+        "R-69561",
+        "R-69551",
+        "R-69515",
+        "R-69618-1"
     ],
     "Chime": [
         "8391630002",
@@ -92019,7 +92056,13 @@
         "8275783",
         "8275791",
         "8263841",
-        "8283587"
+        "8283587",
+        "8248535",
+        "8288302",
+        "8284242",
+        "8284702",
+        "8276015",
+        "8273297"
     ],
     "Roku": [
         "8023364",
