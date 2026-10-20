@@ -3843,7 +3843,8 @@
         "a62fc624-c295-4156-969c-6e387e8bc786",
         "3cdcddfe-bd30-4a0d-87e6-1ba4ffbe700f",
         "47033ca7-ffd7-466a-8d53-0e033f0283ba",
-        "bf7b9c7b-df4b-43f8-a349-66b1e5610521"
+        "bf7b9c7b-df4b-43f8-a349-66b1e5610521",
+        "4aba458c-cb9d-4c64-83f2-7f213ee98fe0"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -10164,7 +10165,8 @@
         "8899929002",
         "8899923002",
         "8893716002",
-        "8824168002"
+        "8824168002",
+        "8882485002"
     ],
     "Rubrik": [
         "7310036",
@@ -22701,7 +22703,11 @@
         "R-293589",
         "R-293805",
         "R-293335",
-        "R-293167"
+        "R-293167",
+        "R-292265",
+        "R-293453",
+        "R-292668",
+        "R-273666"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -29685,7 +29691,20 @@
         "R361446",
         "R-2027-INTERN---SOFTWARE-ENGINEER--SECURITY-GOVERNMENT-_JR364911-1",
         "R364113",
-        "R363880"
+        "R363880",
+        "R364999",
+        "R364993",
+        "R364982-1",
+        "R364930",
+        "R363299",
+        "R363304-1",
+        "R362833",
+        "R364979",
+        "R364978",
+        "R361787",
+        "R364976",
+        "R364975",
+        "R363523"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -31287,7 +31306,10 @@
         "Vice-President--Senior-Incident-Response-Manager--Global-Information-Security--Sydney_26037947",
         "Trade-Finance-Services-Representative_26033470",
         "Vice-President--Threat-Management--Application-Monitoring---Response--Global-Information-Security--Sydney_26038302",
-        "Officer--Markets-Support-Analyst--APAC-Funding---Cash-Management---Global-Markets-Operations_26037055-1"
+        "Officer--Markets-Support-Analyst--APAC-Funding---Cash-Management---Global-Markets-Operations_26037055-1",
+        "Vice-President--Software-Engineer--Global-Market-Technology_26038523",
+        "Operations-Analyst---Hong-Kong-Payment-Operations-_26038486-1",
+        "Operations-Team-Lead---Global-Payment-Operations-APAC_26038491"
     ],
     "BlackRock": [
         "R263666",
@@ -33917,7 +33939,8 @@
         "Post-Trade-Services---Risk-Analyst_34870",
         "Technical-Solutions-Lead---External-Data---Analytics-Catalog_34888",
         "Director-and-Asst-Gen-Cnsl---Litigation-and-Employment_34893-1",
-        "Third-Party-Risk-Management-Belfast-Intern-2027-2028_34915"
+        "Third-Party-Risk-Management-Belfast-Intern-2027-2028_34915",
+        "Sales-Associate_34911"
     ],
     "FactSet": [
         "R32107-1",
@@ -34251,7 +34274,8 @@
         "R33077-3",
         "R33395-1",
         "R33312",
-        "R33332"
+        "R33332",
+        "R33334"
     ],
     "Fiserv": [
         "R-10392824",
@@ -36720,7 +36744,8 @@
         "R-10404859-1",
         "R-10403686",
         "R-10401701",
-        "R-10405132"
+        "R-10405132",
+        "R-10404245"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -53531,7 +53556,10 @@
         "R-0110874",
         "R-0110884",
         "R-0110440-1",
-        "R-0110858-1"
+        "R-0110858-1",
+        "R-0110856",
+        "R-0110888",
+        "R-0110775"
     ],
     "CrowdStrike": [
         "R26911",
@@ -68815,7 +68843,10 @@
         "R0000478165",
         "R0000478148",
         "R0000477670",
-        "R0000478141"
+        "R0000478141",
+        "R0000478058",
+        "R0000476633",
+        "R0000477461"
     ],
     "Zoom": [
         "R18188-1",
@@ -71664,7 +71695,8 @@
         "4743438005",
         "4743989005",
         "4744402005",
-        "4735665005"
+        "4735665005",
+        "4745295005"
     ],
     "Cohere": [
         "013d4545-8343-40f1-9de5-9fdc0f0dd5bb",
@@ -71920,7 +71952,8 @@
         "eef82766-7e31-430f-a102-bc33a5022597",
         "14aef6d9-763e-4f56-a498-206fb31dd0c6",
         "49a6485c-c449-4e07-8001-cafc97a39a13",
-        "3906eb1d-932f-485a-8f77-e8cc31859fdd"
+        "3906eb1d-932f-485a-8f77-e8cc31859fdd",
+        "b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa"
     ],
     "Hugging Face": [],
     "Ramp": [
@@ -78860,7 +78893,11 @@
         "Director--Account-Executive_REF089483W",
         "Analyst--Software-Test-Engineering_REF089077W",
         "Director--Software-Test-Engineering_REF089078W",
-        "Consultant--Learning---Development-Client-Services_REF088990W"
+        "Consultant--Learning---Development-Client-Services_REF088990W",
+        "Director-VCA-Community-Client-Impact_REF089537W",
+        "Senior-Manager-VCA-Community-Client-Impact_REF089429W",
+        "Sr-Manager-Visa-Consulting-and-Analytics--Community_REF089382W",
+        "Sr-Manager--SMB-Product---Benefits-Strategy_REF089602W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -86997,7 +87034,8 @@
         "R-69891",
         "R-70049-1",
         "R-69810",
-        "R-69652"
+        "R-69652",
+        "R-69671"
     ],
     "Chime": [
         "8391630002",
@@ -89266,7 +89304,9 @@
         "8281124",
         "8289819",
         "8109002",
-        "8301808"
+        "8301808",
+        "8210913",
+        "8248427"
     ],
     "Kaseya": [
         "6022140004",
@@ -90889,7 +90929,9 @@
         "8301875",
         "8281224",
         "8287295",
-        "8210743"
+        "8210743",
+        "8302422",
+        "8302438"
     ],
     "Propel": [],
     "Canva": [],
@@ -91388,7 +91430,8 @@
         "8900844002",
         "8889185002",
         "8888978002",
-        "8888964002"
+        "8888964002",
+        "8900209002"
     ],
     "Coupang": [
         "7915234",
@@ -93115,7 +93158,8 @@
         "8287908",
         "8300097",
         "8284157",
-        "8288607"
+        "8288607",
+        "8302553"
     ],
     "Roku": [
         "8023364",
@@ -94262,7 +94306,11 @@
         "6223282004",
         "6144315004",
         "6200689004",
-        "6200687004"
+        "6200687004",
+        "6229262004",
+        "6226621004",
+        "6226623004",
+        "6229255004"
     ],
     "Booking.com": [],
     "Myntra": [],
