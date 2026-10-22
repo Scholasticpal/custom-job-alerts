@@ -2668,7 +2668,8 @@
         "6226427004",
         "6223693004",
         "6222861004",
-        "6228774004"
+        "6228774004",
+        "6227402004"
     ],
     "Amazon": [
         "3198115",
@@ -7626,7 +7627,8 @@
         "8303963",
         "8306218",
         "8300926",
-        "8274152"
+        "8274152",
+        "8280222"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -22936,7 +22938,10 @@
         "R-291845-1",
         "R-294529",
         "R-294527",
-        "R-294526"
+        "R-294526",
+        "R-294026",
+        "R-293920",
+        "R-293921"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -30007,7 +30012,8 @@
         "R363968",
         "R363432",
         "R365139",
-        "R361065"
+        "R361065",
+        "R362718"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -34278,7 +34284,8 @@
         "Third-Party-Risk-Management-Belfast-Intern-2027-2028_34915",
         "Sales-Associate_34911",
         "Platform-Engineer-II_34895-1",
-        "Post-Trade-Client-Services---Risk-Analyst_34912"
+        "Post-Trade-Client-Services---Risk-Analyst_34912",
+        "Cyber-Defense-Analyst-II_34921"
     ],
     "FactSet": [
         "R32107-1",
@@ -38316,7 +38323,8 @@
         "R-15809",
         "R-15734",
         "R-15879",
-        "R-15878-1"
+        "R-15878-1",
+        "R-15600-1"
     ],
     "PayPal": [
         "R0135744-1",
@@ -43136,7 +43144,8 @@
         "6ef9babb-e210-496f-a004-fed919a9ed2d",
         "eb112d35-cd7e-45a4-8633-5d7ade298a39",
         "1441816f-6429-426e-8f6d-8e5930a818f9",
-        "5ef10e09-2b3f-41de-b77c-829787302101"
+        "5ef10e09-2b3f-41de-b77c-829787302101",
+        "98cdff28-940d-48e8-b1d7-a0df38dd16d8"
     ],
     "Anthropic": [
         "5101832008",
@@ -44710,7 +44719,10 @@
         "5459290008",
         "5459098008",
         "5459422008",
-        "5460216008"
+        "5460216008",
+        "5457708008",
+        "5415822008",
+        "5457716008"
     ],
     "Coinbase": [
         "7559052",
@@ -45246,7 +45258,8 @@
         "8304038",
         "7254275",
         "8304034",
-        "8289787"
+        "8289787",
+        "8311335"
     ],
     "Discord": [
         "8289766002",
@@ -46043,7 +46056,8 @@
         "8304463",
         "8289345",
         "8204924",
-        "8311209"
+        "8311209",
+        "8110339"
     ],
     "Notion": [
         "03143d98-a561-44c6-96a5-fc9bfaf8d18d",
@@ -46605,7 +46619,8 @@
         "133efd08-50bc-45fd-968f-e1f3a3e4e463",
         "9c326166-b051-4a11-ba29-61788b8d72e1",
         "94ecbba3-660c-4604-a4f5-071f5c2c74d8",
-        "c4730304-356f-46c8-8da6-ae4a57be6fd6"
+        "c4730304-356f-46c8-8da6-ae4a57be6fd6",
+        "2cbe8c44-76a0-4f29-9c45-2c09df556318"
     ],
     "Affirm": [
         "7666190003",
@@ -51466,7 +51481,13 @@
         "8306619",
         "8306617",
         "8249255",
-        "8249252"
+        "8249252",
+        "8274400",
+        "8311493",
+        "8311491",
+        "8311494",
+        "8311496",
+        "8274383"
     ],
     "Asana": [
         "7120496",
@@ -54126,7 +54147,8 @@
         "R-0110966",
         "R-0111019",
         "R-0110896",
-        "R-0110962"
+        "R-0110962",
+        "R-0110847"
     ],
     "CrowdStrike": [
         "R26911",
@@ -60680,7 +60702,11 @@
         "R2028432-1",
         "R2011949",
         "R2027993",
-        "R2028351"
+        "R2028351",
+        "R2027089",
+        "R2026949",
+        "R-2027_JR2026962",
+        "R2028446"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -61107,7 +61133,9 @@
         "Chief-of-Staff_2028387",
         "Software-Engineer---Webex-Web-Clients_2028671",
         "Software-Engineer---App-Development_2028928",
-        "Senior-ASIC-Design-Verification-Engineer_2027583"
+        "Senior-ASIC-Design-Verification-Engineer_2027583",
+        "Senior-QA-Engineer_2028913-1",
+        "Lead-Product-Designer---AI-and-Platform-Experience_2028609"
     ],
     "Intel": [
         "R0283052",
@@ -69561,7 +69589,8 @@
         "R0000478393",
         "R0000478223",
         "R0000477290",
-        "R0000478395"
+        "R0000478395",
+        "R0000478422"
     ],
     "Zoom": [
         "R18188-1",
@@ -70085,7 +70114,8 @@
         "R19778-1",
         "R19774",
         "R19779-1",
-        "R19780-1"
+        "R19780-1",
+        "R19783-1"
     ],
     "Expedia": [
         "R-2_R-105040",
@@ -79740,7 +79770,9 @@
         "Senior-Product-Manager--Cross-Border-Growth-Solutions_REF089720W",
         "Analyst--Global-Social-Impact-Programs_REF089398W",
         "Sr-Executive-Administrator_REF089485W",
-        "Associate-Account-Executive--Sales---Growth-Enablement_REF089574W-1"
+        "Associate-Account-Executive--Sales---Growth-Enablement_REF089574W-1",
+        "Vice-President--Acceptance-Technologies-and-Intelligent-Commerce_REF089578W-1",
+        "Client-Consulting-Manager_REF087972W-1"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -84967,7 +84999,9 @@
         "R000093788",
         "R000109648",
         "R000109630",
-        "R000109626"
+        "R000109626",
+        "R000109741",
+        "R000109742"
     ],
     "Kyndryl": [
         "R-61530",
@@ -88138,7 +88172,8 @@
         "8882463002",
         "8900226002",
         "8879740002",
-        "8895837002"
+        "8895837002",
+        "8907828002"
     ],
     "FalconX": [
         "4677684005",
