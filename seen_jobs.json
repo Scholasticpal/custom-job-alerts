@@ -43511,7 +43511,11 @@
         "d02ce96c-2a8b-4871-860d-d59a19a2369f",
         "20b2d81c-943b-4be7-a304-39c29bf33923",
         "d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
-        "f93ed20a-4a1c-43b4-895f-0830cdac6737"
+        "f93ed20a-4a1c-43b4-895f-0830cdac6737",
+        "395e9fe2-4d78-42dd-b3f7-603884915a59",
+        "c9832989-edc1-4f2f-8a79-8fa29f5623e2",
+        "88667f7f-8fd2-48fd-8067-b58f6dff4652",
+        "c2921990-3fff-469a-a117-f6a8f2a3d50c"
     ],
     "Anthropic": [
         "5101832008",
@@ -54647,7 +54651,8 @@
         "R-0110941",
         "R-0110973",
         "R-0110596",
-        "R-0110276"
+        "R-0110276",
+        "R-0110865"
     ],
     "CrowdStrike": [
         "R26911",
@@ -61263,7 +61268,10 @@
         "R2027310",
         "R2028381",
         "R2013973",
-        "R2028363"
+        "R2028363",
+        "R2028499",
+        "R2028498",
+        "R2028501"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -75537,7 +75545,13 @@
         "8319750",
         "8319740",
         "8282119",
-        "8319755"
+        "8319755",
+        "8319771",
+        "8319784",
+        "8319788",
+        "8319798",
+        "8319797",
+        "8319768"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -84452,7 +84466,8 @@
         "Tax-Data-Management---Innovation-Graduate-Intern--Spring-2027_10163753",
         "Creative-Strategy---Partnership-Marketing-Intern--Glendale--Spring-2027_10162405",
         "Antipiracy-Technical-Operations-Intern--Spring-2027_10162682-1",
-        "ABC-News-Publicity-Intern--Spring-2027_10160865-2"
+        "ABC-News-Publicity-Intern--Spring-2027_10160865-2",
+        "Disney-Consumer-Products-Softlines-Licensing-Intern--Spring-2027_10163644"
     ],
     "Warner Bros. Discovery": [
         "R000102318",
@@ -91159,7 +91174,8 @@
         "8306620",
         "8319247",
         "8319085",
-        "8319274"
+        "8319274",
+        "8319285"
     ],
     "Kaseya": [
         "6022140004",
