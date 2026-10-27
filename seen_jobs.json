@@ -2705,7 +2705,8 @@
         "6232410004",
         "6231027004",
         "6232584004",
-        "6232422004"
+        "6232422004",
+        "6231832004"
     ],
     "Amazon": [
         "3198115",
@@ -3436,7 +3437,9 @@
         "10585989",
         "10585988",
         "10587759",
-        "10587803"
+        "10587803",
+        "10589519",
+        "10589588"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -3935,7 +3938,9 @@
         "77d45c74-dd90-4e50-9052-2574d572a765",
         "8ed56a3a-d134-470d-a3c8-e02244c0ecaa",
         "3a153d7d-fe2a-4e78-9fe9-5747f52f9387",
-        "0802561e-c218-409c-8b13-50a1202f277a"
+        "0802561e-c218-409c-8b13-50a1202f277a",
+        "e76a5c62-874c-466b-b0e0-36851ab2e9af",
+        "ccdd4043-b94e-4483-9aec-6e8a1f1fb228"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -4625,7 +4630,8 @@
         "4746961005",
         "4736957005",
         "4746959005",
-        "4746985005"
+        "4746985005",
+        "4747560005"
     ],
     "Rippling": [],
     "Slice": [
@@ -14236,7 +14242,10 @@
         "8311792",
         "8323920",
         "8312187",
-        "8288618"
+        "8288618",
+        "8203488",
+        "8324169",
+        "8326288"
     ],
     "DoorDash": [
         "7927511",
@@ -16167,7 +16176,8 @@
         "8261708",
         "8093320",
         "8258581",
-        "8319160"
+        "8319160",
+        "8325734"
     ],
     "Dropbox": [
         "7646405",
@@ -23250,7 +23260,12 @@
         "R-294620",
         "R-294717",
         "R-294518-1",
-        "R-292051"
+        "R-292051",
+        "R-294424",
+        "R-294573",
+        "R-294571",
+        "R-294561",
+        "R-294517"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -30410,7 +30425,15 @@
         "R363163",
         "R361982-1",
         "R365707",
-        "R365708"
+        "R365708",
+        "R365875",
+        "R365826",
+        "R363558",
+        "R365872-1",
+        "R365865",
+        "R365651",
+        "R365547",
+        "R365810"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -31711,7 +31734,11 @@
         "Manager--NA-Enterprise-Sales-Development_J-85724",
         "Technical-Project-Manager_J-85904",
         "Executive-Meeting-Manager_J-85692",
-        "D-G-Travel-Team-Leader-CHAT_J-84578-1"
+        "D-G-Travel-Team-Leader-CHAT_J-84578-1",
+        "Travel-Counselor_J-86069-1",
+        "Senior-Travel-Consultant_J-86067",
+        "Specialized-Travel-Counselor_J-85678",
+        "Senior-Travel-Counselor---Visa_J-85708"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -32050,7 +32077,9 @@
         "Analyst-Associate--Treasury-Product-Associate--Payments---Receivables----Global-Payments-Solutions--Singapore_26039186",
         "Analyst-Associate--Treasury-Product-Associate--Liquidity-Product----Global-Payments-Solutions--Singapore_26039185",
         "Assistant-Vice-President-Vice-President--Info-Security-Threat-Management-Specialist--Global-Information-Security_26039380-1",
-        "Info-Security-Controls-Specialist--Global-Information-Security--Sydney--Australia_26039378-1"
+        "Info-Security-Controls-Specialist--Global-Information-Security--Sydney--Australia_26039378-1",
+        "Associate--Regional-Economist--Asia----Korea-Economist--Global-Research--Hong-Kong_26039532",
+        "Associate-Vice-President--Contract-Manager--Global-Payments-Solutions--Hong-Kong_26039529"
     ],
     "BlackRock": [
         "R263666",
@@ -34737,7 +34766,10 @@
         "Cyber-Defense-Analyst-II_34921",
         "Site-Reliability-Engineer-I----India_34762",
         "Cyber-Defense-Engineering-II---Endpoint-Protection_34542",
-        "Data-Platform-Engineering-II_34905-1"
+        "Data-Platform-Engineering-II_34905-1",
+        "Admin-Assistant-3---India_34944",
+        "Building-Engineer_34929",
+        "R-2---WEEKEND-COVERAGE_34924"
     ],
     "FactSet": [
         "R32107-1",
@@ -35091,7 +35123,9 @@
         "R33491",
         "R33425",
         "R33468-1",
-        "R32893"
+        "R32893",
+        "R33477",
+        "R32544-1"
     ],
     "Fiserv": [
         "R-10392824",
@@ -38851,7 +38885,8 @@
         "R-15795-1",
         "R-15732",
         "R-15890",
-        "R-15775"
+        "R-15775",
+        "R-15898"
     ],
     "PayPal": [
         "R0135744-1",
@@ -39886,7 +39921,8 @@
         "R0138364-1",
         "R0138295-1",
         "R0138250-1",
-        "R0138296-1"
+        "R0138296-1",
+        "R0138200"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -43732,7 +43768,8 @@
         "2c646ef9-6f93-4124-9d51-964d2c5aa783",
         "ed9255f0-981f-49e9-8b01-9fd203141929",
         "c1241d53-0948-4f27-82fb-18192830dbf1",
-        "aaf9aa75-e782-49a0-8820-79b96f343bb0"
+        "aaf9aa75-e782-49a0-8820-79b96f343bb0",
+        "d1abed60-d3d1-4c8d-a58b-3a96139fbf4e"
     ],
     "Anthropic": [
         "5101832008",
@@ -51096,7 +51133,9 @@
         "8300636",
         "8317738",
         "8301113",
-        "8319487"
+        "8319487",
+        "8326311",
+        "8323909"
     ],
     "Elastic": [
         "7505982",
@@ -54916,7 +54955,10 @@
         "R-0110883",
         "R-0111095",
         "R-0110989",
-        "R-0111124"
+        "R-0111124",
+        "R-0110886-1",
+        "R-0110887-1",
+        "R-0111131"
     ],
     "CrowdStrike": [
         "R26911",
@@ -61577,7 +61619,11 @@
         "R-2027_JR2028512",
         "R2028696",
         "R2028848",
-        "R2028509"
+        "R2028509",
+        "R2028241",
+        "R2028857",
+        "R2028694",
+        "R2028873"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -62020,7 +62066,9 @@
         "Software-Engineer---Application-Engineer_2028918",
         "Hardware-Engineering-Technical-Leader_2027553",
         "Software-Test-Automation-Engineer---Embedded-Linux---Networking_2028364",
-        "Lead-Backend-Engineer---Studio--Hybrid-_2029193-1"
+        "Lead-Backend-Engineer---Studio--Hybrid-_2029193-1",
+        "Hardware-Engineer_2023187",
+        "Thermal-Engineering-Technical-Leader_2029655"
     ],
     "Intel": [
         "R0283052",
@@ -70623,7 +70671,23 @@
         "R0000478689",
         "R0000478149",
         "R0000477606",
-        "R0000478908"
+        "R0000478908",
+        "R0000478903",
+        "R0000453549-1",
+        "R0000478919",
+        "R0000478929",
+        "R0000478933",
+        "R0000466398",
+        "R0000478767",
+        "R0000478907-1",
+        "R0000478885",
+        "R0000475300-1",
+        "R0000478852",
+        "R0000478862",
+        "R0000478234",
+        "R0000478792",
+        "R0000475428-1",
+        "R0000478839"
     ],
     "Zoom": [
         "R18188-1",
@@ -72681,7 +72745,9 @@
         "Deal-Strategy-Manager_113605-JOB",
         "Principal-Program-Manager_113600-JOB",
         "Senior-Project-Manager_113601-JOB",
-        "Senior-Implementation-Consultant_113603-JOB"
+        "Senior-Implementation-Consultant_113603-JOB",
+        "Managed-Services-Consultant---Sr_113581-JOB",
+        "Managed-Services-Consultant---Lead_113580-JOB"
     ],
     "Morgan Stanley": [],
     "HSBC": [],
@@ -81041,7 +81107,8 @@
         "Client-Consulting-Manager_REF088737W-2",
         "Manager--Product-Management---Global-Program-Enablement_REF089479W",
         "Senior-Director--Head-of-Professional-Services-Delivery---Risk---Security-Solutions--RAS----GTMS_REF089768W",
-        "SW-Engineer_REF089459W"
+        "SW-Engineer_REF089459W",
+        "R-2027_REF089900W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -89347,7 +89414,13 @@
         "R-67700",
         "R-70850",
         "R-69270-1",
-        "R-71118-2"
+        "R-71118-2",
+        "R-69393-1",
+        "R-68860",
+        "R-70539",
+        "R-70538",
+        "R-70147-1",
+        "R-70616"
     ],
     "Chime": [
         "8391630002",
@@ -89545,7 +89618,9 @@
         "8895833002",
         "8907786002",
         "8882465002",
-        "8900582002"
+        "8900582002",
+        "8918533002",
+        "8917560002"
     ],
     "FalconX": [
         "4677684005",
@@ -91710,7 +91785,9 @@
         "8319274",
         "8319285",
         "8317380",
-        "8250518"
+        "8250518",
+        "8311018",
+        "8326116"
     ],
     "Kaseya": [
         "6022140004",
@@ -95721,7 +95798,8 @@
         "8323929",
         "8316984",
         "8273314",
-        "8239014"
+        "8239014",
+        "8287934"
     ],
     "Roku": [
         "8023364",
