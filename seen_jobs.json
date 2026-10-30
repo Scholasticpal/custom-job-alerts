@@ -2260,7 +2260,10 @@
         "8260982",
         "8330791",
         "8316059",
-        "8330813"
+        "8330813",
+        "8330815",
+        "8336023",
+        "8330801"
     ],
     "Figma": [
         "5426468004",
@@ -4711,7 +4714,8 @@
         "4744950005",
         "4746948005",
         "4748409005",
-        "4748774005"
+        "4748774005",
+        "4748776005"
     ],
     "Rippling": [],
     "Slice": [
@@ -10542,7 +10546,11 @@
         "8921583002",
         "8920805002",
         "8893728002",
-        "8886517002"
+        "8886517002",
+        "8924302002",
+        "8569578002",
+        "8924844002",
+        "8922730002"
     ],
     "Rubrik": [
         "7310036",
@@ -12968,7 +12976,8 @@
         "8329741",
         "8332361",
         "8335069",
-        "8329758"
+        "8329758",
+        "8330121"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -14436,7 +14445,10 @@
         "8330853",
         "8330855",
         "8281748",
-        "8333893"
+        "8333893",
+        "8335894",
+        "8336238",
+        "8336241"
     ],
     "DoorDash": [
         "7927511",
@@ -23561,7 +23573,12 @@
         "R-294771",
         "R-293614",
         "R-294540",
-        "R-294618"
+        "R-294618",
+        "R-292842",
+        "R-293758",
+        "R-292798-1",
+        "R-292217",
+        "R-292224"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -30816,7 +30833,11 @@
         "R366389",
         "R366001",
         "R366004",
-        "R366022"
+        "R366022",
+        "R366168",
+        "R365716-1",
+        "R360040",
+        "R364292"
     ],
     "Optiver": [],
     "Two Sigma": [],
@@ -32145,7 +32166,9 @@
         "Meeting-Coordinator_J-86123",
         "Meeting-planner-Pharma_J-83886",
         "Product-Testing---Release-Analyst--Supply-MarketPlace_J-85059-1",
-        "VP--Client-Management-Multinational---EMEA_J-85935-1"
+        "VP--Client-Management-Multinational---EMEA_J-85935-1",
+        "Sr-DevSecOps-Engineer_J-79629",
+        "Sr-Application-Security-Engineer_J-84295"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -32491,7 +32514,8 @@
         "Analyst-Associate--Treasury-Sales-Associate--Global-Payments-Solutions--Philippines_26039794",
         "Assistant-Vice-President-Vice-President--Software-Engineer--Global-Markets-Technology_26040024-1",
         "Associate-Vice-President--Product-Risk-Execution--Global-Payments-Solutions--Singapore-Hong-Kong_26040036",
-        "Director---Vice-President--Treasury-Sales-Officer---Global-Payments-Solutions--Singapore_26040035"
+        "Director---Vice-President--Treasury-Sales-Officer---Global-Payments-Solutions--Singapore_26040035",
+        "AVP-VP--Business-Support-Associate-Global-Corporate-and-Investment-Banking-Technology_26040275"
     ],
     "BlackRock": [
         "R263666",
@@ -34108,7 +34132,8 @@
         "R266919",
         "R267035",
         "R267009",
-        "R267005"
+        "R267005",
+        "R267023"
     ],
     "Blackstone": [
         "International-Finance--Associate_42563-1",
@@ -34480,7 +34505,8 @@
         "Blackstone-N1---Coordinator_46173",
         "Country-Tax-Head---VP-SVP_45865-2",
         "Real-Estate---Innovation--Data-Lead---Managing-Director_46141",
-        "Private-Wealth---Client-Coverage--Associate-VP_41760-2"
+        "Private-Wealth---Client-Coverage--Associate-VP_41760-2",
+        "SVP---Program-Manager---Finance---Operations-Technology_46057"
     ],
     "Capital Group": [
         "R6549",
@@ -35223,7 +35249,8 @@
         "Network-Ops-Engineer-III--India_34009-1",
         "Senior-Network-Operations-Engineer_34914-1",
         "Senior-Workday-developer_34930",
-        "Employee-Relations-Manager_34916"
+        "Employee-Relations-Manager_34916",
+        "Trade-Practice-Investigator_34935"
     ],
     "FactSet": [
         "R32107-1",
@@ -40455,7 +40482,9 @@
         "R0138644",
         "R0138492-1",
         "R0138494-1",
-        "R0137491-1"
+        "R0137491-1",
+        "R0138488",
+        "R0138497-1"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -45969,7 +45998,8 @@
         "5467083008",
         "5419154008",
         "5467092008",
-        "5467099008"
+        "5467099008",
+        "5462040008"
     ],
     "Coinbase": [
         "7559052",
@@ -47928,7 +47958,8 @@
         "7b3df21a-1475-4d00-abe1-acf5d5b8844c",
         "5b5ff8c1-f0c2-41b6-958a-dad63a71d784",
         "3a15bd9d-e44c-4f88-bdbe-3f75d9053002",
-        "0f2f9ed3-7f45-4ce7-9b1f-d2823502aed1"
+        "0f2f9ed3-7f45-4ce7-9b1f-d2823502aed1",
+        "a6324085-a7f8-4acd-9e36-a330a6249c4d"
     ],
     "Affirm": [
         "7666190003",
@@ -48592,7 +48623,8 @@
         "8038927003",
         "8038925003",
         "8045395003",
-        "8040396003"
+        "8040396003",
+        "8098803003"
     ],
     "Robinhood": [
         "7799902",
@@ -71700,7 +71732,24 @@
         "R0000475453",
         "R0000479340",
         "R0000479343",
-        "R0000478360"
+        "R0000478360",
+        "R0000479260",
+        "R0000479368-1",
+        "R0000478728",
+        "R0000479378",
+        "R0000479032",
+        "R0000479312-1",
+        "R0000479332",
+        "R0000479342",
+        "R0000479362",
+        "R0000479182",
+        "R0000479059",
+        "R0000479269",
+        "R0000479359",
+        "R0000479369",
+        "R0000479290",
+        "R0000479350",
+        "R0000478959"
     ],
     "Zoom": [
         "R18188-1",
@@ -76198,7 +76247,8 @@
         "8329332",
         "8329534",
         "8330614",
-        "8335814"
+        "8335814",
+        "8334578"
     ],
     "Samsara": [
         "5747183",
@@ -82284,7 +82334,10 @@
         "Warsaw-Workstation-Associate_REF089954W",
         "Decision-Analytics-Manager_REF089723W-1",
         "Sr-Manager--Account-Executive_REF089993W",
-        "Vice-President--North-America-Business-and-Product-Communications_REF088123W"
+        "Vice-President--North-America-Business-and-Product-Communications_REF088123W",
+        "Director--Issuing-Solutions---KSA_REF087118W",
+        "Software-Engineer--1-2-years--experience--Python---Go--ML-Engineering-_REF088406W",
+        "Director--Account-Executive_REF089745W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -90683,7 +90736,15 @@
         "R-70633-1",
         "R-71241",
         "R-70604-1",
-        "R-68904"
+        "R-68904",
+        "R-66775-3",
+        "R-70895-1",
+        "R-70901-1",
+        "R-71318",
+        "R-71317",
+        "R-70808",
+        "R-70718",
+        "R-71316"
     ],
     "Chime": [
         "8391630002",
@@ -93095,7 +93156,10 @@
         "8323977",
         "8335184",
         "8332521",
-        "8314936"
+        "8314936",
+        "8317731",
+        "7529446",
+        "8333434"
     ],
     "Kaseya": [
         "6022140004",
@@ -97202,7 +97266,11 @@
         "8323808",
         "8333651",
         "8081184",
-        "8305266"
+        "8305266",
+        "8333362",
+        "8332918",
+        "8158557",
+        "8175959"
     ],
     "Roku": [
         "8023364",
