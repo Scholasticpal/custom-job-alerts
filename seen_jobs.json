@@ -6975,7 +6975,9 @@
         "83c26e37-1b54-4c2a-92b2-75551e5bd7b0",
         "48541b68-7723-4f7b-aaaf-f3ef4b5c085e",
         "6f47762c-c7ba-4073-a7ab-6c36280d1c36",
-        "1b0de79c-1e07-4719-8afc-e0a3d117753e"
+        "1b0de79c-1e07-4719-8afc-e0a3d117753e",
+        "552abb0b-e76d-4902-aedb-ca2290536744",
+        "6641f782-c6cd-483d-8a8a-b852b6445389"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -65663,7 +65665,8 @@
         "R2028979",
         "R2028980-1",
         "R2029049",
-        "R2026129-1"
+        "R2026129-1",
+        "R2027818"
     ],
     "Cisco": [
         "ASIC-DFT-Technical-Lead_2012466",
@@ -81102,7 +81105,9 @@
         "8387002",
         "8374911",
         "8223641",
-        "8387609"
+        "8387609",
+        "8214590",
+        "8375354"
     ],
     "Palantir": [
         "a543d82a-a089-4b1c-afd1-4f30d3d8ee23",
@@ -86586,7 +86591,9 @@
         "Marketing-Analyst_REF090402W",
         "Senior-Director--Global-Financial-Organizations_REF090380W",
         "Director--VCA--EMF-Practice_REF090278W",
-        "Talent-Acquisition-Partner---12-Month-FTC_REF090468W"
+        "Talent-Acquisition-Partner---12-Month-FTC_REF090468W",
+        "Senior-Manager--Visa-Consulting-and-Analytics--VCA---Risk-Practice_REF090430W",
+        "Senior-Manager--Visa-Consulting-and-Analytics--VCA---Core-Consulting_REF090470W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
