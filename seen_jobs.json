@@ -2436,7 +2436,13 @@
         "8368652",
         "8345653",
         "8345657",
-        "8351589"
+        "8351589",
+        "8241299",
+        "8354764",
+        "8336296",
+        "8328114",
+        "8199593",
+        "8393866"
     ],
     "Figma": [
         "5426468004",
@@ -4298,7 +4304,8 @@
         "2ebdbf3a-9ada-43bd-b3ba-d36ce18d4796",
         "b8095988-3ae3-4cde-9adb-82ffedabe228",
         "f7410742-8f9a-4562-83b3-d61e56fb1f02",
-        "bdabccfd-e54e-4ce3-b4b5-14dd840c2612"
+        "bdabccfd-e54e-4ce3-b4b5-14dd840c2612",
+        "5d41497e-588e-4db4-985b-b52319499e50"
     ],
     "CRED": [
         "09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -7003,7 +7010,8 @@
         "68b1395d-b533-4371-b2a7-8a93f3ade1e8",
         "364ccee8-163f-4950-8ff5-3181a9345809",
         "7da6d28a-6f4b-4d70-975b-5e358f1b3af0",
-        "f260e4d3-1b36-4f25-a595-fd4d8a9cb1e4"
+        "f260e4d3-1b36-4f25-a595-fd4d8a9cb1e4",
+        "8c290eb7-2f7a-40e3-9fae-f4e9b752dd85"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -8286,7 +8294,8 @@
         "8393726",
         "8394433",
         "8394151",
-        "8393912"
+        "8393912",
+        "8352713"
     ],
     "Tower Research Capital": [
         "6962672",
@@ -11110,7 +11119,9 @@
         "8936411002",
         "8936408002",
         "8909208002",
-        "8936413002"
+        "8936413002",
+        "8943064002",
+        "7879725002"
     ],
     "Rubrik": [
         "7310036",
@@ -11895,7 +11906,8 @@
         "8378306",
         "8351223",
         "8349850",
-        "8349847"
+        "8349847",
+        "8382805"
     ],
     "Cohesity": [],
     "Confluent": [
@@ -13702,7 +13714,9 @@
         "8384276",
         "8383781",
         "8383577",
-        "8384969"
+        "8384969",
+        "8383449",
+        "8370855"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -15290,7 +15304,9 @@
         "8392673",
         "8357856",
         "8392669",
-        "8392228"
+        "8392228",
+        "8395076",
+        "8382534"
     ],
     "DoorDash": [
         "7927511",
@@ -17360,7 +17376,11 @@
         "8319442",
         "8131089",
         "8356811",
-        "8393935"
+        "8393935",
+        "8358938",
+        "8382226",
+        "8385422",
+        "8385881"
     ],
     "Dropbox": [
         "7646405",
@@ -46560,7 +46580,8 @@
         "d6fac6f4-0b96-4c09-9349-9b7fc99a6547",
         "e0e05de8-e313-4249-bb84-2a44b2ed6d8e",
         "953a7b29-7890-47f6-aaed-a83743f8d105",
-        "66d9ba78-02a5-4b79-983e-57349914ce83"
+        "66d9ba78-02a5-4b79-983e-57349914ce83",
+        "6dc6b517-c0e3-453d-924a-ffe13e36d28b"
     ],
     "Anthropic": [
         "5101832008",
@@ -53388,7 +53409,9 @@
         "8367498",
         "8386495",
         "8383708",
-        "8383710"
+        "8383710",
+        "8381944",
+        "8358101"
     ],
     "Datadog": [
         "7194969",
@@ -55833,7 +55856,10 @@
         "8266960",
         "8249839",
         "8392706",
-        "8337827"
+        "8337827",
+        "8360665",
+        "8359528",
+        "8344335"
     ],
     "Asana": [
         "7120496",
@@ -79805,7 +79831,8 @@
         "b897ddf4-e752-404d-b3c2-e3ba1ab7088f",
         "79870261-8c94-48c6-9c13-bc25dc9eb056",
         "125b4338-5386-4b8a-9963-13d91077fcd5",
-        "fc8486fd-47f2-4c6f-a1d6-587a09d2ad58"
+        "fc8486fd-47f2-4c6f-a1d6-587a09d2ad58",
+        "078ada7c-a498-4002-b5d7-3998570f904e"
     ],
     "Netskope": [
         "7885748",
@@ -82979,7 +83006,8 @@
         "8384879",
         "8336944",
         "8209050",
-        "8369211"
+        "8369211",
+        "8115849"
     ],
     "Twitch": [
         "8334413002",
@@ -86805,7 +86833,24 @@
         "Senior-Director-Practice-Lead---Fraud--Risk--Cyber---Disputes-_REF090414W",
         "Senior-Product-Manager---Global-Authentication-Product-Solutioning_REF090217W",
         "Senior-Solutions-Manager_REF090441W",
-        "Senior-Technical-Program-Manager_REF090344W"
+        "Senior-Technical-Program-Manager_REF090344W",
+        "Senior-Implementation-Consultant_REF090213W-1",
+        "Consulting---Analytics-Summer-Intern_REF089625W-2",
+        "Software-Engineer-Intern_REF089675W-2",
+        "Senior-Manager--SMB-Global-Partnerships_REF090154W",
+        "Analyst--Sponsorship-Activation_REF090099W-1",
+        "Product-Analyst_REF090254W-1",
+        "Growth-Marketing-Manager_REF090241W",
+        "Sr-Consultant--Product-Management_REF090323W",
+        "Senior-Director--Client-Success_REF090345W",
+        "Product-Manager--Consumer-Credit-Partner-Management---Commercialization_REF089936W",
+        "Client-Marketing-Manager--Issuers_REF090394W",
+        "Product-Manager--Consumer-Credit-Commercialization_REF090235W",
+        "Staff-Data-Engineer_REF090437W",
+        "Sr-Data-Engineer_REF090486W",
+        "Director--Data-Engineering_REF090434W",
+        "Consultant--People-Products---Systems_REF090337W",
+        "US-Consumer-Credit--Product-Analyst_REF090232W"
     ],
     "Autodesk": [
         "XMLNAME-26WD98388-Client-Services-Specialist---Italian-and-French-Speaker_26WD98386-1",
@@ -95917,7 +95962,8 @@
         "4725948006",
         "4725951006",
         "4699618006",
-        "4725947006"
+        "4725947006",
+        "4721467006"
     ],
     "Addepar": [
         "8594217002",
@@ -98052,7 +98098,8 @@
         "8382952",
         "8336985",
         "8238010",
-        "8384032"
+        "8384032",
+        "8176587"
     ],
     "Kaseya": [
         "6022140004",
@@ -102553,7 +102600,12 @@
         "8348658",
         "8348656",
         "8391900",
-        "8360398"
+        "8360398",
+        "8394795",
+        "8392347",
+        "8332949",
+        "8384725",
+        "8394808"
     ],
     "Roku": [
         "8023364",
