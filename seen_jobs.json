@@ -3857,7 +3857,10 @@
         "10613775",
         "10611128",
         "10613950",
-        "10615389"
+        "10615389",
+        "10615779",
+        "10615778",
+        "10615646"
     ],
     "Checkout.com": [
         "00626df7-b248-4da0-803c-96e6e2708c0f",
@@ -7230,7 +7233,8 @@
         "c6b86cd8-7f07-4469-992b-8968ed92739e",
         "0df36bd7-bf94-4ab3-9457-2f937604066d",
         "2dacc825-d862-41d0-bba5-0c2136727b5f",
-        "7deb675f-0250-41df-9bea-033c22c6c54a"
+        "7deb675f-0250-41df-9bea-033c22c6c54a",
+        "8eb4449c-09d9-405e-8a25-fa5a4c497c62"
     ],
     "Perfios": [],
     "PolicyBazaar": [],
@@ -11429,7 +11433,8 @@
         "8963204002",
         "8937350002",
         "8960976002",
-        "7606848002"
+        "7606848002",
+        "8963506002"
     ],
     "Rubrik": [
         "7310036",
@@ -14178,7 +14183,11 @@
         "8336447",
         "8411146",
         "8376042",
-        "8413294"
+        "8413294",
+        "8417031",
+        "8414208",
+        "8414193",
+        "8405066"
     ],
     "MindTickle": [
         "885113ea-1bf0-4283-91d0-950c36f71394",
@@ -15817,7 +15826,8 @@
         "8405250",
         "8413153",
         "8419096",
-        "8419880"
+        "8419880",
+        "8418817"
     ],
     "DoorDash": [
         "7927511",
@@ -17941,7 +17951,9 @@
         "8350195",
         "8405811",
         "8258573",
-        "8393933"
+        "8393933",
+        "8406761",
+        "8405815"
     ],
     "Dropbox": [
         "7646405",
@@ -18799,7 +18811,10 @@
         "766519e2-7639-43ed-a2f6-511b7cf621c4",
         "97213f20-6160-4145-abef-281399ed4885",
         "bb950ba6-dd50-4caf-9c52-00d5168a59a5",
-        "15cbdb02-e678-462b-b3ac-d70f48144eb8"
+        "15cbdb02-e678-462b-b3ac-d70f48144eb8",
+        "1d628f96-a365-441f-967d-11e647d2f587",
+        "73db1822-f3de-4f9f-a2b3-944ea0b03702",
+        "9ae5ca62-3b5f-4bc4-9986-5c475f597223"
     ],
     "Dream11": [
         "bd9126af-3a50-4f49-967b-f33ad4220cbd",
@@ -25334,7 +25349,14 @@
         "R-295605",
         "R-296057",
         "R-295969",
-        "R-292524"
+        "R-292524",
+        "R-292055",
+        "R-292056",
+        "R-294727",
+        "R-293572",
+        "R-296089",
+        "R-293737-1",
+        "R-295265"
     ],
     "Walmart Global Tech": [
         "XMLNAME--IND--Data-Scientist-III_R-2422992",
@@ -34513,7 +34535,16 @@
         "Practicante-Tcnico---Tecnlogo-Backoffice-Services_J-86545",
         "Practicante-Tcnico---Tecnlogo-Backoffice-Services_J-86544",
         "Travel-Experience-Counselor-III_J-86431",
-        "Growth-Support-Specialist--Strategy---Performance_J-86228"
+        "Growth-Support-Specialist--Strategy---Performance_J-86228",
+        "After-Hours-Specialized-Travel-Counselor_J-86774",
+        "Growth-Support-Specialist--Strategic-Planning_J-86231",
+        "Growth-Support-Specialist--Development_J-86230",
+        "Product-Manager_J-86381",
+        "Technical-Support-Specialist_J-86517",
+        "Expense-System-Coordinator_J-86492",
+        "Group-VAT-Manager_J-86076",
+        "Invoicing-Agent_J-86158",
+        "Senior-Travel-Counselor_J-86320"
     ],
     "Bank of America": [
         "Assistant-Vice-President--Regulatory-Reporting-Operations-Professional--NFRR---Global-Operations_26012092",
@@ -37022,7 +37053,10 @@
         "Human-Resources---US-Talent-Sourcing-Lead--VP_46406",
         "Credit---Hedge-Fund-Content-Marketing-Lead---Corporate-Affairs_46504",
         "Private-Wealth-Channel-Marketing--RIA-Channel-Lead---Corporate-Affairs_46502",
-        "BXTI---Senior-Vice-President---Engineering-Lead--Operations-Technology_46281"
+        "BXTI---Senior-Vice-President---Engineering-Lead--Operations-Technology_46281",
+        "Risk---Compliance-Technology---Senior-Software-Engineer_46058-1",
+        "BXTI---SVP---Identity-Platform---Team-Lead---Architect_45142-1",
+        "Legal---Compliance---Marketing---Distribution-Compliance--VP_30913-1"
     ],
     "Capital Group": [
         "R6549",
@@ -41008,7 +41042,12 @@
         "R-10407572",
         "R-10407498",
         "R-10407601-1",
-        "R-10407600"
+        "R-10407600",
+        "R-10399922",
+        "R-10407847",
+        "R-10404758",
+        "R-10399923",
+        "R-10406817"
     ],
     "Franklin Templeton": [
         "Investment-Risk-Performance---Senior-Consultant_867207",
@@ -42282,7 +42321,16 @@
         "R-15924",
         "R-16130",
         "R-16133",
-        "R-16044"
+        "R-16044",
+        "R-16237",
+        "R-16203-1",
+        "R-16103-1",
+        "R-16199",
+        "R-15835-3",
+        "R-16062",
+        "R-16142",
+        "R-16090",
+        "R-16184"
     ],
     "PayPal": [
         "R0135744-1",
@@ -43503,7 +43551,18 @@
         "R0139201",
         "R0139344",
         "R0139368",
-        "R0139369"
+        "R0139369",
+        "R0139143",
+        "R0139144",
+        "R0138610",
+        "R0138547",
+        "R0138489-1",
+        "R0139166",
+        "R0138975",
+        "R0139139-1",
+        "R0138613",
+        "R0138542",
+        "R0138962"
     ],
     "PwC": [
         "IN-Senior-Associate-SAP-FICO-Enterprise-Apps-SAP-Advisory-Kolkata_720705WD-1",
@@ -52436,7 +52495,8 @@
         "8206243003",
         "8207048003",
         "8202736003",
-        "8200669003"
+        "8200669003",
+        "8199161003"
     ],
     "Robinhood": [
         "7799902",
@@ -54749,7 +54809,14 @@
         "8418808",
         "8418729",
         "8400062",
-        "8304154"
+        "8304154",
+        "8406025",
+        "8406014",
+        "8419294",
+        "8419313",
+        "8419310",
+        "8419307",
+        "8419289"
     ],
     "Datadog": [
         "7194969",
@@ -55999,7 +56066,8 @@
         "8414502",
         "8418089",
         "8414434",
-        "8413335"
+        "8413335",
+        "8401334"
     ],
     "Elastic": [
         "7505982",
@@ -58395,7 +58463,10 @@
         "R173261",
         "R173038",
         "R171389",
-        "R173687"
+        "R173687",
+        "R-3_R173673",
+        "R173790",
+        "R173769"
     ],
     "Workday": [
         "R-0106509-1",
@@ -100128,7 +100199,9 @@
         "8407531",
         "8407533",
         "8416402",
-        "8419201"
+        "8419201",
+        "8420236",
+        "8147075"
     ],
     "Kaseya": [
         "6022140004",
@@ -104830,7 +104903,15 @@
         "8416425",
         "8410758",
         "8412994",
-        "8344979"
+        "8344979",
+        "8419009",
+        "8179127",
+        "8420251",
+        "8410580",
+        "8415968",
+        "8419787",
+        "8420257",
+        "8418436"
     ],
     "Roku": [
         "8023364",
